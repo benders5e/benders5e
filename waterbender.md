@@ -1,0 +1,341 @@
+Link: https://homebrewery.naturalcrit.com/edit/nv_PIRHWxL
+
+# Waterbender
+
+Waterbenders are extremely adaptable and versatile. Waterbending concentrates on the flow of energy, focusing less on strength and more on turning the opponent's own energy against them. A bender's victory in battle depends on their skill or ingenuity. As the element of change, waterbenders can fluidly and quickly alternate from defense to offense, from a wall of ice to a jet of water, turning their opponent's strength against them.
+
+#### Quick Build
+You can make a waterbender quickly by following these suggestions. First, pick Intelligence as your highest score, followed by Constitution. Second, choose the Sailor background.  
+
+## Class Features
+
+As a waterbender, you gain the following class features.
+
+#### Hit Points
+**Hit Dice:** 1d8 per bender level   
+**Hit Points at 1st Level:** 8 + your Constitution modifier   
+**Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per waterbender level after 1st
+
+#### Proficiencies
+**Armor:** Light armor  
+**Weapons:** Simple weapons  
+**Tools:** One type of gaming set and navigator's tools or water vehicles.
+***
+**Saving Throws:** Intelligence, Constitution  
+**Skills:** Choose two from Animal Handling, Athletics, Insight, Nature, Survival, and Stealth
+
+#### Equipment
+
+You start with the following equipment, in addition to the equipment granted by your background:
+
+- *(a)* a dungeoneer's pack or *(b)* an explorer's pack
+- 10 darts
+- A pouch of water
+
+### Waterbending
+At 1st level, you realize that you have an innate ability to control water. You can move small volumes of *liquid* water at will. You must draw this water from a source within 30 feet. 
+
+The volume of water you can control and the range within which you can control it (including as a source) increase with your waterbender level. See the "Volume" and "Range" columns of the Waterbender Table. 
+
+<div style="height: 4em;">
+</div>
+### Bending Attack
+You can use your bending as a rudimentary attack by hitting other creatures, dealing 1d6 bludgeoning damage. The damage it deals increases with your waterbender level and is shown in the "Bending" column of the Waterbender Table. The range of your attacks is the same as your bending range ("Range" column).
+
+You use the average of your primary modifiers for attacks (this is subsequently called your "waterbending modifier"):  
+
+
+**Attack Bonus** = proficiency + ½(Int + Con)   
+
+
+**Damage Bonus** = ½(Int + Con)  
+
+### Redirection
+Starting at 2nd level, once per short rest, you can use your reaction to attempt to redirect an attack when you are hit by a basic ranged water attack (not one that is the result of a bending form nor specialized bending such as an advanced waterbending ability). You also gain the ability to use water in your control to attempt to redirect basic ranged earth attacks, as long as the volume of earth used in the attack is smaller than the volume of water you use to redirect it.
+
+When you do so, the damage you take from the attack is reduced by 1d10 + your waterbending modifier + your waterbender level. If you reduce the damage to 0 and have at least one hand free, you redirect the element to make a ranged attack against a creature of your choice as part of the same reaction.
+
+### Stance
+Beginning at 2nd level, you adopt a particular stance as your specialty. Choose one of the following options:
+
+#### Water Ring
+In combat, you surround yourself with a ring of water which you can use as your source of bending. The water also helps protect you from attacks, granting you a +2 bonus to AC.   
+
+
+If you are surprised, you must spend one chi on one of your turns to create the ring and gain these benefits.
+
+#### Water Arms
+You coat your arms in water, increasing your reach by 5 feet. When you take an opportunity attack, you can attempt to grapple the target instead. Your grapple ends if anything passes through the water tendril.
+
+
+If you are surprised, you must spend one chi on one of your turns to collect water around your arms and gain these benefits.
+
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 2 | CLASSES</div>
+\page
+
+<div class='classTable wide'>
+##### The Waterbender
+  
+|Level| Proficiency Bonus | Bending | Volume (sphere diameter) | Range | Forms Known | Chi per Attack | Features |
+|:---:|:-----------------:|:-------:|:------:|:-----:|:-:|:-----:|:---------|
+| 1st | +2 | 1d6     | 5 ft.  | 30/60 | – | 1     |Waterbending, Bending Attack|
+| 2nd | +2 | 1d6     | 5 ft.  | 30/60 | – | 1     |Stance, Redirection|
+| 3rd | +2 | 1d6     | 5 ft.  | 30/60 | 1 | 2     |Waterbending Forms|
+| 4th | +2 | 1d6     | 10 ft. | 30/60 | 1 | 2     |Ability Score Improvement, Solid Water|
+| 5th | +3 | 1d8     | 10 ft. | 60/120| 1 | 2     |Waterbending specialization|
+| 6th | +3 | 1d8     | 10 ft. | 60/120| 2 | 3     |Water Movement|
+| 7th | +3 | 1d8     | 10 ft. | 60/120| 2 | 3     |Ability Score Improvement, Water in All Its States|
+| 8th | +3 | 1d8     | 15 ft. | 60/120| 2 | 3     |Specialization feature|
+| 9th | +4 | 1d8     | 15 ft. | 60/120| 3 | 4     |Improved Water Movement|
+|10th | +4 | 1d8     | 15 ft. |100/200| 3 | 4     |Water Bubble|
+|11th | +4 | 1d10    | 15 ft. |100/200| 4 | 5     |–|
+|12th | +4 | 1d10    | 15 ft. |100/200| 4 | 5     |Ability Score Improvement, Specialization feature|
+|13th | +5 | 1d10    | 15 ft. |100/200| 4 | 5     |?|
+|14th | +5 | 1d10    | 15 ft. |150/300| 5 | 6     |?|
+|15th | +5 | 1d10    | 20 ft. |150/300| 5 | 6     |Water Spout|
+|16th | +5 | 1d10    | 20 ft. |150/300| 5 | 6     |Ability Score Improvement|
+|17th | +6 | 1d12    | 20 ft. |150/300| 6 | 7     |Specialization feature|
+|18th | +6 | 1d12    | 20 ft. |200/400| 6 | 7     |–|
+|19th | +6 | 1d12    | 20 ft. |200/400| 6 | 7     |Ability Score Improvement|
+|20th | +6 | 1d12    | 20 ft. |200/400| 7 | 8     |?|
+</div>
+### Waterbending Forms
+At 3rd level, your connection to chi and practice of bending allows you to weave your bending into your combat style. With training, you are able to learn particular attacks that combine martial arts and bending to carry out more sophisticated attacks.   
+
+
+You learn one form from the list at the end of this class description. The number of forms you know increases with level and is shown in the Waterbender Table.  
+
+
+Every time you take the Attack action on your turn, you have a certain amount of *chi* at your disposal (indicated by the "Chi per Attack" column of the class table). You can distribute your chi among basic bending attacks or regular bending (*cost: 1 chi*) and any forms you know (whose costs are indicated with their descriptions).
+
+<div style="height:4em;">
+</div>
+### Ability Score Improvement
+When you reach 4th level, and again at 7th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+
+### Solid Water
+At 4th level, you can manipulate water more nimbly by changing its state. Your water source no longer needs to be liquid: you can bend snow and ice as well.  
+
+At this point, you are also able to control liquids that are not purely water. You can bend any liquid, as long as it is mostly water.
+
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 2 | CLASSES</div>
+\page
+### Waterbending specialization
+At 5th level, you specialize in one of the following types of waterbending: advanced waterbending, healing, blood-bending, or swampbending. Your abilities are described in the specialization section at the end of this class description.
+
+### Water Movement
+At 6th level, you learn to synchronize your control of water with your movement. You gain the ability to move across liquids. 
+<!--When you do so, your speed is doubled.-->
+
+### Water in All Its States
+Beginning at 7th level, you can bend gaseous water in addition to water in its solid and liquid states. You can now bend steam<!--, and, with the assistance of an airbender, clouds-->.  
+
+Additionally, you can bend even water you cannot see, such as an underground reservoir (provided it is within range).
+
+### Improved Water Movement
+At 9th level, your control over solid water also grants you the ability to move easily over ice and snow. For you, this type of terrain is no longer difficult terrain.
+
+### Water Bubble
+At 10th level, you learn to reshape water around you when you are submerged. You create a protective bubble around yourself (maximum size one medium creature) to maintain a supply of breathable air. With this air, you can stay underwater indefinitely without having to hold your breath.
+
+### ???
+Beginning at 13th level, ... [Some improved ability or saving throws]
+
+### ???
+At 14th level, ... [some flavor-type thing]
+
+### Water Spout
+Beginning at 15th level, you are able to use your control of water to raise yourself in the air. When you are near a body of water, you can use your action to collect enough water to create a funnel that raises you up to 60 feet in the air. You gain a "flying" speed equal to your ground speed.
+<!-- "making it easier for the user to dodge attacks" -->
+<!-- Limit height based on amount of water -->
+
+### ???
+At 20th level, ... (something consistent with "element of change"?)
+
+<div style="height:9em;">
+</div>
+## Waterbending specializations
+
+### Advanced Waterbending
+
+#### Water is Everywhere
+Beginning when you choose this specialization at 5th level, you can draw water from your environment. From now on, you don't need a water source within 30 feet – instead, you can spend 1 minute concentrating to draw water from plants within 30 feet of you. If you are not in an arid environment, you can spend 2 minutes drawing water from the air. In both cases, you are able to obtain a water sphere 1 foot in diameter.  
+
+#### Pool of Chi
+At 8th level, you deepen your inner pool of chi. You gain one additional chi to spend per attack.
+
+#### Advanced Forms
+At 12th level, you learn an additional form of your choice from the following list:  
+
+##### Ice Attack
+*Cost: X chi*  
+...
+
+##### Steam Attack
+*Cost: X chi*  
+...
+
+#### Expanded Horizons
+At 17th level, you study benders of other elements to improve your own bending. You learn one additional form off one of the other classes' form lists and adapt it to water (at the discretion of your DM).
+
+### Healing
+
+#### Healing
+Beginning when you choose this specialization at 5th level, you gain the ability to heal yourself and others. Once per long rest, if you spend one minute concentrating and passing water over another person's body, you heal them by an amount of hit points equal to three times your waterbender level.
+
+#### Greater Healing
+At 8th level, your healing powers increase. When you heal a creature, you can use your ability to grant the effects of the *Revivify* spell instead of restoring hit points.
+
+<!--div style="height: 5em;">
+</div-->
+#### New Beginnings
+At 12th level, you learn to heal even the oldest and deepest wounds. When you heal another creature, instead of increasing their hit points, you can instead choose to heal one scar or imperfection, leaving the skin looking even and without a hint to its past.  
+
+
+You can also use this ability to end any reduction to one of the target's Ability Scores or one effect reducing the target's hit point maximum.
+<!-- based on Greater Restoration-->
+
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 2 | CLASSES</div>
+
+\page
+#### True Healing
+At 17th level, you are able to use the water within your own body and the wounded creature's body instead of requiring liquid water for healing. You can heal a creature instantaneously by touching it.
+<!--Spiritbending: https://avatar.fandom.com/wiki/Healing#Spiritbending -->
+
+### Bloodbending
+*Prerequisite: Find a bloodbending master.*
+
+#### Paralysis
+Beginning when you choose this specialization at 5th level, you learn to control the water inside others' bodies. During the full moon, you can attempt to stop one creature at a time in its tracks, provided it is within your range.   
+
+
+The creature makes a contested Charisma Saving Throw. On a fail, it becomes Paralyzed. At the end of each of its turns, the target can make another Charisma saving throw. On a success, it stops being Paralyzed.
+
+#### Bloodbending
+At 8th level, your power grows. During the full moon, you can attempt to control the movements of a creature instead of only Paralyzing it.  
+
+
+The creature makes a Saving Throw as before, but on a fail, it becomes Paralyzed and its subsequent movements are under your control. On its turn, you can force the creature to take its movement and one Action (no bonus actions). If you cause it to take the Attack action, it only makes one attack. You can also cause the creature to use a Reaction, but this requires you to use your own Reaction as well.  
+
+
+At the end of each of its turns, the target can make another Charisma saving throw. On a success, your control ends.  
+
+The number of creatures you can control increases with your bloodbender level (waterbender level minus 5); at each level, you can control a number of creatures equal to half your bloodbender level, rounded down (minimum of 1).
+
+#### Greater Bloodbending
+At 12th level, your bloodbending control increases. At the full moon, you can attempt to control 2 creatures in range with your bloodbending. This number continues to increase according to you waterbender level; at each level, you can control a number of creatures equal to your waterbender level minus 8, divided by 2.
+
+#### Bending Block
+At 17th level, you learn to use bloodbending to temporarily block another bender's abilities. Once per long rest, if the other bender is Restrained, you can touch them on the center of the forehead and use an action to remove their bending. They regain their bending after 1d100 hours.
+
+<!--#### Bloodbending Anytime
+At 19th level, you are able to bloodbend even on nights without a full moon, excluding those with a new moon.-->
+
+### Swampbending
+
+#### Plantbending
+Beginning when you choose this specialization at 10th level, you learn to control the water in plants. You can move one stem of a plant (one continuous tube) as you choose.
+
+<div style="height: 2em;">
+</div>
+#### Greater Plantbending
+At 13th level, you learn to control 2 plants in your range at a time with your bending. This number continues to increase according to your swampbender level (waterbender level minus 10); at each level, you can control a number of stems equal to half your swampbender level (minimum of 2).
+
+#### Plant Armor
+At 17th level, you can summon plant to create a sort of biological armor. You spend two minutes gathering enough plants to surround you. Your AC is 18.
+
+#### Spirit Vines
+At 19th level, you are able to read the spiritual energy in the connected plant matter of the world. Once per long rest, you can spend at most one minute meditating while touching a plant. During this minute, you see the events currently happening in another place anywhere else in the world of your choosing, provided it has some plant cover.
+
+<!--Lifting things/pushing things-->
+
+## Waterbending Forms
+<!--(Even mix of defense and offense)-->
+#### Ice Shield
+*Cost: 1 chi*  
+*Prerequisite: 4th level*  
+You shape water into a swirling disk by your arm and freeze it. Your AC increases by 2. If an attack that would have hit you without the shield misses because of it (hitting the shield), it deals damage to the shield instead. The Shield has 10 HP and shatters when it drops to 0.
+
+#### Ice Sword
+*Cost: 1 chi (2 chi)*  
+*Prerequisite: 4th level*  
+You form water into a blade shape and freeze it. While you maintain concentration, this blade maintains its form and can be used as a weapon. It has the stats of a longsword, but deals an additional 1d4 cold damage on a hit.<!--maybe allow two shortswords as well--> You must spend 2 chi to make an attack with this weapon.
+
+#### Water Blade
+*Cost: 2 chi*  
+The next time you successfully hit a creature with a bending attack, you channel your inner chi to rapidly shape water into a sharp point or edge for a split second when you make contact with the target. The attack deals an additional 1d4 slashing damage.   
+
+If the target is wearing armor and you roll a 15 or higher to hit, this gash weakens the armor sufficiently to cause the target's AC to decrease by 1 until they repair the damage done to their armor.
+
+#### Ice Creeper
+*Cost: 2 chi*  
+*Prerequisite: 4th level*  
+You send a ray of ice across the ground streaking towards a target of your choice within range. The target must succeed on a Dexterity Saving Throw (the DC is 10 + your Intelligence modifier) or be Restrained as their feet are frozen in place.
+
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 2 | CLASSES</div>
+
+\page
+#### Water Jet
+*Cost: 2 chi*  
+When you use this form, you send a pressurized jet of water at an attacker. You deal an amount of damage equal to twice your bending die. You also roll a Strength (Athletics) check opposed by the target's Strength (Athletics) or Dexterity (Acrobatics) check. If the target fails, it is knocked prone.
+
+#### Water Whip  
+*Cost: 2 chi*  
+You shape the water at your disposal into a lashing tendril and swipe at a target within range, dealing 1d10 bludgeoning damage. For each additional chi point you spend, you create and attack with another water whip, dealing an additional die of damage.
+
+#### Ice Daggers
+*Cost: 2 chi*  
+You create and launch 4 ice daggers at any combination of targets within your long range (the second number in the "Range" column). These attacks are made without disadvantage. Each dagger deals 1d4 percing damage.   
+
+You gain an additional dagger for each extra chi you spend.
+
+#### Breath of Ice
+*Cost: 3 chi*  
+
+#### Water Wall
+#### Wave
+#### Octopus
+*Cost: 5 chi*   
+...  
+Stays as long as you maintain concentration; each arm gets to do 1 chi of attack.
+<!--Advanced moves-->
+#### Ice Dome
+#### Ice Drill
+#### Ice Floor
+#### Ice Ladder?
+#### Ice Ramp
+#### Ice Tunneling
+#### Maelstrom*
+#### Mist-stepping*
+#### Ice Prison*
+#### Razor Rings
+#### Water Ball
+#### Water Dome
+#### Water Drill
+
+<!--#### Ice Claws
+#### Ice Column
+#### Ice Disk
+#### Ice Gauntlet
+#### Iceberg Spike
+#### Phase Change
+#### Water Manipulation
+#### Water Pressure Manipulation
+#### Ice Spear
+
+=Advanced=
+#### Water Boxing
+#### Ice Sled
+#### Partial Ice Whip
+-->
+<!--#### Water Filtering
+With earthbender-->
+
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 2 | CLASSES</div>
+
+<img src='https://nglaeser.keybase.pub/Other/water.png' style='position:absolute;bottom:70px;right:30px;width:280px;opacity:0.4'>
