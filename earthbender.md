@@ -21,14 +21,14 @@ As an earthbender, you gain the following class features.
 **Weapons:** Simple weapons, fans  
 **Tools:** One type of gaming set and one type of artisan's tools or one musical instrument.
 ***
-**Saving Throws:** Strength, Charisma  
+**Saving Throws:** Strength, Constitution  
 **Skills:** Choose two from Animal Handling, Athletics, History, Insight, Intimidation, and Nature
 
 #### Equipment
 
 You start with the following equipment, in addition to the equipment granted by your background:
 
-- *(a)* a dungeoneer's pack or *(b)* an explorer's pack
+- An explorer's pack
 - 10 darts
 - 2 fans
 
@@ -43,35 +43,36 @@ You start with the following equipment, in addition to the equipment granted by 
 ### Earthbending
 At 1st level, you realize that you have an innate ability to control earth. You can move small volumes of earth no more than one quarter of your carrying capacity – see "Lifting and Carrying". You must draw it from a source of earth within 30 feet. 
 
-The mass of earth you can control and the range within which you can control it (including as a source) increase with your earthbender level. See the "Volume" and "Range" columns of the Earthbender Table.   
+Earthbending some mass to move it a distance equal to your normal bending range takes an Action. The mass of earth you can control and the range within which you can control it (including as a source) increase with your earthbender level. See the "Volume" and "Range" columns of the Earthbender Table. A quick reference for the weight of various earthen materials is shown below.
+
+##### Quick Conversions
+| Material          | Pounds in 1 cubic ft |
+|:------------------|:---------------------|
+| Pumice            | 40 lbs
+| Dirt              | 75 lbs
+| Coal              | 85 lbs
+| Sand              | 100 lbs
+| Rock (sedimentary)| ~160 lbs
+| Granite           | 165 lbs
+| Rock (igneous)    | ~180 lbs
 
 ### Bending Attack
-You can use your bending as a rudimentary attack by hitting other creatures, dealing 1d6 bludgeoning damage. The damage it deals increases with your earthbender level and is shown in the "Bending" column of the Earthbender Table. The range of your attacks is the same as your bending range ("Range" column).   
+During combat, you can channel your chi to use your bending as a rudimentary attack by hitting other creatures. Every time you take the Attack action, you draw on your inner pool of energy, or *chi*. The class table shows how much chi you have available every time you take the Attack action ("Chi per Attack"). This amount resets every round. As your bending grows more powerful and your connection to your inner chi grows, this number increases.  
 
-You use the average of your primary modifiers for attacks (this is subsequently called your "earthbending modifier"):
-
-**Attack Bonus** = proficiency + ½(Cha + Str)   
+When you take a basic bending attack, you spend 1 point of chi and deal 1d6 bludgeoning damage. This damage increases with your earthbender level and is shown in the "Bending" column of the Earthbender Table. The range of your attacks is the same as your bending range ("Range" column).   
 
 
-**Damage Bonus** = ½(Cha + Str)  
+At 1st level, you must choose which of your modifiers to use for attacks: Charisma or Strength. This cannot be changed later.
+
+**Attack Bonus** = proficiency + [Cha **or** Str modifier]  
+
+
+**Damage Bonus** = [Cha **or** Str modifier]  
+
+The attack bonus is hereafter referred to as your earthbending modifier.
 
 ### Earthwall
-Starting at 2nd level, you can use your reaction to create a 10-foot-long wall in front of you once per short rest to defend against an incoming attack. Your AC for that attack increases by 2.
-
-### Stance
-Beginning at 2nd level, you adopt a particular stance as your specialty. Choose one of the following options:
-
-#### Praying Mantis
-This style is known for its speed and continuous attacks and was famously used by Toph Beifong. When you roll a 19 or a 20 on an attack roll, you can spend your bonus action to make an additional basic bending attack. Your speed also increases by 5.
-
-#### Hung Gar
-You favor a deep, low stance rooted in the earth beneath you. You gain advantage on saving throws against being knocked prone. If another creature uses an ability that pushes you away from them, you roll a Strength (Athletics) Saving Throw. On a failure, you are moved half the distance, and on a success, you stay where you are.
-
-#### Sticky Hands
-You are well-versed in the art of neutral *jing*, waiting and listening to predict your opponents' next moves. You gain a +2 to AC.
-
-<!--#### Pro Bending
-Light on your feet.-->
+Starting at 2nd level, you can use your reaction to create a 10-foot-long wall in front of you once per short rest to defend against an incoming attack. The wall provides cover (half to three-quarters, depending on where you stand) and stays in place unless it is earthbent away or destroyed by other means.
 
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 2 | CLASSES</div>
@@ -80,36 +81,58 @@ Light on your feet.-->
 ##### The Earthbender
   
 |Level| Proficiency Bonus | Bending | Capacity | Range | Forms Known | Chi per Attack | Features |
-|:---:|:--:|:-----:|:----:|:-----:|:--:|:---------------------------------------|
-| 1st | +2 | 1d6   | 1/4  | 30/60 | –  | 1 | Earthbending, Bending Attack
-| 2nd | +2 | 1d6   | 1/4  | 30/60 | –  | 1 | Stance, Earthwall
-| 3rd | +2 | 1d6   | 1/4  | 30/60 | 1  | 2 | Earthbending Forms
-| 4th | +2 | 1d6   | 1/2  | 30/60 | 1  | 2 | Ability Score Improvement, Burrow
-| 5th | +3 | 1d8   | 1/2  | 60/120| 1  | 2 | Earthbending specialization
-| 6th | +3 | 1d8   | 1/2  | 60/120| 2  | 3 | Rolling Earth
-| 7th | +3 | 1d8   | 1/2  | 60/120| 2  | 3 | Expansion and Compaction
-| 8th | +3 | 1d8   | 1    | 60/120| 2  | 3 | Ability Score Improvement
-| 9th | +4 | 1d8   | 1    | 60/120| 3  | 4 | Earth Reflex
-|10th | +4 | 1d8   | 1    |100/200| 3  | 4 | Earth Elevator
-|11th | +4 | 1d10  | 1    |100/200| 4  | 5 | –
-|12th | +4 | 1d10  | 1    |100/200| 4  | 5 | Ability Score Improvement, Specialization feature
-|13th | +5 | 1d10  | 1    |100/200| 4  | 5 | ?
-|14th | +5 | 1d10  | 1    |150/300| 5  | 6 | ?
-|15th | +5 | 1d10  | 2    |150/300| 5  | 6 | Improved Rolling Earth
-|16th | +5 | 1d10  | 2    |150/300| 5  | 6 | Ability Score Improvement
-|17th | +6 | 1d12  | 2    |150/300| 6  | 7 | Specialization feature
-|18th | +6 | 1d12  | 2    |200/400| 6  | 7 | –
-|19th | +6 | 1d12  | 2    |200/400| 6  | 7 | Ability Score Improvement
-|20th | +6 | 1d12  | 2    |200/400| 7  | 8 | ?
+|:---:|:--:|:-----:|:----:|:-----:|:--:|:--:|:---------------------------------------|
+| 1st | +2 | 1d6   | 1  | 30/60 | –  | 1 | Earthbending, Bending Attack
+| 2nd | +2 | 1d6   | 1  | 30/60 | –  | 1 | Stance, Earthwall
+| 3rd | +2 | 1d6   | 1  | 30/60 | 2  | 2 | Earthbending Forms
+| 4th | +2 | 1d6   | 2  | 30/60 | 2  | 2 | Ability Score Improvement, Burrow
+| 5th | +3 | 1d8   | 2  | 60/120| 3  | 2 | Earthbending specialization
+| 6th | +3 | 1d8   | 2  | 60/120| 3  | 3 | Rolling Earth
+| 7th | +3 | 1d8   | 2  | 60/120| 4  | 3 | Expansion and Compaction
+| 8th | +3 | 1d8   | 4  | 60/120| 4  | 3 | Ability Score Improvement
+| 9th | +4 | 1d8   | 4  | 60/120| 5  | 4 | Earth Reflex
+|10th | +4 | 1d8   | 4  |100/200| 5  | 4 | Earth Elevator
+|11th | +4 | 1d10  | 4  |100/200| 6  | 5 | –
+|12th | +4 | 1d10  | 4  |100/200| 6  | 5 | Ability Score Improvement, Specialization feature
+|13th | +5 | 1d10  | 4  |100/200| 7  | 5 | ?
+|14th | +5 | 1d10  | 4  |150/300| 7  | 6 | ?
+|15th | +5 | 1d10  | 8  |150/300| 8  | 6 | Improved Rolling Earth
+|16th | +5 | 1d10  | 8  |150/300| 8  | 6 | Ability Score Improvement
+|17th | +6 | 1d12  | 8  |150/300| 9  | 7 | Specialization feature
+|18th | +6 | 1d12  | 8  |200/400| 9  | 7 | –
+|19th | +6 | 1d12  | 8  |200/400| 10 | 7 | Ability Score Improvement
+|20th | +6 | 1d12  | 8  |200/400| 10 | 8 | ?
 </div>
+
+### Stance
+Beginning at 2nd level, you adopt a particular stance as your specialty. Choose one of the following options:
+
+#### Praying Mantis
+This style is known for its speed and continuous attacks and was famously used by Toph Beifong. When you roll a 19 or a 20 on an attack roll, you can spend your bonus action to make an additional basic bending attack. Your speed also increases by 5.
+
+#### Hung Gar
+You favor a deep, low stance rooted in the earth beneath you. You gain advantage on Strength saving throws and expertise in Strength (Athletics) checks.   
+
+If another creature uses an ability that pushes you away from them, you always roll a Strength (Athletics) Saving Throw. On a failure, you are moved half the distance, and on a success, you stay where you are.
+
+<div style="height: 3em;">
+</div>
+#### Sticky Hands
+You are well-versed in the art of neutral *jing*, waiting and listening to predict your opponents' next moves. You gain a +2 to AC.
+
+<!--#### Pro Bending
+Light on your feet.-->
 
 ### Earthbending Forms
 At 3rd level, your connection to chi and practice of bending allows you to weave your bending into your combat style. With training, you are able to learn particular attacks that combine martial arts and earthbending to carry out more sophisticated attacks.   
 
 You learn one form from the list at the end of this class description. The number of forms you know increases with level and is shown in the Earthbender Table.
 
-Every time you take the Attack action on your turn, you have a certain amount of *chi* at your disposal (indicated by the "Chi per Attack" column of the class table). You can distribute your chi among basic bending attacks or regular bending (*cost: 1 chi*) and any forms you know (whose costs are indicated with their descriptions).
+Every time you take the Attack action on your turn, you can distribute your chi among basic bending attacks (*cost: 1 chi*) and any forms you know (whose costs are indicated with their descriptions).
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 2 | CLASSES</div>
+\page
 ### Ability Score Improvement
 When you reach 4th level, and again at 7th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
@@ -122,9 +145,6 @@ At 5th level, you specialize in one of the following types of earthbending: adva
 ### Rolling Earth
 At 6th level, you learn to synchronize your control of earth with your movement. When traveling over earth and while you are concentrating, your speed is doubled.
 
-<div class='pageNumber auto'></div>
-<div class='footnote'>PART 2 | CLASSES</div>
-\page
 ### Expansion and Compaction
 At 7th level, your control increases. You are now able to compact or expand earth of the volume and range that you can bend. You also learn to bend earth-based materials such as mud, coal, gems, crystals, meteorites, and jennamite ("creeping crystal").  
 
@@ -154,8 +174,6 @@ At 15th level, you can move across difficult earth terrain (not ice, for example
 ### ???
 At 20th level, ...
 
-<div style="height:4em;">
-</div>
 ## Earthbending specializations
 
 ### Advanced Earthbending
@@ -187,16 +205,16 @@ Beginning when you choose this specialization at 5th level, you can bend the sma
 #### Suit of Armor
 Beginning at 8th level, if the necessary metal is available, you can spend 1 chi to achieve the same effect as the *Rock Armor* form but create a metal suit to protect yourself instead. Your AC is 18.
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 2 | CLASSES</div>
+
+\page
 #### Projectile Bending
 At 12th level, you learn to bend metal without touching it. You can bend small pieces of metal (no more than 1/4 your carrying capacity) within your range.
 
 #### ???
 At 17th level, ...
 
-<div class='pageNumber auto'></div>
-<div class='footnote'>PART 2 | CLASSES</div>
-
-\page
 ### Lavabending
 
 #### Melting Earth
@@ -225,9 +243,13 @@ You pull rocks around you to form armor. Your AC becomes 16, but you have disadv
 
 You continue to gain the benefits of the rock armor as long as you maintain concentration, for a maximum of 1 minute.
 
+<!--div style="height:9em;">
+</div-->
 #### Earth Glove
 *Cost: 1 chi*  
-You shape earth into a glove around your hand. By spending one additional chi, you can launch it at an opponent, dealing 1d6 bludgeoning damage. You can also use it to attempt to grab and pull a target. The target must succeed on a Strength (Athletics) or Dexterity (Acrobatics) check contested by your Strength (Athletics) or be moved against its will.
+You shape earth into a glove around your hand. By spending one additional chi, you can launch it at an opponent, dealing 1d6 bludgeoning damage.   
+
+You can also use it to attempt to grab and pull a target. The target must succeed on a Strength (Athletics) or Dexterity (Acrobatics) check contested by your Strength (Athletics) or be moved against its will.
 
 #### Earth Launch
 *Cost: 1 chi*  
@@ -245,7 +267,7 @@ You stomp on the ground, using your kinetic energy to levitate a mass of earth e
 
 #### Earthwave
 *Cost: 2 chi*  
-You cause the earth to buckle beneath you, forming a line 5 feet wide and as long as your bending range. Each creature in the line must make a Dexterity saving throw (the DC is 10 + your earthbending modifier). A creature takes 4d6 bludgeoning damage and is knocked prone on a failed save, or half as much damage on a successful one.
+You cause the earth to buckle beneath you, forming a line 5 feet wide and as long as your bending range. Each creature in the line must make a Dexterity saving throw (the DC is 8 + your proficiency modifier + your earthbending modifier). A creature takes 4d6 bludgeoning damage and is knocked prone on a failed save, or half as much damage on a successful one.
 
 #### Dust Cloud
 *Cost: 2 chi*  

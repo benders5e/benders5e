@@ -21,34 +21,42 @@ As a waterbender, you gain the following class features.
 **Weapons:** Simple weapons  
 **Tools:** One type of gaming set and navigator's tools or water vehicles.
 ***
-**Saving Throws:** Intelligence, Constitution  
+**Saving Throws:** Intelligence, Dexterity  
 **Skills:** Choose two from Animal Handling, Athletics, Insight, Nature, Survival, and Stealth
 
 #### Equipment
 
 You start with the following equipment, in addition to the equipment granted by your background:
 
-- *(a)* a dungeoneer's pack or *(b)* an explorer's pack
+- An explorer's pack
 - 10 darts
 - A pouch of water
 
 ### Waterbending
-At 1st level, you realize that you have an innate ability to control water. You can move small volumes of *liquid* water at will. You must draw this water from a source within 30 feet. 
+At 1st level, you realize that you have an innate ability to control water. You can move small volumes of *liquid* water and liquids that are mostly water at will. You must draw your bending material from a source within 30 feet. 
 
-The volume of water you can control and the range within which you can control it (including as a source) increase with your waterbender level. See the "Volume" and "Range" columns of the Waterbender Table. 
+You are also capable of converting water into ice or snow and back, but without fine-grained control over the shape of the ice or snow. You can also cause the effects of the *Grease* spell at will by freezing a thin sheet of water in an area of your choice. Your range for this spell equals your normal bending range.  
 
-<div style="height: 4em;">
-</div>
+When using either *Grease* or changing the state of water from liquid to solid or vice versa in combat, you spend 1 chi of your Attack action (see "Bending Attack" for a description of the role chi points play in attacks).  
+
+Additionally, waterbending a liquid to move it a distance equal to your normal bending range takes an Action. The volume of water you can control and the range within which you can control it (including as a source) increase with your waterbender level. See the "Volume" and "Range" columns of the Waterbender Table. 
+
+<!--div style="height: 4em;">
+</div-->
 ### Bending Attack
-You can use your bending as a rudimentary attack by hitting other creatures, dealing 1d6 bludgeoning damage. The damage it deals increases with your waterbender level and is shown in the "Bending" column of the Waterbender Table. The range of your attacks is the same as your bending range ("Range" column).
+During combat, you can channel your chi to use your bending as a rudimentary attack by hitting other creatures. Every time you take the Attack action, you draw on your inner pool of energy, or *chi*. The class table shows how much chi you have available for each Attack action ("Chi per Attack"). As your bending grows more powerful and your connection to your inner chi grows, this amount increases.
 
-You use the average of your primary modifiers for attacks (this is subsequently called your "waterbending modifier"):  
+When you take a basic bending attack, you spend 1 point of chi and deal 1d6 bludgeoning damage. This damage increases with your waterbender level and is shown in the "Bending" column of the Waterbender Table. The range of your attacks is the same as your bending range ("Range" column).  
+
+At 1st level, you must choose which of your modifiers to use for attacks: Intelligence or Dexterity. This cannot be changed later.  
 
 
-**Attack Bonus** = proficiency + ½(Int + Con)   
+**Attack Bonus** = proficiency + [Int **or** Dex modifier]   
 
 
-**Damage Bonus** = ½(Int + Con)  
+**Damage Bonus** = [Int **or** Dex modifier]  
+
+The attack bonus is hereafter referred to as your waterbending modifier.
 
 ### Redirection
 Starting at 2nd level, once per short rest, you can use your reaction to attempt to redirect an attack when you are hit by a basic ranged water attack (not one that is the result of a bending form nor specialized bending such as an advanced waterbending ability). You also gain the ability to use water in your control to attempt to redirect basic ranged earth attacks, as long as the volume of earth used in the attack is smaller than the volume of water you use to redirect it.
@@ -61,15 +69,6 @@ Beginning at 2nd level, you adopt a particular stance as your specialty. Choose 
 #### Water Ring
 In combat, you surround yourself with a ring of water which you can use as your source of bending. The water also helps protect you from attacks, granting you a +2 bonus to AC.   
 
-
-If you are surprised, you must spend one chi on one of your turns to create the ring and gain these benefits.
-
-#### Water Arms
-You coat your arms in water, increasing your reach by 5 feet. When you take an opportunity attack, you can attempt to grapple the target instead. Your grapple ends if anything passes through the water tendril.
-
-
-If you are surprised, you must spend one chi on one of your turns to collect water around your arms and gain these benefits.
-
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 2 | CLASSES</div>
 \page
@@ -81,25 +80,34 @@ If you are surprised, you must spend one chi on one of your turns to collect wat
 |:---:|:-----------------:|:-------:|:------:|:-----:|:-:|:-----:|:---------|
 | 1st | +2 | 1d6     | 5 ft.  | 30/60 | – | 1     |Waterbending, Bending Attack|
 | 2nd | +2 | 1d6     | 5 ft.  | 30/60 | – | 1     |Stance, Redirection|
-| 3rd | +2 | 1d6     | 5 ft.  | 30/60 | 1 | 2     |Waterbending Forms|
-| 4th | +2 | 1d6     | 10 ft. | 30/60 | 1 | 2     |Ability Score Improvement, Solid Water|
-| 5th | +3 | 1d8     | 10 ft. | 60/120| 1 | 2     |Waterbending specialization|
-| 6th | +3 | 1d8     | 10 ft. | 60/120| 2 | 3     |Water Movement|
-| 7th | +3 | 1d8     | 10 ft. | 60/120| 2 | 3     |Ability Score Improvement, Water in All Its States|
-| 8th | +3 | 1d8     | 15 ft. | 60/120| 2 | 3     |Specialization feature|
-| 9th | +4 | 1d8     | 15 ft. | 60/120| 3 | 4     |Improved Water Movement|
-|10th | +4 | 1d8     | 15 ft. |100/200| 3 | 4     |Water Bubble|
-|11th | +4 | 1d10    | 15 ft. |100/200| 4 | 5     |–|
-|12th | +4 | 1d10    | 15 ft. |100/200| 4 | 5     |Ability Score Improvement, Specialization feature|
-|13th | +5 | 1d10    | 15 ft. |100/200| 4 | 5     |?|
-|14th | +5 | 1d10    | 15 ft. |150/300| 5 | 6     |?|
-|15th | +5 | 1d10    | 20 ft. |150/300| 5 | 6     |Water Spout|
-|16th | +5 | 1d10    | 20 ft. |150/300| 5 | 6     |Ability Score Improvement|
-|17th | +6 | 1d12    | 20 ft. |150/300| 6 | 7     |Specialization feature|
-|18th | +6 | 1d12    | 20 ft. |200/400| 6 | 7     |–|
-|19th | +6 | 1d12    | 20 ft. |200/400| 6 | 7     |Ability Score Improvement|
-|20th | +6 | 1d12    | 20 ft. |200/400| 7 | 8     |?|
+| 3rd | +2 | 1d6     | 5 ft.  | 30/60 | 2 | 2     |Waterbending Forms|
+| 4th | +2 | 1d6     | 10 ft. | 30/60 | 2 | 2     |Ability Score Improvement, Solid Water|
+| 5th | +3 | 1d8     | 10 ft. | 60/120| 3 | 2     |Waterbending specialization|
+| 6th | +3 | 1d8     | 10 ft. | 60/120| 3 | 3     |Water Movement|
+| 7th | +3 | 1d8     | 10 ft. | 60/120| 4 | 3     |Ability Score Improvement, Water in All Its States|
+| 8th | +3 | 1d8     | 15 ft. | 60/120| 4 | 3     |Specialization feature|
+| 9th | +4 | 1d8     | 15 ft. | 60/120| 5 | 4     |Improved Water Movement|
+|10th | +4 | 1d8     | 15 ft. |100/200| 5 | 4     |Water Bubble|
+|11th | +4 | 1d10    | 15 ft. |100/200| 6 | 5     |–|
+|12th | +4 | 1d10    | 15 ft. |100/200| 6 | 5     |Ability Score Improvement, Specialization feature|
+|13th | +5 | 1d10    | 15 ft. |100/200| 7 | 5     |?|
+|14th | +5 | 1d10    | 15 ft. |150/300| 7 | 6     |?|
+|15th | +5 | 1d10    | 20 ft. |150/300| 8 | 6     |Water Spout|
+|16th | +5 | 1d10    | 20 ft. |150/300| 8 | 6     |Ability Score Improvement|
+|17th | +6 | 1d12    | 20 ft. |150/300| 9 | 7     |Specialization feature|
+|18th | +6 | 1d12    | 20 ft. |200/400| 9 | 7     |–|
+|19th | +6 | 1d12    | 20 ft. |200/400| 10| 7     |Ability Score Improvement|
+|20th | +6 | 1d12    | 20 ft. |200/400| 10| 8     |?|
 </div>
+
+If you are surprised, you must spend one chi on one of your turns to create the ring and gain these benefits.
+
+#### Water Arms
+You coat your arms in water, increasing your reach by 5 feet. When you take an opportunity attack, you can attempt to grapple the target instead. Your grapple ends if anything passes through the water tendril.
+
+
+If you are surprised, you must spend one chi on one of your turns to collect water around your arms and gain these benefits.
+
 ### Waterbending Forms
 At 3rd level, your connection to chi and practice of bending allows you to weave your bending into your combat style. With training, you are able to learn particular attacks that combine martial arts and bending to carry out more sophisticated attacks.   
 
@@ -109,15 +117,13 @@ You learn one form from the list at the end of this class description. The numbe
 
 Every time you take the Attack action on your turn, you have a certain amount of *chi* at your disposal (indicated by the "Chi per Attack" column of the class table). You can distribute your chi among basic bending attacks or regular bending (*cost: 1 chi*) and any forms you know (whose costs are indicated with their descriptions).
 
-<div style="height:4em;">
-</div>
+<!--div style="height:4em;">
+</div-->
 ### Ability Score Improvement
 When you reach 4th level, and again at 7th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
 ### Solid Water
-At 4th level, you can manipulate water more nimbly by changing its state. Your water source no longer needs to be liquid: you can bend snow and ice as well.  
-
-At this point, you are also able to control liquids that are not purely water. You can bend any liquid, as long as it is mostly water.
+At 4th level, you can manipulate water more nimbly, allowing you to change its state from liquid to solid and back at will. Additionally, your water source no longer needs to be liquid, so you can bend snow and ice as well. The structures you can form with this ice and snow become become increasingly complex.  
 
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 2 | CLASSES</div>
@@ -254,6 +260,17 @@ At 19th level, you are able to read the spiritual energy in the connected plant 
 
 ## Waterbending Forms
 <!--(Even mix of defense and offense)-->
+
+#### Water Blade
+*Cost: 2 chi*  
+The next time you successfully hit a creature with a bending attack, you channel your inner chi to rapidly shape water into a sharp point or edge for a split second when you make contact with the target. The attack deals an additional 1d4 slashing damage.   
+
+If the target is wearing armor and you roll a 15 or higher to hit, this gash weakens the armor sufficiently to cause the target's AC to decrease by 1 until they repair the damage done to their armor.
+
+#### Ice Creeper
+*Cost: 2 chi*   
+You send a ray of ice across the ground streaking towards a target of your choice within range. The target must succeed on a Dexterity Saving Throw (the DC is 8 + your proficiency bonus + your Intelligence modifier) or be Restrained as their feet are frozen in place.
+
 #### Ice Shield
 *Cost: 1 chi*  
 *Prerequisite: 4th level*  
@@ -263,17 +280,6 @@ You shape water into a swirling disk by your arm and freeze it. Your AC increase
 *Cost: 1 chi (2 chi)*  
 *Prerequisite: 4th level*  
 You form water into a blade shape and freeze it. While you maintain concentration, this blade maintains its form and can be used as a weapon. It has the stats of a longsword, but deals an additional 1d4 cold damage on a hit.<!--maybe allow two shortswords as well--> You must spend 2 chi to make an attack with this weapon.
-
-#### Water Blade
-*Cost: 2 chi*  
-The next time you successfully hit a creature with a bending attack, you channel your inner chi to rapidly shape water into a sharp point or edge for a split second when you make contact with the target. The attack deals an additional 1d4 slashing damage.   
-
-If the target is wearing armor and you roll a 15 or higher to hit, this gash weakens the armor sufficiently to cause the target's AC to decrease by 1 until they repair the damage done to their armor.
-
-#### Ice Creeper
-*Cost: 2 chi*  
-*Prerequisite: 4th level*  
-You send a ray of ice across the ground streaking towards a target of your choice within range. The target must succeed on a Dexterity Saving Throw (the DC is 10 + your Intelligence modifier) or be Restrained as their feet are frozen in place.
 
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 2 | CLASSES</div>

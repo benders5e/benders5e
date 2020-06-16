@@ -27,12 +27,12 @@ As you make your bender character, think about ...
 
 The element you bend and the type of training you underwent has a great impact on benders' alignments. Think about the type of environment you grew up in, and how that might manifest itself. As a rule of thumb, fire and air are more chaotic elements, while earth is lawful.
 
-<div style="height: 1em;">
+<div style="height: 4em;">
 </div>
 ### 5e Skills Modifications
 This class uses, for the most part, the same skills as regular 5th edition D&D. These are the exceptions:
 - No Arcana
-- Replace Religion with Spirituality (not propagated through classes yet)
+- Replace Religion (Int) with Spirituality (Wis) (not propagated through classes yet)
 
 ### Opportunity Attacks
 Benders can spend a maximum of 1 chi on their opportunity attacks.
@@ -69,7 +69,8 @@ Taking your fans out or putting them away takes a bonus action. Opening or closi
 
 ## Glider
 Opening or closing your glider takes a bonus action.  
-When holding the glider in the closed position, you can spend an action to use it to do an air swipe.  
+
+When holding the glider in the closed position, you can use it to channel your bending as if it were a free hand.  
 
 When the glider is open, you can use it to fly. Your flying speed is 60 ft. Your hands and feet are both occupied when gliding, so if you use them to bend or for another action you must let go of the glider. If you let go with one hand, you must succeed on a DC 15 Dexterity Saving Throw or lose control of the glider.
 
@@ -121,10 +122,13 @@ These feats can be chosen by any class in a Bender campaign.
 <div style="height: 1em;">
 </div>
 ### Fortuneteller
-Once per long rest, you can cast the spell *Augury*.
+- Increase your Intelligence score by 1, to a maximum of 20.
+- You can cast the spell *Augury* at will (you must have the necessary material components). 
 
 ### Teamaker
-Once per long rest, if you have tea leaves or herbs available, you can create an infusion laced with healing power. Any creature who drinks it gains the benefits of a Potion of Healing. Drinking more than once from the infusion does not confer any additional benefits.
+- Increase your Intelligence score by 1, to a maximum of 20.
+- You have advantage on Intelligence (Nature) checks when trying to identify whether leaves or herbs can be used to brew tea.
+- Once per long rest, if you have tea leaves or herbs available, you can create an infusion laced with healing power. Any creature who drinks it gains the benefits of a Potion of Healing. Drinking more than once from the infusion does not confer any additional benefits.
 
 ## Backgrounds
 
@@ -153,6 +157,11 @@ Once per long rest, if you have tea leaves or herbs available, you can create an
 *Source: Sword Coast Adventurer's Guide*  
 You are a scholar from one of the great universities of the Earth Kingdom (e.g. from Ba Sing Se University). See the source for more details.
 
+#### Southern Water Tribe
+
+#### Northern Water Tribe
+Can choose to use Cons instead of Dex. OR have proficiency with Cons ST instead of Dex.
+
 ### Waterbender
 
 #### Fisher
@@ -164,6 +173,8 @@ You are a scholar from one of the great universities of the Earth Kingdom (e.g. 
 #### Shipwright
 *Source: Ghosts of Saltmarsh*
 
+<div style="height: 1em;">
+</div>
 #### Swampbender
 You hail from the swamps in the Earth Kingdom. You use Wisdom instead of Intellingence as your primary waterbending modifier.
 

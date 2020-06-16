@@ -19,36 +19,39 @@ As an airbender, you gain the following class features.
 **Weapons:** Simple weapons, gliders  
 **Tools:** One type of gaming set and one musical instrument.
 ***
-**Saving Throws:** Wisdom, Dexterity  
+**Saving Throws:** Intelligence, Dexterity  
 **Skills:** Choose two from Acrobatics, History, Religion, Persuasion, Sleight of Hand, and Stealth
 
 #### Equipment
 
 You start with the following equipment, in addition to the equipment granted by your background:
 
-- *(a)* a dungeoneer's pack or *(b)* an explorer's pack
+- An explorer's pack
 - 10 darts
 - Glider
 
 ### Unarmored Defense
 Beginning at 1st level, while you are wearing no armor and not wielding a shield, your AC equals 10 + your Wisdom and Dexterity modifiers.
 
-### Airbending
-At 1st level, you realize that you have an innate ability to manipulate the air around you. You can cause the effects of the *Gust* cantrip at will. Your range increases with your level according to the "Range" column of the Airbender table. 
-
-<div style="height: 1em;">
+<div style="height: 10em;">
 </div>
+### Airbending
+At 1st level, you realize that you have an innate ability to manipulate the air around you. You can spend 1 chi of your Attack action to cause the effects of the *Gust* cantrip. (See "Air Punch" for a description of the role chi points play in attacks and the rules for bending attacks.) Your range increases with your level according to the "Range" column of the Airbender table. 
+
 ### Air Punch
-You can use your bending as a rudimentary attack by hitting other creatures, dealing 1d6 force damage. Your range is 30 ft.
-
-The damage and range of these attacks both increase with your airbender level and are shown in the "Bending" and "Range" columns of the Airbender Table.   
-
-You use the average of your primary modifiers for attacks (this is subsequently called your "airbending modifier"):
-
-**Attack Bonus** = proficiency + ½(Wis + Dex)   
+During combat, you can channel your chi to use your bending as a rudimentary attack by hitting other creatures. Every time you take the Attack action, you draw on your inner pool of energy, or *chi*. The class table shows how much chi you have available every time you take the Attack action ("Chi per Attack"). This amount resets every round. As your bending grows more powerful and your connection to your inner chi grows, this number increases.  
 
 
-**Damage Bonus** = ½(Wis + Dex)  
+When you take a basic bending attack, you spend 1 point of chi and deal 1d6 force damage. This damage increases with your firebender level and is shown in the "Bending" column of the Airbender Table. The range of your attacks is the same as your bending range ("Range" column).      
+
+As an airbender, Wisdom is your primary attack ability:
+
+**Attack Bonus** = proficiency + Wis modifier   
+
+
+**Damage Bonus** = Wis modifier
+
+The attack bonus is hereafter referred to as your airbending modifier.
 
 
 <!--no stance-->
@@ -67,14 +70,6 @@ You also learn to use your bending to steer your glider. Your flying speed is eq
 ### Airbending Forms
 At 3rd level, your connection to chi and practice of bending allows you to weave your bending into your combat style. With training, you are able to learn particular forms that combine martial arts and airbending to carry out more sophisticated attacks.   
 
-
-You learn one form from the list at the end of this class description. The number of forms you know increases with level and is shown in the Airbender Table.   
-
-Every time you take the Attack action on your turn, you have a certain amount of *chi* at your disposal (indicated by the "Chi per Attack" column of the class table). You can distribute your chi among basic bending attacks or regular bending (*cost: 1 chi*) and any forms you know (whose costs are indicated with their descriptions).
-
-### Ability Score Improvement
-When you reach 4th level, and again at 7th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
-
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 2 | CLASSES</div>
 
@@ -86,24 +81,34 @@ When you reach 4th level, and again at 7th, 12th, 16th, and 19th level, you can 
 |:---:|:--:|:--------:|:----:|:-----:|:-:|:-:|:-----------|
 | 1st | +2 | -        | 1d6  | 30/60 | – | 1 | Unarmored Defense, Airbending, Air Punch|
 | 2nd | +2 | +10 ft.  | 1d6  | 30/60 | – | 1 | Be the Leaf, Unarmored Movement |
-| 3rd | +2 | +10 ft.  | 1d6  | 30/60 | 1 | 2 | Airbending Forms |
-| 4th | +2 | +10 ft.  | 1d6  | 30/60 | 1 | 2 | Ability Score Improvement, Air Cushion|
-| 5th | +3 | +15 ft.  | 1d6  | 60/120| 1 | 2 | Airbending specialization|
-| 6th | +3 | +15 ft.  | 1d6  | 60/120| 2 | 3 | Improved Unarmored Movement |
-| 7th | +3 | +15 ft.  | 1d8  | 60/120| 2 | 3 | Ability Score Improvement, Cloudbending |
-| 8th | +3 | +15 ft.  | 1d8  | 60/120| 2 | 3 | Specialization feature|
-| 9th | +4 | +15 ft.  | 1d8  | 60/120| 3 | 4 | Evasion |
-|10th | +4 | +20 ft.  | 1d8  |100/200| 3 | 4 | ? |
-|11th | +4 | +20 ft.  | 1d8  |100/200| 4 | 5 | – |
-|12th | +4 | +20 ft.  | 1d8  |100/200| 4 | 5 | Ability Score Improvement, Specialization feature|
-|13th | +5 | +20 ft.  | 1d10 |100/200| 4 | 5 | Diamond Soul (but renamed)|
-|14th | +5 | +25 ft.  | 1d10 |150/300| 5 | 6 | Empty Body |
-|15th | +5 | +25 ft.  | 1d10 |150/300| 5 | 6 | Wind Reader |
-|16th | +5 | +25 ft.  | 1d10 |150/300| 5 | 6 | Ability Score Improvement|
-|17th | +6 | +25 ft.  | 1d10 |150/300| 6 | 7 | Specialization feature|
-|18th | +5 | +30 ft.  | 1d10 |200/400| 6 | 7 | – |
-|19th | +5 | +30 ft.  | 1d10 |200/400| 6 | 7 | Ability Score Improvement|
-|20th | +5 | +30 ft.  | 1d10 |200/400| 7 | 8 | Detachment|
+| 3rd | +2 | +10 ft.  | 1d6  | 30/60 | 2 | 2 | Airbending Forms |
+| 4th | +2 | +10 ft.  | 1d6  | 30/60 | 2 | 2 | Ability Score Improvement, Air Cushion|
+| 5th | +3 | +15 ft.  | 1d6  | 60/120| 3 | 2 | Airbending specialization|
+| 6th | +3 | +15 ft.  | 1d6  | 60/120| 3 | 3 | Improved Unarmored Movement |
+| 7th | +3 | +15 ft.  | 1d8  | 60/120| 4 | 3 | Ability Score Improvement, Cloudbending |
+| 8th | +3 | +15 ft.  | 1d8  | 60/120| 4 | 3 | Specialization feature|
+| 9th | +4 | +15 ft.  | 1d8  | 60/120| 5 | 4 | Evasion |
+|10th | +4 | +20 ft.  | 1d8  |100/200| 5 | 4 | ? |
+|11th | +4 | +20 ft.  | 1d8  |100/200| 6 | 5 | – |
+|12th | +4 | +20 ft.  | 1d8  |100/200| 6 | 5 | Ability Score Improvement, Specialization feature|
+|13th | +5 | +20 ft.  | 1d10 |100/200| 7 | 5 | Diamond Soul (but renamed)|
+|14th | +5 | +25 ft.  | 1d10 |150/300| 7 | 6 | Empty Body |
+|15th | +5 | +25 ft.  | 1d10 |150/300| 8 | 6 | Wind Reader |
+|16th | +5 | +25 ft.  | 1d10 |150/300| 8 | 6 | Ability Score Improvement|
+|17th | +6 | +25 ft.  | 1d10 |150/300| 9 | 7 | Specialization feature|
+|18th | +5 | +30 ft.  | 1d10 |200/400| 9 | 7 | – |
+|19th | +5 | +30 ft.  | 1d10 |200/400| 10| 7 | Ability Score Improvement|
+|20th | +5 | +30 ft.  | 1d10 |200/400| 10| 8 | Detachment|
+</div>
+
+You learn one form from the list at the end of this class description. The number of forms you know increases with level and is shown in the Airbender Table.   
+
+Every time you take the Attack action on your turn, you have a certain amount of *chi* at your disposal (indicated by the "Chi per Attack" column of the class table). You can distribute your chi among basic bending attacks or regular bending (*cost: 1 chi*) and any forms you know (whose costs are indicated with their descriptions).
+
+### Ability Score Improvement
+When you reach 4th level, and again at 7th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+
+<div style="height: 4em;">
 </div>
 ### Air Cushion
 Beginning at 4th level, you can use your reaction when you fall to reduce any falling damage you or another creature takes by an amount equal to five times your bender level.
@@ -114,8 +119,13 @@ At 5th level, you specialize in one of the following aspects of airbending: adva
 ### Improved Unarmored Movement
 At 6th level, you gain the ability to move along vertical surfaces and across liquids on your turn without falling during the move. Your glider speed increases to 60 feet.
 
-<div style="height: 1em;">
-</div>
+<!--div style="height: 6em;">
+</div-->
+
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 2 | CLASSES</div>
+
+\page
 ### Cloudbending
 At 7th level, you gain the ability to bend clouds. Once per long rest, you can concentrate on reshaping clouds for a period of time up to 1 hour. During this time, you spend your Action on every turn cloudbending and cannot use it to attack or take any other actions.
 
@@ -125,10 +135,6 @@ At 9th level, your instinctive agility lets you dodge out of the way of certain 
 ### ???
 Beginning at 10th level, you learn one of the following forms of your choice:
 
-<div class='pageNumber auto'></div>
-<div class='footnote'>PART 2 | CLASSES</div>
-
-\page
 #### Tranquility
 *Cost: 3 chi*  
 You enter a special meditation that surrounds you with an aura of peace, giving you the benefits of the *Sanctuary* spell that last until the start of your next turn. The saving throw DC for the spell equals 8 + your Wisdom modifier + your proficiency bonus.
@@ -149,6 +155,10 @@ At 14th level, your chi sustains you so that you suffer none of the frailty of o
 At 15th level, you are aware of every motion in the air surrounding you. Every turn, you may take the Dodge action as a bonus action.  
 
 ### Detachment
+
+<div style="height: 2em;">
+</div>
+
 ***
 > *Let go your earthly tether. Enter the void. Empty, and become wind.*   
 > **–Guru Laghima**
@@ -196,26 +206,26 @@ At 17th level, you can attempt to project your spirit into the *material* world.
 
 Your projection is able to travel anywhere in the world almost instantaneously and can pass through physical objects. This projection lasts 1d20 minutes. You can use this ability once per long rest.
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 2 | CLASSES</div>
+
+\page
 ### ?
 
 #### ???
 Beginning when you choose this specialization at 5th level, ...
 
 #### ???
-At 13th level, ...
+At 8th level, ...
+
+#### ???
+At 12th level, ...
 
 #### ???
 At 17th level, ...
 
-#### ???
-At 19th level, ...
-
-<div class='pageNumber auto'></div>
-<div class='footnote'>PART 2 | CLASSES</div>
-
-\page
 ## Airbending Forms
-(Mostly defense/utility)  
+<!--Mostly defense/utility-->
 
 #### Air swipe
 *Cost: 1 chi*   
@@ -241,20 +251,20 @@ You form a ball our of air which you can ride up walls and vertical surfaces, bu
 *Cost: 2 chi*  
 You use your airbending to augment momentum of a moving object. Until the beginning of your next turn, a moving object of your choice gets a +10 bonus to speed. If the object is a projectile, it deals a additional damage equal to your bending die.
 
+<div style="height: 3em;">
+</div>
 #### Air funnel
 *Cost: 2 chi*  
 You create a small funnel out of air of up to 1 foot in diameter. The funnel is held between your hands. Any small objects that are dropped into the funnel shoot out the other side, causing the funnel to essentially act like a sling (see the Sling entry in the Weapon Table for damage and range). 
 <!--ex: you could make a funnel, then pick up rocks with air ball and put them in your funnel-->
 
-<div style="height:2em;">
-</div>
 #### Air bomb
 *Cost: 3 chi*  
 When you hit the ground after a jump or after flying, you can spend three chi to create a powerful, outward-moving air current in all directions around you. Targets in within your bending radius take 2d6 force damage and are stunned until the beginning of their next turn. The damage increases by 1d6 with each additional chi spent.
 
 #### Gust
 *Cost: 3 chi*  
-You create violent gusts of air that reach out in a circle centered on you with radius equal to your normal bending range. Each creature in the area must make a Dexterity saving throw or be knocked prone (the DC is 10 + your airbending modifier). Non-airbenders in the area, regardless of whether they succeeded on the saving throw or not, have disadvantage of Dexterity saving throws until the start of your next turn, at which point the gust ends.
+You create violent gusts of air that reach out in a circle centered on you with radius equal to your normal bending range. Each creature in the area must make a Dexterity saving throw or be knocked prone (the DC is 8 + proficiency modifier + your airbending modifier). Non-airbenders in the area, regardless of whether they succeeded on the saving throw or not, have disadvantage of Dexterity saving throws until the start of your next turn, at which point the gust ends.
 
 <!--#### Air punch/kick
 *Cost: 2 chi*  
