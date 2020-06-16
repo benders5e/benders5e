@@ -36,7 +36,10 @@ Beginning at 1st level, while you are wearing no armor and not wielding a shield
 <div style="height: 10em;">
 </div>
 ### Airbending
-At 1st level, you realize that you have an innate ability to manipulate the air around you. You can spend 1 chi of your Attack action to cause the effects of the *Gust* cantrip. (See "Air Punch" for a description of the role chi points play in attacks and the rules for bending attacks.) Your range increases with your level according to the "Range" column of the Airbender table. 
+At 1st level, you realize that you have an innate ability to manipulate the air around you. You can spend 1 chi of your Attack action to cause the effects of the *Gust* cantrip. (See "Air Punch" for a description of the role chi points play in attacks and the rules for bending attacks.) Your range increases with your level according to the "Range" column of the Airbender table.  
+
+
+In addition, your jump distance is permanently tripled.
 
 ### Air Punch
 During combat, you can channel your chi to use your bending as a rudimentary attack by hitting other creatures. Every time you take the Attack action, you draw on your inner pool of energy, or *chi*. The class table shows how much chi you have available every time you take the Attack action ("Chi per Attack"). This amount resets every round. As your bending grows more powerful and your connection to your inner chi grows, this number increases.  
@@ -227,11 +230,19 @@ At 17th level, ...
 ## Airbending Forms
 <!--Mostly defense/utility-->
 
-#### Air swipe
+#### Swipe
 *Cost: 1 chi*   
 You prepare to defuse the next ranged bending attack that hits you (not one that is the result of a bending specialization). When you do so, the damage you take from the attack is reduced by 1d10 + your Dexterity modifier + your airbender level.
 
 If you reduce the damage to 0, you can completely defuse the attack, provided you have at least one hand free or are holding your glider.
+
+#### Dash
+*Cost: 1 chi*  
+This turn, you can take the Dash action as a bonus action.
+
+#### Shunt (rename this)
+*Cost: 1 chi*  
+This turn, you can use your Be The Leaf reaction to shunt another creature out of the way of an impending attack, giving them the benefits of that ability.
 
 #### Air ball
 *Cost: 2 chi*  
@@ -239,10 +250,12 @@ You surround a creature (medium or smaller) or object with a compressed ball of 
 
 You can also use this technique to create a smaller ball (up to 5 feet in diameter) which can be thrown or tossed around, in the same way as a regular ball, while you maintain concentration.
 
-#### Air blast
+#### Blast
 *Cost: 2 chi*  
 When you use this form, you send a pressurized blast of air at a creature within range. You deal an amount of damage equal to twice your bending die. You also roll a Strength (Athletics) check opposed by the target's Strength (Athletics) or Dexterity (Acrobatics) check. If the target fails, it is pushed up 15 feet away from you.
 
+<div style="height: 5em;">
+</div>
 #### Air scooter
 *Cost: 2 chi*  
 You form a ball our of air which you can ride up walls and vertical surfaces, but you must end your turn on a flat surface. You gain a ground speed of 60 feet. The scooter disappears at the beginning of your next turn unless you spend another 2 chi to maintain it.
@@ -251,9 +264,7 @@ You form a ball our of air which you can ride up walls and vertical surfaces, bu
 *Cost: 2 chi*  
 You use your airbending to augment momentum of a moving object. Until the beginning of your next turn, a moving object of your choice gets a +10 bonus to speed. If the object is a projectile, it deals a additional damage equal to your bending die.
 
-<div style="height: 3em;">
-</div>
-#### Air funnel
+#### Funnel
 *Cost: 2 chi*  
 You create a small funnel out of air of up to 1 foot in diameter. The funnel is held between your hands. Any small objects that are dropped into the funnel shoot out the other side, causing the funnel to essentially act like a sling (see the Sling entry in the Weapon Table for damage and range). 
 <!--ex: you could make a funnel, then pick up rocks with air ball and put them in your funnel-->
@@ -264,7 +275,9 @@ When you hit the ground after a jump or after flying, you can spend three chi to
 
 #### Gust
 *Cost: 3 chi*  
-You create violent gusts of air that reach out in a circle centered on you with radius equal to your normal bending range. Each creature in the area must make a Dexterity saving throw or be knocked prone (the DC is 8 + proficiency modifier + your airbending modifier). Non-airbenders in the area, regardless of whether they succeeded on the saving throw or not, have disadvantage of Dexterity saving throws until the start of your next turn, at which point the gust ends.
+You create violent gusts of air that reach out in a circle centered on you with radius equal to your normal bending range. Each creature in the area must make a Dexterity saving throw or be knocked prone (the DC is 8 + proficiency modifier + your airbending modifier).   
+
+Non-airbenders in the area, regardless of whether they succeeded on the saving throw or not, have disadvantage of Dexterity saving throws until the start of your next turn, at which point the gust ends.
 
 <!--#### Air punch/kick
 *Cost: 2 chi*  

@@ -71,9 +71,6 @@ At 1st level, you must choose which of your modifiers to use for attacks: Charis
 
 The attack bonus is hereafter referred to as your earthbending modifier.
 
-### Earthwall
-Starting at 2nd level, you can use your reaction to create a 10-foot-long wall in front of you once per short rest to defend against an incoming attack. The wall provides cover (half to three-quarters, depending on where you stand) and stays in place unless it is earthbent away or destroyed by other means.
-
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 2 | CLASSES</div>
 \page
@@ -104,19 +101,22 @@ Starting at 2nd level, you can use your reaction to create a 10-foot-long wall i
 |20th | +6 | 1d12  | 8  |200/400| 10 | 8 | ?
 </div>
 
+### Earthwall
+Starting at 2nd level, you can use your reaction to create a 10-foot-long wall in front of you once per short rest to defend against an incoming attack. The wall provides cover (half to three-quarters, depending on where you stand) and stays in place unless it is earthbent away or destroyed by other means.
+
 ### Stance
 Beginning at 2nd level, you adopt a particular stance as your specialty. Choose one of the following options:
 
 #### Praying Mantis
 This style is known for its speed and continuous attacks and was famously used by Toph Beifong. When you roll a 19 or a 20 on an attack roll, you can spend your bonus action to make an additional basic bending attack. Your speed also increases by 5.
 
+<div style="height: 4em;">
+</div>
 #### Hung Gar
 You favor a deep, low stance rooted in the earth beneath you. You gain advantage on Strength saving throws and expertise in Strength (Athletics) checks.   
 
 If another creature uses an ability that pushes you away from them, you always roll a Strength (Athletics) Saving Throw. On a failure, you are moved half the distance, and on a success, you stay where you are.
 
-<div style="height: 3em;">
-</div>
 #### Sticky Hands
 You are well-versed in the art of neutral *jing*, waiting and listening to predict your opponents' next moves. You gain a +2 to AC.
 
@@ -128,11 +128,11 @@ At 3rd level, your connection to chi and practice of bending allows you to weave
 
 You learn one form from the list at the end of this class description. The number of forms you know increases with level and is shown in the Earthbender Table.
 
-Every time you take the Attack action on your turn, you can distribute your chi among basic bending attacks (*cost: 1 chi*) and any forms you know (whose costs are indicated with their descriptions).
-
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 2 | CLASSES</div>
 \page
+Every time you take the Attack action on your turn, you can distribute your chi among basic bending attacks (*cost: 1 chi*) and any forms you know (whose costs are indicated with their descriptions).
+
 ### Ability Score Improvement
 When you reach 4th level, and again at 7th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
@@ -196,6 +196,10 @@ At 12th level, you learn an additional form of your choice from the following li
 Beginning at 19th level, ...
 <!-- TODO: Change the range to not be source, except for advanced earthbending-->
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 2 | CLASSES</div>
+
+\page
 ### Metalbending
 *Prerequisite: Find a metalbending master.*
 
@@ -205,10 +209,6 @@ Beginning when you choose this specialization at 5th level, you can bend the sma
 #### Suit of Armor
 Beginning at 8th level, if the necessary metal is available, you can spend 1 chi to achieve the same effect as the *Rock Armor* form but create a metal suit to protect yourself instead. Your AC is 18.
 
-<div class='pageNumber auto'></div>
-<div class='footnote'>PART 2 | CLASSES</div>
-
-\page
 #### Projectile Bending
 At 12th level, you learn to bend metal without touching it. You can bend small pieces of metal (no more than 1/4 your carrying capacity) within your range.
 
@@ -232,34 +232,44 @@ At 17th level, ...
 
 ## Earthbending Forms
 <!--Mostly defense stuff-->
+For forms which require a target to make a saving throw, your DC is 8 + your proficiency modifier + your earthbending modifier.
 
-#### Shelter
+<div style="height:2em;">
+</div>
+<!--#### Shelter
 *Cost: 1 chi*  
-You raise a rock tent around you as shelter. While inside, you have full cover and cannot attack. You can dismiss the shelter by spending another chi point.  
+You raise a rock tent around you as shelter. While inside, you have full cover and cannot attack. You can dismiss the shelter by spending another chi point.  -->
 
 #### Rock Armor
 *Cost: 1 chi*  
 You pull rocks around you to form armor. Your AC becomes 16, but you have disadvantage on Dexterity checks due to your limited range of motion.   
 
+
 You continue to gain the benefits of the rock armor as long as you maintain concentration, for a maximum of 1 minute.
 
-<!--div style="height:9em;">
-</div-->
 #### Earth Glove
 *Cost: 1 chi*  
 You shape earth into a glove around your hand. By spending one additional chi, you can launch it at an opponent, dealing 1d6 bludgeoning damage.   
+
 
 You can also use it to attempt to grab and pull a target. The target must succeed on a Strength (Athletics) or Dexterity (Acrobatics) check contested by your Strength (Athletics) or be moved against its will.
 
 #### Earth Launch
 *Cost: 1 chi*  
-You use the earth beneath you to launch yourself 20 feet in the air for the duration of your turn, ending back on the ground.  
+You use the earth beneath you to launch yourself and/or other creatures in a 10-foot-square in range into the air, traveling up to 20 feet vertically and 50 feet horizontally. (The maximum number of creatures you can launch is equal to half your earthbending level.)   
 
-You gain 10 additional feet of height per additional chi expended.
+
+This jump lasts the duration of your turn; you end the turn back on the ground.  
+
+
+You gain 10 additional feet of height and 20 feet of horizontal distance per additional chi expended.
 
 #### Earth Smash
 *Cost: 2 chi*  
-You can smash incoming earth projectiles, reducing their damage by 1d10 + your earthbending modifier + your earthbender level.
+You prepare to defuse the next ranged attack that hits you. The next time a creature's ranged attack hits, you can use your reaction to neutralize the incoming projectiles, either countering them with earth projectiles of your own or, in the cast of a ranged earth attack, smashing them with your own bending.  
+
+
+For projectiles of another element, the damage of each projectile is reduced by 1d6 + your earthbending modifier + your earthbender level. For earth projectiles, the damage is reduced by 1d12 + your earthbending modifier + your earthbender level.  
 
 #### Earth Levitation
 *Cost: 2 chi*  
@@ -267,20 +277,35 @@ You stomp on the ground, using your kinetic energy to levitate a mass of earth e
 
 #### Earthwave
 *Cost: 2 chi*  
-You cause the earth to buckle beneath you, forming a line 5 feet wide and as long as your bending range. Each creature in the line must make a Dexterity saving throw (the DC is 8 + your proficiency modifier + your earthbending modifier). A creature takes 4d6 bludgeoning damage and is knocked prone on a failed save, or half as much damage on a successful one.
+You cause the earth to buckle beneath you, forming a line 5 feet wide and as long as your bending range. Each creature in the line must make a Dexterity saving throw. A creature takes 4d6 bludgeoning damage and is knocked prone on a failed save, or half as much damage on a successful one.
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 2 | CLASSES</div>
+\page
 #### Dust Cloud
 *Cost: 2 chi*  
 You raise a cloud of dust, causing the effects of the *Fog Cloud* spell. If you lose concentration, the cloud of dust settles.
 
 #### Quicksand
 *Cost: 3 chi*  
-Restrained and stuff.
+You turn a square area of the ground up to half your normal bending range on each side into quicksand for up to 1 minute. The entire area must be within your normal range. It is considered difficult terrain for the duration.  
+
+When this change occurs, each creature standing in the area must succeed on a Dexterity saving throw or be Restrained. A creature that enters the area or ends its turn there must also succeed on a Dexterity saving throw or become Restrained.
 
 #### Earth Column
-#### Earthquakes/fissures
+
+#### Earth Projectiles
+
 #### Rock cuffs
+*Cost: 3 chi (1 chi)*  
+You choose a creature you can see within range and cause rock cuffs to envelop its limbs which are in contact with the ground. The target must make a Strength saving throw. On a failed save, the target is restrained while you maintain concentration.
+
+By spending 1 additional chi, you can cause the cuffs to crush the restrained target, who must make a Strength saving throw. It takes 1d6 bludgeoning damage for each cuffed limb on a failed save, or half as much damage on a successful one.
+
+To break out, the restrained target can use its action to make a Strength check against your bending DC. On a success, the target escapes and is no longer restrained by the hand.
+
 #### Rock slide
+#### Fissure
 #### Water filtering
 (with waterbender)
 <!--#### Earth Block, Advanced: #### Earth bomb-->

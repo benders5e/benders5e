@@ -72,7 +72,9 @@ Opening or closing your glider takes a bonus action.
 
 When holding the glider in the closed position, you can use it to channel your bending as if it were a free hand.  
 
-When the glider is open, you can use it to fly. Your flying speed is 60 ft. Your hands and feet are both occupied when gliding, so if you use them to bend or for another action you must let go of the glider. If you let go with one hand, you must succeed on a DC 15 Dexterity Saving Throw or lose control of the glider.
+When the glider is open, you can use it to fly. Flying requires airbending, so only airbenders will be able to use a glider to fly. An airbender using a glider has a flying speed of  60 ft. Your hands and feet are both occupied when gliding, so if you use them to bend or for another action you must let go of the glider. If you let go with one hand, you must succeed on a DC 15 Dexterity saving throw or lose control of the glider.
+
+You can attempt to carry at most one other person besides yourself on the glider. In this case, you must succeed on a DC 10 Dexterity saving throw or lose control.
 
 <!--## Pai Sho Board
 ### Special White Lotus Tile
@@ -166,17 +168,22 @@ Can choose to use Cons instead of Dex. OR have proficiency with Cons ST instead 
 
 #### Fisher
 *Source: Ghosts of Saltmarsh*
+You have a swim speed of 30 feet.
 
 #### Marine
 *Source: Ghosts of Saltmarsh*
+You have a swim speed of 30 feet.
 
 #### Shipwright
 *Source: Ghosts of Saltmarsh*
+You have a swim speed of 30 feet.
 
-<div style="height: 1em;">
-</div>
+<!--div style="height: 1em;">
+</div-->
 #### Swampbender
-You hail from the swamps in the Earth Kingdom. You use Wisdom instead of Intellingence as your primary waterbending modifier.
+You hail from the swamps in the Earth Kingdom. You use Wisdom instead of Intellingence as your primary waterbending modifier. 
+
+You have a swim speed of 30 feet.
 
 ### Earthbender
 
@@ -197,7 +204,8 @@ Modified Monk
 Modified Fighter, uses fans
 
 ### Swordmaster
-Modified Fighter, similar to Sokka's training
+Modified Fighter (Samurai or Battlemaster), similar to Sokka's training
+- With specific bending attack defusion maneuvers
 
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 4 | FEATS</div>

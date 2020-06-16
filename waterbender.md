@@ -66,9 +66,6 @@ When you do so, the damage you take from the attack is reduced by 1d10 + your wa
 ### Stance
 Beginning at 2nd level, you adopt a particular stance as your specialty. Choose one of the following options:
 
-#### Water Ring
-In combat, you surround yourself with a ring of water which you can use as your source of bending. The water also helps protect you from attacks, granting you a +2 bonus to AC.   
-
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 2 | CLASSES</div>
 \page
@@ -100,6 +97,9 @@ In combat, you surround yourself with a ring of water which you can use as your 
 |20th | +6 | 1d12    | 20 ft. |200/400| 10| 8     |?|
 </div>
 
+#### Water Ring
+In combat, you surround yourself with a ring of water which you can use as your source of bending. The water also helps protect you from attacks, granting you a +2 bonus to AC.   
+
 If you are surprised, you must spend one chi on one of your turns to create the ring and gain these benefits.
 
 #### Water Arms
@@ -108,6 +108,8 @@ You coat your arms in water, increasing your reach by 5 feet. When you take an o
 
 If you are surprised, you must spend one chi on one of your turns to collect water around your arms and gain these benefits.
 
+<div style="height:6em;">
+</div>
 ### Waterbending Forms
 At 3rd level, your connection to chi and practice of bending allows you to weave your bending into your combat style. With training, you are able to learn particular attacks that combine martial arts and bending to carry out more sophisticated attacks.   
 
@@ -117,17 +119,15 @@ You learn one form from the list at the end of this class description. The numbe
 
 Every time you take the Attack action on your turn, you have a certain amount of *chi* at your disposal (indicated by the "Chi per Attack" column of the class table). You can distribute your chi among basic bending attacks or regular bending (*cost: 1 chi*) and any forms you know (whose costs are indicated with their descriptions).
 
-<!--div style="height:4em;">
-</div-->
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 2 | CLASSES</div>
+\page
 ### Ability Score Improvement
 When you reach 4th level, and again at 7th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
 ### Solid Water
 At 4th level, you can manipulate water more nimbly, allowing you to change its state from liquid to solid and back at will. Additionally, your water source no longer needs to be liquid, so you can bend snow and ice as well. The structures you can form with this ice and snow become become increasingly complex.  
 
-<div class='pageNumber auto'></div>
-<div class='footnote'>PART 2 | CLASSES</div>
-\page
 ### Waterbending specialization
 At 5th level, you specialize in one of the following types of waterbending: advanced waterbending, healing, blood-bending, or swampbending. Your abilities are described in the specialization section at the end of this class description.
 
@@ -160,8 +160,8 @@ Beginning at 15th level, you are able to use your control of water to raise your
 ### ???
 At 20th level, ... (something consistent with "element of change"?)
 
-<div style="height:9em;">
-</div>
+<!--div style="height:9em;">
+</div-->
 ## Waterbending specializations
 
 ### Advanced Waterbending
@@ -191,6 +191,10 @@ At 17th level, you study benders of other elements to improve your own bending. 
 #### Healing
 Beginning when you choose this specialization at 5th level, you gain the ability to heal yourself and others. Once per long rest, if you spend one minute concentrating and passing water over another person's body, you heal them by an amount of hit points equal to three times your waterbender level.
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 2 | CLASSES</div>
+
+\page
 #### Greater Healing
 At 8th level, your healing powers increase. When you heal a creature, you can use your ability to grant the effects of the *Revivify* spell instead of restoring hit points.
 
@@ -203,10 +207,6 @@ At 12th level, you learn to heal even the oldest and deepest wounds. When you he
 You can also use this ability to end any reduction to one of the target's Ability Scores or one effect reducing the target's hit point maximum.
 <!-- based on Greater Restoration-->
 
-<div class='pageNumber auto'></div>
-<div class='footnote'>PART 2 | CLASSES</div>
-
-\page
 #### True Healing
 At 17th level, you are able to use the water within your own body and the wounded creature's body instead of requiring liquid water for healing. You can heal a creature instantaneously by touching it.
 <!--Spiritbending: https://avatar.fandom.com/wiki/Healing#Spiritbending -->
@@ -245,8 +245,6 @@ At 19th level, you are able to bloodbend even on nights without a full moon, exc
 #### Plantbending
 Beginning when you choose this specialization at 10th level, you learn to control the water in plants. You can move one stem of a plant (one continuous tube) as you choose.
 
-<div style="height: 2em;">
-</div>
 #### Greater Plantbending
 At 13th level, you learn to control 2 plants in your range at a time with your bending. This number continues to increase according to your swampbender level (waterbender level minus 10); at each level, you can control a number of stems equal to half your swampbender level (minimum of 2).
 
@@ -271,6 +269,10 @@ If the target is wearing armor and you roll a 15 or higher to hit, this gash wea
 *Cost: 2 chi*   
 You send a ray of ice across the ground streaking towards a target of your choice within range. The target must succeed on a Dexterity Saving Throw (the DC is 8 + your proficiency bonus + your Intelligence modifier) or be Restrained as their feet are frozen in place.
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 2 | CLASSES</div>
+
+\page
 #### Ice Shield
 *Cost: 1 chi*  
 *Prerequisite: 4th level*  
@@ -281,10 +283,6 @@ You shape water into a swirling disk by your arm and freeze it. Your AC increase
 *Prerequisite: 4th level*  
 You form water into a blade shape and freeze it. While you maintain concentration, this blade maintains its form and can be used as a weapon. It has the stats of a longsword, but deals an additional 1d4 cold damage on a hit.<!--maybe allow two shortswords as well--> You must spend 2 chi to make an attack with this weapon.
 
-<div class='pageNumber auto'></div>
-<div class='footnote'>PART 2 | CLASSES</div>
-
-\page
 #### Water Jet
 *Cost: 2 chi*  
 When you use this form, you send a pressurized jet of water at an attacker. You deal an amount of damage equal to twice your bending die. You also roll a Strength (Athletics) check opposed by the target's Strength (Athletics) or Dexterity (Acrobatics) check. If the target fails, it is knocked prone.
