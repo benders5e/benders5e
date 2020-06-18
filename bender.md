@@ -32,7 +32,10 @@ The element you bend and the type of training you underwent has a great impact o
 ### 5e Skills Modifications
 This class uses, for the most part, the same skills as regular 5th edition D&D. These are the exceptions:
 - No Arcana
-- Replace Religion (Int) with Spirituality (Wis) (not propagated through classes yet)
+- Replace Religion (Int) with Spirituality (Wis) *[not propagated through classes yet]*
+
+### Languages
+Common is the only language in this setting. Thus, whenever a background allows you to learn an additional lanauge, you can instead gain proficiency in a new tool, gaming set, or musical instrument.
 
 ### Opportunity Attacks
 Benders can spend a maximum of 1 chi on their opportunity attacks.
@@ -124,12 +127,13 @@ These feats can be chosen by any class in a Bender campaign.
 <div style="height: 1em;">
 </div>
 ### Fortuneteller
-- Increase your Intelligence score by 1, to a maximum of 20.
+- Increase your Intelligence or Wisdom score by 1, to a maximum of 20.
 - You can cast the spell *Augury* at will (you must have the necessary material components). 
 
 ### Teamaker
-- Increase your Intelligence score by 1, to a maximum of 20.
-- You have advantage on Intelligence (Nature) checks when trying to identify whether leaves or herbs can be used to brew tea.
+- Increase your Intelligence or Wisdom score by 1, to a maximum of 20.
+- You have advantage on Intelligence (Nature) checks identifying whether leaves or herbs can be used to brew tea.
+- You have advantage on Wisdom (Survival) checks when foraging for tea leaves.
 - Once per long rest, if you have tea leaves or herbs available, you can create an infusion laced with healing power. Any creature who drinks it gains the benefits of a Potion of Healing. Drinking more than once from the infusion does not confer any additional benefits.
 
 ## Backgrounds
@@ -164,6 +168,8 @@ You are a scholar from one of the great universities of the Earth Kingdom (e.g. 
 #### Northern Water Tribe
 Can choose to use Cons instead of Dex. OR have proficiency with Cons ST instead of Dex.
 
+<div style="height: 1em;">
+</div>
 ### Waterbender
 
 #### Fisher
@@ -178,8 +184,6 @@ You have a swim speed of 30 feet.
 *Source: Ghosts of Saltmarsh*
 You have a swim speed of 30 feet.
 
-<!--div style="height: 1em;">
-</div-->
 #### Swampbender
 You hail from the swamps in the Earth Kingdom. You use Wisdom instead of Intellingence as your primary waterbending modifier. 
 
@@ -220,9 +224,9 @@ Modified Fighter (Samurai or Battlemaster), similar to Sokka's training
 - Do not use in combination with any magical D&D classes; so, you can play a Bender in a party with Barbarians, Fighters, Monks, or Rogues, but no others.
 
 ### Credits
-* Made with The Homebrewery.
+* Made by Noemi Glaeser with [The Homebrewery](https://homebrewery.naturalcrit.com).
 * [Avatar Wiki](https://avatar.fandom.com/wiki/Bending_arts) quoted and used for reference.
-* Thank you to Jamie Mayson and Adam Groth for feedback and ideas.
+* Thank you to Kevin Gagnon, Adam Groth, Jamie Mayson, and Trevor Schachner for feedback, ideas, and help with playtesting.
 
 
 <div class='pageNumber auto'></div>
