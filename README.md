@@ -6,6 +6,7 @@ Homebrew D&D campaign setting for _Avatar: The Last Airbender_.
 - 31 May 2020: [Draft 1](drafts/draft1.pdf)
 - 6 June 2020: [Draft 2](drafts/draft2.pdf)
 - 12 June 2020: [Draft 3](drafts/draft3.pdf)
+- 16 June 2020: [Draft 4](drafts/draft4.pdf)
 
 ## Links
 
