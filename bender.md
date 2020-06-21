@@ -9,10 +9,7 @@ In his absence, chaos reigns, kept at bay only by brave benders who have taken i
 Benders make careful study of a magical energy called chi ("ki" by monks). This energy is an element of the magic that suffuses the multiverse – specifically, the element that flows through living bodies. Benders harness this power within themselves to create magical effects and exceed their bodies' physical capabilities, and some of their special attacks can hinder the flow of chi in their opponents. Using this energy, monks channel uncanny speed and strength into their unarmed strikes. As they gain experience, their martial training and their mastery of chi gives them more power over their bodies and the bodies of their foes.
 
 ### Training
-Things about training
-
->##### Bending Training
-> Benders are trained in a variety of ways.
+Benders are trained in a variety of ways.
 - monks
 - self-taught
 - original benders
@@ -27,8 +24,8 @@ As you make your bender character, think about ...
 
 The element you bend and the type of training you underwent has a great impact on benders' alignments. Think about the type of environment you grew up in, and how that might manifest itself. As a rule of thumb, fire and air are more chaotic elements, while earth is lawful.
 
-<div style="height: 4em;">
-</div>
+<!--div style="height: 4em;">
+</div-->
 ### 5e Skills Modifications
 This class uses, for the most part, the same skills as regular 5th edition D&D. These are the exceptions:
 - No Arcana
@@ -88,7 +85,7 @@ Opening or closing your glider takes a bonus action.
 
 When holding the glider in the closed position, you can use it to channel your bending as if it were a free hand.  
 
-When the glider is open, you can use it to fly. Flying requires airbending, so only airbenders will be able to use a glider to fly. An airbender using a glider has a flying speed of  60 ft. Your hands and feet are both occupied when gliding, so if you use them to bend or for another action you must let go of the glider. If you let go with one hand, you must succeed on a DC 15 Dexterity saving throw or lose control of the glider.
+When the glider is open, you can use it to fly. Flying requires airbending, so only airbenders will be able to use a glider to fly. An airbender using a glider has a flying speed of  60 ft. Your hands and feet are both occupied when gliding, so if you use them to bend or for another action you must let go of the glider. If you let go with one hand, you must succeed on a DC 13 Dexterity saving throw or lose control of the glider.
 
 You can attempt to carry at most one other person besides yourself on the glider. In this case, you must succeed on a DC 10 Dexterity saving throw or lose control.
 
@@ -181,20 +178,20 @@ You are a scholar from one of the great universities of the Earth Kingdom (e.g. 
 #### Northern Water Tribe
 Can choose to use Cons instead of Dex. OR have proficiency with Cons ST instead of Dex.
 
-<div style="height: 1em;">
-</div>
+<!--div style="height: 1em;">
+</div-->
 ### Waterbender
 
 #### Fisher
-*Source: Ghosts of Saltmarsh*
+*Source: Ghosts of Saltmarsh*  
 You have a swim speed of 30 feet.
 
 #### Marine
-*Source: Ghosts of Saltmarsh*
+*Source: Ghosts of Saltmarsh*  
 You have a swim speed of 30 feet.
 
 #### Shipwright
-*Source: Ghosts of Saltmarsh*
+*Source: Ghosts of Saltmarsh*  
 You have a swim speed of 30 feet.
 
 #### Swampbender

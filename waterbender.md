@@ -59,9 +59,11 @@ At 1st level, you must choose which of your modifiers to use for attacks: Intell
 The attack bonus is hereafter referred to as your waterbending modifier.
 
 ### Redirection
-Starting at 2nd level, once per short rest, you can use your reaction to attempt to redirect an attack when you are hit by a basic ranged water attack (not one that is the result of a bending form nor specialized bending such as an advanced waterbending ability). You also gain the ability to use water in your control to attempt to redirect basic ranged earth attacks, as long as the volume of earth used in the attack is smaller than the volume of water you use to redirect it.
+Starting at 2nd level, you can use your reaction to attempt to redirect an attack when you are hit by a basic ranged water attack (not one that is the result of a bending form nor specialized bending such as an advanced waterbending ability). You also gain the ability to use water in your control to attempt to redirect basic ranged earth attacks, as long as the volume of earth used in the attack is smaller than the volume of water you use to redirect it, and non-bending ranged attacks in the same way.  
 
-When you do so, the damage you take from the attack is reduced by 1d10 + your waterbending modifier + your waterbender level. If you reduce the damage to 0 and have at least one hand free, you redirect the element to make a ranged attack against a creature of your choice as part of the same reaction.
+When you do so, the damage you take from the attack is reduced by 1d10 + your waterbending modifier + your waterbender level. If you reduce the damage to 0 and have at least one hand free, you redirect the element to make a ranged attack against a creature of your choice as part of the same reaction.  
+
+You can use this ability a number of times equal to your bending modifier per long rest.  
 
 ### Stance
 Beginning at 2nd level, you adopt a particular stance as your specialty. Choose one of the following options:
@@ -112,14 +114,21 @@ At 3rd level, your connection to chi and practice of bending allows you to weave
 
 You learn one form from the list at the end of this class description. The number of forms you know increases with level and is shown in the Waterbender Table.  
 
-Every time you take the Attack action on your turn, you have a certain amount of *chi* at your disposal (indicated by the "Chi per Attack" column of the class table). You can distribute your chi among basic bending attacks or regular bending (*cost: 1 chi*) and any forms you know (whose costs are indicated with their descriptions).
+Every time you take the Attack action on your turn, you have a certain amount of *chi* at your disposal (indicated by the "Chi per Attack" column of the class table). You can distribute your chi among basic bending attacks or regular bending (*cost: 1 chi*) and any forms you know (whose costs are indicated with their descriptions). You can use each form a maximum of once per turn.
 
-### Ability Score Improvement
-When you reach 4th level, and again at 7th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+#### Chi Exhaustion
+Channeling chi into attacks is a physically and mentally draining endeavor.   
+
+You have 4 exhaustion points at your disposal. (Use a d4 to keep track.) The d4 starts with the "4" pointing up. Every turn you use all of your chi, you decrement this counter. When the counter indicates a "1", you need to take a break from bending and cannot spend any chi that turn. Every turn that you do *not* use all your chi, the counter increments by 1. This counter resets every long rest.  
 
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 2 | CLASSES</div>
 \page
+For example, say the counter is set at 2. That turn, you spend all your chi points attacking and turn the counter to 1. The next turn, you have 0 chi to spend, and you can either use your Attack action to make a melee, non-bending attack or forfeit it. The next turn, your counter is back up to 2. If you spend all your chi once again, it decreases back to 1 again, but if you spend anything less than the maximum (e.g. all but one chi) the counter once again increases to 3.
+
+### Ability Score Improvement
+When you reach 4th level, and again at 7th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+
 ### Solid Water
 At 4th level, you can manipulate water more nimbly, allowing you to change its state from liquid to solid and back at will. Additionally, your water source no longer needs to be liquid, so you can bend snow and ice as well. The structures you can form with this ice and snow become become increasingly complex.  
 
@@ -181,6 +190,10 @@ At 12th level, you learn an additional form of your choice from the following li
 #### Expanded Horizons
 At 17th level, you study benders of other elements to improve your own bending. You learn one additional form off one of the other classes' form lists and adapt it to water (at the discretion of your DM).
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 2 | CLASSES</div>
+
+\page
 ### Healing
 
 #### Healing
@@ -198,10 +211,6 @@ At 12th level, you learn to heal even the oldest and deepest wounds. When you he
 You can also use this ability to end any reduction to one of the target's Ability Scores or one effect reducing the target's hit point maximum.
 <!-- based on Greater Restoration-->
 
-<div class='pageNumber auto'></div>
-<div class='footnote'>PART 2 | CLASSES</div>
-
-\page
 #### True Healing
 At 17th level, you are able to use the water within your own body and the wounded creature's body instead of requiring liquid water for healing. You can heal a creature instantaneously by touching it.
 <!--Spiritbending: https://avatar.fandom.com/wiki/Healing#Spiritbending -->
@@ -240,8 +249,8 @@ At 19th level, you are able to bloodbend even on nights without a full moon, exc
 #### Plantbending
 Beginning when you choose this specialization at 10th level, you learn to control the water in plants. You can move one stem of a plant (one continuous tube) as you choose.
 
-<div style="height: 4em;">
-</div>
+<!--div style="height: 4em;">
+</div-->
 #### Greater Plantbending
 At 13th level, you learn to control 2 plants in your range at a time with your bending. This number continues to increase according to your swampbender level (waterbender level minus 10); at each level, you can control a number of stems equal to half your swampbender level (minimum of 2).
 
@@ -253,6 +262,10 @@ At 19th level, you are able to read the spiritual energy in the connected plant 
 
 <!--Lifting things/pushing things-->
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 2 | CLASSES</div>
+
+\page
 ## Waterbending Forms
 <!--(Even mix of defense and offense)-->
 
@@ -268,7 +281,6 @@ You send a ray of ice across the ground streaking towards a target of your choic
 
 #### Ice Shield
 *Cost: 1 chi*  
-*Prerequisite: 4th level*  
 You shape water into a swirling disk by your arm and freeze it. Your AC increases by 2. If an attack that would have hit you without the shield misses because of it (hitting the shield), it deals damage to the shield instead. The Shield has 10 HP and shatters when it drops to 0.
 
 #### Ice Sword
@@ -276,10 +288,6 @@ You shape water into a swirling disk by your arm and freeze it. Your AC increase
 *Prerequisite: 4th level*  
 You form water into a blade shape and freeze it. While you maintain concentration, this blade maintains its form and can be used as a weapon. It has the stats of a longsword, but deals an additional 1d4 cold damage on a hit.<!--maybe allow two shortswords as well--> You must spend 2 chi to make an attack with this weapon.
 
-<div class='pageNumber auto'></div>
-<div class='footnote'>PART 2 | CLASSES</div>
-
-\page
 #### Water Jet
 *Cost: 2 chi*  
 When you use this form, you send a pressurized jet of water at an attacker. You deal an amount of damage equal to twice your bending die. You also roll a Strength (Athletics) check opposed by the target's Strength (Athletics) or Dexterity (Acrobatics) check. If the target fails, it is knocked prone.

@@ -52,8 +52,9 @@ The attack bonus is hereafter referred to as your firebending modifier.
 
 
 ### Defusion
-Starting at 2nd level, once per short rest, you can use your reaction to defuse an attack when you are hit by a basic ranged firebending attack (not one that is the result of a firebending form, and not specialized firebending such as combustion). When you do so, the damage you take from the attack is reduced by half.  
-Starting at 4th level, you can do this even if you have no hands free, as long as you have at least one foot free.
+Starting at 2nd level, you can use your reaction to defuse an attack when you are hit by a basic ranged firebending attack (not one that is the result of a firebending form, and not specialized firebending such as combustion). When you do so, the damage you take from the attack is reduced by half.  
+
+Starting at 4th level, you can do this even if you have no hands free, as long as you have at least one foot free. You can use this ability a number of times equal to your bending modifier per long rest.  
 
 ### Stance
 Beginning at 2nd level, you adopt a particular stance as your specialty. Choose one of the following options:
@@ -74,12 +75,7 @@ Aspects of the firebending combat style can be seen through a similar emphasis o
 The Northern Shaolin style emphasizes "kicking over hand fighting", or prioritizing one's legwork as opposed to the arms. Kicks are meant to "extend as far as possible without compromising balance-->
 
 #### Seven Stars
-You favor a style that utilizes momentary bursts of extreme power at the expense of your defense. At the beginning of your turn, you can choose to decrease your AC for the next turn by 2 to add +2 to the damage dealt by all your attacks that hit.
-
-### Firebending Forms
-At 3rd level, your connection to chi and practice of bending allows you to weave your bending into your combat style. With training, you are able to learn particular forms that combine martial arts and firebending to carry out more sophisticated attacks.  
-
-You learn one form from the list at the end of this class description. The number of forms you know increases with level and is shown in the Firebender Table.   
+You favor a style that utilizes momentary bursts of extreme power at the expense of your defense. At the beginning of your turn, you can choose to decrease your AC for the next turn by 2 to add +2 to the damage dealt by all your attacks that hit.  
 
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 2 | CLASSES</div>
@@ -111,11 +107,26 @@ You learn one form from the list at the end of this class description. The numbe
 |20th | +6 | 1d12  |200/400| 10| 6 | Dragonfire
 </div> 
 
-Every time you take the Attack action on your turn, you have a certain amount of *chi* at your disposal (indicated by the "Chi per Attack" column of the class table). You can distribute your chi among basic bending attacks or regular bending (*cost: 1 chi*) and any forms you know (whose costs are indicated with their descriptions).
+### Firebending Forms
+At 3rd level, your connection to chi and practice of bending allows you to weave your bending into your combat style. With training, you are able to learn particular forms that combine martial arts and firebending to carry out more sophisticated attacks.  
+
+You learn one form from the list at the end of this class description. The number of forms you know increases with level and is shown in the Firebender Table. 
+
+Every time you take the Attack action on your turn, you have a certain amount of *chi* at your disposal (indicated by the "Chi per Attack" column of the class table). You can distribute your chi among basic bending attacks or regular bending (*cost: 1 chi*) and any forms you know (whose costs are indicated with their descriptions). You can use each form a maximum of once per turn.
+
+#### Chi Exhaustion
+Channeling chi into attacks is a physically and mentally draining endeavor.   
+
+You have 4 exhaustion points at your disposal. (Use a d4 to keep track.) The d4 starts with the "4" pointing up. Every turn you use all of your chi, you decrement this counter. When the counter indicates a "1", you need to take a break from bending and cannot spend any chi that turn. Every turn that you do *not* use all your chi, the counter increments by 1. This counter resets every long rest.  
+
+For example, say the counter is set at 2. That turn, you spend all your chi points attacking and turn the counter to 1. The next turn, you have 0 chi to spend, and you can either use your Attack action to make a melee, non-bending attack or forfeit it. The next turn, your counter is back up to 2. If you spend all your chi once again, it decreases back to 1 again, but if you spend anything less than the maximum (e.g. all but one chi) the counter once again increases to 3.
 
 ### Ability Score Improvement
 When you reach 4th level, and again at 7th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 2 | CLASSES</div>
+\page 
 ### Fire Kick
 At 4th level, you gain more fine-grained control over fire. You learn to produce fire from your feet in addition to your hands and no longer need to keep your hands free to firebend.
 
@@ -136,9 +147,6 @@ Starting at 9nd level, you can use Defusion to defuse basic ranged attacks of an
 ### ???
 Beginning at 10th level, ... (something utility-based, maybe something like *Prestidigitation* with fires and stuff, but a little more powerful)
 
-<div class='pageNumber auto'></div>
-<div class='footnote'>PART 2 | CLASSES</div>
-\page 
 <!--div style="height: 6em;">
 </div-->
 ### ???
@@ -186,6 +194,10 @@ You can also have the opposite effect: if you have hands or nose or mouth free, 
 | Metal    | 1d8                  |
 | Lava mass| 1d6                  |
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 2 | CLASSES</div>
+
+\page
 ### Energy Reading
 
 #### Chi Paths
@@ -225,10 +237,6 @@ At 12th level, you learn an additional form of your choice from the following li
 
 ##### Charged Attack
 
-<div class='pageNumber auto'></div>
-<div class='footnote'>PART 2 | CLASSES</div>
-
-\page
 ##### Breath of Fire
 (stealthy)
 
@@ -251,10 +259,10 @@ You sweep your legs in an arc around you, causing fire to spread out in a 20-foo
 You create a flame at the end of one of your limb and thrust it onto the ground in an explosive burst at a point within range. Targets in a 10-foot radius of the burst take 2d6 force damage and are stunned until the beginning of their next turn. The damage increases by 1d6 with each additional chi spent.
 
 #### Fire Daggers
-*Cost: 2 chi (1 chi)*  
+*Cost: 2 chi*  
 You create two blowtorch-like jets from your fists or fingertips to use as close range melee attacks. As part of the same action used to create them, you can make two attacks dealing 1d4 slashing damage + 1d4 fire  damage.  
 
-The daggers remain as long as you maintain concentration. You can continue to attack with them, each time spending 1 chi to make two hits. You add your damage bonus to the damage of both attacks.  
+The daggers remain as long as you maintain concentration. You can continue to attack with them, each time spending 2 chi to make two hits. You add your damage bonus to the damage of both attacks.  
 
 Despite their slashing capabilities, these daggers lack the ability to block physical objects.
 
@@ -266,8 +274,8 @@ You prepare to defuse the next attack that hits you. The next time a creature ro
 *Cost: 2 chi*  
 You shape your flame into a lashing tendril and swipe at a target within range, dealing 1d10 bludgeoning damage. For each additional chi point you spend, you create and attack with another fire lash, dealing an additional die of damage.
 
-<div style="height:6em;">
-</div>
+<!--div style="height:6em;">
+</div-->
 #### Projectiles
 *Cost: 2 chi*  
 You create and launch 4 miniature fireballs at any combination of targets within your long range (the second number in the "Range" column). These attacks are made without disadvantage. Each fireball deals 1d4 fire damage.   
@@ -279,6 +287,11 @@ You gain an additional dagger for each extra chi you spend.
 You shoot a continuous stream of fire from their fingertips, fists, palms, or legs, forming a line 5 feet wide and as long as your bending range. Each creature in the line must make a Dexterity saving throw (the DC is 8 + proficiency bonus + your firebending modifier). A creature takes 4d6 fire damage on a failed save, or half as much damage on a successful one.  
 
 The stream widens by 5 feet for each additional chi you spend.
+
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 2 | CLASSES</div>
+
+\page
 
 #### Create Lightning
 *Cost: 3 chi*  

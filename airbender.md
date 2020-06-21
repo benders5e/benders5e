@@ -62,7 +62,7 @@ The attack bonus is hereafter referred to as your airbending modifier.
 Xingyiquan ("mind heart boxing")
 -->
 ### Be the Leaf
-At 2nd level, you become tuned in to the air around you. You learn to move like a leaf in the wind, allowing you to evade attacks more easily. Once per short rest, you may impose disadvantage on an attack against you as a reaction.
+At 2nd level, you become tuned in to the air around you. You learn to move like a leaf in the wind, allowing you to evade attacks more easily. You may impose disadvantage on an attack against you as a reaction. You can use this ability a number of times equal to your bending modifier per long rest.  
 
 ### Unarmored Movement
 Starting at 2nd level, your speed increases by 10 feet while you are not wearing armor or wielding a shield. This bonus increases when you reach certain levels, as shown in the class table.  
@@ -74,8 +74,6 @@ You also learn to use your bending to steer your glider. Your flying speed is eq
 At 3rd level, your connection to chi and practice of bending allows you to weave your bending into your combat style. With training, you are able to learn particular forms that combine martial arts and airbending to carry out more sophisticated attacks.   
 
 You learn one form from the list at the end of this class description. The number of forms you know increases with level and is shown in the Airbender Table.   
-
-Every time you take the Attack action on your turn, you have a certain amount of *chi* at your disposal (indicated by the "Chi per Attack" column of the class table). You can distribute your chi among basic bending attacks or regular bending (*cost: 1 chi*) and any forms you know (whose costs are indicated with their descriptions).
 
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 2 | CLASSES</div>
@@ -108,6 +106,15 @@ Every time you take the Attack action on your turn, you have a certain amount of
 |20th | +5 | +30 ft.  | 1d10 |200/400| 10| 6 | Detachment|
 </div>
 
+Every time you take the Attack action on your turn, you have a certain amount of *chi* at your disposal (indicated by the "Chi per Attack" column of the class table). You can distribute your chi among basic bending attacks or regular bending (*cost: 1 chi*) and any forms you know (whose costs are indicated with their descriptions). You can use each form a maximum of once per turn.
+
+#### Chi Exhaustion
+Channeling chi into attacks is a physically and mentally draining endeavor.   
+
+You have 4 exhaustion points at your disposal. (Use a d4 to keep track.) The d4 starts with the "4" pointing up. Every turn you use all of your chi, you decrement this counter. When the counter indicates a "1", you need to take a break from bending and cannot spend any chi that turn. Every turn that you do *not* use all your chi, the counter increments by 1. This counter resets every long rest.  
+
+For example, say the counter is set at 2. That turn, you spend all your chi points attacking and turn the counter to 1. The next turn, you have 0 chi to spend, and you can either use your Attack action to make a melee, non-bending attack or forfeit it. The next turn, your counter is back up to 2. If you spend all your chi once again, it decreases back to 1 again, but if you spend anything less than the maximum (e.g. all but one chi) the counter once again increases to 3.
+
 ### Ability Score Improvement
 When you reach 4th level, and again at 7th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
@@ -116,11 +123,15 @@ When you reach 4th level, and again at 7th, 12th, 16th, and 19th level, you can 
 ### Air Cushion
 Beginning at 4th level, you can use your reaction when you fall to reduce any falling damage you or another creature takes by an amount equal to five times your bender level.
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 2 | CLASSES</div>
+
+\page
 ### Airbending Specialization
 At 5th level, you specialize in one of the following aspects of airbending: advanced airbending, spirituality, or ?. Your abilities are described in the specialization section at the end of this class description. <!--This specialization grants you a new feature at 5th level, and again at 8th, 12th, and 17th level.-->
 
-<div style="height: 3em;">
-</div>
+<!--div style="height: 3em;">
+</div-->
 ### Improved Unarmored Movement
 At 6th level, you gain the ability to move along vertical surfaces and across liquids on your turn without falling during the move. Your glider speed increases to 60 feet.
 
@@ -130,10 +141,6 @@ At 7th level, you gain the ability to bend clouds. Once per long rest, you can c
 ### Evasion
 At 9th level, your instinctive agility lets you dodge out of the way of certain area effects. When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
 
-<div class='pageNumber auto'></div>
-<div class='footnote'>PART 2 | CLASSES</div>
-
-\page
 ### ???
 Beginning at 10th level, you learn one of the following forms of your choice:
 
@@ -153,6 +160,8 @@ Additionally, once per long rest, whenever you make a saving throw and fail, you
 ### Empty Body
 At 14th level, your chi sustains you so that you suffer none of the frailty of old age and you cannot be aged by unnatural means. You can still die of old age, however. In addition, you no longer need food or water.
 
+<div style="height: 4em;">
+</div>
 ### Wind Reader
 At 15th level, you are aware of every motion in the air surrounding you. Every turn, you may take the Dodge action as a bonus action.  
 
@@ -170,8 +179,8 @@ At 15th level, you are aware of every motion in the air surrounding you. Every t
 
 Like the Guru Laghima and the airbender Zaheer, you learn to levitate without using bending or any other means to propel yourself. You move naturally and without having to think about it through the air, as easily and naturally as if you were walking. Your flying speed is 60.
 
-<div style="height: 11em;">
-</div>
+<!--div style="height: 11em;">
+</div-->
 ## Airbending Specializations
 
 ### Advanced Airbending
@@ -197,6 +206,10 @@ At 12th level, you learn an additional form of your choice from the following li
 #### ???
 At 17th level, ...
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 2 | CLASSES</div>
+
+\page
 ### Spirituality
 
 #### Spirit World
@@ -221,10 +234,6 @@ Beginning when you choose this specialization at 5th level, ...
 #### ???
 At 8th level, ...
 
-<div class='pageNumber auto'></div>
-<div class='footnote'>PART 2 | CLASSES</div>
-
-\page
 #### ???
 At 12th level, ...
 
@@ -262,8 +271,8 @@ When you use this form, you send a pressurized blast of air at a creature within
 *Cost: 2 chi*  
 You form a ball our of air which you can ride up walls and vertical surfaces, but you must end your turn on a flat surface. You gain a ground speed of 60 feet. The scooter disappears at the beginning of your next turn unless you spend another 2 chi to maintain it.
 
-<div style="height: 7em;">
-</div>
+<!--div style="height: 7em;">
+</div-->
 #### Wake
 *Cost: 2 chi*  
 You use your airbending to augment momentum of a moving object. Until the beginning of your next turn, a moving object of your choice gets a +10 bonus to speed. If the object is a projectile, it deals a additional damage equal to your bending die.
@@ -280,6 +289,11 @@ When you hit the ground after a jump or after flying, you can spend three chi to
 #### Gust
 *Cost: 3 chi*  
 You create violent gusts of air that reach out in a circle centered on you with radius equal to your normal bending range. Each creature in the area must make a Dexterity saving throw or be knocked prone (the DC is 8 + proficiency modifier + your airbending modifier).   
+
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 2 | CLASSES</div>
+
+\page
 
 Non-airbenders in the area, regardless of whether they succeeded on the saving throw or not, have disadvantage of Dexterity saving throws until the start of your next turn, at which point the gust ends.
 

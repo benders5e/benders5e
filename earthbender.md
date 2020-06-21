@@ -32,19 +32,23 @@ You start with the following equipment, in addition to the equipment granted by 
 - 10 darts
 - 2 fans
 
-<div style="height: 3em;">
+When wearing light armor, you use your Strength modifier instead of Dexterity to determine your AC.
+
+<div style="height: 1em;">
 </div>
 
+***
 >##### Lifting and Carrying
 > **Carrying Capacity.** Your carrying capacity is your Strength score multiplied by 15. This is the weight (in pounds) that you can carry.  
 
-<div style="height: 6em;">
+<div style="height: 1em;">
 </div>
 ### Earthbending
 At 1st level, you realize that you have an innate ability to control earth. You can move small volumes of earth no more than your carrying capacity – see "Lifting and Carrying". You must draw it from a source of earth within 30 feet. 
 
 Earthbending some mass to move it a distance equal to your normal bending range takes an Action. The mass of earth you can control and the range within which you can control it (including as a source) increase with your earthbender level. See the "Volume" and "Range" columns of the Earthbender Table. A quick reference for the weight of various earthen materials is shown below.
 
+<div class='descriptive'>
 ##### Quick Conversions
 | Material          | Pounds in 1 cubic ft |
 |:------------------|:---------------------|
@@ -55,6 +59,7 @@ Earthbending some mass to move it a distance equal to your normal bending range 
 | Rock (sedimentary)| ~160 lbs
 | Granite           | 165 lbs
 | Rock (igneous)    | ~180 lbs
+</div>
 
 ### Bending Attack
 During combat, you can channel your chi to use your bending as a rudimentary attack by hitting other creatures. Every time you take the Attack action, you draw on your inner pool of energy, or *chi*. The class table shows how much chi you have available every time you take the Attack action ("Chi per Attack"). This amount resets every round. As your bending grows more powerful and your connection to your inner chi grows, this number increases.  
@@ -72,7 +77,7 @@ At 1st level, you must choose which of your modifiers to use for attacks: Charis
 The attack bonus is hereafter referred to as your earthbending modifier.
 
 ### Earthwall
-Starting at 2nd level, you can use your reaction to create a wall 10 feet long, 5 feet high, and 1/2 foot thick in front of you once per short rest to defend against an incoming attack. The wall stays in place unless it is earthbent away or destroyed by other means.
+Starting at 2nd level, you can use your reaction to create a wall 10 feet long, 5 feet high, and 1/2 foot thick in front of you to defend against an incoming attack. You can use this ability after the attack roll, but before the outcome is revealed.  
 
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 2 | CLASSES</div>
@@ -104,6 +109,8 @@ Starting at 2nd level, you can use your reaction to create a wall 10 feet long, 
 |20th | +6 | 1d12  | 8  |200/400| 10 | 6 | ?
 </div>
 
+The wall stays in place unless it is earthbent away or destroyed by other means. You can use this ability a number of times equal to your bending modifier per long rest.
+
 ### Stance
 Beginning at 2nd level, you adopt a particular stance as your specialty. Choose one of the following options:
 
@@ -126,14 +133,21 @@ At 3rd level, your connection to chi and practice of bending allows you to weave
 
 You learn one form from the list at the end of this class description. The number of forms you know increases with level and is shown in the Earthbender Table.
 
-Every time you take the Attack action on your turn, you can distribute your chi among basic bending attacks (*cost: 1 chi*) and any forms you know (whose costs are indicated with their descriptions).
+Every time you take the Attack action on your turn, you can distribute your chi among basic bending attacks (*cost: 1 chi*) and any forms you know (whose costs are indicated with their descriptions). You can use each form a maximum of once per turn.
 
-### Ability Score Improvement
-When you reach 4th level, and again at 7th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+#### Chi Exhaustion
+Channeling chi into attacks is a physically and mentally draining endeavor.   
 
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 2 | CLASSES</div>
 \page
+You have 4 exhaustion points at your disposal. (Use a d4 to keep track.) The d4 starts with the "4" pointing up. Every turn you use all of your chi, you decrement this counter. When the counter indicates a "1", you need to take a break from bending and cannot spend any chi that turn. Every turn that you do *not* use all your chi, the counter increments by 1. This counter resets every long rest.  
+
+For example, say the counter is set at 2. That turn, you spend all your chi points attacking and turn the counter to 1. The next turn, you have 0 chi to spend, and you can either use your Attack action to make a melee, non-bending attack or forfeit it. The next turn, your counter is back up to 2. If you spend all your chi once again, it decreases back to 1 again, but if you spend anything less than the maximum (e.g. all but one chi) the counter once again increases to 3.
+
+### Ability Score Improvement
+When you reach 4th level, and again at 7th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+
 ### Burrow
 At 4th level, you learn to tunnel like a badgermole. You easily carve out large chunks of rock from the ground, forming a stable tunnel structure. However, you must find a place to deposit the removed earth.
 
@@ -163,8 +177,8 @@ At 10th level, you can move masses of earth beneath your feet to defy gravity. Y
 ### ???
 Beginning at 13th level, ... [Some improved ability or saving throws]
 
-<div style="height: 1em;">
-</div>
+<!--div style="height: 1em;">
+</div-->
 ### ???
 At 14th level, ... [some flavor-type thing]
 
@@ -182,6 +196,10 @@ At 20th level, ...
 Beginning when you choose this specialization at 5th level, you are so tuned in to the earth that you can sense vibrations with your feet with such detail that you have blind sense within 100 feet. This range increases with level according to the first value in the Range column of the class table. Enemies also have disadvantage when trying to surprise you.  
 Additionally, you gain advantage on Insight checks when your target is in earthbending range.
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 2 | CLASSES</div>
+
+\page
 #### Earth Dive
 Beginning at 8th level, you can dive into and out of earth as though it were liquid. While underground, you must hold your breath.
 
@@ -205,10 +223,6 @@ Beginning when you choose this specialization at 5th level, you can bend the sma
 #### Suit of Armor
 Beginning at 8th level, if the necessary metal is available, you can spend 1 chi to achieve the same effect as the *Rock Armor* form but create a metal suit to protect yourself instead. Your AC is 18.
 
-<div class='pageNumber auto'></div>
-<div class='footnote'>PART 2 | CLASSES</div>
-
-\page
 #### Projectile Bending
 At 12th level, you learn to bend metal without touching it. You can bend small pieces of metal (no more than 1/4 your carrying capacity) within your range.
 
@@ -224,6 +238,8 @@ Any creature standing in the lava takes X fire damage ...
 #### Volcanic Rock
 Beginning at 8th level, you can harden lava into volcanic rock, willing it to cool instead of waiting for this to happen naturally. This ability takes an action and cools the entire lava mass. The resulting volcanic rock can be earthbent like any other earth.
 
+<div style="height: 4em;">
+</div>
 #### Lavabending
 At 12th level, you learn to move lava with as much control as you move earth. You spend an action to create and move the equivalent of a 3-foot-diameter sphere of lava at a time. When launching lava as an attack, you deal the amount of bludgeoning damage in the Bending column of the class table *and* an additional die of the same type as fire damage.
 
@@ -252,8 +268,8 @@ You shape earth into a glove around your hand. By spending one additional chi, y
 
 You can also use it to attempt to grab and pull a target. The target must succeed on a Strength (Athletics) or Dexterity (Acrobatics) check contested by your Strength (Athletics) or be moved against its will.
 
-<div style="height:1em;">
-</div>
+<!--div style="height:1em;">
+</div-->
 #### Earth Launch
 *Cost: 1 chi*  
 You use the earth beneath you to launch yourself and/or other creatures in a 10-foot-square in range into the air, traveling up to 20 feet vertically and 50 feet horizontally. (The maximum number of creatures you can launch is equal to half your earthbending level.)   
@@ -271,6 +287,9 @@ You prepare to defuse the next ranged attack that hits you. The next time a crea
 
 For projectiles of another element, the damage of each projectile is reduced by 1d6 + your earthbending modifier + your earthbender level. For earth projectiles, the damage is reduced by 1d12 + your earthbending modifier + your earthbender level.  
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 2 | CLASSES</div>
+\page
 #### Earth Levitation
 *Cost: 2 chi*  
 You stomp on the ground, using your kinetic energy to levitate a mass of earth equal to your bending capacity (shown in the class table). In the same motion, you can push the rock at a target of your choice, dealing double times your regular bending damage + 1d4 additional damage.
@@ -295,10 +314,6 @@ When this change occurs, each creature standing in the area must succeed on a De
 #### Earth Column
 
 #### Earth Projectiles
-
-<div class='pageNumber auto'></div>
-<div class='footnote'>PART 2 | CLASSES</div>
-\page
 
 #### Rock cuffs
 *Cost: 3 chi (1 chi)*  
