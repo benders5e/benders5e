@@ -87,21 +87,21 @@ Starting at 2nd level, you can use your reaction to create a wall 10 feet long, 
 | 3rd | +2 | 1d6   | 1  | 30/60 | 2  | 2 | Earthbending Forms
 | 4th | +2 | 1d6   | 2  | 30/60 | 2  | 2 | Ability Score Improvement, Burrow
 | 5th | +3 | 1d8   | 2  | 60/120| 3  | 2 | Earthbending specialization
-| 6th | +3 | 1d8   | 2  | 60/120| 3  | 3 | Rolling Earth
+| 6th | +3 | 1d8   | 2  | 60/120| 3  | 2 | Rolling Earth
 | 7th | +3 | 1d8   | 2  | 60/120| 4  | 3 | Expansion and Compaction
 | 8th | +3 | 1d8   | 4  | 60/120| 4  | 3 | Ability Score Improvement
-| 9th | +4 | 1d8   | 4  | 60/120| 5  | 4 | Earth Reflex
-|10th | +4 | 1d8   | 4  |100/200| 5  | 4 | Earth Elevator
-|11th | +4 | 1d10  | 4  |100/200| 6  | 5 | –
-|12th | +4 | 1d10  | 4  |100/200| 6  | 5 | Ability Score Improvement, Specialization feature
-|13th | +5 | 1d10  | 4  |100/200| 7  | 5 | ?
-|14th | +5 | 1d10  | 4  |150/300| 7  | 6 | ?
-|15th | +5 | 1d10  | 8  |150/300| 8  | 6 | Improved Rolling Earth
-|16th | +5 | 1d10  | 8  |150/300| 8  | 6 | Ability Score Improvement
-|17th | +6 | 1d12  | 8  |150/300| 9  | 7 | Specialization feature
-|18th | +6 | 1d12  | 8  |200/400| 9  | 7 | –
-|19th | +6 | 1d12  | 8  |200/400| 10 | 7 | Ability Score Improvement
-|20th | +6 | 1d12  | 8  |200/400| 10 | 8 | ?
+| 9th | +4 | 1d8   | 4  | 60/120| 5  | 3 | Earth Reflex
+|10th | +4 | 1d8   | 4  |100/200| 5  | 3 | Earth Elevator
+|11th | +4 | 1d10  | 4  |100/200| 6  | 4 | –
+|12th | +4 | 1d10  | 4  |100/200| 6  | 4 | Ability Score Improvement, Specialization feature
+|13th | +5 | 1d10  | 4  |100/200| 7  | 4 | ?
+|14th | +5 | 1d10  | 4  |150/300| 7  | 4 | ?
+|15th | +5 | 1d10  | 8  |150/300| 8  | 5 | Improved Rolling Earth
+|16th | +5 | 1d10  | 8  |150/300| 8  | 5 | Ability Score Improvement
+|17th | +6 | 1d12  | 8  |150/300| 9  | 5 | Specialization feature
+|18th | +6 | 1d12  | 8  |200/400| 9  | 5 | –
+|19th | +6 | 1d12  | 8  |200/400| 10 | 5 | Ability Score Improvement
+|20th | +6 | 1d12  | 8  |200/400| 10 | 6 | ?
 </div>
 
 ### Stance
@@ -277,7 +277,10 @@ You stomp on the ground, using your kinetic energy to levitate a mass of earth e
 
 #### Earthwave
 *Cost: 2 chi*  
-You cause the earth to buckle beneath you, forming a line 5 feet wide and as long as your bending range. Each creature in the line must make a Dexterity saving throw. A creature takes 4d6 bludgeoning damage and is knocked prone on a failed save, or half as much damage on a successful one.
+You cause the earth to buckle beneath you, forming a line 5 feet wide and as long as your bending range. Each creature in the line must make a Dexterity saving throw. A creature takes 4d6 bludgeoning damage and is knocked prone on a failed save, or half as much damage on a successful one.  
+
+
+Structures in this line take double damage.
 
 #### Dust Cloud
 *Cost: 2 chi*  

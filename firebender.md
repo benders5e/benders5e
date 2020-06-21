@@ -34,8 +34,6 @@ You start with the following equipment, in addition to the equipment granted by 
 ### Firebending
 At 1st level, you realize that you have an innate ability to produce fire with your hands. You can spend 1 chi of your Attack action to cause the effects of the *Produce Flame* cantrip. (See "Fire Jab" for a description of the role chi points play in attacks and the rules for bending attacks.) Your range increases with your level according to the "Range" column of the Firebender table.
 
-<div style="height: 9em;">
-</div>
 ### Fire Jab
 During combat, you can channel your chi to use your bending as a rudimentary attack by hitting other creatures. Every time you take the Attack action, you draw on your inner pool of energy, or *chi*. The class table shows how much chi you have available every time you take the Attack action ("Chi per Attack"). This amount resets every round. As your bending grows more powerful and your connection to your inner chi grows, this number increases.  
 
@@ -78,6 +76,11 @@ The Northern Shaolin style emphasizes "kicking over hand fighting", or prioritiz
 #### Seven Stars
 You favor a style that utilizes momentary bursts of extreme power at the expense of your defense. At the beginning of your turn, you can choose to decrease your AC for the next turn by 2 to add +2 to the damage dealt by all your attacks that hit.
 
+### Firebending Forms
+At 3rd level, your connection to chi and practice of bending allows you to weave your bending into your combat style. With training, you are able to learn particular forms that combine martial arts and firebending to carry out more sophisticated attacks.  
+
+You learn one form from the list at the end of this class description. The number of forms you know increases with level and is shown in the Firebender Table.   
+
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 2 | CLASSES</div>
 \page
@@ -91,31 +94,25 @@ You favor a style that utilizes momentary bursts of extreme power at the expense
 | 3rd | +2 | 1d6   | 30/60 | 2 | 2 | Firebending Forms 
 | 4th | +2 | 1d6   | 30/60 | 2 | 2 | Ability Score Improvement, Fire Kick
 | 5th | +3 | 1d8   | 60/120| 3 | 2 | Firebending specialization
-| 6th | +3 | 1d8   | 60/120| 3 | 3 | Firestep
+| 6th | +3 | 1d8   | 60/120| 3 | 2 | Firestep
 | 7th | +3 | 1d8   | 60/120| 4 | 3 | Ability Score Improvement, Create Lightning
 | 8th | +3 | 1d8   | 60/120| 4 | 3 | Specialization feature
-| 9th | +4 | 1d8   | 60/120| 5 | 4 | Improved Defusion
-|10th | +4 | 1d8   |100/200| 5 | 4 | ?
-|11th | +4 | 1d10  |100/200| 6 | 5 | –
-|12th | +4 | 1d10  |100/200| 6 | 5 | Ability Score Improvement, Specialization feature
-|13th | +5 | 1d10  |100/200| 7 | 5 | ?
-|14th | +5 | 1d10  |150/300| 7 | 6 | ?
-|15th | +5 | 1d10  |150/300| 8 | 6 | Fire Rockets
-|16th | +5 | 1d10  |150/300| 8 | 6 | Ability Score Improvement
-|17th | +6 | 1d12  |150/300| 9 | 7 | Specialization feature
-|18th | +6 | 1d12  |200/400| 9 | 7 | –
-|19th | +6 | 1d12  |200/400| 10| 7 | Ability Score Improvement
-|20th | +6 | 1d12  |200/400| 10| 8 | Dragonfire
-</div>
-### Firebending Forms
-At 3rd level, your connection to chi and practice of bending allows you to weave your bending into your combat style. With training, you are able to learn particular forms that combine martial arts and firebending to carry out more sophisticated attacks.   
-
-You learn one form from the list at the end of this class description. The number of forms you know increases with level and is shown in the Firebender Table.   
+| 9th | +4 | 1d8   | 60/120| 5 | 3 | Improved Defusion
+|10th | +4 | 1d8   |100/200| 5 | 3 | ?
+|11th | +4 | 1d10  |100/200| 6 | 4 | –
+|12th | +4 | 1d10  |100/200| 6 | 4 | Ability Score Improvement, Specialization feature
+|13th | +5 | 1d10  |100/200| 7 | 4 | ?
+|14th | +5 | 1d10  |150/300| 7 | 4 | ?
+|15th | +5 | 1d10  |150/300| 8 | 5 | Fire Rockets
+|16th | +5 | 1d10  |150/300| 8 | 5 | Ability Score Improvement
+|17th | +6 | 1d12  |150/300| 9 | 5 | Specialization feature
+|18th | +6 | 1d12  |200/400| 9 | 5 | –
+|19th | +6 | 1d12  |200/400| 10| 5 | Ability Score Improvement
+|20th | +6 | 1d12  |200/400| 10| 6 | Dragonfire
+</div> 
 
 Every time you take the Attack action on your turn, you have a certain amount of *chi* at your disposal (indicated by the "Chi per Attack" column of the class table). You can distribute your chi among basic bending attacks or regular bending (*cost: 1 chi*) and any forms you know (whose costs are indicated with their descriptions).
 
-<div style="height: 6em;">
-</div>
 ### Ability Score Improvement
 When you reach 4th level, and again at 7th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
@@ -125,9 +122,6 @@ At 4th level, you gain more fine-grained control over fire. You learn to produce
 ### Firebending Specialization
 At 5th level, you specialize in one of the following types of firebending: advanced firebending, energy reading, or combustionbending. Your abilities are described in the specialization section at the end of this class description.
 
-<div class='pageNumber auto'></div>
-<div class='footnote'>PART 2 | CLASSES</div>
-\page 
 ### Firestep
 At 6th level, you can use flame jets to propel yourself through the air during your turn. You use your normal speed and movement when you fire-step and you must end your turn on the ground.
 
@@ -142,6 +136,11 @@ Starting at 9nd level, you can use Defusion to defuse basic ranged attacks of an
 ### ???
 Beginning at 10th level, ... (something utility-based, maybe something like *Prestidigitation* with fires and stuff, but a little more powerful)
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 2 | CLASSES</div>
+\page 
+<!--div style="height: 6em;">
+</div-->
 ### ???
 Beginning at 13th level, ... [Some improved ability or saving throws]
 
@@ -156,8 +155,6 @@ For a long time, disciplines of firebending were taught to be fueled by hatred, 
 
 With this knowledge, your fire becomes an extension of your body rather than merely a tool for protection. It becomes beautiful and multi-colored, and anyone who looks at it gains the advantages of the *Guidance* cantrip. 
 
-<div style="height: 12em;">
-</div>
 ## Firebending Specializations
 
 ### Advanced Firebending
@@ -173,14 +170,12 @@ At 8th level, ...
 #### Lightning Redirection
 At 12th level, when someone else shoots lightning at you, you can attempt to redirect it by making a DC 15 Wisdom saving throw. On a success, you can choose to redirect the lightning in any direction of your choice as if you were generating it yourself. On a failure, you take 8d6 lightning damage.
 
-<div style="height: 5em;">
+<div style="height: 3em;">
 </div>
 
 > *If you let the energy in your own body flow, the lightning will follow it. You must create a pathway from your fingertips up your arm to the shoulder, then down into the stomach. The stomach is the source of energy in your body; it is called the sea of chi. From your stomach you direct it up again and out the other arm. The stomach detour is critical; you must not let the lightning pass through your heart, or the damage could be deadly.*   
 > **–Iroh, inventor of lightning redirection**
 
-<div style="height: 3em;">
-</div>
 #### Heat Control
 At 17th level, you learn to control not only fire, but any heat housed by matter. By touching an object, you can siphon off heat by spending an amount of time that depends on the material (some examples are shown in the table below). You must have one hand on the material and one hand free.  
 You can also have the opposite effect: if you have hands or nose or mouth free, you can heat up materials in the vicinity with an action, causing them to reach a temperature equal to the result of being exposed to a hot flame for half an hour. (You cannot use this ability to, for exmaple, heat rock into lava.)
@@ -191,10 +186,6 @@ You can also have the opposite effect: if you have hands or nose or mouth free, 
 | Metal    | 1d8                  |
 | Lava mass| 1d6                  |
 
-<div class='pageNumber auto'></div>
-<div class='footnote'>PART 2 | CLASSES</div>
-
-\page
 ### Energy Reading
 
 #### Chi Paths
@@ -233,6 +224,11 @@ At 12th level, you learn an additional form of your choice from the following li
 (learn by observing water)
 
 ##### Charged Attack
+
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 2 | CLASSES</div>
+
+\page
 ##### Breath of Fire
 (stealthy)
 
@@ -246,8 +242,6 @@ At 17th level, ...
 *Cost: 2 chi*  
 You narrow and condense your flame projection, creating a thin blade of fire to slice at a target, dealine 1d8 slashing damage + 1d8 fire damage.
 
-<div style="height:5em;">
-</div>
 #### Sweeping Fire
 *Cost: 2 chi*  
 You sweep your legs in an arc around you, causing fire to spread out in a 20-foot radius circle with you at the center. Each creature in the area must make a Dexterity saving throw. A target takes 4d6 fire damage on a failed save and half as much on a successful save. The damage increases by 2d6 with each additional chi you spend.
@@ -272,16 +266,13 @@ You prepare to defuse the next attack that hits you. The next time a creature ro
 *Cost: 2 chi*  
 You shape your flame into a lashing tendril and swipe at a target within range, dealing 1d10 bludgeoning damage. For each additional chi point you spend, you create and attack with another fire lash, dealing an additional die of damage.
 
+<div style="height:6em;">
+</div>
 #### Projectiles
 *Cost: 2 chi*  
 You create and launch 4 miniature fireballs at any combination of targets within your long range (the second number in the "Range" column). These attacks are made without disadvantage. Each fireball deals 1d4 fire damage.   
 
 You gain an additional dagger for each extra chi you spend.
-
-<div class='pageNumber auto'></div>
-<div class='footnote'>PART 2 | CLASSES</div>
-
-\page
 
 #### Fire Stream
 *Cost: 2 chi*  

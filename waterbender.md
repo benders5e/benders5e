@@ -80,51 +80,46 @@ Beginning at 2nd level, you adopt a particular stance as your specialty. Choose 
 | 3rd | +2 | 1d6     | 5 ft.  | 30/60 | 2 | 2     |Waterbending Forms|
 | 4th | +2 | 1d6     | 10 ft. | 30/60 | 2 | 2     |Ability Score Improvement, Solid Water|
 | 5th | +3 | 1d8     | 10 ft. | 60/120| 3 | 2     |Waterbending specialization|
-| 6th | +3 | 1d8     | 10 ft. | 60/120| 3 | 3     |Water Movement|
+| 6th | +3 | 1d8     | 10 ft. | 60/120| 3 | 2     |Water Movement|
 | 7th | +3 | 1d8     | 10 ft. | 60/120| 4 | 3     |Ability Score Improvement, Water in All Its States|
 | 8th | +3 | 1d8     | 15 ft. | 60/120| 4 | 3     |Specialization feature|
-| 9th | +4 | 1d8     | 15 ft. | 60/120| 5 | 4     |Improved Water Movement|
-|10th | +4 | 1d8     | 15 ft. |100/200| 5 | 4     |Water Bubble|
-|11th | +4 | 1d10    | 15 ft. |100/200| 6 | 5     |–|
-|12th | +4 | 1d10    | 15 ft. |100/200| 6 | 5     |Ability Score Improvement, Specialization feature|
-|13th | +5 | 1d10    | 15 ft. |100/200| 7 | 5     |?|
-|14th | +5 | 1d10    | 15 ft. |150/300| 7 | 6     |?|
-|15th | +5 | 1d10    | 20 ft. |150/300| 8 | 6     |Water Spout|
-|16th | +5 | 1d10    | 20 ft. |150/300| 8 | 6     |Ability Score Improvement|
-|17th | +6 | 1d12    | 20 ft. |150/300| 9 | 7     |Specialization feature|
-|18th | +6 | 1d12    | 20 ft. |200/400| 9 | 7     |–|
-|19th | +6 | 1d12    | 20 ft. |200/400| 10| 7     |Ability Score Improvement|
-|20th | +6 | 1d12    | 20 ft. |200/400| 10| 8     |?|
+| 9th | +4 | 1d8     | 15 ft. | 60/120| 5 | 3     |Improved Water Movement|
+|10th | +4 | 1d8     | 15 ft. |100/200| 5 | 3     |Water Bubble|
+|11th | +4 | 1d10    | 15 ft. |100/200| 6 | 4     |–|
+|12th | +4 | 1d10    | 15 ft. |100/200| 6 | 4     |Ability Score Improvement, Specialization feature|
+|13th | +5 | 1d10    | 15 ft. |100/200| 7 | 4     |?|
+|14th | +5 | 1d10    | 15 ft. |150/300| 7 | 4     |?|
+|15th | +5 | 1d10    | 20 ft. |150/300| 8 | 5     |Water Spout|
+|16th | +5 | 1d10    | 20 ft. |150/300| 8 | 5     |Ability Score Improvement|
+|17th | +6 | 1d12    | 20 ft. |150/300| 9 | 5     |Specialization feature|
+|18th | +6 | 1d12    | 20 ft. |200/400| 9 | 5     |–|
+|19th | +6 | 1d12    | 20 ft. |200/400| 10| 5     |Ability Score Improvement|
+|20th | +6 | 1d12    | 20 ft. |200/400| 10| 6     |?|
 </div>
 
 #### Water Ring
 In combat, you surround yourself with a ring of water which you can use as your source of bending. The water also helps protect you from attacks, granting you a +2 bonus to AC.   
 
-If you are surprised, you must spend one chi on one of your turns to create the ring and gain these benefits.
+You must spend one chi on one of your turns to create the ring and gain these benefits.
 
 #### Water Arms
 You coat your arms in water, increasing your reach by 5 feet. When you take an opportunity attack, you can attempt to grapple the target instead. Your grapple ends if anything passes through the water tendril.
 
+You must spend one chi on one of your turns to collect water around your arms and gain these benefits.
 
-If you are surprised, you must spend one chi on one of your turns to collect water around your arms and gain these benefits.
-
-<div style="height:6em;">
-</div>
 ### Waterbending Forms
 At 3rd level, your connection to chi and practice of bending allows you to weave your bending into your combat style. With training, you are able to learn particular attacks that combine martial arts and bending to carry out more sophisticated attacks.   
 
-
 You learn one form from the list at the end of this class description. The number of forms you know increases with level and is shown in the Waterbender Table.  
 
-
 Every time you take the Attack action on your turn, you have a certain amount of *chi* at your disposal (indicated by the "Chi per Attack" column of the class table). You can distribute your chi among basic bending attacks or regular bending (*cost: 1 chi*) and any forms you know (whose costs are indicated with their descriptions).
+
+### Ability Score Improvement
+When you reach 4th level, and again at 7th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 2 | CLASSES</div>
 \page
-### Ability Score Improvement
-When you reach 4th level, and again at 7th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
-
 ### Solid Water
 At 4th level, you can manipulate water more nimbly, allowing you to change its state from liquid to solid and back at will. Additionally, your water source no longer needs to be liquid, so you can bend snow and ice as well. The structures you can form with this ice and snow become become increasingly complex.  
 
@@ -191,10 +186,6 @@ At 17th level, you study benders of other elements to improve your own bending. 
 #### Healing
 Beginning when you choose this specialization at 5th level, you gain the ability to heal yourself and others. Once per long rest, if you spend one minute concentrating and passing water over another person's body, you heal them by an amount of hit points equal to three times your waterbender level.
 
-<div class='pageNumber auto'></div>
-<div class='footnote'>PART 2 | CLASSES</div>
-
-\page
 #### Greater Healing
 At 8th level, your healing powers increase. When you heal a creature, you can use your ability to grant the effects of the *Revivify* spell instead of restoring hit points.
 
@@ -207,6 +198,10 @@ At 12th level, you learn to heal even the oldest and deepest wounds. When you he
 You can also use this ability to end any reduction to one of the target's Ability Scores or one effect reducing the target's hit point maximum.
 <!-- based on Greater Restoration-->
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 2 | CLASSES</div>
+
+\page
 #### True Healing
 At 17th level, you are able to use the water within your own body and the wounded creature's body instead of requiring liquid water for healing. You can heal a creature instantaneously by touching it.
 <!--Spiritbending: https://avatar.fandom.com/wiki/Healing#Spiritbending -->
@@ -245,6 +240,8 @@ At 19th level, you are able to bloodbend even on nights without a full moon, exc
 #### Plantbending
 Beginning when you choose this specialization at 10th level, you learn to control the water in plants. You can move one stem of a plant (one continuous tube) as you choose.
 
+<div style="height: 4em;">
+</div>
 #### Greater Plantbending
 At 13th level, you learn to control 2 plants in your range at a time with your bending. This number continues to increase according to your swampbender level (waterbender level minus 10); at each level, you can control a number of stems equal to half your swampbender level (minimum of 2).
 
@@ -269,10 +266,6 @@ If the target is wearing armor and you roll a 15 or higher to hit, this gash wea
 *Cost: 2 chi*   
 You send a ray of ice across the ground streaking towards a target of your choice within range. The target must succeed on a Dexterity Saving Throw (the DC is 8 + your proficiency bonus + your Intelligence modifier) or be Restrained as their feet are frozen in place.
 
-<div class='pageNumber auto'></div>
-<div class='footnote'>PART 2 | CLASSES</div>
-
-\page
 #### Ice Shield
 *Cost: 1 chi*  
 *Prerequisite: 4th level*  
@@ -283,13 +276,19 @@ You shape water into a swirling disk by your arm and freeze it. Your AC increase
 *Prerequisite: 4th level*  
 You form water into a blade shape and freeze it. While you maintain concentration, this blade maintains its form and can be used as a weapon. It has the stats of a longsword, but deals an additional 1d4 cold damage on a hit.<!--maybe allow two shortswords as well--> You must spend 2 chi to make an attack with this weapon.
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 2 | CLASSES</div>
+
+\page
 #### Water Jet
 *Cost: 2 chi*  
 When you use this form, you send a pressurized jet of water at an attacker. You deal an amount of damage equal to twice your bending die. You also roll a Strength (Athletics) check opposed by the target's Strength (Athletics) or Dexterity (Acrobatics) check. If the target fails, it is knocked prone.
 
 #### Water Whip  
 *Cost: 2 chi*  
-You shape the water at your disposal into a lashing tendril and swipe at a target within range, dealing 1d10 bludgeoning damage. For each additional chi point you spend, you create and attack with another water whip, dealing an additional die of damage.
+You shape the water at your disposal into a lashing tendril and swipe at a target within range, dealing 1d10 bludgeoning damage. For each additional chi point you spend, you create and attack with another water whip, dealing an additional die of damage.  
+
+For purposes of taking other actions, these tendrils have your same stats.
 
 #### Ice Daggers
 *Cost: 2 chi*  

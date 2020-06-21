@@ -1,6 +1,6 @@
 Link: https://homebrewery.naturalcrit.com/edit/vP9MXg6ODF
 
-# Bender Expansion
+# Bender Campaign Setting
 W*ater – Earth – Fire – Air. Long ago, the nations lived together in harmony. Then, everything changed when the Fire Nation attacked. Only the Avatar, master of all four elements, could stop them, but when the world needed him most, he vanished.* 
 
 In his absence, chaos reigns, kept at bay only by brave benders who have taken it upon themselves to fill the void he left...
@@ -43,6 +43,18 @@ Benders can spend a maximum of 1 chi on their opportunity attacks.
 ### Planes of Existence
 #### Material
 #### Spirit World
+There's spirits there.
+
+
+<div style="height:3em;">
+</div>
+
+> ##### Underwater Combat
+> The usual [D&D 5e underwater combat rules](https://dnd5e.info/combat/underwater-combat/) apply.  
+> **Waterbending:** ?  
+> **Firebending:** Creatures have resistance against fire damage.  
+> **Earthbending:**  
+> **Airbending:**  
 
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 1 | INTRODUCTION</div>
@@ -54,6 +66,7 @@ Benders can spend a maximum of 1 chi on their opportunity attacks.
 ##### Equipment
 | Name        |Cost| Damage        | Weight   |Properties             |
 |:------------|:---|:--------------|:---------|:-----------------------
+| Darts       |    |               |          |                       |
 | Fan (closed)|5 gp|1d4 bludgeoning|1 lb. each|Finesse, light         |
 | Fan (open)  |5 gp|1d4 slashing   |1 lb. each|Finesse, light, special|
 | Shortsword  |10 gp|1d6 piercing  |2 lb.     |Finesse, light         |
