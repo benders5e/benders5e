@@ -39,7 +39,7 @@ You are also capable of converting water into ice or snow and back, but without 
 
 When using either *Grease* or changing the state of water from liquid to solid or vice versa in combat, you spend 1 chi of your Attack action (see "Bending Attack" for a description of the role chi points play in attacks).  
 
-Additionally, waterbending a liquid to move it a distance equal to your normal bending range takes an Action. The volume of water you can control and the range within which you can control it (including as a source) increase with your waterbender level. See the "Volume" and "Range" columns of the Waterbender Table. 
+The volume of water you can control and the range within which you can control it (including as a source) increase with your waterbender level. See the "Volume" and "Range" columns of the Waterbender Table. 
 
 <!--div style="height: 4em;">
 </div-->
@@ -80,10 +80,10 @@ Beginning at 2nd level, you adopt a particular stance as your specialty. Choose 
 | 1st | +2 | 1d6     | 5 ft.  | 30/60 | – | 1     |Waterbending, Bending Attack|
 | 2nd | +2 | 1d6     | 5 ft.  | 30/60 | – | 1     |Stance, Redirection|
 | 3rd | +2 | 1d6     | 5 ft.  | 30/60 | 2 | 2     |Waterbending Forms|
-| 4th | +2 | 1d6     | 10 ft. | 30/60 | 2 | 2     |Ability Score Improvement, Solid Water|
+| 4th | +2 | 1d6     | 10 ft. | 30/60 | 2 | 2     |Ability Score Improvement, Water in All Its States|
 | 5th | +3 | 1d8     | 10 ft. | 60/120| 3 | 2     |Waterbending specialization|
 | 6th | +3 | 1d8     | 10 ft. | 60/120| 3 | 2     |Water Movement|
-| 7th | +3 | 1d8     | 10 ft. | 60/120| 4 | 3     |Ability Score Improvement, Water in All Its States|
+| 7th | +3 | 1d8     | 10 ft. | 60/120| 4 | 3     |Ability Score Improvement, ?|
 | 8th | +3 | 1d8     | 15 ft. | 60/120| 4 | 3     |Specialization feature|
 | 9th | +4 | 1d8     | 15 ft. | 60/120| 5 | 3     |Improved Water Movement|
 |10th | +4 | 1d8     | 15 ft. |100/200| 5 | 3     |Water Bubble|
@@ -105,10 +105,14 @@ In combat, you surround yourself with a ring of water which you can use as your 
 You must spend one chi on one of your turns to create the ring and gain these benefits.
 
 #### Water Arms
-You coat your arms in water, increasing your reach by 5 feet. When you take an opportunity attack, you can attempt to grapple the target instead. Your grapple ends if anything passes through the water tendril.
+You coat your arms in water, increasing your reach by 5 feet. When you take an opportunity attack, you can attempt to grapple the target instead. Your grapple ends if anything passes through the water tendril.  
+
+With these tendrils, you also gain the ability to block non-bending melee attacks as a reaction, reducing the damage by 1d10 + your waterbending modifier + your waterbender level.     
 
 You must spend one chi on one of your turns to collect water around your arms and gain these benefits.
 
+<div style="height:5em;">
+</div>
 ### Waterbending Forms
 At 3rd level, your connection to chi and practice of bending allows you to weave your bending into your combat style. With training, you are able to learn particular attacks that combine martial arts and bending to carry out more sophisticated attacks.   
 
@@ -116,21 +120,24 @@ You learn one form from the list at the end of this class description. The numbe
 
 Every time you take the Attack action on your turn, you have a certain amount of *chi* at your disposal (indicated by the "Chi per Attack" column of the class table). You can distribute your chi among basic bending attacks or regular bending (*cost: 1 chi*) and any forms you know (whose costs are indicated with their descriptions). You can use each form a maximum of once per turn.
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 2 | CLASSES</div>
+\page
 #### Chi Exhaustion
 Channeling chi into attacks is a physically and mentally draining endeavor.   
 
 You have 4 exhaustion points at your disposal. (Use a d4 to keep track.) The d4 starts with the "4" pointing up. Every turn you use all of your chi, you decrement this counter. When the counter indicates a "1", you need to take a break from bending and cannot spend any chi that turn. Every turn that you do *not* use all your chi, the counter increments by 1. This counter resets every long rest.  
 
-<div class='pageNumber auto'></div>
-<div class='footnote'>PART 2 | CLASSES</div>
-\page
 For example, say the counter is set at 2. That turn, you spend all your chi points attacking and turn the counter to 1. The next turn, you have 0 chi to spend, and you can either use your Attack action to make a melee, non-bending attack or forfeit it. The next turn, your counter is back up to 2. If you spend all your chi once again, it decreases back to 1 again, but if you spend anything less than the maximum (e.g. all but one chi) the counter once again increases to 3.
 
 ### Ability Score Improvement
 When you reach 4th level, and again at 7th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
-### Solid Water
-At 4th level, you can manipulate water more nimbly, allowing you to change its state from liquid to solid and back at will. Additionally, your water source no longer needs to be liquid, so you can bend snow and ice as well. The structures you can form with this ice and snow become become increasingly complex.  
+
+### Water in All Its States
+At 4th level, you can manipulate water more nimbly, allowing you to change its state from liquid to solid and back at will. Additionally, your water source no longer needs to be liquid: you can solid and gaseous water as well, e.g. snow, ice, steam.  
+
+Additionally, you can bend even water you cannot see, such as an underground reservoir (provided it is within range).
 
 ### Waterbending specialization
 At 5th level, you specialize in one of the following types of waterbending: advanced waterbending, healing, blood-bending, or swampbending. Your abilities are described in the specialization section at the end of this class description.
@@ -139,10 +146,8 @@ At 5th level, you specialize in one of the following types of waterbending: adva
 At 6th level, you learn to synchronize your control of water with your movement. You gain the ability to move across liquids. 
 <!--When you do so, your speed is doubled.-->
 
-### Water in All Its States
-Beginning at 7th level, you can bend gaseous water in addition to water in its solid and liquid states. You can now bend steam<!--, and, with the assistance of an airbender, clouds-->.  
-
-Additionally, you can bend even water you cannot see, such as an underground reservoir (provided it is within range).
+### ?
+At 7th level, ...
 
 ### Improved Water Movement
 At 9th level, your control over solid water also grants you the ability to move easily over ice and snow. For you, this type of terrain is no longer difficult terrain.
@@ -187,13 +192,13 @@ At 12th level, you learn an additional form of your choice from the following li
 *Cost: X chi*  
 ...
 
-#### Expanded Horizons
-At 17th level, you study benders of other elements to improve your own bending. You learn one additional form off one of the other classes' form lists and adapt it to water (at the discretion of your DM).
-
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 2 | CLASSES</div>
 
 \page
+#### Expanded Horizons
+At 17th level, you study benders of other elements to improve your own bending. You learn one additional form off one of the other classes' form lists and adapt it to water (at the discretion of your DM).
+
 ### Healing
 
 #### Healing
@@ -268,16 +273,14 @@ At 19th level, you are able to read the spiritual energy in the connected plant 
 \page
 ## Waterbending Forms
 <!--(Even mix of defense and offense)-->
+For forms which require a target to make a saving throw, your DC is 8 + your proficiency modifier + your waterbending modifier.
 
-#### Water Blade
-*Cost: 2 chi*  
-The next time you successfully hit a creature with a bending attack, you channel your inner chi to rapidly shape water into a sharp point or edge for a split second when you make contact with the target. The attack deals an additional 1d4 slashing damage.   
+#### State Change
+*Cost: 1 chi*  
+Each state of water (solid – liquid – gas) can be converted to a state adjacent to it. For example, ice or snow can be turned into liquid water, liquid water can be turned into either solid or gaseous water, but you cannot convert directly between, e.g., snow and water vapor.  
 
-If the target is wearing armor and you roll a 15 or higher to hit, this gash weakens the armor sufficiently to cause the target's AC to decrease by 1 until they repair the damage done to their armor.
 
-#### Ice Creeper
-*Cost: 2 chi*   
-You send a ray of ice across the ground streaking towards a target of your choice within range. The target must succeed on a Dexterity Saving Throw (the DC is 8 + your proficiency bonus + your Intelligence modifier) or be Restrained as their feet are frozen in place.
+To convert to and from gaseous water you must be at least level 4.
 
 #### Ice Shield
 *Cost: 1 chi*  
@@ -287,6 +290,16 @@ You shape water into a swirling disk by your arm and freeze it. Your AC increase
 *Cost: 1 chi (2 chi)*  
 *Prerequisite: 4th level*  
 You form water into a blade shape and freeze it. While you maintain concentration, this blade maintains its form and can be used as a weapon. It has the stats of a longsword, but deals an additional 1d4 cold damage on a hit.<!--maybe allow two shortswords as well--> You must spend 2 chi to make an attack with this weapon.
+
+#### Water Blade
+*Cost: 2 chi*  
+The next time you successfully hit a creature with a bending attack, you channel your inner chi to rapidly shape water into a sharp point or edge for a split second when you make contact with the target. The attack deals an additional 1d4 slashing damage.   
+
+If the target is wearing armor and you roll a 15 or higher to hit, this gash weakens the armor sufficiently to cause the target's AC to decrease by 1 until they repair the damage done to their armor.
+
+#### Ice Creeper
+*Cost: 2 chi*   
+You send a ray of ice across the ground streaking towards a target of your choice within range. The target must succeed on a Dexterity Saving Throw or be Restrained as their feet are frozen in place.
 
 #### Water Jet
 *Cost: 2 chi*  
@@ -298,15 +311,18 @@ You shape the water at your disposal into a lashing tendril and swipe at a targe
 
 For purposes of taking other actions, these tendrils have your same stats.
 
+<div style="height: 4em;">
+</div>
 #### Ice Daggers
 *Cost: 2 chi*  
 You create and launch 4 ice daggers at any combination of targets within your long range (the second number in the "Range" column). These attacks are made without disadvantage. Each dagger deals 1d4 percing damage.   
 
 You gain an additional dagger for each extra chi you spend.
 
-#### Breath of Ice
-*Cost: 3 chi*  
+<!--##### Breath of Ice
+Convert liquid water to ice.-->
 
+#### Something with Stun?
 #### Water Wall
 #### Wave
 #### Octopus
@@ -320,9 +336,9 @@ Stays as long as you maintain concentration; each arm gets to do 1 chi of attack
 #### Ice Ladder?
 #### Ice Ramp
 #### Ice Tunneling
-#### Maelstrom*
-#### Mist-stepping*
-#### Ice Prison*
+#### Maelstrom\*
+#### Mist-stepping\*
+#### Ice Prison\*
 #### Razor Rings
 #### Water Ball
 #### Water Dome
