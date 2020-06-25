@@ -26,7 +26,7 @@ The element you bend and the type of training you underwent has a great impact o
 
 <!--div style="height: 4em;">
 </div-->
-### 5e Skills Modifications
+### Skills
 This class uses, for the most part, the same skills as regular 5th edition D&D. These are the exceptions:
 - No Arcana
 - Replace Religion (Int) with Spirituality (Wis) *[not propagated through classes yet]*
@@ -47,11 +47,10 @@ There's spirits there.
 </div>
 
 > ##### Underwater Combat
-> The usual [D&D 5e underwater combat rules](https://dnd5e.info/combat/underwater-combat/) apply.  
-> **Waterbending:** ?  
-> **Firebending:** Creatures have resistance against fire damage.  
-> **Earthbending:**  
-> **Airbending:**  
+> The usual [D&D 5e underwater combat rules](https://dnd5e.info/combat/underwater-combat/) apply. More specifically, for bending attacks, the following rules apply:  
+> - **Waterbending:** Advantage on attack rolls; normal damage.  
+> - **Firebending:** Disadvantage on ranged attacks, regular roll for touch range. In each case, the attack does half damage if it is dealt underwater (since fully immersed creatures have resistance against fire damage).  
+> - **Earth- & Airbending:** Disadvantage on melee and ranged attacks within normal range (automatic miss beyond normal range); half damage.
 
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 1 | INTRODUCTION</div>
@@ -81,13 +80,11 @@ There's spirits there.
 Taking your fans out or putting them away takes a bonus action. Opening or closing them does as well. You can still earthbend while holding the fans; they augment your bending, increasing your range by 10 feet.
 
 ## Glider
-Opening or closing your glider takes a bonus action.  
-
-When holding the glider in the closed position, you can use it to channel your bending as if it were a free hand.  
+Opening or closing your glider takes a bonus action. When holding the glider in the closed position, you can use it to channel your bending as if it were a free hand.  
 
 When the glider is open, you can use it to fly. Flying requires airbending, so only airbenders will be able to use a glider to fly. An airbender using a glider has a flying speed of  60 ft. Your hands and feet are both occupied when gliding, so if you use them to bend or for another action you must let go of the glider. If you let go with one hand, you must succeed on a DC 13 Dexterity saving throw or lose control of the glider.
 
-You can attempt to carry at most one other person besides yourself on the glider. In this case, you must succeed on a DC 10 Dexterity saving throw or lose control.
+You can attempt to carry another other person in addition to you on the glider. In this case, you must succeed on a DC 13 Dexterity saving throw or lose control. The DC increases by 3 with each additional person on the glider.
 
 <!--## Pai Sho Board
 ### Special White Lotus Tile
@@ -107,7 +104,7 @@ A water pouch holds the equivalent of a 1-foot-diameter sphere of water. It is t
 
 \page
 
-## Feats
+# Feats
 ***
 These feats can be chosen by any class in a Bender campaign.
 
@@ -146,10 +143,14 @@ These feats can be chosen by any class in a Bender campaign.
 - You have advantage on Wisdom (Survival) checks when foraging for tea leaves.
 - Once per long rest, if you have tea leaves or herbs available, you can create an infusion laced with healing power. Any creature who drinks it gains the benefits of a Potion of Healing. Drinking more than once from the infusion does not confer any additional benefits.
 
-## Backgrounds
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 4 | FEATS</div>
 
-### All Classes
-#### D&D 5e Backgrounds
+\page
+# Backgrounds
+
+## All Classes
+### D&D 5e Backgrounds
 <div style='column-count:2'>
   
 - Charlatan
@@ -166,72 +167,130 @@ These feats can be chosen by any class in a Bender campaign.
 - Urchin
 </div>
 
-#### White Lotus Memeber
-"Faction Agent" background with the White Lotus faction.
+### White Lotus Memeber
 
-#### Cloistered Scholar
-*Source: Sword Coast Adventurer's Guide*  
-You are a scholar from one of the great universities of the Earth Kingdom (e.g. from Ba Sing Se University). See the source for more details.
+**Skill Proficiencies:** Insight and one of Intelligence, Wisdom, or Charisma  
+**Tool Proficiencies:** Pai sho set, disguise kit  
+**Equipment:** White lotus pai sho tile, a copy of the history of the Order of the White Lotus, a set of common clothes, and a pouch containing 15 gp
 
-#### Southern Water Tribe
+***
+See the "Faction Agent" background in the *Sword Coast Adventurer's Guide* for the **Background Feature** and **Suggested Characteristics**.
 
-#### Northern Water Tribe
-Can choose to use Cons instead of Dex. OR have proficiency with Cons ST instead of Dex.
+### Cloistered Scholar
+You are a scholar from one of the great universities of the Earth Kingdom (e.g. from Ba Sing Se University).
+***
+**Tool Proficiencies:** One type of musical instrument, ?  
+
+***
+See the [Cloistered Scholar background](https://5ebackgrounds.com/cloistered-scholar/) in the *Sword Coast Adventurer's Guide* for the remaining details.
+
+### Fisher
+See the [Fisher background](https://ghostsofsaltmarsh-9.obsidianportal.com/wiki_pages/saltmarsh-backgrounds) in *Ghosts of Saltmarsh* for details.
+
+### Marine
+See the [Marine background](https://ghostsofsaltmarsh-9.obsidianportal.com/wiki_pages/saltmarsh-backgrounds) in *Ghosts of Saltmarsh* for details.
+
+### Shipwright
+See the [Shipwright background](https://ghostsofsaltmarsh-9.obsidianportal.com/wiki_pages/saltmarsh-backgrounds) in *Ghosts of Saltmarsh* for details.
+<!--In addition to the features described in the background's original source, you gain a swim speed of 30 feet.-->
 
 <!--div style="height: 1em;">
 </div-->
-### Waterbender
+## Waterbender
 
-#### Fisher
-*Source: Ghosts of Saltmarsh*  
-You have a swim speed of 30 feet.
+### Southern/Northern Water Tribe
 
-#### Marine
-*Source: Ghosts of Saltmarsh*  
-You have a swim speed of 30 feet.
+**Skill Proficiencies:**  
+**Tool Proficiencies:**  
+**Equipment:** 
 
-#### Shipwright
-*Source: Ghosts of Saltmarsh*  
-You have a swim speed of 30 feet.
+#### Feature: Cold Endurance
+Use Cons instead of Dex. OR have proficiency with Cons ST instead of Dex. (?)
 
-#### Swampbender
-You hail from the swamps in the Earth Kingdom. You use Wisdom instead of Intellingence as your primary waterbending modifier. 
+#### Suggested Characteristics
+Use the tables for the guild artisan background in the Player's Handbook as the basis for your traits and motivations, modifying the entries when appropriate to suit your role within your home tribe.  
 
-You have a swim speed of 30 feet.
+Your bond might be associated with other members of your tribe, or a location or an object that is important to your tribe. The ideal you strive for is probably in keeping with the tenets and principles of your tribe, but might be more personal in nature.
 
-### Earthbender
+### Swampbender
+You hail from the swamps in the Earth Kingdom.  
 
-#### Sandbender
-You hail from the Si Wong Desert. Your time in this arid biome has forced you to master a special form of earthbending known as sandbending. You gain ...  
+***
+**Skill Proficiencies:**  
+**Tool Proficiencies:**  
+**Other Proficiencies:** Swim speed 30 feet  
+**Equipment:**
 
+#### Feature: ?
+You use your Wisdom modifier as your waterbending modifier. 
+
+## Earthbender
+
+### Sandbender
+You hail from the Si Wong Desert. Your time in this arid biome has forced you to master a special form of earthbending known as sandbending.  
+
+***
+**Skill Proficiencies:**  
+**Tool Proficiencies:**  
+**Equipment:** 
+
+#### Feature: Sandbending
 The following earthbending forms are available to you in addition to the forms listed in the Earthbender class description.  
 
 ##### Sand spout
+*Cost: X chi*  
+...
+
 ##### Miniature Sandstorm
+*Cost: X chi*  
+...
 
-## Other Classes
-### Chi blocker
-When you take this feat, you learn to interfere with the flow of chi in an opponent's body. A maximum of three times per short rest, when you hit another creature with a melee weapon attack, you can attempt to block their flow of chi. The target must succeed on a Constitution saving throw or be stunned until the end of your next turn.  
-Modified Monk
+#### Suggested Characteristics
+...
 
-### Kyoshi Warrior
-Modified Fighter, uses fans
-
-### Swordmaster
-Modified Fighter (Samurai or Battlemaster), similar to Sokka's training
-- With specific bending attack defusion maneuvers
+## Firebender
+### ?
 
 <div class='pageNumber auto'></div>
-<div class='footnote'>PART 4 | FEATS</div>
+<div class='footnote'>PART 5 | BACKGROUNDS</div>
+
+\page
+
+## Airbender
+### Air Nomad
+[Based on Hermit]
+
+***
+**Skill Proficiencies:**  
+**Tool Proficiencies:**  
+**Equipment:** 
+
+#### Feature: ?
+
+#### Suggested Characteristics
+
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 5 | BACKGROUNDS</div>
 
 \page
 
 # Appendix
 
-### Notes about using the bender class
+### Using the Bender setting
 
 - This class is meant to be played in a world in which the only race is Human.
 - Do not use in combination with any magical D&D classes; so, you can play a Bender in a party with Barbarians, Fighters, Monks, or Rogues, but no others.
+- A custom character sheet that reflects the modifications made to regular 5e abilities, skill, etc. can be found [here](https://).
+
+### Other classes in this setting
+#### Chi blocker
+Modified Monk; you learn to interfere with the flow of chi in an opponent's body. A maximum of X times per long rest, when you hit another creature with a melee weapon attack, you can attempt to block their flow of chi. The target must succeed on a Constitution saving throw or be stunned until the end of your next turn.  
+
+#### Kyoshi Warrior
+Modified Fighter, uses fans; with specific bending attack defusion maneuvers
+
+#### Swordmaster
+Modified Fighter (Samurai or Battlemaster), similar to Sokka's training; with specific bending attack defusion maneuvers
 
 ### Credits
 * Made by Noemi Glaeser with [The Homebrewery](https://homebrewery.naturalcrit.com).
