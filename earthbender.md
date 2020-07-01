@@ -93,8 +93,8 @@ The attack bonus is hereafter referred to as your earthbending modifier.
 | 4th | +2 | 1d6   | 2  | 30/60 | 2  | 2 | Ability Score Improvement, Burrow
 | 5th | +3 | 1d8   | 2  | 60/120| 3  | 2 | Earthbending specialization
 | 6th | +3 | 1d8   | 2  | 60/120| 3  | 2 | Rolling Earth
-| 7th | +3 | 1d8   | 2  | 60/120| 4  | 3 | Expansion and Compaction
-| 8th | +3 | 1d8   | 4  | 60/120| 4  | 3 | Ability Score Improvement
+| 7th | +3 | 1d8   | 2  | 60/120| 4  | 3 | Ability Score Improvement, Expansion and Compaction
+| 8th | +3 | 1d8   | 4  | 60/120| 4  | 3 | Specialization feature
 | 9th | +4 | 1d8   | 4  | 60/120| 5  | 3 | Earth Reflex
 |10th | +4 | 1d8   | 4  |100/200| 5  | 3 | Earth Elevator
 |11th | +4 | 1d10  | 4  |100/200| 6  | 4 | –
@@ -204,7 +204,7 @@ At 20th level, ...
 ### Advanced Earthbending
 
 #### Seismic Sense
-Beginning when you choose this specialization at 5th level, you are so tuned in to the earth that you can sense vibrations with your feet with such detail that you have blind sense within your normal bending range. Enemies also have disadvantage when trying to surprise you.  
+Beginning when you choose this specialization at 5th level, you are so tuned in to the earth that you can sense vibrations with your feet. You have tremorsense within your normal bending range, allowing you to "see" anything in contact with the ground (as long as you are connected by earth). Enemies also have disadvantage when trying to surprise you.  
 
 Additionally, you gain advantage on Insight checks when your target is in normal earthbending range.
 
