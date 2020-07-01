@@ -51,10 +51,10 @@ When you take a basic bending attack, you spend 1 point of chi and deal 1d6 blud
 At 1st level, you must choose which of your modifiers to use for attacks: Intelligence or Dexterity. This cannot be changed later.  
 
 
-**Attack Bonus** = proficiency + [Int **or** Dex modifier]   
+**Attack Bonus** = proficiency + [Int OR Dex modifier]   
 
 
-**Damage Bonus** = [Int **or** Dex modifier]  
+**Damage Bonus** = [Int OR Dex modifier]  
 
 The attack bonus is hereafter referred to as your waterbending modifier.
 
@@ -95,7 +95,7 @@ Beginning at 2nd level, you adopt a particular stance as your specialty. Choose 
 |16th | +5 | 1d10    | 20 ft. |150/300| 8 | 5     |Ability Score Improvement|
 |17th | +6 | 1d12    | 20 ft. |150/300| 9 | 5     |Specialization feature|
 |18th | +6 | 1d12    | 20 ft. |200/400| 9 | 5     |–|
-|19th | +6 | 1d12    | 20 ft. |200/400| 10| 5     |Ability Score Improvement|
+|19th | +6 | 1d12    | 20 ft. |200/400| 10| 6     |Ability Score Improvement|
 |20th | +6 | 1d12    | 20 ft. |200/400| 10| 6     |?|
 </div>
 

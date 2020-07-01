@@ -102,7 +102,7 @@ You learn one form from the list at the end of this class description. The numbe
 |16th | +5 | +25 ft.  | 1d10 |150/300| 8 | 5 | Ability Score Improvement|
 |17th | +6 | +25 ft.  | 1d10 |150/300| 9 | 5 | Specialization feature|
 |18th | +5 | +30 ft.  | 1d10 |200/400| 9 | 5 | – |
-|19th | +5 | +30 ft.  | 1d10 |200/400| 10| 5 | Ability Score Improvement|
+|19th | +5 | +30 ft.  | 1d10 |200/400| 10| 6 | Ability Score Improvement|
 |20th | +5 | +30 ft.  | 1d10 |200/400| 10| 6 | Detachment|
 </div>
 

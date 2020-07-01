@@ -103,7 +103,7 @@ You favor a style that utilizes momentary bursts of extreme power at the expense
 |16th | +5 | 1d10  |150/300| 8 | 5 | Ability Score Improvement
 |17th | +6 | 1d12  |150/300| 9 | 5 | Specialization feature
 |18th | +6 | 1d12  |200/400| 9 | 5 | –
-|19th | +6 | 1d12  |200/400| 10| 5 | Ability Score Improvement
+|19th | +6 | 1d12  |200/400| 10| 6 | Ability Score Improvement
 |20th | +6 | 1d12  |200/400| 10| 6 | Dragonfire
 </div> 
 

@@ -72,10 +72,10 @@ When you take a basic bending attack, you spend 1 point of chi and deal 1d6 blud
 
 At 1st level, you must choose which of your modifiers to use for attacks: Charisma or Strength. This cannot be changed later.
 
-**Attack Bonus** = proficiency + [Cha **or** Str modifier]  
+**Attack Bonus** = proficiency + [Cha OR Str modifier]  
 
 
-**Damage Bonus** = [Cha **or** Str modifier]  
+**Damage Bonus** = [Cha OR Str modifier]  
 
 The attack bonus is hereafter referred to as your earthbending modifier.
 
@@ -105,7 +105,7 @@ The attack bonus is hereafter referred to as your earthbending modifier.
 |16th | +5 | 1d10  | 8  |150/300| 8  | 5 | Ability Score Improvement
 |17th | +6 | 1d12  | 8  |150/300| 9  | 5 | Specialization feature
 |18th | +6 | 1d12  | 8  |200/400| 9  | 5 | –
-|19th | +6 | 1d12  | 8  |200/400| 10 | 5 | Ability Score Improvement
+|19th | +6 | 1d12  | 8  |200/400| 10 | 6 | Ability Score Improvement
 |20th | +6 | 1d12  | 8  |200/400| 10 | 6 | ?
 </div>
 ### Earthwall
