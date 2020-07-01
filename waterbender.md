@@ -59,9 +59,12 @@ At 1st level, you must choose which of your modifiers to use for attacks: Intell
 The attack bonus is hereafter referred to as your waterbending modifier.
 
 ### Redirection
-Starting at 2nd level, you can use your reaction to attempt to redirect an attack when you are hit by a basic ranged water attack (not one that is the result of a bending form nor specialized bending such as an advanced waterbending ability). You also gain the ability to use water in your control to attempt to redirect basic ranged earth attacks, as long as the volume of earth used in the attack is smaller than the volume of water you use to redirect it, and non-bending ranged attacks in the same way.  
+Starting at 2nd level, you can use your reaction to attempt to redirect a ranged attack that hits you. This ability applies to
+- basic ranged waterbending attacks (not ones that are the result of a bending form nor specialized bending such as an advanced waterbending ability)
+- basic ranged earthbending attacks, as long as the volume of earth used in the attack is smaller than the volume of water you use to redirect it
+- non-bending ranged attacks
 
-When you do so, the damage you take from the attack is reduced by 1d10 + your waterbending modifier + your waterbender level. If you reduce the damage to 0 and have at least one hand free, you redirect the element to make a ranged attack against a creature of your choice as part of the same reaction.  
+You must have at least one hand free to use this ability. When you do so, the damage you take from the attack is reduced by 1d10 + your waterbending modifier + your waterbender level. If you reduce the damage to 0 and have at least one hand free, you redirect the element to make a ranged attack against a creature of your choice as part of the same reaction.  
 
 You can use this ability a number of times equal to your bending modifier per long rest.  
 
@@ -86,7 +89,7 @@ Beginning at 2nd level, you adopt a particular stance as your specialty. Choose 
 | 7th | +3 | 1d8     | 10 ft. | 60/120| 4 | 3     |Ability Score Improvement, ?|
 | 8th | +3 | 1d8     | 15 ft. | 60/120| 4 | 3     |Specialization feature|
 | 9th | +4 | 1d8     | 15 ft. | 60/120| 5 | 3     |Improved Water Movement|
-|10th | +4 | 1d8     | 15 ft. |100/200| 5 | 3     |Water Bubble|
+|10th | +4 | 1d8     | 15 ft. |100/200| 5 | 3     |?|
 |11th | +4 | 1d10    | 15 ft. |100/200| 6 | 4     |–|
 |12th | +4 | 1d10    | 15 ft. |100/200| 6 | 4     |Ability Score Improvement, Specialization feature|
 |13th | +5 | 1d10    | 15 ft. |100/200| 7 | 4     |?|
@@ -152,8 +155,8 @@ At 7th level, ...
 ### Improved Water Movement
 At 9th level, your control over solid water also grants you the ability to move easily over ice and snow. For you, this type of terrain is no longer difficult terrain.
 
-### Water Bubble
-At 10th level, you learn to reshape water around you when you are submerged. You create a protective bubble around yourself (maximum size one medium creature) to maintain a supply of breathable air. With this air, you can stay underwater indefinitely without having to hold your breath.
+### ?
+At 10th level, ...
 
 ### ???
 Beginning at 13th level, ... [Some improved ability or saving throws]
@@ -184,21 +187,18 @@ At 8th level, you deepen your inner pool of chi. You gain one additional chi to 
 #### Advanced Forms
 At 12th level, you learn an additional form of your choice from the following list:  
 
-##### Ice Attack
-*Cost: X chi*  
-...
 
-##### Steam Attack
-*Cost: X chi*  
-...
+##### Maelstrom
+##### Mist-stepping
+##### Ice Prison 
+
+#### Expanded Horizons
+At 17th level, you study benders of other elements to improve your own bending. You learn one additional form off one of the other classes' form lists and adapt it to water (at the discretion of your DM).
 
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 2 | CLASSES</div>
 
 \page
-#### Expanded Horizons
-At 17th level, you study benders of other elements to improve your own bending. You learn one additional form off one of the other classes' form lists and adapt it to water (at the discretion of your DM).
-
 ### Healing
 
 #### Healing
@@ -275,16 +275,48 @@ At 19th level, you are able to read the spiritual energy in the connected plant 
 <!--(Even mix of defense and offense)-->
 For forms which require a target to make a saving throw, your DC is 8 + your proficiency modifier + your waterbending modifier.
 
-#### State Change
+You start out knowing forms marked with an asterisk.
+
+#### State Change\*
 *Cost: 1 chi*  
 Each state of water (solid – liquid – gas) can be converted to a state adjacent to it. For example, ice or snow can be turned into liquid water, liquid water can be turned into either solid or gaseous water, but you cannot convert directly between, e.g., snow and water vapor.  
-
+<!--##### Breath of Ice
+Convert liquid water to ice.-->
 
 To convert to and from gaseous water you must be at least level 4.
 
+#### Floor of Ice\*
+*Cost: 1 chi*  
+You cause the effects of the *Grease* spell.
+
+#### Purify Drink
+*Cost: 1 chi*  
+You gain the abilities granted by the spell *Purify Food and Drink*, but only for liquids.
+
 #### Ice Shield
 *Cost: 1 chi*  
-You shape water into a swirling disk by your arm and freeze it. Your AC increases by 2. If an attack that would have hit you without the shield misses because of it (hitting the shield), it deals damage to the shield instead. The Shield has 10 HP and shatters when it drops to 0.
+You shape water into a swirling disk by your arm and freeze it. Your AC increases by 2. If an attack that would have hit you without the shield misses because of it (hitting the shield), it deals damage to the shield instead. The Shield has 15 HP and shatters when it drops to 0.
+
+Each additional chi point your spend increases the HP of the shield by 10.
+
+#### Water Whip  
+*Cost: 1 chi*  
+You shape the water at your disposal into a lashing tendril (which has the statistics of a whip) and swipe at a target within 15 feet, dealing 1d4 bludgeoning damage on a hit. For each additional chi point you spend, you create and attack with another water whip, dealing an additional die of damage.  
+
+#### Water Tendril
+*Cost: 1 chi*  
+You create a water tendril. Its reach depends on the amount of water your spend creating it; as a general rule of thumb, the reach will be 5 feet per 1-foot-diameter sphere of water. When you create the tendril and by spending another chi on subsequent turns, you can cause it to take one of the following actions:
+
+##### Attack
+The tendril acts as a water whip with 1 chi (see the *Water Whip* form).
+
+<div style="height: 4em;">
+</div>
+##### Grapple
+You grapple a Large or smaller creature within the tendril's range. The tendril's Strength modifier is equal to your waterbending modifier.
+
+##### Manipulate
+The tendril can interact with objects as a *Mage Hand* would, but it doesn't have fingers so it lacks fine-grained control.
 
 #### Ice Sword
 *Cost: 1 chi (2 chi)*  
@@ -295,64 +327,98 @@ You form water into a blade shape and freeze it. While you maintain concentratio
 *Cost: 2 chi*  
 The next time you successfully hit a creature with a bending attack, you channel your inner chi to rapidly shape water into a sharp point or edge for a split second when you make contact with the target. The attack deals an additional 1d4 slashing damage.   
 
+
 If the target is wearing armor and you roll a 15 or higher to hit, this gash weakens the armor sufficiently to cause the target's AC to decrease by 1 until they repair the damage done to their armor.
 
 #### Ice Creeper
 *Cost: 2 chi*   
-You send a ray of ice across the ground streaking towards a target of your choice within range. The target must succeed on a Dexterity Saving Throw or be Restrained as their feet are frozen in place.
+You send a ray of ice across the ground streaking towards a target of your choice within range. The target must succeed on a Dexterity Saving Throw or be Restrained as their feet are frozen in place.  
+
+
+At the end of each of its turns, a restrained target can make a Strength saving throw against your save DC to break free.
 
 #### Water Jet
 *Cost: 2 chi*  
-When you use this form, you send a pressurized jet of water at an attacker. You deal an amount of damage equal to twice your bending die. You also roll a Strength (Athletics) check opposed by the target's Strength (Athletics) or Dexterity (Acrobatics) check. If the target fails, it is knocked prone.
+When you use this form, you make an attack roll to send a pressurized jet of water at an attacker. You deal an amount of damage equal to twice your bending die on a hit. You also roll a Strength (Athletics) check opposed by the target's Strength (Athletics) or Dexterity (Acrobatics) check. If the target fails, it is knocked prone.
 
-#### Water Whip  
-*Cost: 2 chi*  
-You shape the water at your disposal into a lashing tendril and swipe at a target within range, dealing 1d10 bludgeoning damage. For each additional chi point you spend, you create and attack with another water whip, dealing an additional die of damage.  
-
-For purposes of taking other actions, these tendrils have your same stats.
-
-<div style="height: 4em;">
-</div>
 #### Ice Daggers
 *Cost: 2 chi*  
-You create and launch 4 ice daggers at any combination of targets within your long range (the second number in the "Range" column). These attacks are made without disadvantage. Each dagger deals 1d4 percing damage.   
+You create and launch 2 ice daggers at any combination of targets within your long range (the second number in the "Range" column). These attacks are made without disadvantage. Each dagger deals 1d4 percing damage.   
+
 
 You gain an additional dagger for each extra chi you spend.
 
-<!--##### Breath of Ice
-Convert liquid water to ice.-->
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 2 | CLASSES</div>
+\page
 
-#### Something with Stun?
+#### Ice Shards
+*Cost: 2 chi*  
+You cause ice shards to rain down on creatures in a 5-foot radius sphere centered on a point within your normal bending range. Each creature in this area must succeed on a Dexterity saving throw or take 1d8 piercing damage.
+
+#### Fists of Ice
+*Cost: 2 chi*  
+You cover your fists with a layer of ice. For the next minute, you can add an additional 1d4 to damage dealt by your unarmed strikes.
+
+#### Ice Head
+*Cost: 3 chi*  
+You make a ranged attack to hurl a sphere of water at a target. The sphere must be 1 foot in diameter for a medium or smaller creature and an an additional foot in diameter for each size above medium. 
+
+On a hit, the target's head is encased in ice and it starts suffocating. Each turn the creature ends with its head still encased in ice, it takes 2d6 cold damage.
+
+On each of its turns, the target can spend its action making a Strength saving throw against your DC to break free.
+[This needs a better name]
+
 #### Water Wall
-#### Wave
+*Cost: 3 chi*  
+You cause the effects of the spell *Wall of Water*. When you create the wall, you choose any area(s) of 5 square feet of the wall that are ice instead of water. You spend 1 chi point per 5-square-foot area.
+
+#### Underwater Bubble
+*Cost: 3 chi*  
+You reshape water around you while submerged to maintain a supply of breathable air, causing the effects of the spell *Water Breathing*.
+
+#### Water Dome
+*Cost: 3 chi*  
+(Lasts 24 hours unless you dismiss it.)
+
 #### Octopus
-*Cost: 5 chi*   
-...  
-Stays as long as you maintain concentration; each arm gets to do 1 chi of attack.
+*Cost: 4 chi*    
+You create 4 water tendrils (see the *Water Tendril* form for actions the tendrils can take). Each additional chi you spend creates another tendril.
+
+#### Wave
+*Cost: 4 chi*  
+
+#### Razor Rings
+*Cost: 4 chi*  
+
+#### Ice Storm
+*Cost: 5 chi*  
+You cause the effects of the *Ice Storm* spell.
+
+<div style="height:2em;">
+</div>
+#### Drowning
+*Cost: 6 chi*  
+See [here](https://www.dndbeyond.com/spells/14673-water-lung).
+
 <!--Advanced moves-->
 #### Ice Dome
 #### Ice Drill
-#### Ice Floor
 #### Ice Ladder?
 #### Ice Ramp
 #### Ice Tunneling
-#### Maelstrom\*
-#### Mist-stepping\*
-#### Ice Prison\*
-#### Razor Rings
 #### Water Ball
-#### Water Dome
 #### Water Drill
 
 <!--#### Ice Claws
 #### Ice Column
 #### Ice Disk
-#### Ice Gauntlet
 #### Iceberg Spike
-#### Phase Change
 #### Water Manipulation
 #### Water Pressure Manipulation
 #### Ice Spear
+
+See https://www.dndbeyond.com/spells/control-water
 
 =Advanced=
 #### Water Boxing
