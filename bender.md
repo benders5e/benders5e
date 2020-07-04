@@ -99,6 +99,8 @@ When used by a waterbender for healing, it restores double the amount of HP gran
 ## Water pouch
 A water pouch holds the equivalent of a 1-foot-diameter sphere of water. It is typically worn on the waist and can be used for waterbending when no water source is within range.
 
+## Hooked Swords
+
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 3 | ITEMS</div>
 
