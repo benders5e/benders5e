@@ -109,7 +109,7 @@ The attack bonus is hereafter referred to as your earthbending modifier.
 |20th | +6 | 1d12  | 8  |200/400| 10 | 6 | ?
 </div>
 ### Earthwall
-Starting at 2nd level, you can use your reaction to create a wall 10 feet long, 5 feet high, and 1/2 foot thick in front of you to defend against an incoming attack. You can use this ability after the attack roll, but before the outcome is revealed.  
+Starting at 2nd level, you can use your reaction to create a wall 10 feet long, 5 feet high, and 1/2 foot thick in front of you to defend against an incoming attack. You can use this ability after the attack roll, but before the outcome is determined.  
 
 
 The wall stays in place unless it is earthbent away or destroyed by other means. As with all products of earthbending, the wall's AC and HP can be determined according to regular D&D 5e object rules. More specifically, the AC is determined by the type of earth you bend into the wall, and the HP is 15 per inch of thickness (resilient medium object).
@@ -242,7 +242,7 @@ At 17th level, ...
 ### Lavabending
 
 #### Melting Earth
-Beginning when you choose this specialization at 5th level, you can melt a 5 foot-square area of the ground within your range into lava, provided it is earth. Once the lava is produced, it slowly hardens due to the exposure to the air. This amount of time is determined for each type of earth (no more than once per encounter) and takes 1d6 rounds (starting at the end of your turn).  
+Beginning when you choose this specialization at 5th level, you can melt an unoccupied 5 foot-square area of the ground within your range into lava, provided it is earth. Once the lava is produced, it slowly hardens due to the exposure to the air. This amount of time is determined for each type of earth (no more than once per encounter) and takes 1d6 rounds (starting at the end of your turn).  
 Any creature standing in the lava takes X fire damage ...
 
 #### Volcanic Rock
