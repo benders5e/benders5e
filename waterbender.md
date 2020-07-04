@@ -103,14 +103,16 @@ Beginning at 2nd level, you adopt a particular stance as your specialty. Choose 
 </div>
 
 #### Water Ring
-In combat, you surround yourself with a ring of water which you can use as your source of bending. The water also helps protect you from attacks, granting you a +2 bonus to AC.   
+In combat, you surround yourself with a ring of water which you can use as your source of bending. While surrounded by this ring, once per turn you can reduce the cost of a bending form by one chi. 
 
-You must spend one chi on one of your turns to create the ring and gain these benefits.
+The water also helps protect you from attacks, granting you a +2 bonus to AC.   
+
+You must spend one chi on one of your turns to create the ring and gain these benefits. After 1 minute, the ring disappears, and you must spend another chi to create it once again.
 
 #### Water Arms
 You coat your arms in water, increasing your reach by 5 feet. When you take an opportunity attack, you can attempt to grapple the target instead. Your grapple ends if anything passes through the water tendril.  
 
-With these tendrils, you also gain the ability to block non-bending melee attacks as a reaction, reducing the damage by 1d10 + your waterbending modifier + your waterbender level.     
+With these tendrils, you also gain the ability to use your Redirection ability on non-bending melee attacks.    
 
 You must spend one chi on one of your turns to collect water around your arms and gain these benefits.
 
@@ -175,25 +177,29 @@ Beginning at 15th level, you are able to use your control of water to raise your
 ### ???
 At 20th level, ... (something consistent with "element of change"?)
 
-<!--div style="height:9em;">
-</div-->
 ## Waterbending specializations
 
 ### Advanced Waterbending
 
 #### Water is Everywhere
-Beginning when you choose this specialization at 5th level, you can draw water from your environment. From now on, you don't need a water source within 30 feet – instead, you can spend 1 minute concentrating to draw water from plants within 30 feet of you. If you are not in an arid environment, you can spend 2 minutes drawing water from the air. In both cases, you are able to obtain a water sphere 1 foot in diameter.  
+Beginning when you choose this specialization at 5th level, you can draw water from your environment. From now on, you don't need a water source within 30 feet – instead, you can spend 6 seconds (1 round of combat) concentrating to draw water from plants within 30 feet of you. If you are not in an arid environment, you can spend 1 minute drawing water from the air. In both cases, you are able to obtain a water sphere 1 foot in diameter.  
 
 #### Pool of Chi
 At 8th level, you deepen your inner pool of chi. You gain one additional chi to spend per attack.
+[Need to replace this, it's not great.]
 
 #### Advanced Forms
 At 12th level, you learn an additional form of your choice from the following list:  
 
 
 ##### Maelstrom
+*Cost: X chi*  
+
 ##### Mist-stepping
+*Cost: X chi*  
+
 ##### Ice Prison 
+*Cost: X chi*  
 
 #### Expanded Horizons
 At 17th level, you study benders of other elements to improve your own bending. You learn one additional form off one of the other classes' form lists and adapt it to water (at the discretion of your DM).
@@ -227,25 +233,33 @@ At 17th level, you are able to use the water within your own body and the wounde
 *Prerequisite: Find a bloodbending master.*
 
 #### Paralysis
-Beginning when you choose this specialization at 5th level, you learn to control the water inside others' bodies. During the full moon, you can attempt to stop one creature at a time in its tracks, provided it is within your range.   
+Beginning when you choose this specialization at 5th level, you learn to control the water inside others' bodies. You can use your action to attempt to stop one creature at a time in its tracks, provided it is within your range. You can use this ability a number of times equal to your bending modifier per long rest.   
 
+The creature makes a Charisma saving throw against your bending DC. If the moon is full (see the "Phases of the Moon" inset to learn how to determine the phase of the moon), the creature becomes Paralyzed on a failure and Restrained on a success. If the moon is not full, the creature becomes Restrained on a failure and nothing happens on a success.
 
-The creature makes a contested Charisma Saving Throw. On a fail, it becomes Paralyzed. At the end of each of its turns, the target can make another Charisma saving throw. On a success, it stops being Paralyzed.
+> ##### Phases of the Moon
+> If you are using the *Celestial Tracking* variant of the Bender expansion (see Part 1), your DM will keep track of the current position of the celestial bodies, including the phases of the moon.  
+> 
+> If you are not using the variant, roll a 1d8 when you wish to use your bloodbending abilities to determine the phase of the moon. An 8 indicates a full moon, whereas rolls of 1-7 correspond to the other phases and lead to diminished bloodbending powers.
+
+The condition of the creature persists while you maintain concentration. At the end of each of its turns, the target can make another Charisma saving throw. On a success, the condition (Paralyzed or Restrained) ends and the creature is immune to your bloodbending until it has taken a long rest.
 
 #### Bloodbending
-At 8th level, your power grows. During the full moon, you can attempt to control the movements of a creature instead of only Paralyzing it.  
+At 8th level, your power grows. During the full moon, you can use your action to attempt to control the movements of a creature instead of only Paralyzing it.  You can use this ability a number of times equal to your bending modifier per long rest.     
 
+The creature makes a Saving Throw as before. During a full moon, a failure leads it to become Paralyzed and its subsequent movements are under your control. On its turn, you can force the creature to take its movement and one Action (no bonus actions). If you cause it to take the Attack action, it only makes one attack. You can also cause the creature to use a Reaction, but this requires you to use your own Reaction as well. On a success, the creature becomes Paralyzed, but you have no control over its movements.
 
-The creature makes a Saving Throw as before, but on a fail, it becomes Paralyzed and its subsequent movements are under your control. On its turn, you can force the creature to take its movement and one Action (no bonus actions). If you cause it to take the Attack action, it only makes one attack. You can also cause the creature to use a Reaction, but this requires you to use your own Reaction as well.  
+If the moon is not full, on a failure you can only force the target to use half its movement and take one Action at disadvantage (that is, attacks and ability checks you force it to take are made at disadvantage). You cannot make the creature use its Reaction. With a successful saving throw, the target is only Paralyzed and you have no further control over its actions.
 
-
-At the end of each of its turns, the target can make another Charisma saving throw. On a success, your control ends.  
+These effects persist while you maintain concentration. At the end of each of its turns, the target can make another Charisma saving throw. On a success, your control ends and the creature is immune to your bloodbending until it has taken a long rest. 
 
 The number of creatures you can control increases with your bloodbender level (waterbender level minus 5); at each level, you can control a number of creatures equal to half your bloodbender level, rounded down (minimum of 1).
 
 #### Greater Bloodbending
-At 12th level, your bloodbending control increases. At the full moon, you can attempt to control 2 creatures in range with your bloodbending. This number continues to increase according to you waterbender level; at each level, you can control a number of creatures equal to your waterbender level minus 8, divided by 2.
+At 12th level, your bloodbending control increases. ??
 
+<!--div style="height: 2em;">
+</div-->
 #### Bending Block
 At 17th level, you learn to use bloodbending to temporarily block another bender's abilities. Once per long rest, if the other bender is Restrained, you can touch them on the center of the forehead and use an action to remove their bending. They regain their bending after 1d100 hours.
 
@@ -255,25 +269,25 @@ At 19th level, you are able to bloodbend even on nights without a full moon, exc
 ### Swampbending
 
 #### Plantbending
-Beginning when you choose this specialization at 10th level, you learn to control the water in plants. You can move one stem of a plant (one continuous tube) as you choose.
-
-<!--div style="height: 4em;">
-</div-->
-#### Greater Plantbending
-At 13th level, you learn to control 2 plants in your range at a time with your bending. This number continues to increase according to your swampbender level (waterbender level minus 10); at each level, you can control a number of stems equal to half your swampbender level (minimum of 2).
-
-#### Plant Armor
-At 17th level, you can summon plant to create a sort of biological armor. You spend two minutes gathering enough plants to surround you. Your AC is 18.
-
-#### Spirit Vines
-At 19th level, you are able to read the spiritual energy in the connected plant matter of the world. Once per long rest, you can spend at most one minute meditating while touching a plant. During this minute, you see the events currently happening in another place anywhere else in the world of your choosing, provided it has some plant cover.
-
-<!--Lifting things/pushing things-->
+Beginning when you choose this specialization at 5th level, you learn to control the water in plants. You can move one stem of a plant (one continuous tube) as you choose. The stem's physical modifiers are equal to your bending modifier.
 
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 2 | CLASSES</div>
 
 \page
+#### Greater Plantbending
+At 8th level, you learn to control 2 plants in your range at a time with your bending. This number continues to increase according to your swampbender level (waterbender level minus 5); at each level, you can control a number of stems equal to half your swampbender level (minimum of 2).
+
+#### Plant Armor
+At 12th level, you can summon plant to create a sort of biological armor. You spend two minutes gathering enough plants to surround you, increasing your AC <!--by X to a maximum of?--> to 18.
+
+#### Spirit Vines
+At 17th level, you are able to read the spiritual energy in the connected plant matter of the world. Once per long rest, you can spend at most ten minutes meditating while touching a plant. You essentially cast the spell *Scrying*, allowing you to see the events currently unfolding in another place of your choosing anywhere else in the material world, provided it has some plant cover.
+
+You can also choose to use this ability to gain the benefits of the spell *Commune with Nature* instead.
+
+<!--Lifting things/pushing things-->
+
 ## Waterbending Forms
 <!--(Even mix of defense and offense)-->
 For forms which require a target to make a saving throw, your DC is 8 + your proficiency modifier + your waterbending modifier.
