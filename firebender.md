@@ -110,14 +110,14 @@ You favor a style that utilizes momentary bursts of extreme power at the expense
 ### Firebending Forms
 At 3rd level, your connection to chi and practice of bending allows you to weave your bending into your combat style. With training, you are able to learn particular forms that combine martial arts and firebending to carry out more sophisticated attacks.  
 
-You learn one form from the list at the end of this class description. The number of forms you know increases with level and is shown in the Firebender Table. 
+You learn one form from the list at the end of this class description. The number of forms you know increases with level and is shown in the Firebender Table. Each time you learn a new form you may also replace one form you already know with another one. 
 
 Every time you take the Attack action on your turn, you have a certain amount of *chi* at your disposal (indicated by the "Chi per Attack" column of the class table). You can distribute your chi among basic bending attacks or regular bending (*cost: 1 chi*) and any forms you know (whose costs are indicated with their descriptions). You can use each form a maximum of once per turn.
 
 #### Chi Exhaustion
 Channeling chi into attacks is a physically and mentally draining endeavor.   
 
-You have 4 exhaustion points at your disposal. (Use a d4 to keep track.) The d4 starts with the "4" pointing up. Every turn you use all of your chi, you decrement this counter. When the counter indicates a "1", you need to take a break from bending and cannot spend any chi that turn. Every turn that you do *not* use all your chi, the counter increments by 1. This counter resets every long rest.  
+You have 4 exhaustion points at your disposal. (Use a d4 to keep track.) The d4 starts with the "4" pointing up. Every turn you use all of your chi, you decrement this counter. When the counter indicates a "1", you need to take a break from bending and cannot spend any chi or take bending reactions that turn. Any bending concentration is also broken. Every turn that you do *not* use all your chi, the counter increments by 1. This counter resets every long rest.  
 
 For example, say the counter is set at 2. That turn, you spend all your chi points attacking and turn the counter to 1. The next turn, you have 0 chi to spend, and you can either use your Attack action to make a melee, non-bending attack or forfeit it. The next turn, your counter is back up to 2. If you spend all your chi once again, it decreases back to 1 again, but if you spend anything less than the maximum (e.g. all but one chi) the counter once again increases to 3.
 
@@ -243,6 +243,8 @@ At 12th level, you learn an additional form of your choice from the following li
 #### ???
 At 17th level, ...
 
+<div style="height:16em;">
+</div>
 ## Firebending Forms
 <!--Mostly offense stuff-->
 
@@ -274,24 +276,22 @@ You prepare to defuse the next attack that hits you. The next time a creature ro
 *Cost: 2 chi*  
 You shape your flame into a lashing tendril and swipe at a target within range, dealing 1d10 bludgeoning damage. For each additional chi point you spend, you create and attack with another fire lash, dealing an additional die of damage.
 
-<!--div style="height:6em;">
-</div-->
 #### Projectiles
 *Cost: 2 chi*  
 You create and launch 4 miniature fireballs at any combination of targets within your long range (the second number in the "Range" column). These attacks are made without disadvantage. Each fireball deals 1d4 fire damage.   
 
 You gain an additional dagger for each extra chi you spend.
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 2 | CLASSES</div>
+
+\page
+
 #### Fire Stream
 *Cost: 2 chi*  
 You shoot a continuous stream of fire from their fingertips, fists, palms, or legs, forming a line 5 feet wide and as long as your bending range. Each creature in the line must make a Dexterity saving throw (the DC is 8 + proficiency bonus + your firebending modifier). A creature takes 4d6 fire damage on a failed save, or half as much damage on a successful one.  
 
 The stream widens by 5 feet for each additional chi you spend.
-
-<div class='pageNumber auto'></div>
-<div class='footnote'>PART 2 | CLASSES</div>
-
-\page
 
 #### Create Lightning
 *Cost: 3 chi*  

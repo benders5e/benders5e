@@ -1,4 +1,4 @@
-Link: https://homebrewery.naturalcrit.com/edit/grt0crs-z_
+Link: https://homebrewery.naturalcrit.com/edit/grt0crs-z\_
 
 # Earthbender
 
@@ -141,14 +141,14 @@ Light on your feet.-->
 ### Earthbending Forms
 At 3rd level, your connection to chi and practice of bending allows you to weave your bending into your combat style. With training, you are able to learn particular attacks that combine martial arts and earthbending to carry out more sophisticated attacks.   
 
-You learn one form from the list at the end of this class description. The number of forms you know increases with level and is shown in the Earthbender Table.
+You learn one form from the list at the end of this class description. The number of forms you know increases with level and is shown in the Earthbender Table. Each time you learn a new form you may also replace one form you already know with another one.
 
 Every time you take the Attack action on your turn, you can distribute your chi among basic bending attacks (*cost: 1 chi*) and any forms you know (whose costs are indicated with their descriptions). You can use each form a maximum of once per turn.
 
 #### Chi Exhaustion
 Channeling chi into attacks is a physically and mentally draining endeavor.  
 
-You have 4 exhaustion points at your disposal. (Use a d4 to keep track.) The d4 starts with the "4" pointing up. Every turn you use all of your chi, you decrement this counter. When the counter indicates a "1", you need to take a break from bending and cannot spend any chi that turn. Every turn that you do *not* use all your chi, the counter increments by 1. This counter resets every long rest.  
+You have 4 exhaustion points at your disposal. (Use a d4 to keep track.) The d4 starts with the "4" pointing up. Every turn you use all of your chi, you decrement this counter. When the counter indicates a "1", you need to take a break from bending and cannot spend any chi or take bending reactions that turn. Any bending concentration is also broken. Every turn that you do *not* use all your chi, the counter increments by 1. This counter resets every long rest.  
 
 For example, say the counter is set at 2. That turn, you spend all your chi points attacking and turn the counter to 1. The next turn, you have 0 chi to spend, and you can either use your Attack action to make a melee, non-bending attack or forfeit it. The next turn, your counter is back up to 2. If you spend all your chi once again, it decreases back to 1 again, but if you spend anything less than the maximum (e.g. all but one chi) the counter once again increases to 3.
 
@@ -302,7 +302,7 @@ For projectiles of another element, the damage of each projectile is reduced by 
 *Cost: 2 chi*  
 You stomp on the ground, using your kinetic energy to levitate a mass of earth equal to your bending capacity (shown in the class table). In the same motion, you can push the rock at a target of your choice, dealing double times your regular bending damage + 1d4 additional damage.
 
-<div style="height:3em;">
+<div style="height:6em;">
 </div>
 #### Earthwave
 *Cost: 2 chi*  

@@ -114,22 +114,23 @@ With these tendrils, you also gain the ability to block non-bending melee attack
 
 You must spend one chi on one of your turns to collect water around your arms and gain these benefits.
 
-<div style="height:5em;">
-</div>
+<!--div style="height:5em;">
+</div-->
 ### Waterbending Forms
 At 3rd level, your connection to chi and practice of bending allows you to weave your bending into your combat style. With training, you are able to learn particular attacks that combine martial arts and bending to carry out more sophisticated attacks.   
 
-You learn one form from the list at the end of this class description. The number of forms you know increases with level and is shown in the Waterbender Table.  
+You learn one form from the list at the end of this class description. The number of forms you know increases with level and is shown in the Waterbender Table. Each time you learn a new form you may also replace one form you already know with another one.  
+
 
 Every time you take the Attack action on your turn, you have a certain amount of *chi* at your disposal (indicated by the "Chi per Attack" column of the class table). You can distribute your chi among basic bending attacks or regular bending (*cost: 1 chi*) and any forms you know (whose costs are indicated with their descriptions). You can use each form a maximum of once per turn.
+
+#### Chi Exhaustion
+Channeling chi into attacks is a physically and mentally draining endeavor.    
 
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 2 | CLASSES</div>
 \page
-#### Chi Exhaustion
-Channeling chi into attacks is a physically and mentally draining endeavor.   
-
-You have 4 exhaustion points at your disposal. (Use a d4 to keep track.) The d4 starts with the "4" pointing up. Every turn you use all of your chi, you decrement this counter. When the counter indicates a "1", you need to take a break from bending and cannot spend any chi that turn. Every turn that you do *not* use all your chi, the counter increments by 1. This counter resets every long rest.  
+You have 4 exhaustion points at your disposal. (Use a d4 to keep track.) The d4 starts with the "4" pointing up. Every turn you use all of your chi, you decrement this counter. When the counter indicates a "1", you need to take a break from bending and cannot spend any chi or take bending reactions that turn. Any bending concentration is also broken. Every turn that you do *not* use all your chi, the counter increments by 1. This counter resets every long rest. 
 
 For example, say the counter is set at 2. That turn, you spend all your chi points attacking and turn the counter to 1. The next turn, you have 0 chi to spend, and you can either use your Attack action to make a melee, non-bending attack or forfeit it. The next turn, your counter is back up to 2. If you spend all your chi once again, it decreases back to 1 again, but if you spend anything less than the maximum (e.g. all but one chi) the counter once again increases to 3.
 
@@ -158,6 +159,8 @@ At 9th level, your control over solid water also grants you the ability to move 
 ### ?
 At 10th level, ...
 
+<div style="height:3em;">
+</div>
 ### ???
 Beginning at 13th level, ... [Some improved ability or saving throws]
 
@@ -351,7 +354,6 @@ You gain an additional dagger for each extra chi you spend.
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 2 | CLASSES</div>
 \page
-
 #### Ice Shards
 *Cost: 2 chi*  
 You cause ice shards to rain down on creatures in a 5-foot radius sphere centered on a point within your normal bending range. Each creature in this area must succeed on a Dexterity saving throw or take 1d8 piercing damage.

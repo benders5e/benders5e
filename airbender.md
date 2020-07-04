@@ -73,7 +73,7 @@ You also learn to use your bending to steer your glider. Your flying speed is eq
 ### Airbending Forms
 At 3rd level, your connection to chi and practice of bending allows you to weave your bending into your combat style. With training, you are able to learn particular forms that combine martial arts and airbending to carry out more sophisticated attacks.   
 
-You learn one form from the list at the end of this class description. The number of forms you know increases with level and is shown in the Airbender Table.   
+You learn one form from the list at the end of this class description. The number of forms you know increases with level and is shown in the Airbender Table. Each time you learn a new form you may also replace one form you already know with another one.   
 
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 2 | CLASSES</div>
@@ -102,7 +102,7 @@ You learn one form from the list at the end of this class description. The numbe
 |16th | +5 | +25 ft.  | 1d10 |150/300| 8 | 5 | Ability Score Improvement|
 |17th | +6 | +25 ft.  | 1d10 |150/300| 9 | 5 | Specialization feature|
 |18th | +5 | +30 ft.  | 1d10 |200/400| 9 | 5 | – |
-|19th | +5 | +30 ft.  | 1d10 |200/400| 10| 6 | Ability Score Improvement|
+|19th | +5 | +30 ft.  | 1d10 |200/400| 10| 5 | Ability Score Improvement|
 |20th | +5 | +30 ft.  | 1d10 |200/400| 10| 6 | Detachment|
 </div>
 
@@ -111,7 +111,7 @@ Every time you take the Attack action on your turn, you have a certain amount of
 #### Chi Exhaustion
 Channeling chi into attacks is a physically and mentally draining endeavor.   
 
-You have 4 exhaustion points at your disposal. (Use a d4 to keep track.) The d4 starts with the "4" pointing up. Every turn you use all of your chi, you decrement this counter. When the counter indicates a "1", you need to take a break from bending and cannot spend any chi that turn. Every turn that you do *not* use all your chi, the counter increments by 1. This counter resets every long rest.  
+You have 4 exhaustion points at your disposal. (Use a d4 to keep track.) The d4 starts with the "4" pointing up. Every turn you use all of your chi, you decrement this counter. When the counter indicates a "1", you need to take a break from bending and cannot spend any chi or take bending reactions that turn. Any bending concentration is also broken. Every turn that you do *not* use all your chi, the counter increments by 1. This counter resets every long rest.  
 
 For example, say the counter is set at 2. That turn, you spend all your chi points attacking and turn the counter to 1. The next turn, you have 0 chi to spend, and you can either use your Attack action to make a melee, non-bending attack or forfeit it. The next turn, your counter is back up to 2. If you spend all your chi once again, it decreases back to 1 again, but if you spend anything less than the maximum (e.g. all but one chi) the counter once again increases to 3.
 
@@ -160,11 +160,11 @@ Additionally, once per long rest, whenever you make a saving throw and fail, you
 ### Empty Body
 At 14th level, your chi sustains you so that you suffer none of the frailty of old age and you cannot be aged by unnatural means. You can still die of old age, however. In addition, you no longer need food or water.
 
-<div style="height: 4em;">
-</div>
 ### Wind Reader
 At 15th level, you are aware of every motion in the air surrounding you. Every turn, you may take the Dodge action as a bonus action.  
 
+<div style="height: 0em;">
+</div>
 ### Detachment
 
 <div style="height: 2em;">
@@ -240,6 +240,8 @@ At 12th level, ...
 #### ???
 At 17th level, ...
 
+<div style="height: 32em;">
+</div>
 ## Airbending Forms
 <!--Mostly defense/utility-->
 
@@ -275,7 +277,12 @@ You form a ball our of air which you can ride up walls and vertical surfaces, bu
 </div-->
 #### Wake
 *Cost: 2 chi*  
-You use your airbending to augment momentum of a moving object. Until the beginning of your next turn, a moving object of your choice gets a +10 bonus to speed. If the object is a projectile, it deals a additional damage equal to your bending die.
+You use your airbending to augment momentum of a moving object. Until the beginning of your next turn, a moving object of your choice gets a +10 bonus to speed. If the object is a projectile, it deals a additional damage equal to your bending die.  
+
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 2 | CLASSES</div>
+
+\page
 
 #### Funnel
 *Cost: 2 chi*  
@@ -288,12 +295,7 @@ When you hit the ground after a jump or after flying, you can spend three chi to
 
 #### Gust
 *Cost: 3 chi*  
-You create violent gusts of air that reach out in a circle centered on you with radius equal to your normal bending range. Each creature in the area must make a Dexterity saving throw or be knocked prone (the DC is 8 + proficiency modifier + your airbending modifier).   
-
-<div class='pageNumber auto'></div>
-<div class='footnote'>PART 2 | CLASSES</div>
-
-\page
+You create violent gusts of air that reach out in a circle centered on you with radius equal to your normal bending range. Each creature in the area must make a Dexterity saving throw or be knocked prone (the DC is 8 + proficiency modifier + your airbending modifier). 
 
 Non-airbenders in the area, regardless of whether they succeeded on the saving throw or not, have disadvantage of Dexterity saving throws until the start of your next turn, at which point the gust ends.
 
