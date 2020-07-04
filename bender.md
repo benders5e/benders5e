@@ -24,13 +24,13 @@ As you make your bender character, think about ...
 
 The element you bend and the type of training you underwent has a great impact on benders' alignments. Think about the type of environment you grew up in, and how that might manifest itself. As a rule of thumb, fire and air are more chaotic elements, while earth is lawful.
 
-<!--div style="height: 4em;">
-</div-->
 ### Skills
 This class uses, for the most part, the same skills as regular 5th edition D&D. These are the exceptions:
 - No Arcana
 - Replace Religion (Int) with Spirituality (Wis) *[not propagated through classes yet]*
 
+<div style="height: 1em;">
+</div>
 ### Languages
 Common is the only language in this setting. Thus, whenever a background allows you to learn an additional lanauge, you can instead gain proficiency in a new tool, gaming set, or musical instrument.
 
@@ -52,6 +52,16 @@ There's spirits there.
 > - **Firebending:** Disadvantage on ranged attacks, regular roll for touch range. In each case, the attack does half damage if it is dealt underwater (since fully immersed creatures have resistance against fire damage).  
 > - **Earth- & Airbending:** Disadvantage on melee and ranged attacks within normal range (automatic miss beyond normal range); half damage.
 
+<div style="height: 2em;">
+</div>
+
+### Celestial Tracking Variant
+
+- **Phases of the Moon.**
+- **Eclipses.**
+- **Comets.**
+- **Day and Night.**
+
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 1 | INTRODUCTION</div>
 
@@ -62,7 +72,7 @@ There's spirits there.
 ##### Equipment
 | Name        |Cost| Damage        | Weight   |Properties             |
 |:------------|:---|:--------------|:---------|:-----------------------
-| Darts       |    |               |          |                       |
+| Dart        |5 cp|1d4 piercing   |0.25 lb each|Finess, range, thrown (range 20/60)|
 | Fan (closed)|5 gp|1d4 bludgeoning|1 lb. each|Finesse, light         |
 | Fan (open)  |5 gp|1d4 slashing   |1 lb. each|Finesse, light, special|
 | Shortsword  |10 gp|1d6 piercing  |2 lb.     |Finesse, light         |
@@ -100,6 +110,9 @@ When used by a waterbender for healing, it restores double the amount of HP gran
 A water pouch holds the equivalent of a 1-foot-diameter sphere of water. It is typically worn on the waist and can be used for waterbending when no water source is within range.
 
 ## Hooked Swords
+
+## Guanmao Hat
+This large-brimmed hat is flat and shield-like, allowing the wearer to defuse various attacks by lowering their head. It confers +1 to AC.
 
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 3 | ITEMS</div>
@@ -209,6 +222,8 @@ See the [Shipwright background](https://ghostsofsaltmarsh-9.obsidianportal.com/w
 #### Feature: Cold Endurance
 Use Cons instead of Dex. OR have proficiency with Cons ST instead of Dex. (?)
 
+<div style="height: 1em;">
+</div>
 #### Suggested Characteristics
 Use the tables for the guild artisan background in the Player's Handbook as the basis for your traits and motivations, modifying the entries when appropriate to suit your role within your home tribe.  
 
@@ -217,7 +232,6 @@ Your bond might be associated with other members of your tribe, or a location or
 ### Swampbender
 You hail from the swamps in the Earth Kingdom.  
 
-***
 **Skill Proficiencies:**  
 **Tool Proficiencies:**  
 **Other Proficiencies:** Swim speed 30 feet  
@@ -231,7 +245,6 @@ You use your Wisdom modifier as your waterbending modifier.
 ### Sandbender
 You hail from the Si Wong Desert. Your time in this arid biome has forced you to master a special form of earthbending known as sandbending.  
 
-***
 **Skill Proficiencies:**  
 **Tool Proficiencies:**  
 **Equipment:** 

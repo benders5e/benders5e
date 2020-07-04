@@ -17,7 +17,7 @@ As an earthbender, you gain the following class features.
 **Hit Points at Higher Levels:** 1d12 (or 7) + your Constitution modifier per earthbender level after 1st
 
 #### Proficiencies
-**Armor:** Light armor  
+**Armor:** Light armor, medium armor, shields, guanmao hats  
 **Weapons:** Simple weapons, fans  
 **Tools:** One type of gaming set and one type of artisan's tools or one musical instrument.
 ***
