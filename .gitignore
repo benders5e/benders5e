@@ -1,4 +1,4 @@
-*.pages
+*.swp
 
 # dirs
 images
@@ -6,3 +6,4 @@ recordings
 
 # MacOS
 .DS_Store
+*.pages

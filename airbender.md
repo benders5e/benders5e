@@ -4,7 +4,7 @@ Link: https://homebrewery.naturalcrit.com/edit/3y6o6KPWIM
 Airbending concentrates on speed and evasion, forgoing a strong offense for a greater defense. Though apparently lacking fatal finishing moves, it is the most dynamic of all the bending arts. As the element of freedom, airbenders use their capability to bend unencumbered by the ground or any other environmental factors and use their own momentum as a weapon, evading attacks with astounding agility to tire their opponents out or building up massive inertia for explosive gusts of wind to make their counterattacks finishing moves.
 
 #### Quick Build
-You can make a firebender quickly by following these suggestions. First, pick Wisdom as your highest score, followed by Dexterity. Second, choose the Hermit background. 
+You can make an airbender quickly by following these suggestions. First, pick Wisdom as your highest score, followed by Dexterity. Second, choose the Hermit background. 
 
 ## Class Features
 As an airbender, you gain the following class features.
@@ -33,8 +33,8 @@ You start with the following equipment, in addition to the equipment granted by 
 ### Unarmored Defense
 Beginning at 1st level, while you are wearing no armor and not wielding a shield, your AC equals 10 + your Wisdom and Dexterity modifiers.
 
-<!--div style="height: 10em;">
-</div-->
+<div style="height: 10em;">
+</div>
 ### Airbending
 At 1st level, you realize that you have an innate ability to manipulate the air around you. You can spend 1 chi of your Attack action to cause the effects of the *Gust* cantrip. (See "Air Punch" for a description of the role chi points play in attacks and the rules for bending attacks.) Your range increases with your level according to the "Range" column of the Airbender table.  
 
@@ -45,7 +45,9 @@ In addition, your jump distance is permanently tripled.
 During combat, you can channel your chi to use your bending as a rudimentary attack by hitting other creatures. Every time you take the Attack action, you draw on your inner pool of energy, or *chi*. The class table shows how much chi you have available every time you take the Attack action ("Chi per Attack"). This amount resets every round. As your bending grows more powerful and your connection to your inner chi grows, this number increases.  
 
 
-When you take a basic bending attack, you spend 1 point of chi and deal 1d6 force damage. This damage increases with your firebender level and is shown in the "Bending" column of the Airbender Table. The range of your attacks is the same as your bending range ("Range" column).      
+When you take a basic bending attack, you spend 1 point of chi and deal 1d6 force damage. You also clear any non-spiritual fog, dust, or other type of cloud effect in a 5-foot-wide line from you to the target (not including your position but including the target's position). 
+
+The damage caused by your attack increases with your airbender level and is shown in the "Bending" column of the Airbender Table. The range of your attacks is the same as your bending range ("Range" column).      
 
 As an airbender, Wisdom is your primary attack ability:
 
@@ -62,18 +64,13 @@ The attack bonus is hereafter referred to as your airbending modifier.
 Xingyiquan ("mind heart boxing")
 -->
 ### Be the Leaf
-At 2nd level, you become tuned in to the air around you. You learn to move like a leaf in the wind, allowing you to evade attacks more easily. You may impose disadvantage on an attack against you as a reaction. You can use this ability a number of times equal to your bending modifier per long rest.  
+At 2nd level, you become tuned in to the air around you. You learn to move like a leaf in the wind, allowing you to evade attacks more easily. You can choose to impose disadvantage on an attack against you as a reaction after the attack roll is made, but before the outcome is determined. You can use this ability a number of times equal to your bending modifier per long rest.  
 
 ### Unarmored Movement
 Starting at 2nd level, your speed increases by 10 feet while you are not wearing armor or wielding a shield. This bonus increases when you reach certain levels, as shown in the class table.  
 
 
-You also learn to use your bending to steer your glider. Your flying speed is equal to your ground speed. See the Glider description (in the "Equipment" section) for more details about using your glider.
-
-### Airbending Forms
-At 3rd level, your connection to chi and practice of bending allows you to weave your bending into your combat style. With training, you are able to learn particular forms that combine martial arts and airbending to carry out more sophisticated attacks.   
-
-You learn one form from the list at the end of this class description. The number of forms you know increases with level and is shown in the Airbender Table. Each time you learn a new form you may also replace one form you already know with another one.   
+You also learn to use your bending to steer your glider. Your flying speed is equal to your ground speed. See the Glider description (in the "Equipment" section) for more details about using your glider. 
 
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 2 | CLASSES</div>
@@ -106,8 +103,15 @@ You learn one form from the list at the end of this class description. The numbe
 |20th | +5 | +30 ft.  | 1d10 |200/400| 10| 6 | Detachment|
 </div>
 
+### Airbending Forms
+At 3rd level, your connection to chi and practice of bending allows you to weave your bending into your combat style. With training, you are able to learn particular forms that combine martial arts and airbending to carry out more sophisticated attacks.   
+
+You learn one form from the list at the end of this class description. The number of forms you know increases with level and is shown in the Airbender Table. Each time you learn a new form you may also replace one form you already know with another one.  
+
 Every time you take the Attack action on your turn, you have a certain amount of *chi* at your disposal (indicated by the "Chi per Attack" column of the class table). You can distribute your chi among basic bending attacks or regular bending (*cost: 1 chi*) and any forms you know (whose costs are indicated with their descriptions). You can use each form a maximum of once per turn.
 
+<div style="height: 1em;">
+</div>
 #### Chi Exhaustion
 Channeling chi into attacks is a physically and mentally draining endeavor.   
 
@@ -115,18 +119,16 @@ You have 4 exhaustion points at your disposal. (Use a d4 to keep track.) The d4 
 
 For example, say the counter is set at 2. That turn, you spend all your chi points attacking and turn the counter to 1. The next turn, you have 0 chi to spend, and you can either use your Attack action to make a melee, non-bending attack or forfeit it. The next turn, your counter is back up to 2. If you spend all your chi once again, it decreases back to 1 again, but if you spend anything less than the maximum (e.g. all but one chi) the counter once again increases to 3.
 
-### Ability Score Improvement
-When you reach 4th level, and again at 7th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
-
-<!--div style="height: 4em;">
-</div-->
-### Air Cushion
-Beginning at 4th level, you can use your reaction when you fall to reduce any falling damage you or another creature takes by an amount equal to five times your bender level.
-
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 2 | CLASSES</div>
 
 \page
+### Ability Score Improvement
+When you reach 4th level, and again at 7th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+
+### Air Cushion
+Beginning at 4th level, you can use your reaction when you fall to reduce any falling damage you or another creature takes by an amount equal to five times your bender level.
+
 ### Airbending Specialization
 At 5th level, you specialize in one of the following aspects of airbending: advanced airbending, spirituality, or ?. Your abilities are described in the specialization section at the end of this class description. <!--This specialization grants you a new feature at 5th level, and again at 8th, 12th, and 17th level.-->
 
@@ -179,8 +181,10 @@ At 15th level, you are aware of every motion in the air surrounding you. Every t
 
 Like the Guru Laghima and the airbender Zaheer, you learn to levitate without using bending or any other means to propel yourself. You move naturally and without having to think about it through the air, as easily and naturally as if you were walking. Your flying speed is 60.
 
-<!--div style="height: 11em;">
-</div-->
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 2 | CLASSES</div>
+
+\page
 ## Airbending Specializations
 
 ### Advanced Airbending
@@ -206,10 +210,6 @@ At 12th level, you learn an additional form of your choice from the following li
 #### ???
 At 17th level, ...
 
-<div class='pageNumber auto'></div>
-<div class='footnote'>PART 2 | CLASSES</div>
-
-\page
 ### Spirituality
 
 #### Spirit World
@@ -240,8 +240,13 @@ At 12th level, ...
 #### ???
 At 17th level, ...
 
-<div style="height: 32em;">
-</div>
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 2 | CLASSES</div>
+
+\page
+
+<!--div style="height: 32em;">
+</div-->
 ## Airbending Forms
 <!--Mostly defense/utility-->
 
@@ -251,13 +256,17 @@ You prepare to defuse the next ranged bending attack that hits you (not one that
 
 If you reduce the damage to 0, you can completely defuse the attack, provided you have at least one hand free or are holding your glider.
 
-#### Dash
+#### Nimble action
 *Cost: 1 chi*  
-This turn, you can take the Dash action as a bonus action.
+You spend 1 chi to take the Dash or Disengage action as a bonus action on this turn.
 
 #### Shunt (rename this)
 *Cost: 1 chi*  
 This turn, you can use your Be The Leaf reaction to shunt another creature out of the way of an impending attack, giving them the benefits of that ability.
+
+#### Air scooter
+*Cost: 1 chi*  
+You form a ball our of air which you can ride up walls and vertical surfaces, but you must end your turn on a flat surface. You can immediately move 80 feet when you activate the air scooter, and you gain a ground speed of 80 feet. The scooter is treated as a mount and disappears at the end of your next turn.
 
 #### Air ball
 *Cost: 2 chi*  
@@ -267,22 +276,15 @@ You can also use this technique to create a smaller ball (up to 5 feet in diamet
 
 #### Blast
 *Cost: 2 chi*  
-When you use this form, you send a pressurized blast of air at a creature within range. You deal an amount of damage equal to twice your bending die. You also roll a Strength (Athletics) check opposed by the target's Strength (Athletics) or Dexterity (Acrobatics) check. If the target fails, it is pushed up 15 feet away from you.
+When you use this form, you send a pressurized blast of air at a creature within range. You deal an amount of damage equal to twice your bending die. You also roll an airbending check (1d20 + your airbending modifier) opposed by the target's Strength (Athletics) or Dexterity (Acrobatics) check. If the target fails, it is pushed up 15 feet away from you.
 
-#### Air scooter
-*Cost: 2 chi*  
-You form a ball our of air which you can ride up walls and vertical surfaces, but you must end your turn on a flat surface. You gain a ground speed of 60 feet. The scooter disappears at the beginning of your next turn unless you spend another 2 chi to maintain it.
+Just like your regular bending attack, this form clears any clouds not caused by spirit magic.
 
 <!--div style="height: 7em;">
 </div-->
 #### Wake
 *Cost: 2 chi*  
-You use your airbending to augment momentum of a moving object. Until the beginning of your next turn, a moving object of your choice gets a +10 bonus to speed. If the object is a projectile, it deals a additional damage equal to your bending die.  
-
-<div class='pageNumber auto'></div>
-<div class='footnote'>PART 2 | CLASSES</div>
-
-\page
+You use your airbending to augment momentum of a moving object. Until the beginning of your next turn, a moving object of your choice gets a +10 bonus to speed. If the object is a projectile, it deals additional damage equal to your bending die.  
 
 #### Funnel
 *Cost: 2 chi*  
@@ -291,11 +293,13 @@ You create a small funnel out of air of up to 1 foot in diameter. The funnel is 
 
 #### Air bomb
 *Cost: 3 chi*  
-When you hit the ground after a jump or after flying, you can spend three chi to create a powerful, outward-moving air current in all directions around you. Targets in within your bending radius take 2d6 force damage and are stunned until the beginning of their next turn. The damage increases by 1d6 with each additional chi spent.
+When you hit the ground after a jump or after flying, you can spend three chi to create a powerful, outward-moving air current in all directions around you. This current dispels any non-spiritual clouds of fog, dust, or other physical cloud effects.
+
+Targets in within your bending radius take 2d6 force damage and are stunned until the beginning of their next turn. The damage increases by 1d6 with each additional chi spent.
 
 #### Gust
 *Cost: 3 chi*  
-You create violent gusts of air that reach out in a circle centered on you with radius equal to your normal bending range. Each creature in the area must make a Dexterity saving throw or be knocked prone (the DC is 8 + proficiency modifier + your airbending modifier). 
+You create violent gusts of air that reach out in a circle centered on you with radius equal to your normal bending range. Each creature in the area must make a Dexterity saving throw or be knocked prone (the DC is 8 + proficiency modifier + your airbending modifier) and any non-spiritual clouds are dispelled. 
 
 Non-airbenders in the area, regardless of whether they succeeded on the saving throw or not, have disadvantage of Dexterity saving throws until the start of your next turn, at which point the gust ends.
 
