@@ -34,19 +34,16 @@ You start with the following equipment, in addition to the equipment granted by 
 
 When wearing light armor, you use your Strength modifier instead of Dexterity to determine your AC.
 
-<div style="height: 1em;">
-</div>
+### Earthbending
+At 1st level, you realize that you have an innate ability to control earth. You can move small volumes of earth no more than your carrying capacity – see "Lifting and Carrying". You can shape this earth in any way you wish, including fashioning weapons (see the *Earthen Weapon* form at the end of this class description). When earthbending up to your earth capacity, you spend 1 chi of your Attack action (see "Bending Attack" for a description of the role chi points play in attacks).  
 
 ***
 >##### Lifting and Carrying
-> **Carrying Capacity.** Your carrying capacity is your Strength score multiplied by 15. This is the weight (in pounds) that you can carry.  
+> **Carrying Capacity.** Your carrying capacity is your Strength score multiplied by 15. This is the weight (in pounds) that you can carry. 
 
 <div style="height: 1em;">
-</div>
-### Earthbending
-At 1st level, you realize that you have an innate ability to control earth. You can move small volumes of earth no more than your carrying capacity – see "Lifting and Carrying". You must draw it from a source of earth within 30 feet. 
-
-The mass of earth you can control and the range within which you can control it (including as a source) increase with your earthbender level. See the "Volume" and "Range" columns of the Earthbender Table. A quick reference for the weight of various earthen materials is shown below.  
+</div> 
+You must draw your bending material from a source of earth within 30 feet. The mass of earth you can control and the range within which you can control it (including as a source) increase with your earthbender level. See the "Volume" and "Range" columns of the Earthbender Table. A quick reference for the weight of various earthen materials is shown below.  
 
 
 The HP and AC of any structure you form with your bending can be determined by regular D&D 5e object rules. The table below provides a reference for the AC of various types of earth.
@@ -274,11 +271,17 @@ At 17th level, ...
 \page
 ## Earthbending Forms
 <!--Mostly defense stuff-->
-For forms which require a target to make a saving throw, your DC is 8 + your proficiency modifier + your earthbending modifier.
+For forms which require a target to make a saving throw, your DC is 8 + your proficiency modifier + your earthbending modifier.  
+
+You start out knowing forms marked with an asterisk.
 
 <!--#### Shelter
 *Cost: 1 chi*  
 You raise a rock tent around you as shelter. While inside, you have full cover and cannot attack. You can dismiss the shelter by spending another chi point.  -->
+
+#### Earthen Weapon*
+*Cost: 1 chi*  
+...
 
 #### Rock Armor
 *Cost: 1 chi*  
@@ -313,12 +316,12 @@ You prepare to defuse the next ranged attack that hits you. The next time a crea
 
 For projectiles of another element, the damage of each projectile is reduced by 1d6 + your earthbending modifier + your earthbender level. For earth projectiles, the damage is reduced by 1d12 + your earthbending modifier + your earthbender level.  
 
+<div style="height:7em;">
+</div>
 #### Earth Levitation
 *Cost: 2 chi*  
 You stomp on the ground, using your kinetic energy to levitate a mass of earth equal to your bending capacity (shown in the class table). In the same motion, you can push the rock at a target of your choice, dealing double times your regular bending damage + 1d4 additional damage.
 
-<div style="height:6em;">
-</div>
 #### Earthwave
 *Cost: 2 chi*  
 You cause the earth to buckle beneath you, forming a line 5 feet wide and as long as your bending range. Each creature in the line must make a Dexterity saving throw. A creature takes 4d6 bludgeoning damage and is knocked prone on a failed save, or half as much damage on a successful one.  
@@ -354,12 +357,11 @@ When this change occurs, each creature standing in the area must succeed on a De
 *Cost: 3 chi (1 chi)*  
 You choose a creature you can see within range and cause rock cuffs to envelop its limbs which are in contact with the ground. The target must make a Strength saving throw. On a failed save, the target is restrained while you maintain concentration.
 
-By spending 1 additional chi, you can cause the cuffs to crush the restrained target, who must make a Strength saving throw. It takes 1d6 bludgeoning damage for each cuffed limb on a failed save, or half as much damage on a successful one.
-
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 2 | CLASSES</div>
 
 \page
+By spending 1 additional chi, you can cause the cuffs to crush the restrained target, who must make a Strength saving throw. It takes 1d6 bludgeoning damage for each cuffed limb on a failed save, or half as much damage on a successful one.
 
 To break out, the restrained target can use its action to make a Strength check against your bending DC. On a success, the target escapes and is no longer restrained by the hand.
 
