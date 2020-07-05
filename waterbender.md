@@ -211,7 +211,9 @@ At 17th level, you study benders of other elements to improve your own bending. 
 ### Healing
 
 #### Healing
-Beginning when you choose this specialization at 5th level, you gain the ability to heal yourself and others. Once per long rest, if you spend one minute concentrating and passing water over another person's body, you heal them by an amount of hit points equal to three times your waterbender level.
+Beginning when you choose this specialization at 5th level, you gain the ability to heal yourself and others. By spending one minute concentrating and passing water over another person's body, you heal them by an amount of hit points equal to three times your waterbender level. 
+
+You can use this ability a number of times equal to your bending modifier. You regain all expended uses after a long rest.
 
 #### Greater Healing
 At 8th level, your healing powers increase. When you heal a creature, you can use your ability to grant the effects of the *Revivify* spell instead of restoring hit points.
@@ -235,12 +237,15 @@ At 17th level, you are able to use the water within your own body and the wounde
 #### Paralysis
 Beginning when you choose this specialization at 5th level, you learn to control the water inside others' bodies. You can use your action to attempt to stop one creature at a time in its tracks, provided it is within your range. You can use this ability a number of times equal to your bending modifier per long rest.   
 
-The creature makes a Charisma saving throw against your bending DC. If the moon is full (see the "Phases of the Moon" inset to learn how to determine the phase of the moon), the creature becomes Paralyzed on a failure and Restrained on a success. If the moon is not full, the creature becomes Restrained on a failure and nothing happens on a success.
+<div style="height: 2em;">
+</div>
 
 > ##### Phases of the Moon
 > If you are using the *Celestial Tracking* variant of the Bender expansion (see Part 1), your DM will keep track of the current position of the celestial bodies, including the phases of the moon.  
 > 
 > If you are not using the variant, roll a 1d8 when you wish to use your bloodbending abilities to determine the phase of the moon. An 8 indicates a full moon, whereas rolls of 1-7 correspond to the other phases and lead to diminished bloodbending powers.
+
+The creature makes a Charisma saving throw against your bending DC. If the moon is full (see the "Phases of the Moon" inset to learn how to determine the phase of the moon), the creature becomes Paralyzed on a failure and Restrained on a success. If the moon is not full, the creature becomes Restrained on a failure and nothing happens on a success.
 
 The condition of the creature persists while you maintain concentration. At the end of each of its turns, the target can make another Charisma saving throw. On a success, the condition (Paralyzed or Restrained) ends and the creature is immune to your bloodbending until it has taken a long rest.
 
@@ -316,6 +321,9 @@ You shape water into a swirling disk by your arm and freeze it. Your AC increase
 
 Each additional chi point your spend increases the HP of the shield by 10.
 
+<div style="height: 3em;">
+</div>
+
 #### Water Whip  
 *Cost: 1 chi*  
 You shape the water at your disposal into a lashing tendril (which has the statistics of a whip) and swipe at a target within 15 feet, dealing 1d4 bludgeoning damage on a hit. For each additional chi point you spend, you create and attack with another water whip, dealing an additional die of damage.  
@@ -327,8 +335,6 @@ You create a water tendril. Its reach depends on the amount of water your spend 
 ##### Attack
 The tendril acts as a water whip with 1 chi (see the *Water Whip* form).
 
-<div style="height: 4em;">
-</div>
 ##### Grapple
 You grapple a Large or smaller creature within the tendril's range. The tendril's Strength modifier is equal to your waterbending modifier.
 
@@ -354,6 +360,9 @@ You send a ray of ice across the ground streaking towards a target of your choic
 
 At the end of each of its turns, a restrained target can make a Strength saving throw against your save DC to break free.
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 2 | CLASSES</div>
+\page
 #### Water Jet
 *Cost: 2 chi*  
 When you use this form, you make an attack roll to send a pressurized jet of water at an attacker. You deal an amount of damage equal to twice your bending die on a hit. You also roll a Strength (Athletics) check opposed by the target's Strength (Athletics) or Dexterity (Acrobatics) check. If the target fails, it is knocked prone.
@@ -365,9 +374,6 @@ You create and launch 2 ice daggers at any combination of targets within your lo
 
 You gain an additional dagger for each extra chi you spend.
 
-<div class='pageNumber auto'></div>
-<div class='footnote'>PART 2 | CLASSES</div>
-\page
 #### Ice Shards
 *Cost: 2 chi*  
 You cause ice shards to rain down on creatures in a 5-foot radius sphere centered on a point within your normal bending range. Each creature in this area must succeed on a Dexterity saving throw or take 1d8 piercing damage.
@@ -397,6 +403,8 @@ You reshape water around you while submerged to maintain a supply of breathable 
 *Cost: 3 chi*  
 (Lasts 24 hours unless you dismiss it.)
 
+<div style="height:1em;">
+</div>
 #### Octopus
 *Cost: 4 chi*    
 You create 4 water tendrils (see the *Water Tendril* form for actions the tendrils can take). Each additional chi you spend creates another tendril.
@@ -411,8 +419,6 @@ You create 4 water tendrils (see the *Water Tendril* form for actions the tendri
 *Cost: 5 chi*  
 You cause the effects of the *Ice Storm* spell.
 
-<div style="height:2em;">
-</div>
 #### Drowning
 *Cost: 6 chi*  
 See [here](https://www.dndbeyond.com/spells/14673-water-lung).
