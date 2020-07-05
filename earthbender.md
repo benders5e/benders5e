@@ -59,6 +59,7 @@ The HP and AC of any structure you form with your bending can be determined by r
 | Dirt              | 75 lbs               | 13 |
 | Coal              | 85 lbs               | 15 |
 | Sand              | 100 lbs              | 13 |
+| Lava (liquid)     | ~150 lbs             | –– |
 | Rock (sedimentary)| ~160 lbs             | 17 |
 | Granite           | 165 lbs              | 17 |
 | Rock (igneous)    | ~180 lbs             | 17 |
@@ -161,6 +162,8 @@ At 4th level, you learn to tunnel like a badgermole. You easily carve out large 
 ### Earthbending specialization
 At 5th level, you specialize in one of the following types of earthbending: advanced earthbending, metalbending, or lavabending. Your abilities are described in the specialization section at the end of this class description.
 
+<div style="height: 2em;">
+</div>
 ### Rolling Earth
 At 6th level, you learn to synchronize your control of earth with your movement. When traveling over earth and while you are concentrating, your speed is doubled.
 
@@ -192,6 +195,10 @@ At 14th level, ... [some flavor-type thing]
 ### Improved Rolling Earth
 At 15th level, you can move across difficult earth terrain (not ice, for example) as though it were normal terrain. You can also move along vertical surfaces of earth without falling during your turn.
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 2 | CLASSES</div>
+
+\page
 ### ???
 At 20th level, ...
 
@@ -199,6 +206,7 @@ At 20th level, ...
 <div class='footnote'>PART 2 | CLASSES</div>
 
 \page
+
 ## Earthbending specializations
 
 ### Advanced Earthbending
@@ -241,12 +249,19 @@ At 17th level, ...
 </div>
 ### Lavabending
 
-#### Melting Earth
-Beginning when you choose this specialization at 5th level, you can melt an unoccupied 5 foot-square area of the ground within your range into lava, provided it is earth. Once the lava is produced, it slowly hardens due to the exposure to the air. This amount of time is determined for each type of earth (no more than once per encounter) and takes 1d6 rounds (starting at the end of your turn).  
-Any creature standing in the lava takes X fire damage ...
-
 #### Volcanic Rock
-Beginning at 8th level, you can harden lava into volcanic rock, willing it to cool instead of waiting for this to happen naturally. This ability takes an action and cools the entire lava mass. The resulting volcanic rock can be earthbent like any other earth.
+Beginning when you choose this specialization at 5th level, you can harden lava into volcanic rock, willing it to cool instead of waiting for this to happen naturally. This ability takes an action and cools a mass of lava equal to your earthbending capacity. The resulting volcanic rock can be earthbent like any other earth.  
+
+
+In addition, you now use heated rocks in your basic bending attacks. Although not heated to the point of melting, this earth now deals 1d4 bludgeoning + 1d4 fire damage instead of 1d8 bludgeoning. At 11th level, this increases to 1d6 bludgeoning + 1d4 fire and again to 1d6 of each type at 17th level.
+
+#### Melting Earth
+Beginning at 8th level, you can melt an unoccupied 5 foot-square area of the ground within your range into lava, provided it is earth. This is encapsulated by the *Melting Earth* form in the forms list.
+
+Once the lava is produced, it slowly hardens due to the exposure to the air unless you spend an action to harden it. This amount of time is determined the first time you use this ability in an encounter, taking 1d6 rounds (starting at the end of your turn).  
+
+
+The damage done by lava is determined according to standard D&D 5e rules: any creature standing in or wading through the lava takes 10d10 fire damage, and creatures fully submerged in lava take 18d10 fire damage. As a lavabender, you have resistance to fire damage.
 
 #### Lavabending
 At 12th level, you learn to move lava with as much control as you move earth. You spend an action to create and move the equivalent of a 3-foot-diameter sphere of lava at a time. When launching lava as an attack, you deal the amount of bludgeoning damage in the Bending column of the class table *and* an additional die of the same type as fire damage.
@@ -315,6 +330,16 @@ Structures in this line take double damage.
 *Cost: 2 chi*  
 You raise a cloud of dust, causing the effects of the *Fog Cloud* spell. If you lose concentration, the cloud of dust settles.
 
+#### Solidify Lava
+*Prerequisite: Lavabending specialization*  
+*Cost: 1 action*  
+You harden an amount of lava weighing up to your bending capacity into volcanic rock, willing it to cool instead of waiting for this to happen naturally. The resulting volcanic rock can be earthbent like any other earth.  
+
+#### Melting Earth
+*Prerequisite: Lavabending specialization*  
+*Cost: 1 action*  
+You melt an unoccupied 5 foot-square area of the ground within your range into lava, provided it is earth. Once the lava is produced, it slowly hardens due to the exposure to the air. This amount of time is determined the first time you use this ability in an encounter and is equal to 1d6 rounds (starting at the end of your turn).  
+
 #### Quicksand
 *Cost: 3 chi*  
 You turn a square area of the ground up to half your normal bending range on each side into quicksand for up to 1 minute. The entire area must be within your normal range. It is considered difficult terrain for the duration.  
@@ -330,6 +355,11 @@ When this change occurs, each creature standing in the area must succeed on a De
 You choose a creature you can see within range and cause rock cuffs to envelop its limbs which are in contact with the ground. The target must make a Strength saving throw. On a failed save, the target is restrained while you maintain concentration.
 
 By spending 1 additional chi, you can cause the cuffs to crush the restrained target, who must make a Strength saving throw. It takes 1d6 bludgeoning damage for each cuffed limb on a failed save, or half as much damage on a successful one.
+
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 2 | CLASSES</div>
+
+\page
 
 To break out, the restrained target can use its action to make a Strength check against your bending DC. On a success, the target escapes and is no longer restrained by the hand.
 
