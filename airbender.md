@@ -69,12 +69,6 @@ Xingyiquan ("mind heart boxing")
 ### Be the Leaf
 At 2nd level, you become tuned in to the air around you. You learn to move like a leaf in the wind, allowing you to evade attacks more easily. You can choose to impose disadvantage on an attack against you as a reaction after the attack roll is made, but before the outcome is determined. You can use this ability a number of times equal to your bending modifier per long rest.  
 
-### Unarmored Movement
-Starting at 2nd level, your speed increases by 10 feet while you are not wearing armor or wielding a shield. This bonus increases when you reach certain levels, as shown in the class table.  
-
-
-You also learn to use your bending to steer your glider. Your flying speed is equal to your ground speed. See the Glider description (in the "Equipment" section) for more details about using your glider. 
-
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 2 | CLASSES</div>
 
@@ -93,7 +87,7 @@ You also learn to use your bending to steer your glider. Your flying speed is eq
 | 7th | +3 | +15 ft.  | 1d8  | 60/120| 4 | 3 | Ability Score Improvement, Cloudbending |
 | 8th | +3 | +15 ft.  | 1d8  | 60/120| 4 | 3 | Specialization feature|
 | 9th | +4 | +15 ft.  | 1d8  | 60/120| 5 | 3 | Evasion |
-|10th | +4 | +20 ft.  | 1d8  |100/200| 5 | 3 | ? |
+|10th | +4 | +20 ft.  | 1d8  |100/200| 5 | 3 | Breath of Wind |
 |11th | +4 | +20 ft.  | 1d8  |100/200| 6 | 4 | – |
 |12th | +4 | +20 ft.  | 1d8  |100/200| 6 | 4 | Ability Score Improvement, Specialization feature|
 |13th | +5 | +20 ft.  | 1d10 |100/200| 7 | 4 | Diamond Soul (but renamed)|
@@ -106,6 +100,12 @@ You also learn to use your bending to steer your glider. Your flying speed is eq
 |20th | +5 | +30 ft.  | 1d10 |200/400| 10| 6 | Detachment|
 </div>
 
+### Unarmored Movement
+Starting at 2nd level, your speed increases by 10 feet while you are not wearing armor or wielding a shield. This bonus increases when you reach certain levels, as shown in the class table.  
+
+
+You also learn to use your bending to steer your glider. Your flying speed is equal to your ground speed. See the Glider description (in the "Equipment" section) for more details about using your glider. 
+
 ### Airbending Forms
 At 3rd level, your connection to chi and practice of bending allows you to weave your bending into your combat style. With training, you are able to learn particular forms that combine martial arts and airbending to carry out more sophisticated attacks.   
 
@@ -113,19 +113,19 @@ You learn one form from the list at the end of this class description. The numbe
 
 Every time you take the Attack action on your turn, you have a certain amount of *chi* at your disposal (indicated by the "Chi per Attack" column of the class table). You can distribute your chi among basic bending attacks or regular bending (*cost: 1 chi*) and any forms you know (whose costs are indicated with their descriptions). You can use each form a maximum of once per turn.
 
-<div style="height: 1em;">
-</div>
+<!--div style="height: 1em;">
+</div-->
 #### Chi Exhaustion
 Channeling chi into attacks is a physically and mentally draining endeavor.   
-
-You have 4 exhaustion points at your disposal. (Use a d4 to keep track.) The d4 starts with the "4" pointing up. Every turn you use all of your chi, you decrement this counter. When the counter indicates a "1", you need to take a break from bending and cannot spend any chi or take bending reactions that turn. Any bending concentration is also broken. Every turn that you do *not* use all your chi, the counter increments by 1. This counter resets every long rest.  
-
-For example, say the counter is set at 2. That turn, you spend all your chi points attacking and turn the counter to 1. The next turn, you have 0 chi to spend, and you can either use your Attack action to make a melee, non-bending attack or forfeit it. The next turn, your counter is back up to 2. If you spend all your chi once again, it decreases back to 1 again, but if you spend anything less than the maximum (e.g. all but one chi) the counter once again increases to 3.
 
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 2 | CLASSES</div>
 
 \page
+You have 4 exhaustion points at your disposal. (Use a d4 to keep track.) The d4 starts with the "4" pointing up. Every turn you use all of your chi, you decrement this counter. When the counter indicates a "1", you need to take a break from bending and cannot spend any chi or take bending reactions that turn. Any bending concentration is also broken. Every turn that you do *not* use all your chi, the counter increments by 1. This counter resets every long rest.  
+
+For example, say the counter is set at 2. That turn, you spend all your chi points attacking and turn the counter to 1. The next turn, you have 0 chi to spend, and you can either use your Attack action to make a melee, non-bending attack or forfeit it. The next turn, your counter is back up to 2. If you spend all your chi once again, it decreases back to 1 again, but if you spend anything less than the maximum (e.g. all but one chi) the counter once again increases to 3.
+
 ### Ability Score Improvement
 When you reach 4th level, and again at 7th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
@@ -135,8 +135,6 @@ Beginning at 4th level, you can use your reaction when you fall to reduce any fa
 ### Airbending Specialization
 At 5th level, you specialize in one of the following aspects of airbending: advanced airbending, spirituality, or ?. Your abilities are described in the specialization section at the end of this class description. <!--This specialization grants you a new feature at 5th level, and again at 8th, 12th, and 17th level.-->
 
-<!--div style="height: 3em;">
-</div-->
 ### Improved Unarmored Movement
 At 6th level, you gain the ability to move along vertical surfaces and across liquids on your turn without falling during the move. Your glider speed increases to 60 feet.
 
@@ -146,16 +144,12 @@ At 7th level, you gain the ability to bend clouds. Once per long rest, you can c
 ### Evasion
 At 9th level, your instinctive agility lets you dodge out of the way of certain area effects. When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
 
-### ???
-Beginning at 10th level, you learn one of the following forms of your choice:
+<div style="height: 4em;">
+</div>
+### Breath of Wind
+At 10th level, you become capable of displaying formidable breath control. You learn to increase the volume of your voice or sounds of an instrument you are playing.  
 
-#### Tranquility
-*Cost: 3 chi*  
-You enter a special meditation that surrounds you with an aura of peace, giving you the benefits of the *Sanctuary* spell that last until the start of your next turn. The saving throw DC for the spell equals 8 + your Wisdom modifier + your proficiency bonus.
-
-#### ?
-*Cost: X chi*  
-...
+You are also able to hold your breath for an unusual amount of time; instead of the normal amount (a number of minutes equal to 1 + your Constitution modifier), you can hold your breath for a number of minutes equal to 1 + your proficiency bonus + your airbending modifier.
 
 ### Diamond Soul (but renamed)
 Beginning at 13th level, your mastery of chi grants you proficiency in all saving throws.  
@@ -192,23 +186,16 @@ Like the Guru Laghima and the airbender Zaheer, you learn to levitate without us
 
 ### Advanced Airbending
 
-#### Breath of wind
-Beginning when you choose this specialization at 5th level, you become capable of displaying formidable breath control. You learn to increase the volume of your voice or sounds of an instrument you are playing.  
+#### Advanced Forms
+Beginning when you choose this specialization at 5th level, you gain access to an extended form list. From now on, you can choose forms to learn from the "Advanced Forms" list in addition to the regular list. Both can be found at the end of this class description.
 
-You are also able to hold your breath for an unusual amount of time; instead of the normal amount (a number of minutes equal to 1 + your Constitution modifier), you can hold your breath for a number of minutes equal to 1 + your proficiency bonus + your airbending modifier.
+You also automatically know the form *Tranquility* and it does not count against the "Forms Known" limit in the class table.
 
 #### ???
 At 8th level, ...
 
-#### Advanced Forms
-At 12th level, you learn an additional form of your choice from the following list:
-
-##### Heat regulation
-##### Tornado
-*Cost: 5 chi*  
-
-##### Asphyxiation
-*Cost: 5 chi* 
+#### ???
+At 12th level, ...
 
 #### ???
 At 17th level, ...
@@ -315,6 +302,27 @@ Rapid succession-->
 #### Air cocoon
 #### Air spout
 #### Air sphere 
+
+### Advanced Forms
+Only Airbenders of the Advanced Airbending specialization have access to these forms.
+
+#### Tranquility
+*Cost: 3 chi*  
+You enter a special meditation that surrounds you with an aura of peace, giving you the benefits of the *Sanctuary* spell that last until the start of your next turn. The saving throw DC for the spell equals 8 + your Wisdom modifier + your proficiency bonus.
+
+#### Heat regulation
+*Cost: X chi*  
+
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 2 | CLASSES</div>
+
+\page
+
+#### Tornado
+*Cost: 5 chi*  
+
+#### Asphyxiation
+*Cost: 5 chi* 
 
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 2 | CLASSES</div>

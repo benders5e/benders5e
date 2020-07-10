@@ -181,25 +181,16 @@ At 20th level, ... (something consistent with "element of change"?)
 
 ### Advanced Waterbending
 
-#### Water is Everywhere
-Beginning when you choose this specialization at 5th level, you can draw water from your environment. From now on, you don't need a water source within 30 feet – instead, you can spend 6 seconds (1 round of combat) concentrating to draw water from plants within 30 feet of you. If you are not in an arid environment, you can spend 1 minute drawing water from the air. In both cases, you are able to obtain a water sphere 1 foot in diameter.  
-
-#### Pool of Chi
-At 8th level, you deepen your inner pool of chi. You gain one additional chi to spend per attack.
-[Need to replace this, it's not great.]
-
 #### Advanced Forms
-At 12th level, you learn an additional form of your choice from the following list:  
+Beginning when you choose this specialization at 5th level, you gain access to an extended form list. From now on, you can choose forms to learn from the "Advanced Forms" list in addition to the regular list. Both can be found at the end of this class description.
 
+You also automatically know the form *Water is Everywhere* and it does not count against the "Forms Known" limit in the class table.
 
-##### Maelstrom
-*Cost: X chi*  
+#### ???
+At 8th level, ...
 
-##### Mist-stepping
-*Cost: X chi*  
-
-##### Ice Prison 
-*Cost: X chi*  
+#### ???
+At 12th level, ...  
 
 #### Expanded Horizons
 At 17th level, you study benders of other elements to improve your own bending. You learn one additional form off one of the other classes' form lists and adapt it to water (at the discretion of your DM).
@@ -431,24 +422,41 @@ See [here](https://www.dndbeyond.com/spells/14673-water-lung).
 #### Ice Tunneling
 #### Water Ball
 #### Water Drill
-
-<!--#### Ice Claws
-#### Ice Column
-#### Ice Disk
-#### Iceberg Spike
-#### Water Manipulation
-#### Water Pressure Manipulation
-#### Ice Spear
-
-See https://www.dndbeyond.com/spells/control-water
-
-=Advanced=
-#### Water Boxing
-#### Ice Sled
-#### Partial Ice Whip
--->
 <!--#### Water Filtering
 With earthbender-->
+
+### Advanced Forms
+Only Waterbenders of the Advanced Waterbending specialization have access to these forms.
+
+#### Water is Everywhere\*
+*Cost: –*  
+You learn to draw water from your environment. From now on, you don't need a water source within 30 feet – instead, you can spend 6 seconds (1 round of combat) concentrating to draw water from plants within 30 feet of you. If you are not in an arid environment, you can spend 1 minute drawing water from the air. In both cases, you are able to obtain a water sphere 1 foot in diameter.  
+
+#### Maelstrom
+*Cost: X chi*  
+
+#### Mist-stepping
+*Cost: X chi*  
+
+#### Ice Prison 
+*Cost: X chi*  
+
+<!--Disliked/Unused
+Ice Claws
+Ice Column
+Ice Disk
+Iceberg Spike
+Water Manipulation
+Water Pressure Manipulation
+Ice Spear-->
+
+<!--See https://www.dndbeyond.com/spells/control-water-->
+
+<!--Advanced Unused
+Water Boxing
+Ice Sled
+Partial Ice Whip
+-->
 
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 2 | CLASSES</div>
