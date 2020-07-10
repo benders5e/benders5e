@@ -58,6 +58,9 @@ As an airbender, Wisdom is your primary attack ability:
 
 The attack bonus is hereafter referred to as your airbending modifier.
 
+#### Nonlethal Damage
+Airbenders, particularly air nomads, are the most peaceful benders, typically doing their best to avoid taking a life whenever possible. When you make an attack (melee or ranged) that reduces a creature to 0 hit points, you can choose to make the damage nonlethal by dealing bludgeoning damage instead of the default damage type.
+
 
 <!--no stance-->
 <!-- Baguazhang ("circle walking")

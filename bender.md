@@ -61,9 +61,20 @@ There's spirits there.
 - **Eclipses.**
 - **Comets.**
 - **Day and Night.**
+- **Harmonic Convergence.**
+
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 1 | INTRODUCTION</div>
+
+\page
+<div style="height:3em;">
+</div>
 
 > ##### Nonlethal Damage
-> ...  
+> - For **melee attacks**, only slashing, piercing, and bludgeoning damage can be dealt in a nonlethal manner.
+> - For **ranged attacks**, only bludgeoning damage can be dealt in a nonlethal manner.  
+> 
+> (Thus, for the most part, firebenders are unable to deliver nonlethal attacks.)
 
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 1 | INTRODUCTION</div>
