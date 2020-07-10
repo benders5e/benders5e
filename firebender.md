@@ -150,7 +150,7 @@ Starting at 9nd level, when someone else shoots lightning at you, you can attemp
 > *If you let the energy in your own body flow, the lightning will follow it. You must create a pathway from your fingertips up your arm to the shoulder, then down into the stomach. The stomach is the source of energy in your body; it is called the sea of chi. From your stomach you direct it up again and out the other arm. The stomach detour is critical; you must not let the lightning pass through your heart, or the damage could be deadly.*   
 > **–Iroh, inventor of lightning redirection**
 
-#### Fire Augmentation
+### Fire Augmentation
 Beginning at 10th level, you are able to alter the quality of outside sources of fire. On your turn, you can spend a bonus action to put out or triple the size of any fires within your range (excluding fire being produced by another firebender) without moving. 
 [check *Prestidigitation*]
 
@@ -165,10 +165,8 @@ At 14th level, ... [some flavor-type thing]
 ### Fire Rockets
 At 15th level, the power of your Firestepping increases. You gain a flying speed of 60 feet and can end your turn in the air without falling.
 
-### Dragonfire
-For a long time, disciplines of firebending were taught to be fueled by hatred, as opposed to the original source. At 20th level, you learn of the true nature of firebending: it represents energy and life, not anger and destruction. 
-
-With this knowledge, your fire becomes an extension of your body rather than merely a tool for protection. It becomes beautiful and multi-colored, and anyone who looks at it gains the advantages of the *Guidance* cantrip.
+### Element of Power
+At 20th level, the power of your inner flame grows, increasing your stamina. You now have 6 chi exhaustion points at your disposal and thus you now use a 1d6 as your chi exhaustion die.
 
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 2 | CLASSES</div>
@@ -194,15 +192,11 @@ Beginning when you choose this specialization at 5th level, your fire begins to 
 | Black     | Necrotic      |
 | White     | Cold          |
 
-#### ?
-At 8th level, the power of your inner flame grows, increasing your stamina. You now have 6 chi exhaustion points at your disposal and thus you now use a 1d6 as your chi exhaustion die.
-
-#### ?
-At 12th level, ...  
-[You get to exclude up to half your advanced level (firebender level minus 10) rounded down creatures from any AOE effects.]
+#### Fine-grained Control
+At 8th level, you are able to control your attacks to protect your friends and allies while still raining fury on your foes. Each time you make an attack, you can choose a number of creatures up to half your advanced level (firebender level minus 5) rounded down to exclude from the attack, causing them to take no damage even if they are within its area of effect.
 
 #### Heat Control
-At 17th level, you learn to control not only fire, but any heat housed by matter. By touching an object, you can siphon off heat by spending an amount of time that depends on the material (some examples are shown in the table below). You must have one hand on the material and one hand free.  
+At 12th level, you learn to control not only fire, but any heat housed by matter. By touching an object, you can siphon off heat by spending an amount of time that depends on the material (some examples are shown in the table below). You must have one hand on the material and one hand free.  
 You can also have the opposite effect: if you have hands or nose or mouth free, you can heat up materials in the vicinity with an action, causing them to reach a temperature equal to the result of being exposed to a hot flame for half an hour. (You cannot use this ability to, for exmaple, heat rock into lava.)
 
 ##### Cooling Time
@@ -210,6 +204,13 @@ You can also have the opposite effect: if you have hands or nose or mouth free, 
 |:---------|:---------------------|
 | Metal    | 1d8                  |
 | Lava mass| 1d6                  |
+
+#### Dragonfire
+For a long time, disciplines of firebending were taught to be fueled by hatred, as opposed to the original source. At 17th level, you learn of the true nature of firebending: it represents energy and life, not anger and destruction. 
+
+With this knowledge, your fire becomes an extension of your body rather than merely a tool for protection. It becomes beautiful and multi-colored, and anyone who looks at it gains the advantages of the *Guidance* cantrip [or something better].
+
+The damage of your basic attacks also increases to 2d8.
 
 
 ### Lightning-bending
@@ -242,6 +243,11 @@ You can use each of these features a number of times equal to your bending modif
 #### Healing
 At 8th level, you learn to clear blocked chi paths within creatures and redirect their energy towards wounds to speed up the healing process. By spending one minute concentrating on reading the chi paths in another person's body, you heal them by an amount of hit points equal to three times your firebender level. 
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 2 | CLASSES</div>
+
+\page 
+
 #### Mass Heal
 At 12th level, ...
 
@@ -256,11 +262,6 @@ At 17th level, you learn to bend the energy within people's bodies to a limited 
 
 (Needs more description of mechanics; high stakes if you fail a wisdom saving throw or something.)-->
 
-<div class='pageNumber auto'></div>
-<div class='footnote'>PART 2 | CLASSES</div>
-
-\page 
-
 ### Combustionbending
 <!--You can blow stuff up with your mind!  
 Level ideas: silent, multiple simultaneous projectiles, increasing power/range/radius of blast.-->
@@ -269,7 +270,7 @@ Level ideas: silent, multiple simultaneous projectiles, increasing power/range/r
 Beginning when you choose this specialization at 5th level, you can fire bend even if your limbs are restrained as long as your head is free. Because your bending requires no movement, your attacks count as surprise attacks if you have not yet attacked the target in the current combat.
 
 #### Combustion
-At 8th level, you can make an explosion as your basic bending attack. Instead of making a firebending attack, you can choose a point within range on which to center an explosion. Targets in a 5-foot radius must make a Dexterity saving throw. On a failure, they take your bending damage in force damage, and on a success they take half damage.
+At 8th level, you can make an explosion as your basic bending attack. Instead of making a firebending attack, you can choose to make a combustion attack. You pick a point within range on which to center an explosion. Targets in a 5-foot radius must make a Dexterity saving throw. On a failure, they take your bending damage in force damage, and on a success they take half damage.
 
 #### Advanced Forms
 At 12th level, you learn an additional form of your choice from the following list:  
@@ -298,7 +299,7 @@ At 17th level, ...
 
 #### Fire Blade
 *Cost: 2 chi*  
-You narrow and condense your flame projection, creating a thin blade of fire to slice at a target, dealine 1d8 slashing damage + 1d8 fire damage.
+You narrow and condense your flame projection, creating a thin blade of fire to slice at a target, dealing 1d8 slashing damage + 1d8 fire damage.
 
 #### Sweeping Fire
 *Cost: 2 chi*  
