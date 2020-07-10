@@ -203,10 +203,10 @@ At 17th level, ...
 ### Spirituality
 
 #### Spirit World
-Beginning when you choose this specialization at 5th level, you can attempt to enter the spiritworld. You must spend 1 minute meditating and succeed on a DC 10 Wisdom Saving Throw.
+Beginning when you choose this specialization at 5th level, you can attempt to enter the spiritworld. You must spend 1 minute meditating and make a DC 15 Wisdom Saving Throw. On a success, your spirit is projected into the spiritworld according to the spell *Astral Projection*. The spell ends only when you, in your spiritual form, return to your material body.
 
-#### ???
-At 8th level, ...
+#### Wind Whisper
+At 8th level, you learn to communicate with creatures you are familiar with even when they are far from you through your spiritual connection. Once per long rest, you may communicate with such a creature as outlined in the spell *Sending*.
 
 #### ???
 At 12th level, ...
