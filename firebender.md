@@ -21,7 +21,7 @@ As a firebender, you gain the following class features.
 **Tools:** Pai Sho and one of herbalism kits or one musical instrument.
 ***
 **Saving Throws:** Charisma, Constitution  
-**Skills:** Choose two from Acrobatics, Deception, History, Insight, Performance, and Stealth
+**Skills:** Choose two from Acrobatics, Deception, History, Insight, Intimidation, and Performance
 
 #### Equipment
 
@@ -29,10 +29,10 @@ You start with the following equipment, in addition to the equipment granted by 
 
 - An explorer's pack
 - 10 darts
-- 2 shortswords
+- 2 shortswords or 2 scimitars
 
 ### Firebending
-At 1st level, you realize that you have an innate ability to produce fire with your hands and feet. You can spend 1 chi of your Attack action to cause the effects of the *Produce Flame* cantrip. (See "Fire Jab" for a description of the role chi points play in attacks and the rules for bending attacks.) Your range increases with your level according to the "Range" column of the Firebender table.
+At 1st level, you realize that you have an innate ability to produce fire with your hands and feet. You can spend 1 chi of your Attack action to cause the effects of the *Produce Flame* cantrip, but the damage is determined by the "Bending" column of the Firebender table (see "Fire Jab" for a description of the role chi points play in attacks and the rules for bending attacks). Your range increases with your level according to the "Range" column of the Firebender table.
 
 ### Fire Jab
 During combat, you can channel your chi to use your bending as a rudimentary attack by hitting other creatures. Every time you take the Attack action, you draw on your inner pool of energy, or *chi*. The class table shows how much chi you have available every time you take the Attack action ("Chi per Attack"). This amount resets every round. As your bending grows more powerful and your connection to your inner chi grows, this number increases.  
@@ -90,10 +90,10 @@ The Northern Shaolin style emphasizes "kicking over hand fighting", or prioritiz
 | 4th | +2 | 1d6   | 30/60 | 2 | 2 | Ability Score Improvement, Fire Kick
 | 5th | +3 | 1d8   | 60/120| 3 | 2 | Firebending specialization
 | 6th | +3 | 1d8   | 60/120| 3 | 2 | Firestep
-| 7th | +3 | 1d8   | 60/120| 4 | 3 | Ability Score Improvement, Create Lightning
+| 7th | +3 | 1d8   | 60/120| 4 | 3 | Ability Score Improvement, Fierce Fighter
 | 8th | +3 | 1d8   | 60/120| 4 | 3 | Specialization feature
-| 9th | +4 | 1d8   | 60/120| 5 | 3 | Improved Defusion
-|10th | +4 | 1d8   |100/200| 5 | 3 | ?
+| 9th | +4 | 1d8   | 60/120| 5 | 3 | Lightning Redirection
+|10th | +4 | 1d8   |100/200| 5 | 3 | Fire Augmentation
 |11th | +4 | 1d10  |100/200| 6 | 4 | –
 |12th | +4 | 1d10  |100/200| 6 | 4 | Ability Score Improvement, Specialization feature
 |13th | +5 | 1d10  |100/200| 7 | 4 | ?
@@ -103,7 +103,7 @@ The Northern Shaolin style emphasizes "kicking over hand fighting", or prioritiz
 |17th | +6 | 1d12  |150/300| 9 | 5 | Specialization feature
 |18th | +6 | 1d12  |200/400| 9 | 5 | –
 |19th | +6 | 1d12  |200/400| 10| 6 | Ability Score Improvement
-|20th | +6 | 1d12  |200/400| 10| 6 | Dragonfire
+|20th | +6 | 1d12  |200/400| 10| 6 | Element of Power
 </div> 
 
 #### Seven Stars
@@ -129,7 +129,7 @@ For example, say the counter is set at 2. That turn, you spend all your chi poin
 ### Ability Score Improvement
 When you reach 4th level, and again at 7th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
-### Second Wind
+### Inner Flame
 At 4th level, you gain the ability to reset your chi exhaustion die back to the maximum once per long rest.
 
 ### Firebending Specialization
@@ -138,17 +138,19 @@ At 5th level, you specialize in one of the following types of firebending: advan
 ### Firestep
 At 6th level, you can use flame jets to propel yourself through the air during your turn. You use your normal speed and movement when you fire-step and you must end your turn on the ground.
 
-### ?
+### Fierce Fighter
 At 7th level, when you roll a 1 or 2 on a damage die for a basic firebending attack, you can reroll the die and must use the new roll. 
 
 ### Lightning Redirection
-Starting at 9nd level, when someone else shoots lightning at you, you can attempt to redirect it by making a DC 15 Wisdom saving throw. On a success, you can choose to redirect the lightning in any direction of your choice as if you were generating it yourself. On a failure, you take 8d6 lightning damage.
+
+*If you let the energy in your own body flow, the lightning will follow it. You must create a pathway from your fingertips up your arm to the shoulder, then down into the stomach. The stomach is the source of energy in your body; it is called the sea of chi. From your stomach you direct it up again and out the other arm. The stomach detour is critical; you must not let the lightning pass through your heart, or the damage could be deadly.*   
+–Iroh, inventor of lightning redirection
+
+***
+Starting at 9nd level, when you are hit by lightning (natural or created by a bender), you can use your reaction to attempt to redirect it by making a Wisdom saving throw. If you roll a 10 or higher, you successfully redirect the lightning at an unoccupied space within range, taking no damage. On a 15 or higher, you can choose to redirect the lightning anywhere within range as if you were generating it yourself. If you roll below a 10, you take double the normal damage of the attack.
 
 <div style="height: 2em;">
 </div>
-
-> *If you let the energy in your own body flow, the lightning will follow it. You must create a pathway from your fingertips up your arm to the shoulder, then down into the stomach. The stomach is the source of energy in your body; it is called the sea of chi. From your stomach you direct it up again and out the other arm. The stomach detour is critical; you must not let the lightning pass through your heart, or the damage could be deadly.*   
-> **–Iroh, inventor of lightning redirection**
 
 ### Fire Augmentation
 Beginning at 10th level, you are able to alter the quality of outside sources of fire. On your turn, you can spend a bonus action to put out or triple the size of any fires within your range (excluding fire being produced by another firebender) without moving. 
@@ -293,9 +295,13 @@ At 17th level, ...
 ## Firebending Forms
 <!--Mostly offense stuff-->
 
-#### Flaming Armor
+#### Flashbang
 *Cost: 1 chi*  
-[like Armor of Agathys]
+You cause a bright flash, blinding a target within 5 feet of your choice. The target makes a Constitution saving throw. On a failure, it is blinded until the end of its next turn.
+
+#### Flaming Armor
+*Cost: 2 chi*  
+You cause flames to spring up around you. They follow you around as you move and last 1 minute. During this time, whenever a creature hits you with a melee attack, it takes 5 fire damage. This damage increases by 5 for each additional chi spent.
 
 #### Fire Blade
 *Cost: 2 chi*  
@@ -308,10 +314,6 @@ You sweep your legs in an arc around you, causing fire to spread out in a 20-foo
 #### Fire Bomb
 *Cost: 2 chi*  
 You create a flame at the end of one of your limb and thrust it onto the ground in an explosive burst at a point within range. Targets in a 10-foot radius of the burst must make a Dexterity saving throw. On a failure, they take 2d6 force damage and are stunned until the beginning of their next turn. On a success, they take half damage. The damage increases by 1d6 with each additional chi spent.
-
-#### Flashbang
-*Cost: 2 chi*  
-...
 
 #### Fire Daggers
 *Cost: 2 chi*  
