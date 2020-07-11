@@ -34,15 +34,21 @@ You start with the following equipment, in addition to the equipment granted by 
 
 When wearing light armor, you use your Strength modifier instead of Dexterity to determine your AC.
 
-### Earthbending
-At 1st level, you realize that you have an innate ability to control earth. You can move small volumes of earth no more than your carrying capacity – see "Lifting and Carrying". You can shape this earth in any way you wish, including fashioning weapons (see the *Earthen Weapon* form at the end of this class description). When earthbending up to your earth capacity, you spend 1 chi of your Attack action (see "Bending Attack" for a description of the role chi points play in attacks).  
+<div style="height:2em;">
+</div>
 
 ***
 >##### Lifting and Carrying
 > **Carrying Capacity.** Your carrying capacity is your Strength score multiplied by 15. This is the weight (in pounds) that you can carry. 
 
-<div style="height: 1em;">
-</div> 
+<div style="height:0em;">
+</div>
+### Earthbending
+At 1st level, you realize that you have an innate ability to control earth. You can move small, contiguous masses of earth no more than your carrying capacity – see "Lifting and Carrying". You cannot shape, crack, or otherwise deform this earth, until you gain more fine-grained control through training and learning earthbending forms (see "Earthbending Forms" at 3rd level).
+
+When earthbending up to your earth capacity, you spend 1 chi of your Attack action (see "Bending Attack" for a description of the role chi points play in attacks).  
+
+
 You must draw your bending material from a source of earth within 30 feet. The mass of earth you can control and the range within which you can control it (including as a source) increase with your earthbender level. See the "Volume" and "Range" columns of the Earthbender Table. A quick reference for the weight of various earthen materials is shown below.  
 
 
@@ -66,16 +72,6 @@ The HP and AC of any structure you form with your bending can be determined by r
 During combat, you can channel your chi to use your bending as a rudimentary attack by hitting other creatures. Every time you take the Attack action, you draw on your inner pool of energy, or *chi*. The class table shows how much chi you have available every time you take the Attack action ("Chi per Attack"). This amount resets every round. As your bending grows more powerful and your connection to your inner chi grows, this number increases.  
 
 When you take a basic bending attack, you spend 1 point of chi and deal 1d6 bludgeoning damage. This damage increases with your earthbender level and is shown in the "Bending" column of the Earthbender Table. The range of your attacks is the same as your bending range ("Range" column).   
-
-
-At 1st level, you must choose which of your modifiers to use for attacks: Charisma or Strength. This cannot be changed later.
-
-**Attack Bonus** = proficiency + [Cha OR Str modifier]  
-
-
-**Damage Bonus** = [Cha OR Str modifier]  
-
-The attack bonus is hereafter referred to as your earthbending modifier.
 
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 2 | CLASSES</div>
@@ -106,6 +102,17 @@ The attack bonus is hereafter referred to as your earthbending modifier.
 |19th | +6 | 1d12  | 8  |200/400| 10 | 6 | Ability Score Improvement
 |20th | +6 | 1d12  | 8  |200/400| 10 | 6 | ?
 </div>
+
+
+At 1st level, you must choose which of your modifiers to use for attacks: Charisma or Strength. This cannot be changed later.
+
+**Attack Bonus** = proficiency + [Cha OR Str modifier]  
+
+
+**Damage Bonus** = [Cha OR Str modifier]  
+
+The attack bonus is hereafter referred to as your earthbending modifier.
+
 ### Earthwall
 Starting at 2nd level, you can use your reaction to create a wall 10 feet long, 5 feet high, and 1/2 foot thick in front of you to defend against an incoming attack. You can use this ability after the attack roll, but before the outcome is determined.  
 
@@ -114,11 +121,12 @@ The wall stays in place unless it is earthbent away or destroyed by other means.
 
 You can use this ability a number of times equal to your bending modifier per long rest.
 
+
+<!--div style="height:2em;">
+</div-->
 ### Stance
 Beginning at 2nd level, you adopt a particular stance as your specialty. Choose one of the following options:
 
-<div style="height:3em;">
-</div>
 #### Praying Mantis
 This style is known for its speed and continuous attacks and was famously used by Toph Beifong. When you roll a 19 or a 20 on an attack roll, you can spend your bonus action to make an additional basic bending attack. Your speed also increases by 5.
 
@@ -127,19 +135,21 @@ You favor a deep, low stance rooted in the earth beneath you. You gain advantage
 
 If another creature uses an ability that pushes you away from them, you always roll a Strength (Athletics) Saving Throw. On a failure, you are moved half the distance, and on a success, you stay where you are.
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 2 | CLASSES</div>
+\page
 #### Sticky Hands
 You are well-versed in the art of neutral *jing*, waiting and listening to predict your opponents' next moves. You gain a +2 to AC.
 
 <!--#### Pro Bending
 Light on your feet.--> 
 
-<div class='pageNumber auto'></div>
-<div class='footnote'>PART 2 | CLASSES</div>
-\page
 ### Earthbending Forms
 At 3rd level, your connection to chi and practice of bending allows you to weave your bending into your combat style. With training, you are able to learn particular attacks that combine martial arts and earthbending to carry out more sophisticated attacks.   
 
-You learn one form from the list at the end of this class description. The number of forms you know increases with level and is shown in the Earthbender Table. Each time you learn a new form you may also replace one form you already know with another one.
+You learn two forms from the list at the end of this class description. The number of forms you know increases with level and is shown in the Earthbender Table. Each time you learn a new form you may also replace one form you already know with another one.  
+
+You also learn to shape earth in a more fine-grained manner, including fashioning weapons (see the *Earthen Weapon* form at the end of this class description, which you start out knowing and doesn't count against your "Forms Known" limit).
 
 Every time you take the Attack action on your turn, you can distribute your chi among basic bending attacks (*cost: 1 chi*) and any forms you know (whose costs are indicated with their descriptions). You can use each form a maximum of once per turn.
 
@@ -156,11 +166,11 @@ When you reach 4th level, and again at 7th, 12th, 16th, and 19th level, you can 
 ### Burrow
 At 4th level, you learn to tunnel like a badgermole. You easily carve out large chunks of rock from the ground, forming a stable tunnel structure. However, you must find a place to deposit the removed earth.
 
+<!--div style="height: 4em;">
+</div-->
 ### Earthbending specialization
 At 5th level, you specialize in one of the following types of earthbending: advanced earthbending, metalbending, or lavabending. Your abilities are described in the specialization section at the end of this class description.
 
-<div style="height: 2em;">
-</div>
 ### Rolling Earth
 At 6th level, you learn to synchronize your control of earth with your movement. When traveling over earth and while you are concentrating, your speed is doubled.
 
@@ -179,7 +189,10 @@ You can now choose to use your Earthwall as a reaction to an attack against a fr
 You learn to use your control over the earth to throw your opponents off-balance. Instead of raising an earthwall when an enemy attempts to make an attack against you, you can use your reaction to move the earth beneath their feet in an attempt to cause them to miss. Your opponent must make a DC 15 Dexterity Saving Throw. On a success, they make their attack with disadvantage. On a failure, the attack misses. The opponent must be within your normal bending range.  
 
 ### Earth Elevator
-At 10th level, you can move masses of earth beneath your feet to defy gravity. You can move an area of earth centered on you that is 10 feet in diameter and is holding 1 Medium creature (including yourself). At higher levels, you can carry more people, the equivalent of half your level minus 10 Medium creatures, rounded up (i.e. at 13th level, you lift yourself and one other Medium creature).
+At 10th level, you can move masses of earth beneath your feet to defy gravity. You can move an area of earth centered on you that is 10 feet in diameter and is holding 1 Medium creature (including yourself). At higher levels, you can carry more people, the equivalent of half your level minus 10 Medium creatures, rounded up (i.e. at 13th level, you lift yourself and one other Medium creature).  
+
+
+This feature doesn't use any chi, but the distance moved counts against your regular movement.
 
 ### ???
 Beginning at 13th level, ... [Some improved ability or saving throws]
@@ -189,14 +202,14 @@ Beginning at 13th level, ... [Some improved ability or saving throws]
 ### ???
 At 14th level, ... [some flavor-type thing]
 
-### Improved Rolling Earth
-At 15th level, you can move across difficult earth terrain (not ice, for example) as though it were normal terrain. You can also move along vertical surfaces of earth without falling during your turn.
-
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 2 | CLASSES</div>
 
 \page
-### ???
+### Improved Rolling Earth
+At 15th level, you can move across difficult earth terrain (not ice, for example) as though it were normal terrain. You can also move along vertical surfaces of earth without falling during your turn.
+
+### Substance
 At 20th level, ...
 
 <div class='pageNumber auto'></div>
@@ -273,13 +286,13 @@ At 17th level, ...
 <!--Mostly defense stuff-->
 For forms which require a target to make a saving throw, your DC is 8 + your proficiency modifier + your earthbending modifier.  
 
-You start out knowing forms marked with an asterisk.
+<!--You start out knowing forms marked with an asterisk.-->
 
 <!--#### Shelter
 *Cost: 1 chi*  
 You raise a rock tent around you as shelter. While inside, you have full cover and cannot attack. You can dismiss the shelter by spending another chi point.  -->
 
-#### Earthen Weapon*
+#### Earthen Weapon
 *Cost: 1 chi*  
 ...
 
@@ -316,7 +329,7 @@ You prepare to defuse the next ranged attack that hits you. The next time a crea
 
 For projectiles of another element, the damage of each projectile is reduced by 1d6 + your earthbending modifier + your earthbender level. For earth projectiles, the damage is reduced by 1d12 + your earthbending modifier + your earthbender level.  
 
-<div style="height:7em;">
+<div style="height:8em;">
 </div>
 #### Earth Levitation
 *Cost: 2 chi*  
@@ -348,6 +361,10 @@ You melt an unoccupied 5 foot-square area of the ground within your range into l
 You turn a square area of the ground up to half your normal bending range on each side into quicksand for up to 1 minute. The entire area must be within your normal range. It is considered difficult terrain for the duration.  
 
 When this change occurs, each creature standing in the area must succeed on a Dexterity saving throw or be Restrained. A creature that enters the area or ends its turn there must also succeed on a Dexterity saving throw or become Restrained.
+
+#### Collapse
+*Cost: X chi*  
+[Collapsing a portion of tunnel or ceiling of a certain area, dealing 4d10 damage (collapsing tunnel damage according to DMG pg. 249)]
 
 #### Earth Column
 
