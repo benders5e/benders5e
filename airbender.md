@@ -130,7 +130,7 @@ For example, say the counter is set at 2. That turn, you spend all your chi poin
 When you reach 4th level, and again at 7th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
 ### Air Cushion
-Beginning at 4th level, you can use your reaction when you fall to reduce any falling damage you or another creature takes by an amount equal to five times your bender level.
+Beginning at 4th level, you can use your reaction when you fall to slow yourself with airbending, reducing any falling damage you take by an amount equal to five times your bender level. You can also use this ability on another creature.
 
 ### Airbending Specialization
 At 5th level, you specialize in one of the following aspects of airbending: advanced airbending, spirituality, or ?. Your abilities are described in the specialization section at the end of this class description. <!--This specialization grants you a new feature at 5th level, and again at 8th, 12th, and 17th level.-->
@@ -148,6 +148,7 @@ At 9th level, your instinctive agility lets you dodge out of the way of certain 
 </div>
 ### Breath of Wind
 At 10th level, you become capable of displaying formidable breath control. You learn to increase the volume of your voice or sounds of an instrument you are playing.  
+
 
 You are also able to hold your breath for an unusual amount of time; instead of the normal amount (a number of minutes equal to 1 + your Constitution modifier), you can hold your breath for a number of minutes equal to 1 + your proficiency bonus + your airbending modifier.
 
@@ -203,7 +204,11 @@ At 17th level, ...
 ### Spirituality
 
 #### Spirit World
-Beginning when you choose this specialization at 5th level, you can attempt to enter the spiritworld. You must spend 1 minute meditating and make a DC 15 Wisdom Saving Throw. On a success, your spirit is projected into the spiritworld according to the spell *Astral Projection*. The spell ends only when you, in your spiritual form, return to your material body.
+Beginning when you choose this specialization at 5th level, you can attempt to enter the spiritworld. You must spend 1 minute meditating and make a DC 15 Wisdom Saving Throw. On a success, your spirit is projected into the Spirit World according to the spell *Astral Projection*.  
+
+While in the Spirit World you cannot airbend (more specifically, you also can't make any basic or airbending form attacks and cannot use the Air Cushion and Cloudbending features.)
+
+The spell ends only when you, in your spiritual form, return to your material body.
 
 #### Wind Whisper
 At 8th level, you learn to communicate with creatures you are familiar with even when they are far from you through your spiritual connection. Once per long rest, you may communicate with such a creature as outlined in the spell *Sending*.
@@ -212,9 +217,9 @@ At 8th level, you learn to communicate with creatures you are familiar with even
 At 12th level, ...
 
 #### Spiritual Projection
-At 17th level, you can attempt to project your spirit into the *material* world. You must spend 1 minute meditating and succeed on a DC 15 Wisdom Saving Throw.   
+At 17th level, you can attempt to project your spirit into the *material* world. You must spend 1 minute meditating and succeed on a DC 15 Wisdom Saving Throw. The projection can't airbend, just as your spirit projection cannot airbend in the Spirit World.   
 
-Your projection is able to travel anywhere in the world almost instantaneously and can pass through physical objects. This projection lasts 1d20 minutes. You can use this ability once per long rest.
+Your projection is able to travel anywhere in the world almost instantaneously and can pass through physical objects. It lasts 1d20 minutes. You can use this ability once per long rest.
 
 ### ?
 
