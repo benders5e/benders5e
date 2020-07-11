@@ -172,6 +172,9 @@ These feats can be chosen by any class in a Bender campaign.
 - You have advantage on Wisdom (Survival) checks when foraging for tea leaves.
 - Once per long rest, if you have tea leaves or herbs available, you can create an infusion laced with healing power. Any creature who drinks it gains the benefits of a Potion of Healing. Drinking more than once from the infusion does not confer any additional benefits.
 
+### Gunpowder Amateur
+[Mostly meant for firebenders to interact with gunpowder and use it strategically in tandem with their bending]
+
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 4 | FEATS</div>
 
