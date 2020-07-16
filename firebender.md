@@ -127,7 +127,7 @@ You have 4 exhaustion points at your disposal. (Use a d4 to keep track.) The d4 
 For example, say the counter is set at 2. That turn, you spend all your chi points attacking and turn the counter to 1. The next turn, you have 0 chi to spend, and you can either use your Attack action to make a melee, non-bending attack or forfeit it. The next turn, your counter is back up to 2. If you spend all your chi once again, it decreases back to 1 again, but if you spend anything less than the maximum (e.g. all but one chi) the counter once again increases to 3.
 
 ### Ability Score Improvement
-When you reach 4th level, and again at 7th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+When you reach 4th level, and again at 8th, 11th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 2 | CLASSES</div>
@@ -140,10 +140,10 @@ At 4th level, you gain the ability to reset your chi exhaustion die back to the 
 At 5th level, you specialize in one of the following types of firebending: advanced firebending, energy reading, or combustionbending. Your abilities are described in the specialization section at the end of this class description.
 
 ### Firestep
-At 6th level, you can use flame jets to propel yourself through the air during your turn. You use your normal speed and movement when you fire-step and you must end your turn on the ground.
+When you reach 6th level, you can use flame jets to propel yourself through the air during your turn. You use your normal speed and movement when you fire-step and you must end your turn on the ground.
 
 ### Fierce Fighter
-At 7th level, when you roll a 1 or 2 on a damage die for a basic firebending attack, you can reroll the damage. You must use the new roll. This ability does not apply to additional damage dice beyond the "bending" die listed in the table (e.g. Colorful Flame damage).
+At 6th level, when you roll a 1 or 2 on a damage die for a basic firebending attack, you can reroll the damage. You must use the new roll. This ability does not apply to additional damage dice beyond the "bending" die listed in the table (e.g. Colorful Flame damage).
 
 ### Lightning Redirection
 
@@ -198,10 +198,10 @@ Beginning when you choose this specialization at 5th level, your fire begins to 
 | White     | Cold          |
 
 #### Fine-grained Control
-At 8th level, when using a form, you are able to control your bending to protect your friends and allies while still raining fury on your foes. Each time you make an attack, you can choose up to one creature to exclude from the attack, causing them to take no damage even if they are within its area of effect. This number increases by 1 creature every two levels you gain.
+At 7th level, when using a form, you are able to control your bending to protect your friends and allies while still raining fury on your foes. Each time you make an attack, you can choose up to one creature to exclude from the attack, causing them to take no damage even if they are within its area of effect. This number increases by 1 creature every two levels you gain.
 
 #### Heat Control
-At 12th level, you learn to control not only fire, but any heat housed by matter. By touching an object, you can siphon off heat by spending an amount of time that depends on the material (some examples are shown in the table below). You must have one hand on the material and one hand free.  
+At 11th level, you learn to control not only fire, but any heat housed by matter. By touching an object, you can siphon off heat by spending an amount of time that depends on the material (some examples are shown in the table below). You must have one hand on the material and one hand free.  
 You can also have the opposite effect: if you have hands or nose or mouth free, you can heat up materials in the vicinity with an action, causing them to reach a temperature equal to the result of being exposed to a hot flame for half an hour. (You cannot use this ability to, for exmaple, heat rock into lava.)
 
 ##### Cooling Time
@@ -225,12 +225,12 @@ Beginning when you choose this specialization at 5th level, ...
 stunning/shocking/conducting current
 
 #### Create Lightning
-At 8th level, you learn to distinguish the yin and yang of energy and separate the positive from the negative energy. This creates an imbalance, and when the energies attempts to restore balance by crashing back together, you provide release and guidance, creating lightning.  
+At 7th level, you learn to distinguish the yin and yang of energy and separate the positive from the negative energy. This creates an imbalance, and when the energies attempts to restore balance by crashing back together, you provide release and guidance, creating lightning.  
 
 You learn the *Lightning* form described in the "Forms" section at the end of this class description.
 
 #### Lightning Arcs
-At 12th level, your lightning attacks have the potential to arc from one target to the next. Whenever you use the *Lightning* form, any creatures within 5 feet of the initial target also become targets, any creatures within 5 feet of them become targets, and so on.
+At 11th level, your lightning attacks have the potential to arc from one target to the next. Whenever you use the *Lightning* form, any creatures within 5 feet of the initial target also become targets, any creatures within 5 feet of them become targets, and so on.
 
 #### ?
 At 17th level, ...
@@ -246,10 +246,10 @@ Additionally, you can sense this energy and heat emanating from creatures even f
 You can use each of these features a number of times equal to your bending modifier. When you finish a Long Rest, you regain all expended uses.
 
 #### Healing
-At 8th level, you learn to clear blocked chi paths within creatures and redirect their energy towards wounds to speed up the healing process. By spending one minute concentrating on reading the chi paths in another person's body, you heal them by an amount of hit points equal to three times your firebender level. 
+At 7th level, you learn to clear blocked chi paths within creatures and redirect their energy towards wounds to speed up the healing process. By spending one minute concentrating on reading the chi paths in another person's body, you heal them by an amount of hit points equal to three times your firebender level. 
 
 #### Mass Heal
-At 12th level, ...
+At 11th level, ...
 
 #### Minor Energybending
 At 17th level, you learn to bend the energy within people's bodies to a limited extent. Once per long rest, you may spend an action to do one of the following:
@@ -278,10 +278,10 @@ Level ideas: silent, multiple simultaneous projectiles, increasing power/range/r
 Beginning when you choose this specialization at 5th level, you can fire bend even if your limbs are restrained as long as your head is free. Because your bending requires no movement, your attacks count as surprise attacks if you have not yet attacked the target in the current combat.
 
 #### Combustion
-At 8th level, you can make an explosion as your basic bending attack. Instead of making a firebending attack, you can choose to make a combustion attack. You pick a point within range on which to center an explosion. Targets in a 5-foot radius must make a Dexterity saving throw. On a failure, they take your bending damage in force damage, and on a success they take half damage.
+At 7th level, you can make an explosion as your basic bending attack. Instead of making a firebending attack, you can choose to make a combustion attack. You pick a point within range on which to center an explosion. Targets in a 5-foot radius must make a Dexterity saving throw. On a failure, they take your bending damage in force damage, and on a success they take half damage.
 
 #### Advanced Forms
-At 12th level, you learn an additional form of your choice from the following list:  
+At 11th level, you learn an additional form of your choice from the following list:  
 
 ##### Charged Attack
 

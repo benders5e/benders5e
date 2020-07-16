@@ -33,8 +33,8 @@ You start with the following equipment, in addition to the equipment granted by 
 ### Unarmored Defense
 Beginning at 1st level, while you are wearing no armor and not wielding a shield, your AC equals 10 + your Wisdom and Dexterity modifiers.
 
-<div style="height: 10em;">
-</div>
+<!--div style="height: 10em;">
+</div-->
 ### Airbending
 At 1st level, you realize that you have an innate ability to manipulate the air around you. You can spend 1 chi of your Attack action to cause the effects of the *Gust* cantrip. (See "Air Punch" for a description of the role chi points play in attacks and the rules for bending attacks.) Your range increases with your level according to the "Range" column of the Airbender table.  
 
@@ -69,6 +69,15 @@ Xingyiquan ("mind heart boxing")
 ### Be the Leaf
 At 2nd level, you become tuned in to the air around you. You learn to move like a leaf in the wind, allowing you to evade attacks more easily. You can choose to impose disadvantage on an attack against you as a reaction after the attack roll is made, but before the outcome is determined. You can use this ability a number of times equal to your bending modifier per long rest.  
 
+### Unarmored Movement
+Starting at 2nd level, your speed increases by 10 feet while you are not wearing armor or wielding a shield. This bonus increases when you reach certain levels, as shown in the class table.  
+
+
+You also learn to use your bending to steer your glider. Your flying speed is equal to your ground speed. See the Glider description (in the "Equipment" section) for more details about using your glider. 
+
+### Airbending Forms
+At 3rd level, your connection to chi and practice of bending allows you to weave your bending into your combat style. With training, you are able to learn particular forms that combine martial arts and airbending to carry out more sophisticated attacks.   
+
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 2 | CLASSES</div>
 
@@ -100,15 +109,6 @@ At 2nd level, you become tuned in to the air around you. You learn to move like 
 |20th | +5 | +30 ft.  | 1d10 |200/400| 10| 6 | Detachment
 </div>
 
-### Unarmored Movement
-Starting at 2nd level, your speed increases by 10 feet while you are not wearing armor or wielding a shield. This bonus increases when you reach certain levels, as shown in the class table.  
-
-
-You also learn to use your bending to steer your glider. Your flying speed is equal to your ground speed. See the Glider description (in the "Equipment" section) for more details about using your glider. 
-
-### Airbending Forms
-At 3rd level, your connection to chi and practice of bending allows you to weave your bending into your combat style. With training, you are able to learn particular forms that combine martial arts and airbending to carry out more sophisticated attacks.   
-
 You learn one form from the list at the end of this class description. The number of forms you know increases with level and is shown in the Airbender Table. Each time you learn a new form you may also replace one form you already know with another one.  
 
 Every time you take the Attack action on your turn, you have a certain amount of *chi* at your disposal (indicated by the "Chi per Attack" column of the class table). You can distribute your chi among basic bending attacks or regular bending (*cost: 1 chi*) and any forms you know (whose costs are indicated with their descriptions). You can use each form a maximum of once per turn.
@@ -118,16 +118,16 @@ Every time you take the Attack action on your turn, you have a certain amount of
 #### Chi Exhaustion
 Channeling chi into attacks is a physically and mentally draining endeavor.   
 
-<div class='pageNumber auto'></div>
-<div class='footnote'>PART 2 | CLASSES</div>
-
-\page
 You have 4 exhaustion points at your disposal. (Use a d4 to keep track.) The d4 starts with the "4" pointing up. Every turn you use all of your chi, you decrement this counter. When the counter indicates a "1", you need to take a break from bending and cannot spend any chi or take bending reactions that turn. Any bending concentration is also broken. Every turn that you do *not* use all your chi, the counter increments by 1. This counter resets every long rest.  
 
 For example, say the counter is set at 2. That turn, you spend all your chi points attacking and turn the counter to 1. The next turn, you have 0 chi to spend, and you can either use your Attack action to make a melee, non-bending attack or forfeit it. The next turn, your counter is back up to 2. If you spend all your chi once again, it decreases back to 1 again, but if you spend anything less than the maximum (e.g. all but one chi) the counter once again increases to 3.
 
 ### Ability Score Improvement
-When you reach 4th level, and again at 7th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 2 | CLASSES</div>
+\page
 
 ### Air Cushion
 Beginning at 4th level, you can use your reaction when you fall to slow yourself with airbending, reducing any falling damage you take by an amount equal to five times your bender level. You can also use this ability on another creature.
@@ -136,16 +136,16 @@ Beginning at 4th level, you can use your reaction when you fall to slow yourself
 At 5th level, you specialize in one of the following aspects of airbending: advanced airbending, spirituality, or ?. Your abilities are described in the specialization section at the end of this class description. <!--This specialization grants you a new feature at 5th level, and again at 8th, 12th, and 17th level.-->
 
 ### Improved Unarmored Movement
-At 6th level, you gain the ability to move along vertical surfaces and across liquids on your turn without falling during the move. Your glider speed increases to 60 feet.
+When you reach 6th level, you gain the ability to move along vertical surfaces and across liquids on your turn without falling during the move. Your glider speed increases to 60 feet.
 
 ### Cloudbending
-At 7th level, you gain the ability to bend clouds. Once per long rest, you can concentrate on reshaping clouds for a period of time up to 1 hour. During this time, you spend your Action on every turn cloudbending and cannot use it to attack or take any other actions.
+At 6th level, you gain the ability to bend clouds. Once per long rest, you can concentrate on reshaping clouds for a period of time up to 1 hour. During this time, you spend your Action on every turn cloudbending and cannot use it to attack or take any other actions.
 
 ### Evasion
 At 9th level, your instinctive agility lets you dodge out of the way of certain area effects. When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
 
-<div style="height: 4em;">
-</div>
+<!--div style="height: 4em;">
+</div-->
 ### Breath of Wind
 At 10th level, you become capable of displaying formidable breath control. You learn to increase the volume of your voice or sounds of an instrument you are playing.  
 
@@ -193,10 +193,10 @@ Beginning when you choose this specialization at 5th level, you gain access to a
 You also automatically know the form *Tranquility* and it does not count against the "Forms Known" limit in the class table.
 
 #### ???
-At 8th level, ...
+At 7th level, ...
 
 #### ???
-At 12th level, ...
+At 11th level, ...
 
 #### ???
 At 17th level, ...
@@ -211,10 +211,10 @@ While in the Spirit World you cannot airbend (more specifically, you also can't 
 The spell ends only when you, in your spiritual form, return to your material body.
 
 #### Wind Whisper
-At 8th level, you learn to communicate with creatures you are familiar with even when they are far from you through your spiritual connection. Once per long rest, you may communicate with such a creature as outlined in the spell *Sending*.
+At 7th level, you learn to communicate with creatures you are familiar with even when they are far from you through your spiritual connection. Once per long rest, you may communicate with such a creature as outlined in the spell *Sending*.
 
 #### ???
-At 12th level, ...
+At 11th level, ...
 
 #### Spiritual Projection
 At 17th level, you can attempt to project your spirit into the *material* world. You must spend 1 minute meditating and succeed on a DC 15 Wisdom Saving Throw. The projection can't airbend, just as your spirit projection cannot airbend in the Spirit World.   
@@ -227,10 +227,10 @@ Your projection is able to travel anywhere in the world almost instantaneously a
 Beginning when you choose this specialization at 5th level, ...
 
 #### ???
-At 8th level, ...
+At 7th level, ...
 
 #### ???
-At 12th level, ...
+At 11th level, ...
 
 #### ???
 At 17th level, ...
@@ -317,11 +317,6 @@ You enter a special meditation that surrounds you with an aura of peace, giving 
 
 #### Heat regulation
 *Cost: X chi*  
-
-<div class='pageNumber auto'></div>
-<div class='footnote'>PART 2 | CLASSES</div>
-
-\page
 
 #### Tornado
 *Cost: 5 chi*  

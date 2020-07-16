@@ -116,8 +116,8 @@ With these tendrils, you also gain the ability to use your Redirection ability o
 
 You must spend one chi on one of your turns to collect water around your arms and gain these benefits.
 
-<!--div style="height:5em;">
-</div-->
+<div style="height:2em;">
+</div>
 ### Waterbending Forms
 At 3rd level, your connection to chi and practice of bending allows you to weave your bending into your combat style. With training, you are able to learn particular attacks that combine martial arts and bending to carry out more sophisticated attacks.   
 
@@ -137,7 +137,7 @@ You have 4 exhaustion points at your disposal. (Use a d4 to keep track.) The d4 
 For example, say the counter is set at 2. That turn, you spend all your chi points attacking and turn the counter to 1. The next turn, you have 0 chi to spend, and you can either use your Attack action to make a melee, non-bending attack or forfeit it. The next turn, your counter is back up to 2. If you spend all your chi once again, it decreases back to 1 again, but if you spend anything less than the maximum (e.g. all but one chi) the counter once again increases to 3.
 
 ### Ability Score Improvement
-When you reach 4th level, and again at 7th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
 
 ### Water in All Its States
@@ -153,7 +153,7 @@ At 6th level, you learn to synchronize your control of water with your movement.
 <!--When you do so, your speed is doubled.-->
 
 ### ?
-At 7th level, ...
+At 6th level, ...
 
 ### Improved Water Movement
 At 9th level, your control over solid water also grants you the ability to move easily over ice and snow. For you, this type of terrain is no longer difficult terrain.
@@ -163,10 +163,10 @@ At 10th level, ...
 
 <div style="height:3em;">
 </div>
-### ???
+### ?
 Beginning at 13th level, ... [Some improved ability or saving throws]
 
-### ???
+### ?
 At 14th level, ... [some flavor-type thing]
 
 ### Water Spout
@@ -187,18 +187,14 @@ Beginning when you choose this specialization at 5th level, you gain access to a
 You also automatically know the form *Water is Everywhere* and it does not count against the "Forms Known" limit in the class table.
 
 #### ???
-At 8th level, ...
+At 7th level, ...
 
 #### ???
-At 12th level, ...  
+At 11th level, ...  
 
 #### Expanded Horizons
 At 17th level, you study benders of other elements to improve your own bending. You learn one additional form off one of the other classes' form lists and adapt it to water (at the discretion of your DM).
 
-<div class='pageNumber auto'></div>
-<div class='footnote'>PART 2 | CLASSES</div>
-
-\page
 ### Healing
 
 #### Healing
@@ -207,12 +203,17 @@ Beginning when you choose this specialization at 5th level, you gain the ability
 You can use this ability a number of times equal to your bending modifier. You regain all expended uses after a long rest.
 
 #### Greater Healing
-At 8th level, your healing powers increase. When you heal a creature, you can use your ability to grant the effects of the *Revivify* spell instead of restoring hit points.
+At 7th level, your healing powers increase. When you heal a creature, you can use your ability to grant the effects of the *Revivify* spell instead of restoring hit points.
+
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 2 | CLASSES</div>
+
+\page
 
 <!--div style="height: 5em;">
 </div-->
 #### New Beginnings
-At 12th level, you learn to heal even the oldest and deepest wounds. When you heal another creature, instead of increasing their hit points, you can instead choose to heal one scar or imperfection, leaving the skin looking even and without a hint to its past.  
+At 11th level, you learn to heal even the oldest and deepest wounds. When you heal another creature, instead of increasing their hit points, you can instead choose to heal one scar or imperfection, leaving the skin looking even and without a hint to its past.  
 
 
 You can also use this ability to end any reduction to one of the target's Ability Scores or one effect reducing the target's hit point maximum.
@@ -241,7 +242,7 @@ The creature makes a Charisma saving throw against your bending DC. If the moon 
 The condition of the creature persists while you maintain concentration. At the end of each of its turns, the target can make another Charisma saving throw. On a success, the condition (Paralyzed or Restrained) ends and the creature is immune to your bloodbending until it has taken a long rest.
 
 #### Bloodbending
-At 8th level, your power grows. During the full moon, you can use your action to attempt to control the movements of a creature instead of only Paralyzing it.  You can use this ability a number of times equal to your bending modifier per long rest.     
+At 7th level, your power grows. During the full moon, you can use your action to attempt to control the movements of a creature instead of only Paralyzing it.  You can use this ability a number of times equal to your bending modifier per long rest.     
 
 The creature makes a Saving Throw as before. During a full moon, a failure leads it to become Paralyzed and its subsequent movements are under your control. On its turn, you can force the creature to take its movement and one Action (no bonus actions). If you cause it to take the Attack action, it only makes one attack. You can also cause the creature to use a Reaction, but this requires you to use your own Reaction as well. On a success, the creature becomes Paralyzed, but you have no control over its movements.
 
@@ -252,7 +253,7 @@ These effects persist while you maintain concentration. At the end of each of it
 The number of creatures you can control increases with your bloodbender level (waterbender level minus 5); at each level, you can control a number of creatures equal to half your bloodbender level, rounded down (minimum of 1).
 
 #### Greater Bloodbending
-At 12th level, your bloodbending control increases. ??
+At 11th level, your bloodbending control increases. ??
 
 <!--div style="height: 2em;">
 </div-->
@@ -267,15 +268,16 @@ At 19th level, you are able to bloodbend even on nights without a full moon, exc
 #### Plantbending
 Beginning when you choose this specialization at 5th level, you learn to control the water in plants. You can move one stem of a plant (one continuous tube) as you choose. The stem's physical modifiers are equal to your bending modifier.
 
+#### Greater Plantbending
+At 7th level, you learn to control 2 plants in your range at a time with your bending. This number continues to increase according to your swampbender level (waterbender level minus 5); at each level, you can control a number of stems equal to half your swampbender level (minimum of 2).
+
+#### Plant Armor
+At 11th level, you can summon plant to create a sort of biological armor. You spend two minutes gathering enough plants to surround you, increasing your AC <!--by X to a maximum of?--> to 18.
+
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 2 | CLASSES</div>
 
 \page
-#### Greater Plantbending
-At 8th level, you learn to control 2 plants in your range at a time with your bending. This number continues to increase according to your swampbender level (waterbender level minus 5); at each level, you can control a number of stems equal to half your swampbender level (minimum of 2).
-
-#### Plant Armor
-At 12th level, you can summon plant to create a sort of biological armor. You spend two minutes gathering enough plants to surround you, increasing your AC <!--by X to a maximum of?--> to 18.
 
 #### Spirit Vines
 At 17th level, you are able to read the spiritual energy in the connected plant matter of the world. Once per long rest, you can spend at most ten minutes meditating while touching a plant. You essentially cast the spell *Scrying*, allowing you to see the events currently unfolding in another place of your choosing anywhere else in the material world, provided it has some plant cover.
@@ -312,13 +314,15 @@ You shape water into a swirling disk by your arm and freeze it. Your AC increase
 
 Each additional chi point your spend increases the HP of the shield by 10.
 
-<div style="height: 3em;">
-</div>
+<!--div style="height: 3em;">
+</div-->
 
 #### Water Whip  
 *Cost: 1 chi*  
 You shape the water at your disposal into a lashing tendril (which has the statistics of a whip) and swipe at a target within 15 feet, dealing 1d4 bludgeoning damage on a hit. For each additional chi point you spend, you create and attack with another water whip, dealing an additional die of damage.  
 
+<div style="height: 8em;">
+</div>
 #### Water Tendril
 *Cost: 1 chi*  
 You create a water tendril. Its reach depends on the amount of water your spend creating it; as a general rule of thumb, the reach will be 5 feet per 1-foot-diameter sphere of water. When you create the tendril and by spending another chi on subsequent turns, you can cause it to take one of the following actions:
@@ -351,12 +355,13 @@ You send a ray of ice across the ground streaking towards a target of your choic
 
 At the end of each of its turns, a restrained target can make a Strength saving throw against your save DC to break free.
 
-<div class='pageNumber auto'></div>
-<div class='footnote'>PART 2 | CLASSES</div>
-\page
 #### Water Jet
 *Cost: 2 chi*  
 When you use this form, you make an attack roll to send a pressurized jet of water at an attacker. You deal an amount of damage equal to twice your bending die on a hit. You also roll a Strength (Athletics) check opposed by the target's Strength (Athletics) or Dexterity (Acrobatics) check. If the target fails, it is knocked prone.
+
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 2 | CLASSES</div>
+\page
 
 #### Ice Daggers
 *Cost: 2 chi*  
@@ -394,8 +399,7 @@ You reshape water around you while submerged to maintain a supply of breathable 
 *Cost: 3 chi*  
 (Lasts 24 hours unless you dismiss it.)
 
-<div style="height:1em;">
-</div>
+
 #### Octopus
 *Cost: 4 chi*    
 You create 4 water tendrils (see the *Water Tendril* form for actions the tendrils can take). Each additional chi you spend creates another tendril.

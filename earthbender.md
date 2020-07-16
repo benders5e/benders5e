@@ -162,7 +162,7 @@ You have 4 exhaustion points at your disposal. (Use a d4 to keep track.) The d4 
 For example, say the counter is set at 2. That turn, you spend all your chi points attacking and turn the counter to 1. The next turn, you have 0 chi to spend, and you can either use your Attack action to make a melee, non-bending attack or forfeit it. The next turn, your counter is back up to 2. If you spend all your chi once again, it decreases back to 1 again, but if you spend anything less than the maximum (e.g. all but one chi) the counter once again increases to 3.
 
 ### Ability Score Improvement
-When you reach 4th level, and again at 7th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
 ### Burrow
 At 4th level, you learn to tunnel like a badgermole. You easily carve out large chunks of rock from the ground, forming a stable tunnel structure. However, you must find a place to deposit the removed earth.
@@ -173,10 +173,10 @@ At 4th level, you learn to tunnel like a badgermole. You easily carve out large 
 At 5th level, you specialize in one of the following types of earthbending: advanced earthbending, metalbending, or lavabending. Your abilities are described in the specialization section at the end of this class description.
 
 ### Rolling Earth
-At 6th level, you learn to synchronize your control of earth with your movement. As a bonus action while you are moving over earth, you can concentrate on traveling quickly, doubling your speed.
+When you reach 6th level, you learn to synchronize your control of earth with your movement. As a bonus action while you are moving over earth, you can concentrate on traveling quickly, doubling your speed.
 
 ### Expansion and Compaction
-At 7th level, your control increases. You are now able to compact or expand earth of the volume and range that you can bend. You also learn to bend earth-based materials such as mud, coal, gems, crystals, meteorites, and jennamite ("creeping crystal").  
+At 6th level, your control increases. You are now able to compact or expand earth of the volume and range that you can bend. You also learn to bend earth-based materials such as mud, coal, gems, crystals, meteorites, and jennamite ("creeping crystal").  
 
 As a consequence, you can now tunnel underground without having to deposit the removed earth elsewhere.
 
@@ -195,12 +195,12 @@ At 10th level, you can move masses of earth beneath your feet to defy gravity. Y
 
 This feature doesn't use any chi, but the distance moved counts against your regular movement.
 
-### ???
+### ?
 Beginning at 13th level, ... [Some improved ability or saving throws]
 
 <!--div style="height: 1em;">
 </div-->
-### ???
+### ?
 At 14th level, ... [some flavor-type thing]
 
 <div class='pageNumber auto'></div>
@@ -228,10 +228,10 @@ Beginning when you choose this specialization at 5th level, you are so tuned in 
 Additionally, you gain advantage on Insight checks when your target is in normal earthbending range.
 
 #### Earth Dive
-Beginning at 8th level, you can dive into and out of earth as though it were liquid. Your "swim" speed equals your walking speed. While underground, you must hold your breath.
+Beginning at 7th level, you can dive into and out of earth as though it were liquid. Your "swim" speed equals your walking speed. While underground, you must hold your breath.
 
 #### Advanced Form
-At 12th level, you learn an additional form of your choice from the following list:  
+At 11th level, you learn an additional form of your choice from the following list:  
 
 ##### Magnetization
 ##### Dust Stepping
@@ -248,10 +248,10 @@ Beginning at 19th level, ...
 Beginning when you choose this specialization at 5th level, you can bend the small pieces of earth present in impure metals (alloys). You are able to bend such metal within touch range.
 
 #### Suit of Armor
-Beginning at 8th level, if the necessary metal is available, you can spend 1 chi to achieve the same effect as the *Rock Armor* form but create a metal suit instead. Your AC is 18.
+Beginning at 7th level, if the necessary metal is available, you can spend 1 chi to achieve the same effect as the *Rock Armor* form but create a metal suit instead. Your AC is 18.
 
 #### Ranged Metalbending
-At 12th level, you learn to bend metal without touching it. You can bend metal as if it was earth (the same capacity and range restrictions apply to your metalbending as do to your earthbending).
+At 11th level, you learn to bend metal without touching it. You can bend metal as if it was earth (the same capacity and range restrictions apply to your metalbending as do to your earthbending).
 
 #### ???
 At 17th level, ...
@@ -267,7 +267,7 @@ Beginning when you choose this specialization at 5th level, you can harden lava 
 In addition, you now use heated rocks in your basic bending attacks. Although not heated to the point of melting, this earth now deals 1d4 bludgeoning + 1d4 fire damage instead of 1d8 bludgeoning. At 11th level, this increases to 1d6 bludgeoning + 1d4 fire and again to 1d6 of each type at 17th level. If you roll a 1 or 2 on the fire damage die, you can reroll the damage but must use the new roll.
 
 #### Melting Earth
-Beginning at 8th level, you can melt an unoccupied 5 foot-square area of the ground within your range into lava, provided it is earth. This is encapsulated by the *Melting Earth* form in the forms list.
+Beginning at 7th level, you can melt an unoccupied 5 foot-square area of the ground within your range into lava, provided it is earth. This is encapsulated by the *Melting Earth* form in the forms list.
 
 Once the lava is produced, it slowly hardens due to the exposure to the air unless you spend an action to harden it. This amount of time is determined the first time you use this ability in an encounter, taking 1d6 rounds (starting at the end of your turn).  
 
@@ -275,7 +275,7 @@ Once the lava is produced, it slowly hardens due to the exposure to the air unle
 The damage done by lava is determined according to standard D&D 5e rules: any creature standing in or wading through the lava takes 10d10 fire damage, and creatures fully submerged in lava take 18d10 fire damage. As a lavabender, you have resistance to fire damage.
 
 #### Lavabending
-At 12th level, you learn to move lava with as much control as you move earth. You spend an action to create and move the equivalent of a 3-foot-diameter sphere of lava at a time. When launching lava as an attack, you deal the amount of bludgeoning damage in the Bending column of the class table *and* an additional die of the same type as fire damage.
+At 11th level, you learn to move lava with as much control as you move earth. You spend an action to create and move the equivalent of a 3-foot-diameter sphere of lava at a time. When launching lava as an attack, you deal the amount of bludgeoning damage in the Bending column of the class table *and* an additional die of the same type as fire damage.
 
 #### ???
 At 17th level, ...
