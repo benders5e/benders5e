@@ -310,9 +310,12 @@ The following earthbending forms are available to you in addition to the forms l
 
 ### Using the Bender setting
 
-- This class is meant to be played in a world in which the only race is Human.
-- Do not use in combination with any magical D&D classes; so, you can play a Bender in a party with Barbarians, Fighters, Monks, or Rogues, but no others.
-- A custom character sheet that reflects the modifications made to regular 5e abilities, skill, etc. can be found [here](https://).
+This class is meant to be played in a world in which the only race is Human and in which the typical arcane magic is replaced with spirit magic. As such, it was not meant to be played in combination with any magical D&D classes.
+
+If you want to include this class in a regular D&D 5e campaign, at 6th level bending attacks count as magical for the purposes of overcoming resistance and immunity to nonmagical attacks and damage.
+
+A custom character sheet that reflects the modifications made to regular 5e abilities, skills, etc. can be found [here](https://).
+
 
 ### Other classes in this setting
 #### Chi blocker
@@ -327,7 +330,7 @@ Modified Fighter (Samurai or Battlemaster), similar to Sokka's training; with sp
 ### Credits
 * Made by Noemi Glaeser with [The Homebrewery](https://homebrewery.naturalcrit.com).
 * [Avatar Wiki](https://avatar.fandom.com/wiki/Bending_arts) quoted and used for reference.
-* Thank you to Kevin Gagnon, Adam Groth, Jamie Mayson, and Trevor Schachner for feedback, ideas, and help with playtesting.
+* Thank you to Kevin Gagnon, Adam Groth, Jamie Mayson, and Trevor Schachner for feedback, suggestions, ideas, and help with playtesting.
 
 
 <div class='pageNumber auto'></div>

@@ -32,6 +32,14 @@ You start with the following equipment, in addition to the equipment granted by 
 - 10 darts
 - A pouch of water
 
+<div style="height: 2em;">
+</div>
+
+> ##### Seeing Underwater
+> You can see underwater just as well as above water. Areas above water viewed from underwater are considered lightly obscured.
+
+<div style="height: 5em;">
+</div>
 ### Waterbending
 At 1st level, you realize that you have an innate ability to control water. You can move small volumes of *liquid* water and liquids that are mostly water at will. You must draw your bending material from a source within 30 feet. 
 
@@ -64,13 +72,6 @@ Starting at 2nd level, you can use your reaction to attempt to redirect a ranged
 - basic ranged earthbending attacks, as long as the volume of earth used in the attack is smaller than the volume of water you use to redirect it
 - non-bending ranged attacks
 
-You must have at least one hand free to use this ability. When you do so, the damage you take from the attack is reduced by 1d10 + your waterbending modifier + your waterbender level. If you reduce the damage to 0 and have at least one hand free, you redirect the element to make a ranged attack against a creature of your choice as part of the same reaction.  
-
-You can use this ability a number of times equal to your bending modifier per long rest.  
-
-### Stance
-Beginning at 2nd level, you adopt a particular stance as your specialty. Choose one of the following options:
-
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 2 | CLASSES</div>
 \page
@@ -102,6 +103,13 @@ Beginning at 2nd level, you adopt a particular stance as your specialty. Choose 
 |20th | +6 | 1d12    | 20 ft. |200/400| 10| 6     |?|
 </div>
 
+You must have at least one hand free to use this ability. When you do so, the damage you take from the attack is reduced by 1d10 + your waterbending modifier + your waterbender level. If you reduce the damage to 0 and have at least one hand free, you redirect the element to make a ranged attack against a creature of your choice as part of the same reaction.  
+
+You can use this ability a number of times equal to your bending modifier per long rest.  
+
+### Stance
+Beginning at 2nd level, you adopt a particular stance as your specialty. Choose one of the following options:
+
 #### Water Ring
 In combat, you surround yourself with a ring of water which you can use as your source of bending. While surrounded by this ring, once per turn you can reduce the cost of a bending form by one chi. 
 
@@ -116,22 +124,22 @@ With these tendrils, you also gain the ability to use your Redirection ability o
 
 You must spend one chi on one of your turns to collect water around your arms and gain these benefits.
 
-<div style="height:2em;">
-</div>
+<!--div style="height:2em;">
+</div-->
 ### Waterbending Forms
-At 3rd level, your connection to chi and practice of bending allows you to weave your bending into your combat style. With training, you are able to learn particular attacks that combine martial arts and bending to carry out more sophisticated attacks.   
+At 3rd level, your connection to chi and practice of bending allows you to weave your bending into your combat style. With training, you are able to learn particular attacks that combine martial arts and bending to carry out more sophisticated attacks.    
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 2 | CLASSES</div>
+\page
 You learn one form from the list at the end of this class description. The number of forms you know increases with level and is shown in the Waterbender Table. Each time you learn a new form you may also replace one form you already know with another one.  
 
 
 Every time you take the Attack action on your turn, you have a certain amount of *chi* at your disposal (indicated by the "Chi per Attack" column of the class table). You can distribute your chi among basic bending attacks or regular bending (*cost: 1 chi*) and any forms you know (whose costs are indicated with their descriptions). You can use each form a maximum of once per turn.
 
 #### Chi Exhaustion
-Channeling chi into attacks is a physically and mentally draining endeavor.    
+Channeling chi into attacks is a physically and mentally draining endeavor.   
 
-<div class='pageNumber auto'></div>
-<div class='footnote'>PART 2 | CLASSES</div>
-\page
 You have 4 exhaustion points at your disposal. (Use a d4 to keep track.) The d4 starts with the "4" pointing up. Every turn you use all of your chi, you decrement this counter. When the counter indicates a "1", you need to take a break from bending and cannot spend any chi or take bending reactions that turn. Any bending concentration is also broken. Every turn that you do *not* use all your chi, the counter increments by 1. This counter resets every long rest. 
 
 For example, say the counter is set at 2. That turn, you spend all your chi points attacking and turn the counter to 1. The next turn, you have 0 chi to spend, and you can either use your Attack action to make a melee, non-bending attack or forfeit it. The next turn, your counter is back up to 2. If you spend all your chi once again, it decreases back to 1 again, but if you spend anything less than the maximum (e.g. all but one chi) the counter once again increases to 3.
@@ -161,8 +169,8 @@ At 9th level, your control over solid water also grants you the ability to move 
 ### ?
 At 10th level, ...
 
-<div style="height:3em;">
-</div>
+<!--div style="height:3em;">
+</div-->
 ### ?
 Beginning at 13th level, ... [Some improved ability or saving throws]
 
@@ -176,6 +184,11 @@ Beginning at 15th level, you are able to use your control of water to raise your
 
 ### ???
 At 20th level, ... (something consistent with "element of change"?)
+
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 2 | CLASSES</div>
+
+\page
 
 ## Waterbending specializations
 
@@ -205,24 +218,19 @@ You can use this ability a number of times equal to your bending modifier. You r
 #### Greater Healing
 At 7th level, your healing powers increase. When you heal a creature, you can use your ability to grant the effects of the *Revivify* spell instead of restoring hit points.
 
-<div class='pageNumber auto'></div>
-<div class='footnote'>PART 2 | CLASSES</div>
+#### True Healing
+At 11th level, you are able to use the water within your own body and the wounded creature's body instead of requiring liquid water for healing. You can spend an action to heal a creature instantaneously by touching it.
 
-\page
-
-<!--div style="height: 5em;">
-</div-->
-#### New Beginnings
-At 11th level, you learn to heal even the oldest and deepest wounds. When you heal another creature, instead of increasing their hit points, you can instead choose to heal one scar or imperfection, leaving the skin looking even and without a hint to its past.  
-
-
-You can also use this ability to end any reduction to one of the target's Ability Scores or one effect reducing the target's hit point maximum.
+You can also use this ability to reduce the target's exhaustion level by one, end any reduction to one of the target's ability scores, or end one effect reducing the target's hit point maximum.
 <!-- based on Greater Restoration-->
 
-#### True Healing
-At 17th level, you are able to use the water within your own body and the wounded creature's body instead of requiring liquid water for healing. You can heal a creature instantaneously by touching it.
+#### New Beginnings
+At 17th level, you learn to heal even the oldest and deepest wounds. You can use your healing to cause the effects of the *Regenerate* spell.
+
 <!--Spiritbending: https://avatar.fandom.com/wiki/Healing#Spiritbending -->
 
+<div style="height: 1em;">
+</div>
 ### Bloodbending
 *Prerequisite: Find a bloodbending master.*
 
@@ -237,6 +245,9 @@ Beginning when you choose this specialization at 5th level, you learn to control
 > 
 > If you are not using the variant, roll a 1d8 when you wish to use your bloodbending abilities to determine the phase of the moon. An 8 indicates a full moon, whereas rolls of 1-7 correspond to the other phases and lead to diminished bloodbending powers.
 
+<div style="height: 2em;">
+</div>
+
 The creature makes a Charisma saving throw against your bending DC. If the moon is full (see the "Phases of the Moon" inset to learn how to determine the phase of the moon), the creature becomes Paralyzed on a failure and Restrained on a success. If the moon is not full, the creature becomes Restrained on a failure and nothing happens on a success.
 
 The condition of the creature persists while you maintain concentration. At the end of each of its turns, the target can make another Charisma saving throw. On a success, the condition (Paralyzed or Restrained) ends and the creature is immune to your bloodbending until it has taken a long rest.
@@ -245,6 +256,11 @@ The condition of the creature persists while you maintain concentration. At the 
 At 7th level, your power grows. During the full moon, you can use your action to attempt to control the movements of a creature instead of only Paralyzing it.  You can use this ability a number of times equal to your bending modifier per long rest.     
 
 The creature makes a Saving Throw as before. During a full moon, a failure leads it to become Paralyzed and its subsequent movements are under your control. On its turn, you can force the creature to take its movement and one Action (no bonus actions). If you cause it to take the Attack action, it only makes one attack. You can also cause the creature to use a Reaction, but this requires you to use your own Reaction as well. On a success, the creature becomes Paralyzed, but you have no control over its movements.
+
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 2 | CLASSES</div>
+
+\page
 
 If the moon is not full, on a failure you can only force the target to use half its movement and take one Action at disadvantage (that is, attacks and ability checks you force it to take are made at disadvantage). You cannot make the creature use its Reaction. With a successful saving throw, the target is only Paralyzed and you have no further control over its actions.
 
@@ -274,11 +290,6 @@ At 7th level, you learn to control 2 plants in your range at a time with your be
 #### Plant Armor
 At 11th level, you can summon plant to create a sort of biological armor. You spend two minutes gathering enough plants to surround you, increasing your AC <!--by X to a maximum of?--> to 18.
 
-<div class='pageNumber auto'></div>
-<div class='footnote'>PART 2 | CLASSES</div>
-
-\page
-
 #### Spirit Vines
 At 17th level, you are able to read the spiritual energy in the connected plant matter of the world. Once per long rest, you can spend at most ten minutes meditating while touching a plant. You essentially cast the spell *Scrying*, allowing you to see the events currently unfolding in another place of your choosing anywhere else in the material world, provided it has some plant cover.
 
@@ -286,6 +297,8 @@ You can also choose to use this ability to gain the benefits of the spell *Commu
 
 <!--Lifting things/pushing things-->
 
+<div style="height: 3em;">
+</div>
 ## Waterbending Forms
 <!--(Even mix of defense and offense)-->
 For forms which require a target to make a saving throw, your DC is 8 + your proficiency modifier + your waterbending modifier.
@@ -309,7 +322,7 @@ You cause the effects of the *Grease* spell.
 You gain the abilities granted by the spell *Purify Food and Drink*, but only for liquids.
 
 #### Ice Shield
-*Cost: 1 chi*  
+*Cost: 1 chi* 
 You shape water into a swirling disk by your arm and freeze it. Your AC increases by 2. If an attack that would have hit you without the shield misses because of it (hitting the shield), it deals damage to the shield instead. The Shield has 15 HP and shatters when it drops to 0.
 
 Each additional chi point your spend increases the HP of the shield by 10.
@@ -318,11 +331,12 @@ Each additional chi point your spend increases the HP of the shield by 10.
 </div-->
 
 #### Water Whip  
+
 *Cost: 1 chi*  
 You shape the water at your disposal into a lashing tendril (which has the statistics of a whip) and swipe at a target within 15 feet, dealing 1d4 bludgeoning damage on a hit. For each additional chi point you spend, you create and attack with another water whip, dealing an additional die of damage.  
 
-<div style="height: 8em;">
-</div>
+<!--div style="height: 8em;">
+</div-->
 #### Water Tendril
 *Cost: 1 chi*  
 You create a water tendril. Its reach depends on the amount of water your spend creating it; as a general rule of thumb, the reach will be 5 feet per 1-foot-diameter sphere of water. When you create the tendril and by spending another chi on subsequent turns, you can cause it to take one of the following actions:
@@ -332,6 +346,10 @@ The tendril acts as a water whip with 1 chi (see the *Water Whip* form).
 
 ##### Grapple
 You grapple a Large or smaller creature within the tendril's range. The tendril's Strength modifier is equal to your waterbending modifier.
+
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 2 | CLASSES</div>
+\page
 
 ##### Manipulate
 The tendril can interact with objects as a *Mage Hand* would, but it doesn't have fingers so it lacks fine-grained control.
@@ -357,11 +375,7 @@ At the end of each of its turns, a restrained target can make a Strength saving 
 
 #### Water Jet
 *Cost: 2 chi*  
-When you use this form, you make an attack roll to send a pressurized jet of water at an attacker. You deal an amount of damage equal to twice your bending die on a hit. You also roll a Strength (Athletics) check opposed by the target's Strength (Athletics) or Dexterity (Acrobatics) check. If the target fails, it is knocked prone.
-
-<div class='pageNumber auto'></div>
-<div class='footnote'>PART 2 | CLASSES</div>
-\page
+When you use this form, you send a pressurized jet of water at a creature within range. Make an attack. On a hit, you deal an amount of damage equal to twice your bending die. You also roll a waterbending check (using your waterbending modifier) opposed by the target's Strength (Athletics) or Dexterity (Acrobatics). If the target fails, it is knocked prone.
 
 #### Ice Daggers
 *Cost: 2 chi*  
@@ -374,6 +388,8 @@ You gain an additional dagger for each extra chi you spend.
 *Cost: 2 chi*  
 You cause ice shards to rain down on creatures in a 5-foot radius sphere centered on a point within your normal bending range. Each creature in this area must succeed on a Dexterity saving throw or take 1d8 piercing damage.
 
+<div style="height: 3em;">
+</div>
 #### Fists of Ice
 *Cost: 2 chi*  
 You cover your fists with a layer of ice. For the next minute, you can add an additional 1d4 to damage dealt by your unarmed strikes.
@@ -422,6 +438,12 @@ See [here](https://www.dndbeyond.com/spells/14673-water-lung).
 #### Ice Dome
 #### Ice Drill
 #### Ice Ladder?
+
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 2 | CLASSES</div>
+
+\page
+
 #### Ice Ramp
 #### Ice Tunneling
 #### Water Ball

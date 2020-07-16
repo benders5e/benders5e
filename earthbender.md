@@ -248,7 +248,7 @@ Beginning at 19th level, ...
 Beginning when you choose this specialization at 5th level, you can bend the small pieces of earth present in impure metals (alloys). You are able to bend such metal within touch range.
 
 #### Suit of Armor
-Beginning at 7th level, if the necessary metal is available, you can spend 1 chi to achieve the same effect as the *Rock Armor* form but create a metal suit instead. Your AC is 18.
+Beginning at 7th level, if the necessary metal is available, you can spend 1 chi to achieve the same effect as the *Rock Armor* form but create a metal suit instead. The armor raises your AC to 18.
 
 #### Ranged Metalbending
 At 11th level, you learn to bend metal without touching it. You can bend metal as if it was earth (the same capacity and range restrictions apply to your metalbending as do to your earthbending).

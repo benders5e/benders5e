@@ -271,7 +271,7 @@ You can also use this technique to create a smaller ball (up to 5 feet in diamet
 
 #### Blast
 *Cost: 2 chi*  
-When you use this form, you send a pressurized blast of air at a creature within range. You deal an amount of damage equal to twice your bending die. You also roll an airbending check (1d20 + your airbending modifier) opposed by the target's Strength (Athletics) or Dexterity (Acrobatics) check. If the target fails, it is pushed up 15 feet away from you.
+When you use this form, you send a pressurized blast of air at a creature within range. Make an attack. On a hit, you deal an amount of damage equal to twice your bending die. You also roll an airbending check (using your waterbending modifier) opposed by the target's Strength (Athletics) or Dexterity (Acrobatics). If the target fails, you can choose what distance it is pushed away from you (up to 15 feet).
 
 Just like your regular bending attack, this form clears any clouds not caused by spirit magic.
 
