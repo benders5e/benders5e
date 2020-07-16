@@ -92,13 +92,13 @@ The Northern Shaolin style emphasizes "kicking over hand fighting", or prioritiz
 | 3rd | +2 | 1d6   | 30/60 | 2 | 2 | Firebending Forms 
 | 4th | +2 | 1d6   | 30/60 | 2 | 2 | Ability Score Improvement, Fire Kick
 | 5th | +3 | 1d8   | 60/120| 3 | 2 | Firebending specialization
-| 6th | +3 | 1d8   | 60/120| 3 | 2 | Firestep
-| 7th | +3 | 1d8   | 60/120| 4 | 3 | Ability Score Improvement, Fierce Fighter
-| 8th | +3 | 1d8   | 60/120| 4 | 3 | Specialization feature
+| 6th | +3 | 1d8   | 60/120| 3 | 2 | Firestep, Fierce Fighter
+| 7th | +3 | 1d8   | 60/120| 4 | 3 | Specialization feature
+| 8th | +3 | 1d8   | 60/120| 4 | 3 | Ability Score Improvement
 | 9th | +4 | 1d8   | 60/120| 5 | 3 | Lightning Redirection
 |10th | +4 | 1d8   |100/200| 5 | 3 | Fire Augmentation
-|11th | +4 | 1d10  |100/200| 6 | 4 | –
-|12th | +4 | 1d10  |100/200| 6 | 4 | Ability Score Improvement, Specialization feature
+|11th | +4 | 1d10  |100/200| 6 | 4 | Specialization feature
+|12th | +4 | 1d10  |100/200| 6 | 4 | Ability Score Improvement
 |13th | +5 | 1d10  |100/200| 7 | 4 | ?
 |14th | +5 | 1d10  |150/300| 7 | 4 | ?
 |15th | +5 | 1d10  |150/300| 8 | 5 | Fire Rockets

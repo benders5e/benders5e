@@ -78,26 +78,26 @@ At 2nd level, you become tuned in to the air around you. You learn to move like 
   
 |Level| Proficiency Bonus |Unarmored Movement| Bending | Range | Forms Known | Chi per Attack | Features |
 |:---:|:--:|:--------:|:----:|:-----:|:-:|:-:|:-----------|
-| 1st | +2 | -        | 1d6  | 30/60 | – | 1 | Unarmored Defense, Airbending, Air Punch|
-| 2nd | +2 | +10 ft.  | 1d6  | 30/60 | – | 1 | Be the Leaf, Unarmored Movement |
-| 3rd | +2 | +10 ft.  | 1d6  | 30/60 | 2 | 2 | Airbending Forms |
-| 4th | +2 | +10 ft.  | 1d6  | 30/60 | 2 | 2 | Ability Score Improvement, Air Cushion|
-| 5th | +3 | +15 ft.  | 1d6  | 60/120| 3 | 2 | Airbending specialization|
-| 6th | +3 | +15 ft.  | 1d6  | 60/120| 3 | 2 | Improved Unarmored Movement |
-| 7th | +3 | +15 ft.  | 1d8  | 60/120| 4 | 3 | Ability Score Improvement, Cloudbending |
-| 8th | +3 | +15 ft.  | 1d8  | 60/120| 4 | 3 | Specialization feature|
-| 9th | +4 | +15 ft.  | 1d8  | 60/120| 5 | 3 | Evasion |
-|10th | +4 | +20 ft.  | 1d8  |100/200| 5 | 3 | Breath of Wind |
-|11th | +4 | +20 ft.  | 1d8  |100/200| 6 | 4 | – |
-|12th | +4 | +20 ft.  | 1d8  |100/200| 6 | 4 | Ability Score Improvement, Specialization feature|
-|13th | +5 | +20 ft.  | 1d10 |100/200| 7 | 4 | Diamond Soul (but renamed)|
-|14th | +5 | +25 ft.  | 1d10 |150/300| 7 | 4 | Empty Body |
-|15th | +5 | +25 ft.  | 1d10 |150/300| 8 | 5 | Wind Reader |
-|16th | +5 | +25 ft.  | 1d10 |150/300| 8 | 5 | Ability Score Improvement|
-|17th | +6 | +25 ft.  | 1d10 |150/300| 9 | 5 | Specialization feature|
-|18th | +5 | +30 ft.  | 1d10 |200/400| 9 | 5 | – |
-|19th | +5 | +30 ft.  | 1d10 |200/400| 10| 5 | Ability Score Improvement|
-|20th | +5 | +30 ft.  | 1d10 |200/400| 10| 6 | Detachment|
+| 1st | +2 | -        | 1d6  | 30/60 | – | 1 | Unarmored Defense, Airbending, Air Punch
+| 2nd | +2 | +10 ft.  | 1d6  | 30/60 | – | 1 | Be the Leaf, Unarmored Movement
+| 3rd | +2 | +10 ft.  | 1d6  | 30/60 | 2 | 2 | Airbending Forms
+| 4th | +2 | +10 ft.  | 1d6  | 30/60 | 2 | 2 | Ability Score Improvement, Air Cushion
+| 5th | +3 | +15 ft.  | 1d6  | 60/120| 3 | 2 | Airbending specialization
+| 6th | +3 | +15 ft.  | 1d6  | 60/120| 3 | 2 | Improved Unarmored Movement, Cloudbending
+| 7th | +3 | +15 ft.  | 1d8  | 60/120| 4 | 3 | Specialization feature
+| 8th | +3 | +15 ft.  | 1d8  | 60/120| 4 | 3 | Ability Score Improvement
+| 9th | +4 | +15 ft.  | 1d8  | 60/120| 5 | 3 | Evasion
+|10th | +4 | +20 ft.  | 1d8  |100/200| 5 | 3 | Breath of Wind
+|11th | +4 | +20 ft.  | 1d8  |100/200| 6 | 4 | Specialization feature
+|12th | +4 | +20 ft.  | 1d8  |100/200| 6 | 4 | Ability Score Improvement
+|13th | +5 | +20 ft.  | 1d10 |100/200| 7 | 4 | Diamond Soul (but renamed)
+|14th | +5 | +25 ft.  | 1d10 |150/300| 7 | 4 | Empty Body
+|15th | +5 | +25 ft.  | 1d10 |150/300| 8 | 5 | Wind Reader
+|16th | +5 | +25 ft.  | 1d10 |150/300| 8 | 5 | Ability Score Improvement
+|17th | +6 | +25 ft.  | 1d10 |150/300| 9 | 5 | Specialization feature
+|18th | +5 | +30 ft.  | 1d10 |200/400| 9 | 5 | –
+|19th | +5 | +30 ft.  | 1d10 |200/400| 10| 5 | Ability Score Improvement
+|20th | +5 | +30 ft.  | 1d10 |200/400| 10| 6 | Detachment
 </div>
 
 ### Unarmored Movement

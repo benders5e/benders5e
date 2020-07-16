@@ -86,13 +86,13 @@ When you take a basic bending attack, you spend 1 point of chi and deal 1d6 blud
 | 3rd | +2 | 1d6   | 1  | 30/60 | 2  | 2 | Earthbending Forms
 | 4th | +2 | 1d6   | 2  | 30/60 | 2  | 2 | Ability Score Improvement, Burrow
 | 5th | +3 | 1d8   | 2  | 60/120| 3  | 2 | Earthbending specialization
-| 6th | +3 | 1d8   | 2  | 60/120| 3  | 2 | Rolling Earth
-| 7th | +3 | 1d8   | 2  | 60/120| 4  | 3 | Ability Score Improvement, Expansion and Compaction
-| 8th | +3 | 1d8   | 4  | 60/120| 4  | 3 | Specialization feature
+| 6th | +3 | 1d8   | 2  | 60/120| 3  | 2 | Rolling Earth, Expansion and Compaction
+| 7th | +3 | 1d8   | 2  | 60/120| 4  | 3 | Specialization feature
+| 8th | +3 | 1d8   | 4  | 60/120| 4  | 3 | Ability Score Improvement
 | 9th | +4 | 1d8   | 4  | 60/120| 5  | 3 | Earth Reflex
 |10th | +4 | 1d8   | 4  |100/200| 5  | 3 | Earth Elevator
-|11th | +4 | 1d10  | 4  |100/200| 6  | 4 | –
-|12th | +4 | 1d10  | 4  |100/200| 6  | 4 | Ability Score Improvement, Specialization feature
+|11th | +4 | 1d10  | 4  |100/200| 6  | 4 | Specialization feature
+|12th | +4 | 1d10  | 4  |100/200| 6  | 4 | Ability Score Improvement
 |13th | +5 | 1d10  | 4  |100/200| 7  | 4 | ?
 |14th | +5 | 1d10  | 4  |150/300| 7  | 4 | ?
 |15th | +5 | 1d10  | 8  |150/300| 8  | 5 | Improved Rolling Earth
@@ -100,7 +100,7 @@ When you take a basic bending attack, you spend 1 point of chi and deal 1d6 blud
 |17th | +6 | 1d12  | 8  |150/300| 9  | 5 | Specialization feature
 |18th | +6 | 1d12  | 8  |200/400| 9  | 5 | –
 |19th | +6 | 1d12  | 8  |200/400| 10 | 6 | Ability Score Improvement
-|20th | +6 | 1d12  | 8  |200/400| 10 | 6 | ?
+|20th | +6 | 1d12  | 8  |200/400| 10 | 6 | Substance
 </div>
 
 

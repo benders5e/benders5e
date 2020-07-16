@@ -85,13 +85,13 @@ Beginning at 2nd level, you adopt a particular stance as your specialty. Choose 
 | 3rd | +2 | 1d6     | 5 ft.  | 30/60 | 2 | 2     |Waterbending Forms|
 | 4th | +2 | 1d6     | 10 ft. | 30/60 | 2 | 2     |Ability Score Improvement, Water in All Its States|
 | 5th | +3 | 1d8     | 10 ft. | 60/120| 3 | 2     |Waterbending specialization|
-| 6th | +3 | 1d8     | 10 ft. | 60/120| 3 | 2     |Water Movement|
-| 7th | +3 | 1d8     | 10 ft. | 60/120| 4 | 3     |Ability Score Improvement, ?|
-| 8th | +3 | 1d8     | 15 ft. | 60/120| 4 | 3     |Specialization feature|
+| 6th | +3 | 1d8     | 10 ft. | 60/120| 3 | 2     |Water Movement, ?|
+| 7th | +3 | 1d8     | 10 ft. | 60/120| 4 | 3     |Specialization feature|
+| 8th | +3 | 1d8     | 15 ft. | 60/120| 4 | 3     |Ability Score Improvement|
 | 9th | +4 | 1d8     | 15 ft. | 60/120| 5 | 3     |Improved Water Movement|
 |10th | +4 | 1d8     | 15 ft. |100/200| 5 | 3     |?|
-|11th | +4 | 1d10    | 15 ft. |100/200| 6 | 4     |–|
-|12th | +4 | 1d10    | 15 ft. |100/200| 6 | 4     |Ability Score Improvement, Specialization feature|
+|11th | +4 | 1d10    | 15 ft. |100/200| 6 | 4     |Specialization feature|
+|12th | +4 | 1d10    | 15 ft. |100/200| 6 | 4     |Ability Score Improvement|
 |13th | +5 | 1d10    | 15 ft. |100/200| 7 | 4     |?|
 |14th | +5 | 1d10    | 15 ft. |150/300| 7 | 4     |?|
 |15th | +5 | 1d10    | 20 ft. |150/300| 8 | 5     |Water Spout|
