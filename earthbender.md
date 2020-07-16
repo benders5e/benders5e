@@ -41,7 +41,7 @@ When wearing light armor, you use your Strength modifier instead of Dexterity to
 >##### Lifting and Carrying
 > **Carrying Capacity.** Your carrying capacity is your Strength score multiplied by 15. This is the weight (in pounds) that you can carry. 
 
-<div style="height:0em;">
+<div style="height:3em;">
 </div>
 ### Earthbending
 At 1st level, you realize that you have an innate ability to control earth. You can move small, contiguous masses of earth no more than your carrying capacity – see "Lifting and Carrying". You cannot shape, crack, or otherwise deform this earth, until you gain more fine-grained control through training and learning earthbending forms (see "Earthbending Forms" at 3rd level).
@@ -122,8 +122,8 @@ The wall stays in place unless it is earthbent away or destroyed by other means.
 You can use this ability a number of times equal to your bending modifier per long rest.
 
 
-<!--div style="height:2em;">
-</div-->
+<div style="height:0em;">
+</div>
 ### Stance
 Beginning at 2nd level, you adopt a particular stance as your specialty. Choose one of the following options:
 
@@ -131,7 +131,8 @@ Beginning at 2nd level, you adopt a particular stance as your specialty. Choose 
 This style is known for its speed and continuous attacks and was famously used by Toph Beifong. When you roll a 19 or a 20 on an attack roll, you can spend your bonus action to make an additional basic bending attack. Your speed also increases by 5.
 
 #### Hung Gar
-You favor a deep, low stance rooted in the earth beneath you. You gain advantage on Strength saving throws and expertise in Strength (Athletics) checks.   
+You favor a deep, low stance rooted in the earth beneath you. You gain advantage on Strength saving throws and expertise in Strength (Athletics) checks and cannot be knocked prone.   
+
 
 If another creature uses an ability that pushes you away from them, you always roll a Strength (Athletics) Saving Throw. On a failure, you are moved half the distance, and on a success, you stay where you are.
 
@@ -166,13 +167,13 @@ When you reach 4th level, and again at 7th, 12th, 16th, and 19th level, you can 
 ### Burrow
 At 4th level, you learn to tunnel like a badgermole. You easily carve out large chunks of rock from the ground, forming a stable tunnel structure. However, you must find a place to deposit the removed earth.
 
-<!--div style="height: 4em;">
-</div-->
+<div style="height: 1em;">
+</div>
 ### Earthbending specialization
 At 5th level, you specialize in one of the following types of earthbending: advanced earthbending, metalbending, or lavabending. Your abilities are described in the specialization section at the end of this class description.
 
 ### Rolling Earth
-At 6th level, you learn to synchronize your control of earth with your movement. When traveling over earth and while you are concentrating, your speed is doubled.
+At 6th level, you learn to synchronize your control of earth with your movement. As a bonus action while you are moving over earth, you can concentrate on traveling quickly, doubling your speed.
 
 ### Expansion and Compaction
 At 7th level, your control increases. You are now able to compact or expand earth of the volume and range that you can bend. You also learn to bend earth-based materials such as mud, coal, gems, crystals, meteorites, and jennamite ("creeping crystal").  
@@ -263,7 +264,7 @@ At 17th level, ...
 Beginning when you choose this specialization at 5th level, you can harden lava into volcanic rock, willing it to cool instead of waiting for this to happen naturally. This ability takes an action and cools a mass of lava equal to your earthbending capacity. The resulting volcanic rock can be earthbent like any other earth.  
 
 
-In addition, you now use heated rocks in your basic bending attacks. Although not heated to the point of melting, this earth now deals 1d4 bludgeoning + 1d4 fire damage instead of 1d8 bludgeoning. At 11th level, this increases to 1d6 bludgeoning + 1d4 fire and again to 1d6 of each type at 17th level.
+In addition, you now use heated rocks in your basic bending attacks. Although not heated to the point of melting, this earth now deals 1d4 bludgeoning + 1d4 fire damage instead of 1d8 bludgeoning. At 11th level, this increases to 1d6 bludgeoning + 1d4 fire and again to 1d6 of each type at 17th level. If you roll a 1 or 2 on the fire damage die, you can reroll the damage but must use the new roll.
 
 #### Melting Earth
 Beginning at 8th level, you can melt an unoccupied 5 foot-square area of the ground within your range into lava, provided it is earth. This is encapsulated by the *Melting Earth* form in the forms list.
@@ -294,11 +295,11 @@ You raise a rock tent around you as shelter. While inside, you have full cover a
 
 #### Earthen Weapon
 *Cost: 1 chi*  
-...
+You mold earth into a melee weapon of your choice, adopting its statistics. You have proficiency with any weapon you form. You can use your Attack Action to make one attack. At fifth level, this increases to two attacks.
 
 #### Rock Armor
 *Cost: 1 chi*  
-You pull rocks around you to form armor. Your AC becomes 16, but you have disadvantage on Dexterity checks due to your limited range of motion.   
+You pull rocks around you to form armor. Your AC increases by 2, but you have disadvantage on Dexterity checks due to your limited range of motion.   
 
 
 You continue to gain the benefits of the rock armor as long as you maintain concentration, for a maximum of 1 minute.
@@ -329,12 +330,12 @@ You prepare to defuse the next ranged attack that hits you. The next time a crea
 
 For projectiles of another element, the damage of each projectile is reduced by 1d6 + your earthbending modifier + your earthbender level. For earth projectiles, the damage is reduced by 1d12 + your earthbending modifier + your earthbender level.  
 
-<div style="height:8em;">
-</div>
 #### Earth Levitation
 *Cost: 2 chi*  
 You stomp on the ground, using your kinetic energy to levitate a mass of earth equal to your bending capacity (shown in the class table). In the same motion, you can push the rock at a target of your choice, dealing double times your regular bending damage + 1d4 additional damage.
 
+<div style="height:1em;">
+</div>
 #### Earthwave
 *Cost: 2 chi*  
 You cause the earth to buckle beneath you, forming a line 5 feet wide and as long as your bending range. Each creature in the line must make a Dexterity saving throw. A creature takes 4d6 bludgeoning damage and is knocked prone on a failed save, or half as much damage on a successful one.  

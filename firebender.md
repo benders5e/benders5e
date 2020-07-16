@@ -34,8 +34,11 @@ You start with the following equipment, in addition to the equipment granted by 
 ### Firebending
 At 1st level, you realize that you have an innate ability to produce fire with your hands and feet. You can spend 1 chi of your Attack action to cause the effects of the *Produce Flame* cantrip, but the damage is determined by the "Bending" column of the Firebender table (see "Fire Jab" for a description of the role chi points play in attacks and the rules for bending attacks). Your range increases with your level according to the "Range" column of the Firebender table.
 
+<div style="height:10em;">
+</div>
 ### Fire Jab
 During combat, you can channel your chi to use your bending as a rudimentary attack by hitting other creatures. Every time you take the Attack action, you draw on your inner pool of energy, or *chi*. The class table shows how much chi you have available every time you take the Attack action ("Chi per Attack"). This amount resets every round. As your bending grows more powerful and your connection to your inner chi grows, this number increases.  
+
 
 When you take a basic bending attack, you spend 1 point of chi and deal 1d6 fire damage. This damage increases with your firebender level and is shown in the "Bending" column of the Firebender Table. The range of your attacks is the same as your bending range ("Range" column).     
 
@@ -121,13 +124,14 @@ Channeling chi into attacks is a physically and mentally draining endeavor.
 
 You have 4 exhaustion points at your disposal. (Use a d4 to keep track.) The d4 starts with the "4" pointing up. Every turn you use all of your chi, you decrement this counter. When the counter indicates a "1", you need to take a break from bending and cannot spend any chi or take bending reactions that turn. Any bending concentration is also broken. Every turn that you do *not* use all your chi, the counter increments by 1. This counter resets every long rest.  
 
-<div class='pageNumber auto'></div>
-<div class='footnote'>PART 2 | CLASSES</div>
-\page 
 For example, say the counter is set at 2. That turn, you spend all your chi points attacking and turn the counter to 1. The next turn, you have 0 chi to spend, and you can either use your Attack action to make a melee, non-bending attack or forfeit it. The next turn, your counter is back up to 2. If you spend all your chi once again, it decreases back to 1 again, but if you spend anything less than the maximum (e.g. all but one chi) the counter once again increases to 3.
 
 ### Ability Score Improvement
 When you reach 4th level, and again at 7th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 2 | CLASSES</div>
+\page 
 
 ### Inner Flame
 At 4th level, you gain the ability to reset your chi exhaustion die back to the maximum once per long rest.
@@ -139,7 +143,7 @@ At 5th level, you specialize in one of the following types of firebending: advan
 At 6th level, you can use flame jets to propel yourself through the air during your turn. You use your normal speed and movement when you fire-step and you must end your turn on the ground.
 
 ### Fierce Fighter
-At 7th level, when you roll a 1 or 2 on a damage die for a basic firebending attack, you can reroll the die and must use the new roll. 
+At 7th level, when you roll a 1 or 2 on a damage die for a basic firebending attack, you can reroll the damage. You must use the new roll. This ability does not apply to additional damage dice beyond the "bending" die listed in the table (e.g. Colorful Flame damage).
 
 ### Lightning Redirection
 
@@ -148,9 +152,6 @@ At 7th level, when you roll a 1 or 2 on a damage die for a basic firebending att
 
 ***
 Starting at 9nd level, when you are hit by lightning (natural or created by a bender), you can use your reaction to attempt to redirect it by making a Wisdom saving throw. If you roll a 10 or higher, you successfully redirect the lightning at an unoccupied space within range, taking no damage. On a 15 or higher, you can choose to redirect the lightning anywhere within range as if you were generating it yourself. If you roll below a 10, you take double the normal damage of the attack.
-
-<div style="height: 2em;">
-</div>
 
 ### Fire Augmentation
 Beginning at 10th level, you are able to alter the quality of outside sources of fire. On your turn, you can spend a bonus action to put out or triple the size of any fires within your range (excluding fire being produced by another firebender) without moving. 
@@ -164,6 +165,8 @@ Beginning at 13th level, ... [Some improved ability or saving throws]
 ### ???
 At 14th level, ... [some flavor-type thing]
 
+<div style="height: 4em;">
+</div>
 ### Fire Rockets
 At 15th level, the power of your Firestepping increases. You gain a flying speed of 60 feet and can end your turn in the air without falling.
 
@@ -195,7 +198,7 @@ Beginning when you choose this specialization at 5th level, your fire begins to 
 | White     | Cold          |
 
 #### Fine-grained Control
-At 8th level, you are able to control your attacks to protect your friends and allies while still raining fury on your foes. Each time you make an attack, you can choose a number of creatures up to half your advanced level (firebender level minus 5) rounded down to exclude from the attack, causing them to take no damage even if they are within its area of effect.
+At 8th level, when using a form, you are able to control your bending to protect your friends and allies while still raining fury on your foes. Each time you make an attack, you can choose up to one creature to exclude from the attack, causing them to take no damage even if they are within its area of effect. This number increases by 1 creature every two levels you gain.
 
 #### Heat Control
 At 12th level, you learn to control not only fire, but any heat housed by matter. By touching an object, you can siphon off heat by spending an amount of time that depends on the material (some examples are shown in the table below). You must have one hand on the material and one hand free.  
@@ -215,7 +218,7 @@ With this knowledge, your fire becomes an extension of your body rather than mer
 The damage of your basic attacks also increases to 2d8.
 
 
-### Lightning-bending
+### Lightningbending
 
 #### ?
 Beginning when you choose this specialization at 5th level, ...
@@ -235,28 +238,31 @@ At 17th level, ...
 ### Energy Reading
 
 #### Chi Paths
-Beginning when you choose this specialization at 5th level, you learn to sense the chi paths in people and interpret their spiritual energy. You may use an action to touch a creature and end one disease or condition (blinded, deafened, paralyzed, or poisoned) on it. You can also choose to instead confer the benefits of the *Guidance* cantrip on your target.   
+Beginning when you choose this specialization at 5th level, you learn to sense the chi paths in people and interpret their spiritual energy. You may use an action to touch a creature and end one disease or condition (blinded, deafened, paralyzed, or poisoned) on it.   
 
-***
-Additionally, you can sense this energy and heat emanating from creatures even from afar. As an action, you can open your awareness to detect life forms around you. Until the end of your next turn, you know the location of any warm-blooded life forms within your bending range that are not behind total cover. You know the type (human or beast) of any being whose presence you sense, but not its identity.
+
+Additionally, you can sense this energy and heat emanating from creatures even from afar. As a bonus action, you can open your awareness to detect life forms around you. Until the end of your next turn, you know the location of any warm-blooded life forms within your bending range that are not behind total cover. You know the type (human or beast) of any being whose presence you sense, but not its identity.
 
 You can use each of these features a number of times equal to your bending modifier. When you finish a Long Rest, you regain all expended uses.
 
 #### Healing
 At 8th level, you learn to clear blocked chi paths within creatures and redirect their energy towards wounds to speed up the healing process. By spending one minute concentrating on reading the chi paths in another person's body, you heal them by an amount of hit points equal to three times your firebender level. 
 
-<div class='pageNumber auto'></div>
-<div class='footnote'>PART 2 | CLASSES</div>
-
-\page 
-
 #### Mass Heal
 At 12th level, ...
 
 #### Minor Energybending
 At 17th level, you learn to bend the energy within people's bodies to a limited extent. Once per long rest, you may spend an action to do one of the following:
+
 - End a temporary bending block caused by bloodbending
 - Give a target advantage on one skill or saving throw for the next 24 hours
+
+
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 2 | CLASSES</div>
+
+\page 
+
 - Increase one creature's hit point maximum by 10 + your firebending modifier for the next 24 hours
 - ... (Some kind of buff like *Guidance*)
 
@@ -327,7 +333,7 @@ Despite their slashing capabilities, these daggers lack the ability to block phy
 *Cost: 2 chi*  
 You prepare to defuse the next attack that hits you. The next time a creature rolls to attack you and hits, you can use your reaction to raise your AC by 2. If this causes the attack to miss, the shield disintegrates.
 
-<div style="height:7em;">
+<div style="height:2em;">
 </div>
 #### Fire Lashes
 *Cost: 2 chi*  
@@ -346,7 +352,7 @@ You shoot a continuous stream of fire from their fingertips, fists, palms, or le
 The stream widens by 5 feet for each additional chi you spend.
 
 #### Create Lightning
-*Prerequisite: Advanced Firebending, 8th level*  
+*Prerequisite: Lightningbending, 8th level*  
 *Cost: 3 chi*  
 You cast the *Lightning Bolt* spell with a range equal to your bending range.
 
