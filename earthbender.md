@@ -228,7 +228,7 @@ Beginning when you choose this specialization at 5th level, you are so tuned in 
 Additionally, you gain advantage on Insight checks when your target is in normal earthbending range.
 
 #### Earth Dive
-Beginning at 7th level, you can dive into and out of earth as though it were liquid. Your "swim" speed equals your walking speed. While underground, you must hold your breath.
+Beginning at 7th level, you can dive into and out of earth as though it were liquid. Your "swim" speed equals your walking speed. While underground, you must hold your breath and use your arms for mobility, so you cannot earthbend.
 
 #### Advanced Form
 At 11th level, you learn an additional form of your choice from the following list:  
