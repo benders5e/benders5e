@@ -11,4 +11,4 @@ Homebrew D&D campaign setting for _Avatar: The Last Airbender_.
 - 11 July 2020: [Draft 6](drafts/draft6.pdf)
 
 ## Wiki
-Visit the wiki for changelogs and a comparison of this setting to other ATLA-inspired settings.
+Visit [the wiki](https://github.com/nglaeser/benders/wiki) for changelogs and a comparison of this setting to other ATLA-inspired settings.
