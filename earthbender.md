@@ -19,7 +19,7 @@ As an earthbender, you gain the following class features.
 #### Proficiencies
 **Armor:** Light armor, medium armor, shields, guanmao hats  
 **Weapons:** Simple weapons, fans  
-**Tools:** One type of gaming set and one type of artisan's tools or one musical instrument.
+**Tools:** Choose one type of artisan’s tools or one musical instrument
 ***
 **Saving Throws:** Strength, Constitution  
 **Skills:** Choose two from Animal Handling, Athletics, History, Insight, Intimidation, and Nature

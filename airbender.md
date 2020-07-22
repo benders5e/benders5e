@@ -17,7 +17,7 @@ As an airbender, you gain the following class features.
 #### Proficiencies
 **Armor:** None  
 **Weapons:** Simple weapons, gliders  
-**Tools:** One type of gaming set and one musical instrument.
+**Tools:** Choose one musical instrument
 ***
 **Saving Throws:** Intelligence, Dexterity  
 **Skills:** Choose two from Acrobatics, History, Religion, Persuasion, Sleight of Hand, and Stealth

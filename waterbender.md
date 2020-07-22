@@ -19,7 +19,7 @@ As a waterbender, you gain the following class features.
 #### Proficiencies
 **Armor:** Light armor  
 **Weapons:** Simple weapons  
-**Tools:** One type of gaming set and navigator's tools or water vehicles.
+**Tools:** Your choice of navigator's tools or water vehicles.
 ***
 **Saving Throws:** Intelligence, Dexterity  
 **Skills:** Choose two from Animal Handling, Athletics, Insight, Nature, Survival, and Stealth

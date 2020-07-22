@@ -18,7 +18,7 @@ As a firebender, you gain the following class features.
 #### Proficiencies
 **Armor:** Light armor, medium armor  
 **Weapons:** Simple weapons, shortswords, scimitars  
-**Tools:** Pai Sho and one of herbalism kits or one musical instrument.
+**Tools:** Your choice of herbalism kit or one musical instrument.
 ***
 **Saving Throws:** Charisma, Constitution  
 **Skills:** Choose two from Acrobatics, Deception, History, Insight, Intimidation, and Performance
