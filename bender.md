@@ -106,7 +106,9 @@ Taking your fans out or putting them away takes a bonus action. Opening or closi
 ## Glider
 Opening or closing your glider takes a bonus action. When holding the glider in the closed position, you can use it to channel your bending as if it were a free hand.  
 
-When the glider is open, you can use it to fly. Flying requires airbending, so only airbenders will be able to use a glider to fly. An airbender using a glider has a flying speed of  60 ft. Your hands and feet are both occupied when gliding, so if you use them to bend or for another action you must let go of the glider. If you let go with one hand, you must succeed on a DC 13 Dexterity saving throw or lose control of the glider.
+When the glider is open, you can use a bonus action to fly. Flying requires airbending, so only airbenders will be able to use a glider to fly. You must use 5 feet of ground movement to take off, at which point you gain a flying speed of 60 feet. 
+
+Your hands and feet are both occupied when gliding, so if you use them to bend or for another action you must let go of the glider. If you let go with one hand, you must succeed on a DC 13 Dexterity saving throw or lose control of the glider.
 
 You can attempt to carry another other person in addition to you on the glider. In this case, you must succeed on a DC 13 Dexterity saving throw or lose control. The DC increases by 3 with each additional person on the glider.
 
