@@ -28,9 +28,9 @@ As an earthbender, you gain the following class features.
 
 You start with the following equipment, in addition to the equipment granted by your background:
 
-- An explorer's pack
-- 10 darts
 - 2 fans
+- (a) a dungeoneer’s pack or (b) an explorer’s pack 
+- 10 darts
 
 When wearing light armor, you use your Strength modifier instead of Dexterity to determine your AC.
 
@@ -41,7 +41,7 @@ When wearing light armor, you use your Strength modifier instead of Dexterity to
 >##### Lifting and Carrying
 > **Carrying Capacity.** Your carrying capacity is your Strength score multiplied by 15. This is the weight (in pounds) that you can carry. 
 
-<div style="height:3em;">
+<div style="height:0em;">
 </div>
 ### Earthbending
 At 1st level, you realize that you have an innate ability to control earth. You can move small, contiguous masses of earth no more than your carrying capacity – see "Lifting and Carrying". You cannot shape, crack, or otherwise deform this earth, until you gain more fine-grained control through training and learning earthbending forms (see "Earthbending Forms" at 3rd level).
@@ -62,6 +62,7 @@ The HP and AC of any structure you form with your bending can be determined by r
 | Dirt              | 75 lbs               | 13 |
 | Coal              | 85 lbs               | 15 |
 | Sand              | 100 lbs              | 13 |
+| Crystal/gem       | 145 lbs              | 13 |
 | Lava (liquid)     | ~150 lbs             | –– |
 | Rock (sedimentary)| ~160 lbs             | 17 |
 | Granite           | 165 lbs              | 17 |
@@ -161,14 +162,18 @@ You have 4 exhaustion points at your disposal. (Use a d4 to keep track.) The d4 
 
 For example, say the counter is set at 2. That turn, you spend all your chi points attacking and turn the counter to 1. The next turn, you have 0 chi to spend, and you can either use your Attack action to make a melee, non-bending attack or forfeit it. The next turn, your counter is back up to 2. If you spend all your chi once again, it decreases back to 1 again, but if you spend anything less than the maximum (e.g. all but one chi) the counter once again increases to 3.
 
+#### Opposing another bender's form
+You can attempt to reverse the effects caused by another bender of your same element on your turn. This only applies to forms that do not require concentration, e.g. Quicksand. To do this, you use your Action to roll earthbending against the other bender's bending DC; they can choose to fail the save if they wish. On a success, the effect of the form ends.
+
+<div style="height: 6em;">
+</div>
 ### Ability Score Improvement
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
 ### Burrow
-At 4th level, you learn to tunnel like a badgermole. You easily carve out large chunks of rock from the ground, forming a stable tunnel structure. However, you must find a place to deposit the removed earth.
+At 4th level, you learn to tunnel like a badgermole. You can use your Action to choose a portion of dirt or stone that you can see within range, up to your bending capacity. You instantaneously excavate it, move it along the ground, and deposit it up to 5 feet away. This movement doesn’t have enough force to cause damage.
+<!--based on Mold Earth-->
 
-<div style="height: 1em;">
-</div>
 ### Earthbending specialization
 At 5th level, you specialize in one of the following types of earthbending: advanced earthbending, metalbending, or lavabending. Your abilities are described in the specialization section at the end of this class description.
 
@@ -176,9 +181,9 @@ At 5th level, you specialize in one of the following types of earthbending: adva
 When you reach 6th level, you learn to synchronize your control of earth with your movement. As a bonus action while you are moving over earth, you can concentrate on traveling quickly, doubling your speed.
 
 ### Expansion and Compaction
-At 6th level, your control increases. You are now able to compact or expand earth of the volume and range that you can bend. You also learn to bend earth-based materials such as mud, coal, gems, crystals, meteorites, and jennamite ("creeping crystal").  
+At 6th level, your control increases. You are now able to compact or expand earth of the weight and range that you can bend as a bonus action. Each compaction increases the material's AC by 1 (to a maximum of 19), while each expansion decreases the AC by 1 (see the Quick Conversions table on pg. 1). As a consequence, you can now tunnel underground without having to deposit the removed earth elsewhere.
 
-As a consequence, you can now tunnel underground without having to deposit the removed earth elsewhere.
+You also learn to bend earth-based materials such as mud, coal, gems, crystals, meteorites, and jennamite ("creeping crystal").  
 
 ### Earth Reflex
 Starting at 9th level, you gain one of the following abilities of your choice:
@@ -189,6 +194,10 @@ You can now choose to use your Earthwall as a reaction to an attack against a fr
 ##### Imbalance
 You learn to use your control over the earth to throw your opponents off-balance. Instead of raising an earthwall when an enemy attempts to make an attack against you, you can use your reaction to move the earth beneath their feet in an attempt to cause them to miss. Your opponent must make a DC 15 Dexterity Saving Throw. On a success, they make their attack with disadvantage. On a failure, the attack misses. The opponent must be within your normal bending range.  
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 2 | CLASSES</div>
+
+\page
 ### Earth Elevator
 At 10th level, you can move masses of earth beneath your feet to defy gravity. You can move an area of earth centered on you that is 10 feet in diameter and is holding 1 Medium creature (including yourself). At higher levels, you can carry more people, the equivalent of half your level minus 10 Medium creatures, rounded up (i.e. at 13th level, you lift yourself and one other Medium creature).  
 
@@ -203,10 +212,6 @@ Beginning at 13th level, ... [Some improved ability or saving throws]
 ### ?
 At 14th level, ... [some flavor-type thing]
 
-<div class='pageNumber auto'></div>
-<div class='footnote'>PART 2 | CLASSES</div>
-
-\page
 ### Improved Rolling Earth
 At 15th level, you can move across difficult earth terrain (not ice, for example) as though it were normal terrain. You can also move along vertical surfaces of earth without falling during your turn.
 
@@ -247,16 +252,26 @@ Beginning at 19th level, ...
 #### Metal Touch
 Beginning when you choose this specialization at 5th level, you can bend the small pieces of earth present in impure metals (alloys). You are able to bend such metal within touch range.
 
-#### Suit of Armor
-Beginning at 7th level, if the necessary metal is available, you can spend 1 chi to achieve the same effect as the *Rock Armor* form but create a metal suit instead. The armor raises your AC to 18.
+You can use metal instead of earth in any form you already know, increasing its chi cost by 1. Any changes in the form's behavior when using metal are marked in its description.
+
+<!--Suit of Armor
+if the necessary metal is available, you can spend 1 chi to achieve the same effect as the *Rock Armor* form but create a metal suit instead. The armor raises your AC to 18.-->
 
 #### Ranged Metalbending
-At 11th level, you learn to bend metal without touching it. You can bend metal as if it was earth (the same capacity and range restrictions apply to your metalbending as do to your earthbending).
+At 7th level, you learn to bend metal without touching it. You can bend metal as if it was earth (the same capacity and range restrictions apply to your metalbending as do to your earthbending). You cannot bend any metal that is being held, equipped, or carried.  
 
-#### ???
-At 17th level, ...
+<!--You use your metalbending DC instead of your earthbending DC...?-->
 
-<div style="height: 10em;">
+#### Craftsman
+Beginning at 11th level, your deep relationship with metal grants you proficiency with smith's tools.
+<!-- this is a cool reference: https://dumpstatadventures.com/the-gm-is-always-right/making-tools-useful-in-5e-smiths-tools -->
+
+#### Metalbending Forms
+At 17th level, you learn one additional form of your choice from the following list:
+
+##### Metal Encasing
+
+<div style="height: 3em;">
 </div>
 ### Lavabending
 
@@ -269,10 +284,10 @@ In addition, you now use heated rocks in your basic bending attacks. Although no
 #### Melting Earth
 Beginning at 7th level, you can melt an unoccupied 5 foot-square area of the ground within your range into lava, provided it is earth. This is encapsulated by the *Melting Earth* form in the forms list.
 
-Once the lava is produced, it slowly hardens due to the exposure to the air unless you spend an action to harden it. This amount of time is determined the first time you use this ability in an encounter, taking 1d6 rounds (starting at the end of your turn).  
+Once the lava is produced, it slowly hardens due to the exposure to the air unless you spend an action to harden it. This amount of time is determined the first time you use this ability in an encounter, taking 1d6 rounds (starting at the end of your turn). Any creature still in the lava once it has hardened is restrained.  
 
 
-The damage done by lava is determined according to standard D&D 5e rules: any creature standing in or wading through the lava takes 10d10 fire damage, and creatures fully submerged in lava take 18d10 fire damage. As a lavabender, you have resistance to fire damage.
+Lava is considered difficult terrain. The damage done by lava is determined according to standard D&D 5e rules: any creature standing in or wading through the lava takes 10d10 fire damage, and creatures fully submerged in lava take 18d10 fire damage. As a lavabender, you have resistance to fire damage.
 
 #### Lavabending
 At 11th level, you learn to move lava with as much control as you move earth. You spend an action to create and move the equivalent of a 3-foot-diameter sphere of lava at a time. When launching lava as an attack, you deal the amount of bludgeoning damage in the Bending column of the class table *and* an additional die of the same type as fire damage.
@@ -295,7 +310,11 @@ You raise a rock tent around you as shelter. While inside, you have full cover a
 
 #### Earthen Weapon
 *Cost: 1 chi*  
-You mold earth into a melee weapon of your choice, adopting its statistics. You have proficiency with any weapon you form. You can use your Attack Action to make one attack. At fifth level, this increases to two attacks.
+You mold earth into a simple melee weapon of your choice, adopting its statistics with one exception: if the weapon deals slashing or piercing damage, you only deal half damage. You have proficiency with any weapon you form. 
+
+You use your Attack Action to make one attack. At fifth level, this increases to two attacks.
+
+**Metal:** When using metal as the material for this form, you can fashion martial melee weapons in addition to simple melee weapons. You deal full damage even for slashing or piercing weapons.
 
 #### Rock Armor
 *Cost: 1 chi*  
@@ -304,12 +323,18 @@ You pull rocks around you to form armor. Your AC increases by 2, but you have di
 
 You continue to gain the benefits of the rock armor as long as you maintain concentration, for a maximum of 1 minute.
 
+**Metal:** When using metal as the material for this form, you create a metal suit instead, raising your AC to 18.
+
 #### Earth Glove
 *Cost: 1 chi*  
 You shape earth into a glove around your hand. By spending one additional chi, you can launch it at an opponent, dealing 1d6 bludgeoning damage.   
 
 
 You can also use it to attempt to grab and pull a target. The target must succeed on a Strength (Athletics) or Dexterity (Acrobatics) check contested by your Strength (Athletics) or be moved against its will.
+
+#### Earth Boots
+*Cost: 1 chi*  
+You shape earth into boots around your feet. The boots give you advantage against being knocked prone or shoved but reduce your speed to 0. They last for 1 minute, but you can dismiss them early as a free action.
 
 <!--div style="height:1em;">
 </div-->
@@ -323,6 +348,8 @@ This jump lasts the duration of your turn; you end the turn back on the ground.
 
 You gain 10 additional feet of height and 20 feet of horizontal distance per additional chi expended.
 
+<div style="height:6em;">
+</div>
 #### Earth Smash
 *Cost: 2 chi*  
 You prepare to defuse the next ranged attack that hits you. The next time a creature's ranged attack hits, you can use your reaction to neutralize the incoming projectiles, either countering them with earth projectiles of your own or, in the cast of a ranged earth attack, smashing them with your own bending.  
@@ -334,8 +361,6 @@ For projectiles of another element, the damage of each projectile is reduced by 
 *Cost: 2 chi*  
 You stomp on the ground, using your kinetic energy to levitate a mass of earth equal to your bending capacity (shown in the class table). In the same motion, you can push the rock at a target of your choice, dealing double times your regular bending damage + 1d4 additional damage.
 
-<div style="height:1em;">
-</div>
 #### Earthwave
 *Cost: 2 chi*  
 You cause the earth to buckle beneath you, forming a line 5 feet wide and as long as your bending range. Each creature in the line must make a Dexterity saving throw. A creature takes 4d6 bludgeoning damage and is knocked prone on a failed save, or half as much damage on a successful one.  
@@ -361,7 +386,13 @@ You melt an unoccupied 5 foot-square area of the ground within your range into l
 *Cost: 3 chi*  
 You turn a square area of the ground up to half your normal bending range on each side into quicksand for up to 1 minute. The entire area must be within your normal range. It is considered difficult terrain for the duration.  
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 2 | CLASSES</div>
+
+\page
 When this change occurs, each creature standing in the area must succeed on a Dexterity saving throw or be Restrained. A creature that enters the area or ends its turn there must also succeed on a Dexterity saving throw or become Restrained.
+
+To attempt to break free, a creature must spend its Action to make an Athletics check against your bending DC. On a success, it moves 5 feet in a direction of its choice. If it moves out of the affected area, it stops being Restrained.
 
 #### Collapse
 *Cost: X chi*  
@@ -370,18 +401,17 @@ When this change occurs, each creature standing in the area must succeed on a De
 #### Earth Column
 
 #### Earth Projectiles
+**Metal:** When using metal as the material for this form, ...
 
 #### Rock cuffs
 *Cost: 3 chi (1 chi)*  
 You choose a creature you can see within range and cause rock cuffs to envelop its limbs which are in contact with the ground. The target must make a Strength saving throw. On a failed save, the target is restrained while you maintain concentration.
 
-<div class='pageNumber auto'></div>
-<div class='footnote'>PART 2 | CLASSES</div>
-
-\page
 By spending 1 additional chi, you can cause the cuffs to crush the restrained target, who must make a Strength saving throw. It takes 1d6 bludgeoning damage for each cuffed limb on a failed save, or half as much damage on a successful one.
 
 To break out, the restrained target can use its action to make a Strength check against your bending DC. On a success, the target escapes and is no longer restrained by the hand.
+
+**Metal:** When using metal as the material for this form, the DC increases by 2.
 
 #### Rock slide
 #### Fissure
