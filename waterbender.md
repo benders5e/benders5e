@@ -38,14 +38,15 @@ You start with the following equipment, in addition to the equipment granted by 
 > ##### Seeing Underwater
 > You can see underwater just as well as above water. Areas above water viewed from underwater are considered lightly obscured.
 
-<div style="height: 5em;">
+<div style="height: 6em;">
 </div>
 ### Waterbending
-At 1st level, you realize that you have an innate ability to control water. You can move small volumes of *liquid* water and liquids that are mostly water at will. You must draw your bending material from a source within 30 feet. 
+At 1st level, you realize that you have an innate ability to control water. You can move small volumes of *liquid* water and liquids that are mostly water at will by spending 1 chi of your Attack action to cause the effects of the *Shape Water* cantrip (excluding changing the water's color or opacity). (See "Bending Attack" for a description of the role chi points play in attacks and the rules for bending attacks.) You must draw your bending material from a source within 30 feet. 
 
 You are also capable of converting water into ice or snow and back, but without fine-grained control over the shape of the ice or snow. You can also cause the effects of the *Grease* spell at will by freezing a thin sheet of water in an area of your choice. Your range for this spell equals your normal bending range.  
 
 When using either *Grease* or changing the state of water from liquid to solid or vice versa in combat, you spend 1 chi of your Attack action (see "Bending Attack" for a description of the role chi points play in attacks).  
+
 
 The volume of water you can control and the range within which you can control it (including as a source) increase with your waterbender level. See the "Volume" and "Range" columns of the Waterbender Table. 
 
@@ -86,7 +87,7 @@ Starting at 2nd level, you can use your reaction to attempt to redirect a ranged
 | 3rd | +2 | 1d6     | 5 ft.  | 30/60 | 2 | 2     |Waterbending Forms|
 | 4th | +2 | 1d6     | 10 ft. | 30/60 | 2 | 2     |Ability Score Improvement, Water in All Its States|
 | 5th | +3 | 1d8     | 10 ft. | 60/120| 3 | 2     |Waterbending specialization|
-| 6th | +3 | 1d8     | 10 ft. | 60/120| 3 | 2     |Water Movement, ?|
+| 6th | +3 | 1d8     | 10 ft. | 60/120| 3 | 2     |Water Movement, Versatile Reaction|
 | 7th | +3 | 1d8     | 10 ft. | 60/120| 4 | 3     |Specialization feature|
 | 8th | +3 | 1d8     | 15 ft. | 60/120| 4 | 3     |Ability Score Improvement|
 | 9th | +4 | 1d8     | 15 ft. | 60/120| 5 | 3     |Improved Water Movement|
@@ -160,8 +161,14 @@ At 5th level, you specialize in one of the following types of waterbending: adva
 At 6th level, you learn to synchronize your control of water with your movement. You gain the ability to move across liquids. 
 <!--When you do so, your speed is doubled.-->
 
-### ?
-At 6th level, ...
+### Versatile Reaction
+At 6th level, you react quickly and strategically when you are hit by a melee attack. By spending 1 chi point (from your upcoming turn), you can use your reaction to do one of the following:
+
+#### Freeze
+You encase your attacker's hands in ice. At the beginning of each of their turns, they can make a Strength saving throw against your bending DC. On a success, the ice breaks. On a failure, their hands remain encased in ice. While their hands are frozen, they have disadvantage on attacks and ability checks that rely on the use of their hands.
+
+#### Pull
+You take this opportunity to wrap a tendril of water around your attacker. An attacker at most one size larger is moved 10 feet into an unoccupied space of your choice. They also make a Dexterity saving throw and are knocked prone on a failure.
 
 ### Improved Water Movement
 At 9th level, your control over solid water also grants you the ability to move easily over ice and snow. For you, this type of terrain is no longer difficult terrain.
