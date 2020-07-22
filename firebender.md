@@ -34,7 +34,9 @@ You start with the following equipment, in addition to the equipment granted by 
 ### Firebending
 At 1st level, you realize that you have an innate ability to produce fire with your hands and feet. You can spend 1 chi of your Attack action to cause the effects of the *Produce Flame* cantrip, but the damage is determined by the "Bending" column of the Firebender table (see "Fire Jab" for a description of the role chi points play in attacks and the rules for bending attacks). Your range increases with your level according to the "Range" column of the Firebender table.
 
-<div style="height:10em;">
+As a firebender, you have resistance to fire damage.
+
+<div style="height:11em;">
 </div>
 ### Fire Jab
 During combat, you can channel your chi to use your bending as a rudimentary attack by hitting other creatures. Every time you take the Attack action, you draw on your inner pool of energy, or *chi*. The class table shows how much chi you have available every time you take the Attack action ("Chi per Attack"). This amount resets every round. As your bending grows more powerful and your connection to your inner chi grows, this number increases.  
@@ -54,7 +56,7 @@ As a firebender, Charisma is your primary attack ability:
 The attack bonus is hereafter referred to as your firebending modifier.
 
 #### Bonus Attack
-Firebenders are fierce fighters. Anytime you use your action to make a firebending attack (basic or with a form), you may use your bonus action to make a basic firebending attack.
+Firebenders are fierce fighters. Anytime you use your action to make a firebending attack (basic or with a form), you may use your bonus action to make a basic firebending attack. You do not add your damage bonus to this attack.
 
 ### Defusion
 Starting at 2nd level, you can use your reaction to defuse an attack when you are hit by a ranged non-bending attack or a basic ranged bending attack (not one that is the result of a form or specialized bending). When you do so, the damage you take from the attack is reduced by half. Any fire damage is reduced to 0.  
@@ -124,14 +126,14 @@ Channeling chi into attacks is a physically and mentally draining endeavor.
 
 You have 4 exhaustion points at your disposal. (Use a d4 to keep track.) The d4 starts with the "4" pointing up. Every turn you use all of your chi, you decrement this counter. When the counter indicates a "1", you need to take a break from bending and cannot spend any chi or take bending reactions that turn. Any bending concentration is also broken. Every turn that you do *not* use all your chi, the counter increments by 1. This counter resets every long rest.  
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 2 | CLASSES</div>
+\page 
+
 For example, say the counter is set at 2. That turn, you spend all your chi points attacking and turn the counter to 1. The next turn, you have 0 chi to spend, and you can either use your Attack action to make a melee, non-bending attack or forfeit it. The next turn, your counter is back up to 2. If you spend all your chi once again, it decreases back to 1 again, but if you spend anything less than the maximum (e.g. all but one chi) the counter once again increases to 3.
 
 ### Ability Score Improvement
 When you reach 4th level, and again at 8th, 11th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
-
-<div class='pageNumber auto'></div>
-<div class='footnote'>PART 2 | CLASSES</div>
-\page 
 
 ### Inner Flame
 At 4th level, you gain the ability to reset your chi exhaustion die back to the maximum once per long rest.
@@ -154,8 +156,9 @@ At 6th level, when you roll a 1 or 2 on a damage die for a basic firebending att
 Starting at 9nd level, when you are hit by lightning (natural or created by a bender), you can use your reaction to attempt to redirect it by making a Wisdom saving throw. If you roll a 10 or higher, you successfully redirect the lightning at an unoccupied space within range, taking no damage. On a 15 or higher, you can choose to redirect the lightning anywhere within range as if you were generating it yourself. If you roll below a 10, you take double the normal damage of the attack.
 
 ### Fire Augmentation
-Beginning at 10th level, you are able to alter the quality of outside sources of fire. On your turn, you can spend a bonus action to put out or triple the size of any fires within your range (excluding fire being produced by another firebender) without moving. 
-[check *Prestidigitation*]
+Beginning at 10th level, you are able to alter the quality of outside sources of fire. On your turn, you can spend a bonus action to cause the effects of the *Control Flames* cantrip (except that you cannot change the color of the flame). 
+
+You also gain resistance to cold damage.
 
 <!--div style="height: 6em;">
 </div-->
@@ -165,8 +168,8 @@ Beginning at 13th level, ... [Some improved ability or saving throws]
 ### ???
 At 14th level, ... [some flavor-type thing]
 
-<div style="height: 4em;">
-</div>
+<!--div style="height: 4em;">
+</div-->
 ### Fire Rockets
 At 15th level, the power of your Firestepping increases. You gain a flying speed of 60 feet and can end your turn in the air without falling.
 
@@ -246,16 +249,12 @@ Additionally, you can sense this energy and heat emanating from creatures even f
 You can use each of these features a number of times equal to your bending modifier. When you finish a Long Rest, you regain all expended uses.
 
 #### Healing
-At 7th level, you learn to clear blocked chi paths within creatures and redirect their energy towards wounds to speed up the healing process. By spending one minute concentrating on reading the chi paths in another person's body, you heal them by an amount of hit points equal to three times your firebender level. 
+At 7th level, you learn to clear blocked chi paths within creatures and redirect their energy towards wounds to speed up the healing process. By spending one minute concentrating on reading the chi paths in another person's body, you heal them by an amount of hit points equal to three times your firebender level.  
+
+You can use this ability a number of times equal to your bending modifier per long rest.
 
 #### Mass Heal
 At 11th level, ...
-
-#### Minor Energybending
-At 17th level, you learn to bend the energy within people's bodies to a limited extent. Once per long rest, you may spend an action to do one of the following:
-
-- End a temporary bending block caused by bloodbending
-- Give a target advantage on one skill or saving throw for the next 24 hours
 
 
 <div class='pageNumber auto'></div>
@@ -263,6 +262,11 @@ At 17th level, you learn to bend the energy within people's bodies to a limited 
 
 \page 
 
+#### Minor Energybending
+At 17th level, you learn to bend the energy within people's bodies to a limited extent. Once per long rest, you may spend an action to do one of the following:
+
+- End a temporary bending block caused by bloodbending
+- Give a target advantage on one skill or saving throw for the next 24 hours
 - Increase one creature's hit point maximum by 10 + your firebending modifier for the next 24 hours
 - ... (Some kind of buff like *Guidance*)
 
@@ -275,7 +279,9 @@ At 17th level, you learn to bend the energy within people's bodies to a limited 
 Level ideas: silent, multiple simultaneous projectiles, increasing power/range/radius of blast.-->
 
 #### Mind's Eye
-Beginning when you choose this specialization at 5th level, you can fire bend even if your limbs are restrained as long as your head is free. Because your bending requires no movement, your attacks count as surprise attacks if you have not yet attacked the target in the current combat.
+Beginning when you choose this specialization at 5th level, you can fire bend even if your limbs are restrained as long as your head is free. Because your bending requires no movement, you have advantage on attacks against targets you have not yet attacked in the current combat.  
+
+You also gain advantage on initiative. On your first turn, you deal double damage.
 
 #### Combustion
 At 7th level, you can make an explosion as your basic bending attack. Instead of making a firebending attack, you can choose to make a combustion attack. You pick a point within range on which to center an explosion. Targets in a 5-foot radius must make a Dexterity saving throw. On a failure, they take your bending damage in force damage, and on a success they take half damage.
