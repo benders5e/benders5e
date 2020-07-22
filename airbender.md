@@ -26,7 +26,7 @@ As an airbender, you gain the following class features.
 
 You start with the following equipment, in addition to the equipment granted by your background:
 
-- An explorer's pack
+- (a) a scholar’s pack or (b) an explorer’s pack 
 - 10 darts
 - Glider
 
@@ -39,7 +39,7 @@ Beginning at 1st level, while you are wearing no armor and not wielding a shield
 At 1st level, you realize that you have an innate ability to manipulate the air around you. You can spend 1 chi of your Attack action to cause the effects of the *Gust* cantrip. (See "Air Punch" for a description of the role chi points play in attacks and the rules for bending attacks.) Your range increases with your level according to the "Range" column of the Airbender table.  
 
 
-In addition, your jump distance is permanently tripled.
+In addition, your jump distance is permanently tripled and you only spend 5 feet of your movement to stand up.
 
 ### Air Punch
 During combat, you can channel your chi to use your bending as a rudimentary attack by hitting other creatures. Every time you take the Attack action, you draw on your inner pool of energy, or *chi*. The class table shows how much chi you have available every time you take the Attack action ("Chi per Attack"). This amount resets every round. As your bending grows more powerful and your connection to your inner chi grows, this number increases.  
@@ -72,12 +72,6 @@ At 2nd level, you become tuned in to the air around you. You learn to move like 
 ### Unarmored Movement
 Starting at 2nd level, your speed increases by 10 feet while you are not wearing armor or wielding a shield. This bonus increases when you reach certain levels, as shown in the class table.  
 
-
-You also learn to use your bending to steer your glider. Your flying speed is equal to your ground speed. See the Glider description (in the "Equipment" section) for more details about using your glider. 
-
-### Airbending Forms
-At 3rd level, your connection to chi and practice of bending allows you to weave your bending into your combat style. With training, you are able to learn particular forms that combine martial arts and airbending to carry out more sophisticated attacks.   
-
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 2 | CLASSES</div>
 
@@ -109,6 +103,11 @@ At 3rd level, your connection to chi and practice of bending allows you to weave
 |20th | +5 | +30 ft.  | 1d10 |200/400| 10| 6 | Detachment
 </div>
 
+You also learn to use your bending to steer your glider. Your flying speed is equal to your ground speed. See the Glider description (in the "Equipment" section) for more details about using your glider. 
+
+### Airbending Forms
+At 3rd level, your connection to chi and practice of bending allows you to weave your bending into your combat style. With training, you are able to learn particular forms that combine martial arts and airbending to carry out more sophisticated attacks.   
+
 You learn one form from the list at the end of this class description. The number of forms you know increases with level and is shown in the Airbender Table. Each time you learn a new form you may also replace one form you already know with another one.  
 
 Every time you take the Attack action on your turn, you have a certain amount of *chi* at your disposal (indicated by the "Chi per Attack" column of the class table). You can distribute your chi among basic bending attacks or regular bending (*cost: 1 chi*) and any forms you know (whose costs are indicated with their descriptions). You can use each form a maximum of once per turn.
@@ -120,14 +119,14 @@ Channeling chi into attacks is a physically and mentally draining endeavor.
 
 You have 4 exhaustion points at your disposal. (Use a d4 to keep track.) The d4 starts with the "4" pointing up. Every turn you use all of your chi, you decrement this counter. When the counter indicates a "1", you need to take a break from bending and cannot spend any chi or take bending reactions that turn. Any bending concentration is also broken. Every turn that you do *not* use all your chi, the counter increments by 1. This counter resets every long rest.  
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 2 | CLASSES</div>
+\page
+
 For example, say the counter is set at 2. That turn, you spend all your chi points attacking and turn the counter to 1. The next turn, you have 0 chi to spend, and you can either use your Attack action to make a melee, non-bending attack or forfeit it. The next turn, your counter is back up to 2. If you spend all your chi once again, it decreases back to 1 again, but if you spend anything less than the maximum (e.g. all but one chi) the counter once again increases to 3.
 
 ### Ability Score Improvement
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
-
-<div class='pageNumber auto'></div>
-<div class='footnote'>PART 2 | CLASSES</div>
-\page
 
 ### Air Cushion
 Beginning at 4th level, you can use your reaction when you fall to slow yourself with airbending, reducing any falling damage you take by an amount equal to five times your bender level. You can also use this ability on another creature.
@@ -221,6 +220,8 @@ At 17th level, you can attempt to project your spirit into the *material* world.
 
 Your projection is able to travel anywhere in the world almost instantaneously and can pass through physical objects. It lasts 1d20 minutes. You can use this ability once per long rest.
 
+<div style="height: 0em;">
+</div>
 ### ?
 
 #### ???
@@ -247,13 +248,17 @@ At 17th level, ...
 
 #### Swipe
 *Cost: 1 chi*   
-You prepare to defuse the next ranged bending attack that hits you (not one that is the result of a bending specialization). When you do so, the damage you take from the attack is reduced by 1d10 + your Dexterity modifier + your airbender level.
+You prepare to defuse the next ranged attack that hits you (not one that is the result of a bending specialization). When you do so, the damage you take from the attack is reduced by 1d10 + your Dexterity modifier + your airbender level.
 
 If you reduce the damage to 0, you can completely defuse the attack, provided you have at least one hand free or are holding your glider.
 
 #### Nimble action
 *Cost: 1 chi*  
-You spend 1 chi to take the Dash or Disengage action as a bonus action on this turn.
+You spend 1 chi to take the Dodge or Disengage action as a bonus action on this turn.
+
+#### Dodge
+*Cost: 1 chi*  
+You spend 1 chi to take the Dash action as a bonus action on this turn.
 
 #### Shunt (rename this)
 *Cost: 1 chi*  
@@ -290,7 +295,9 @@ You create a small funnel out of air of up to 1 foot in diameter. The funnel is 
 *Cost: 3 chi*  
 When you hit the ground after a jump or after flying, you can spend three chi to create a powerful, outward-moving air current in all directions around you. This current dispels any non-spiritual clouds of fog, dust, or other physical cloud effects.
 
-Targets in within your bending radius take 2d6 force damage and are stunned until the beginning of their next turn. The damage increases by 1d6 with each additional chi spent.
+Targets in your bending radius must make a Dexterity saving throw. On a failure, they take take 2d6 force damage and are stunned until the beginning of their next turn. On a success, they take half damage. 
+
+The damage increases by 1d6 with each additional chi spent.
 
 #### Gust
 *Cost: 3 chi*  
@@ -307,6 +314,11 @@ Rapid succession-->
 #### Air cocoon
 #### Air spout
 #### Air sphere 
+
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 2 | CLASSES</div>
+
+\page
 
 ### Advanced Forms
 Only Airbenders of the Advanced Airbending specialization have access to these forms.
