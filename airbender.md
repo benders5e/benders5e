@@ -135,7 +135,7 @@ Beginning at 4th level, you can use your reaction when you fall to slow yourself
 At 5th level, you specialize in one of the following aspects of airbending: advanced airbending, spirituality, or ?. Your abilities are described in the specialization section at the end of this class description. <!--This specialization grants you a new feature at 5th level, and again at 8th, 12th, and 17th level.-->
 
 ### Improved Unarmored Movement
-When you reach 6th level, you gain the ability to move along vertical surfaces and across liquids on your turn without falling during the move. Your glider speed increases to 60 feet.
+When you reach 6th level, you gain the ability to move along vertical surfaces and across liquids on your turn without falling during the move.
 
 ### Cloudbending
 At 6th level, you gain the ability to bend clouds. Once per long rest, you can concentrate on reshaping clouds for a period of time up to 1 hour. During this time, you spend your Action on every turn cloudbending and cannot use it to attack or take any other actions.
@@ -191,8 +191,8 @@ Beginning when you choose this specialization at 5th level, you gain access to a
 
 You also automatically know the form *Tranquility* and it does not count against the "Forms Known" limit in the class table.
 
-#### ???
-At 7th level, ...
+#### Stillness of Mind
+At 7th level, if you spend your bonus action taking a brief respite and calming your breathing, you reset your chi exhaustion die back to the maximum. You can use this ability once per long rest.
 
 #### ???
 At 11th level, ...
@@ -222,18 +222,27 @@ Your projection is able to travel anywhere in the world almost instantaneously a
 
 <div style="height: 0em;">
 </div>
-### ?
+### Offense
 
-#### ???
-Beginning when you choose this specialization at 5th level, ...
+<!-- This specialization could be stepping on Firebender's toes...-->
 
-#### ???
-At 7th level, ...
+#### Bonus Attack
+Beginning when you choose this specialization at 5th level, you fight with more ferocity than your fellow pacifist airbenders. Anytime you use your action to make an airbending attack (basic or with a form), you may use your bonus action to make a basic airbending attack. You do not add your damage bonus to this attack.
 
-#### ???
-At 11th level, ...
+#### Deadly Strike
+At 7th level, when you roll a 1 or 2 on a damage die for a basic airbending attack, you can reroll the damage. You must use the new roll. This ability only applies to the base bending damage die.
 
-#### ???
+#### Advanced Form
+At 11th level, you learn an additional form of your choice from the following list: 
+
+##### Asphyxiation
+<!--*Cost: 5 chi*  -->
+
+##### Wind Sword
+
+##### ?
+
+#### ?
 At 17th level, ...
 
 <div class='pageNumber auto'></div>
