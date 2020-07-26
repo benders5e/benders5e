@@ -292,12 +292,26 @@ Lava is considered difficult terrain. The damage done by lava is determined acco
 #### Lavabending
 At 11th level, you learn to move lava with as much control as you move earth. You spend an action to create and move the equivalent of a 3-foot-diameter sphere of lava at a time. When launching lava as an attack, you deal the amount of bludgeoning damage in the Bending column of the class table *and* an additional die of the same type as fire damage.
 
-#### ???
-At 17th level, ...
+#### Advanced Form
+At 17th level, you learn an additional form of your choice from the following list:
+
+##### Flaming Shuriken
+*Cost: 3 chi (+1 chi)*  
+You flatten a fist-sized rock, heating it in the process to create a red-hot throwing star. While you maintain concentration, you can control its flight, launching it in a 30-foot line in a direction of your choice by spending 1 chi. The attack uses your bending modifier. Targets in the line must make a Dexterity saving throw against your bending DC. On a failure, they take 2d6 slashing damage + 2d6 fire damage. On a success, the damage is halved.  
 
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 2 | CLASSES</div>
 \page
+The shuriken is able to cut through stone and metal instantaneously. If it leaves your bending range, your concentration ends, and the rock cools and drops to the ground.
+
+##### ?
+*Cost: X chi*  
+...
+
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 2 | CLASSES</div>
+\page
+
 ## Earthbending Forms
 <!--Mostly defense stuff-->
 For forms which require a target to make a saving throw, your DC is 8 + your proficiency modifier + your earthbending modifier.  
