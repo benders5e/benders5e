@@ -374,7 +374,7 @@ This is the regular attack? Or should this be like Flurry of Blows?
 
 #### Heat Wave
 *Cost: 6 chi*  
-You cause the ambient temperature to raise to an uncomfortable level within your normal bending range. Each creature in the area must make a Constitution saving throw. On a failure, all target suffer one of the following (your choice):
+You cause the ambient temperature to raise to an uncomfortable level within your normal bending range. Each creature in the area must make a Constitution saving throw. All targets who fail suffer one of the following (your choice):
 - 1 level of exhaustion (to maximum of level 3)
 - Loss of 1 chi exhaustion point
 
