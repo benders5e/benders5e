@@ -216,16 +216,19 @@ You can also have the opposite effect: if you have hands or nose or mouth free, 
 #### Dragonfire
 For a long time, disciplines of firebending were taught to be fueled by hatred, as opposed to the original source. At 17th level, you learn of the true nature of firebending: it represents energy and life, not anger and destruction. 
 
-With this knowledge, your fire becomes an extension of your body rather than merely a tool for protection. It becomes beautiful and multi-colored, and anyone who looks at it gains the advantages of the *Guidance* cantrip [or something better].
+With this knowledge, your fire becomes an extension of your body rather than merely a tool for protection. It becomes beautiful and multi-colored, and your allies within 30 feet who can see the flames gain the benefits of the *Bless* spell.
 
 The damage of your basic attacks also increases to 2d8.
 
 
 ### Lightningbending
 
-#### ?
-Beginning when you choose this specialization at 5th level, ...
-stunning/shocking/conducting current
+#### Shocking Strike
+Beginning when you choose this specialization at 5th level, you learn to distinguish the yin and yang of energy, allowing you to conduct currents and amass small charges of electricity to release at will.
+
+Once per turn, you can attempt to stun a target with your basic firebending attack. On a hit, instead of taking damage, the target makes a Constitution saving throw against your bending DC. On a failure, it is stunned. At the beginning of each of its turns, the target can attempt another save to recover. 
+
+<!-- conducting current: not sure how this would work and not be OP like lightning -->
 
 #### Create Lightning
 At 7th level, you learn to distinguish the yin and yang of energy and separate the positive from the negative energy. This creates an imbalance, and when the energies attempts to restore balance by crashing back together, you provide release and guidance, creating lightning.  
@@ -248,6 +251,12 @@ Additionally, you can sense this energy and heat emanating from creatures even f
 
 You can use each of these features a number of times equal to your bending modifier. When you finish a Long Rest, you regain all expended uses.
 
+
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 2 | CLASSES</div>
+
+\page 
+
 #### Healing
 At 7th level, you learn to clear blocked chi paths within creatures and redirect their energy towards wounds to speed up the healing process. By spending one minute concentrating on reading the chi paths in another person's body, you heal them by an amount of hit points equal to three times your firebender level.  
 
@@ -255,12 +264,6 @@ You can use this ability a number of times equal to your bending modifier per lo
 
 #### Mass Heal
 At 11th level, ...
-
-
-<div class='pageNumber auto'></div>
-<div class='footnote'>PART 2 | CLASSES</div>
-
-\page 
 
 #### Minor Energybending
 At 17th level, you learn to bend the energy within people's bodies to a limited extent. Once per long rest, you may spend an action to do one of the following:
