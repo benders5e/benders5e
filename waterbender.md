@@ -71,7 +71,6 @@ The attack bonus is hereafter referred to as your waterbending modifier.
 Starting at 2nd level, you can use your reaction to attempt to redirect a ranged attack that hits you. This ability applies to
 - basic ranged waterbending attacks (not ones that are the result of a bending form nor specialized bending such as an advanced waterbending ability)
 - basic ranged earthbending attacks, as long as the volume of earth used in the attack is smaller than the volume of water you use to redirect it
-- non-bending ranged attacks
 
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 2 | CLASSES</div>
@@ -103,6 +102,8 @@ Starting at 2nd level, you can use your reaction to attempt to redirect a ranged
 |19th | +6 | 1d12    | 20 ft. |200/400| 10| 6     |Ability Score Improvement|
 |20th | +6 | 1d12    | 20 ft. |200/400| 10| 6     |?|
 </div>
+
+- non-bending ranged attacks
 
 You must have at least one hand free to use this ability. When you do so, the damage you take from the attack is reduced by 1d10 + your waterbending modifier + your waterbender level. If you reduce the damage to 0 and have at least one hand free, you redirect the element to make a ranged attack against a creature of your choice as part of the same reaction.  
 
