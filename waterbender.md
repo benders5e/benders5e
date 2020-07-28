@@ -126,17 +126,20 @@ With these tendrils, you also gain the ability to use your Redirection ability o
 You must spend one chi on one of your turns to collect water around your arms and gain these benefits.
 
 <!--div style="height:2em;">
-</div-->
-### Waterbending Forms
-At 3rd level, your connection to chi and practice of bending allows you to weave your bending into your combat style. With training, you are able to learn particular attacks that combine martial arts and bending to carry out more sophisticated attacks.    
+</div-->  
 
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 2 | CLASSES</div>
 \page
+### Waterbending Forms
+At 3rd level, your connection to chi and practice of bending allows you to weave your bending into your combat style. With training, you are able to learn particular attacks that combine martial arts and bending to carry out more sophisticated attacks.  
+
 You learn one form from the list at the end of this class description. The number of forms you know increases with level and is shown in the Waterbender Table. Each time you learn a new form you may also replace one form you already know with another one.  
 
 
-Every time you take the Attack action on your turn, you have a certain amount of *chi* at your disposal (indicated by the "Chi per Attack" column of the class table). You can distribute your chi among basic bending attacks or regular bending (*cost: 1 chi*) and any forms you know (whose costs are indicated with their descriptions). You can use each form a maximum of once per turn.
+Every time you take the Attack action on your turn, you have a certain amount of *chi* at your disposal (indicated by the "Chi per Attack" column of the class table). You can distribute your chi among basic bending attacks or regular bending (*cost: 1 chi*) and any forms you know (whose costs are indicated with their descriptions). Forms use your bending attack and damage bonuses.
+
+You can use each form a maximum of once per turn.
 
 #### Chi Exhaustion
 Channeling chi into attacks is a physically and mentally draining endeavor.   

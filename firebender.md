@@ -119,7 +119,9 @@ At 3rd level, your connection to chi and practice of bending allows you to weave
 
 You learn one form from the list at the end of this class description. The number of forms you know increases with level and is shown in the Firebender Table. Each time you learn a new form you may also replace one form you already know with another one. 
 
-Every time you take the Attack action on your turn, you have a certain amount of *chi* at your disposal (indicated by the "Chi per Attack" column of the class table). You can distribute your chi among basic bending attacks or regular bending (*cost: 1 chi*) and any forms you know (whose costs are indicated with their descriptions). You can use each form a maximum of once per turn.
+Every time you take the Attack action on your turn, you have a certain amount of *chi* at your disposal (indicated by the "Chi per Attack" column of the class table). You can distribute your chi among basic bending attacks or regular bending (*cost: 1 chi*) and any forms you know (whose costs are indicated with their descriptions). Forms use your bending attack and damage bonuses.
+
+You can use each form a maximum of once per turn.
 
 #### Chi Exhaustion
 Channeling chi into attacks is a physically and mentally draining endeavor.   

@@ -153,7 +153,9 @@ You learn two forms from the list at the end of this class description. The numb
 
 You also learn to shape earth in a more fine-grained manner, including fashioning weapons (see the *Earthen Weapon* form at the end of this class description, which you start out knowing and doesn't count against your "Forms Known" limit).
 
-Every time you take the Attack action on your turn, you can distribute your chi among basic bending attacks (*cost: 1 chi*) and any forms you know (whose costs are indicated with their descriptions). You can use each form a maximum of once per turn.
+Every time you take the Attack action on your turn, you can distribute your chi among basic bending attacks (*cost: 1 chi*) and any forms you know (whose costs are indicated with their descriptions). Forms use your bending attack and damage bonuses.
+
+You can use each form a maximum of once per turn.
 
 #### Chi Exhaustion
 Channeling chi into attacks is a physically and mentally draining endeavor.  
