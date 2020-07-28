@@ -318,7 +318,9 @@ You cause a bright flash, blinding a target within 5 feet of your choice. The ta
 
 #### Flaming Armor
 *Cost: 2 chi*  
-You cause flames to spring up around you. They follow you around as you move and last 1 minute. During this time, whenever a creature hits you with a melee attack, it takes 5 fire damage. This damage increases by 5 for each additional chi spent.
+You cause flames to spring up around you. They follow you around as you move and last for 1 minute. During this time, whenever a creature hits you with a melee attack, it takes 5 fire damage. 
+
+This damage increases by 5 for each additional chi spent.
 
 #### Fire Blade
 *Cost: 2 chi*  
@@ -326,46 +328,60 @@ You narrow and condense your flame projection, creating a thin blade of fire to 
 
 #### Sweeping Fire
 *Cost: 2 chi*  
-You sweep your legs in an arc around you, causing fire to spread out in a 20-foot radius circle with you at the center. Each creature in the area must make a Dexterity saving throw. A target takes 4d6 fire damage on a failed save and half as much on a successful save. The damage increases by 2d6 with each additional chi you spend.
+You sweep your legs in an arc around you, causing fire to spread out in a 20-foot radius circle with you at the center. Each creature in the area must make a Dexterity saving throw. A target takes 4d6 fire damage on a failed save and half as much on a successful save. 
+
+The radius increases by 10 feet with each additional chi you spend.
 
 #### Fire Bomb
 *Cost: 2 chi*  
-You create a flame at the end of one of your limb and thrust it onto the ground in an explosive burst at a point within range. Targets in a 10-foot radius of the burst must make a Dexterity saving throw. On a failure, they take 2d6 force damage and are stunned until the beginning of their next turn. On a success, they take half damage. The damage increases by 1d6 with each additional chi spent.
+You create a flame at the end of one of your limb and thrust it onto the ground in an explosive burst at a point within range. Targets in a 10-foot radius of the burst must make a Dexterity saving throw. On a failure, they take 2d6 force damage and are stunned until the beginning of their next turn. On a success, they take half damage. 
+
+The radius increases by 5 feet with each additional chi spent.
 
 #### Fire Daggers
 *Cost: 2 chi*  
-You create two blowtorch-like jets from your fists or fingertips to use as close range melee attacks. As part of the same action used to create them, you can make two attacks dealing 1d4 slashing damage + 1d4 fire  damage.  
+You create two blowtorch-like jets from your fists or fingertips to use as close range melee attacks. As part of the same motion used to create them, you can make two attacks dealing 1d4 slashing damage + 1d4 fire  damage.  
 
 The daggers remain as long as you maintain concentration. You can continue to attack with them, each time spending 2 chi to make two hits. You add your damage bonus to the damage of both attacks.  
 
 Despite their slashing capabilities, these daggers lack the ability to block physical objects.
 
+<div style="height:6em;">
+</div>
 #### Shield of Fire
 *Cost: 2 chi*  
-You prepare to defuse the next attack that hits you. The next time a creature rolls to attack you and hits, you can use your reaction to raise your AC by 2. If this causes the attack to miss, the shield disintegrates.
+When you take this form, gain the ability to use your reaction to raise your AC by 2. When you use this reaction, you spend 2 chi of your next Attack action. 
 
-<div style="height:2em;">
-</div>
+If the shield causes the attack to miss, the shield disintegrates; otherwise, it remains for a maximum of 1 minute.
+
 #### Fire Lashes
 *Cost: 2 chi*  
-You shape your flame into a lashing tendril and swipe at a target within range, dealing 1d10 bludgeoning damage. For each additional chi point you spend, you create and attack with another fire lash, dealing an additional die of damage.
+You shape your flame into a lashing tendril and swipe at a target within range, dealing 1d10 bludgeoning damage. 
+
+For each additional chi point you spend, you create and attack with another fire lash, dealing an additional die of damage.
 
 #### Projectiles
 *Cost: 2 chi*  
 You create and launch 4 miniature fireballs at any combination of targets within your long range (the second number in the "Range" column). These attacks are made without disadvantage. Each fireball deals 1d4 fire damage.   
 
-You gain an additional dagger for each extra chi you spend.
+
+You gain an additional fireball for each extra chi you spend.
 
 #### Fire Stream
 *Cost: 2 chi*  
-You shoot a continuous stream of fire from their fingertips, fists, palms, or legs, forming a line 5 feet wide and as long as your bending range. Each creature in the line must make a Dexterity saving throw (the DC is 8 + proficiency bonus + your firebending modifier). A creature takes 4d6 fire damage on a failed save, or half as much damage on a successful one.  
+You shoot a continuous stream of fire from their fingertips, fists, palms, or legs, forming a line 5 feet wide and as long as your bending range. Each creature in the line must make a Dexterity saving throw. A creature takes 4d6 fire damage on a failed save, or half as much damage on a successful one.   
+
 
 The stream widens by 5 feet for each additional chi you spend.
 
 #### Create Lightning
 *Prerequisite: Lightningbending, 8th level*  
 *Cost: 3 chi*  
-You cast the *Lightning Bolt* spell with a range equal to your bending range.
+You cast the *Lightning Bolt* spell with a range equal to your normal bending range.
+
+#### Wall of Flames
+*Cost: 4 chi*  
+You cast the *Wall of Fire* spell with a range equal to your normal bending range.
 
 <!--#### Blocking Fire
 #### Blazing Rings and Arcs
@@ -382,9 +398,6 @@ You cause the ambient temperature to raise to an uncomfortable level within your
 
 #### Fire Missiles
 #### Fire Pinwheel
-#### Wall of Flames
-*Cost: 4 chi*  
-*Wall of Fire* spell.
 <!--#### Fire Comet
 -->
 
