@@ -329,7 +329,7 @@ You raise a rock tent around you as shelter. While inside, you have full cover a
 
 #### Earthen Weapon
 *Cost: 1 chi*  
-You mold earth into a simple melee weapon of your choice, adopting its statistics with one exception: if the weapon deals slashing or piercing damage, you only deal half damage. You have proficiency with any weapon you form. 
+You mold earth into a simple melee weapon of your choice, adopting its statistics with one exception: unless the weapon deals bludgeoning damage, you deal half damage. You have proficiency with any weapon you form. 
 
 You use your Attack Action to make one attack. At fifth level, this increases to two attacks.
 
@@ -371,14 +371,13 @@ You gain 10 additional feet of height and 20 feet of horizontal distance per add
 </div>
 #### Earth Smash
 *Cost: 2 chi*  
-You prepare to defuse the next ranged attack that hits you. The next time a creature's ranged attack hits, you can use your reaction to neutralize the incoming projectiles, either countering them with earth projectiles of your own or, in the cast of a ranged earth attack, smashing them with your own bending.  
-
+When you take this form, gain the ability to use your reaction to defuse ranged attacks, neutralizing the incoming projectiles by either countering them with earth projectiles of your own or, in the case of a ranged earth attack, smashing them with your own bending. When you use this reaction, you spend 2 chi of your next Attack action. 
 
 For projectiles of another element, the damage of each projectile is reduced by 1d6 + your earthbending modifier + your earthbender level. For earth projectiles, the damage is reduced by 1d12 + your earthbending modifier + your earthbender level.  
 
 #### Earth Levitation
 *Cost: 2 chi*  
-You stomp on the ground, using your kinetic energy to levitate a mass of earth equal to your bending capacity (shown in the class table). In the same motion, you can push the rock at a target of your choice, dealing double times your regular bending damage + 1d4 additional damage.
+You stomp on the ground, using your kinetic energy to levitate a mass of earth equal to your bending capacity (shown in the class table). In the same motion, you can push the rock at a target of your choice, dealing double your regular bending damage + 1d4 additional damage.
 
 #### Earthwave
 *Cost: 2 chi*  
@@ -391,11 +390,24 @@ Structures in this line take double damage.
 *Cost: 2 chi*  
 You raise a cloud of dust, causing the effects of the *Fog Cloud* spell. If you lose concentration, the cloud of dust settles.
 
+#### Earth Projectiles
+*Cost: 2 chi*  
+You create and launch 4 fist-sized rocks at any combination of targets within your long range (the second number in the "Range" column). These attacks are made without disadvantage. Each rock deals 1d4 bludgeoning damage.   
+
+You gain an additional rock for each extra chi you spend.
+
+---
+**Metal:** When using metal as the material for this form, each projectile deals 1d6 damage.
+
 #### Solidify Lava
 *Prerequisite: Lavabending specialization*  
 *Cost: 1 action*  
 You harden an amount of lava weighing up to your bending capacity into volcanic rock, willing it to cool instead of waiting for this to happen naturally. The resulting volcanic rock can be earthbent like any other earth.  
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 2 | CLASSES</div>
+
+\page
 #### Melting Earth
 *Prerequisite: Lavabending specialization*  
 *Cost: 1 action*  
@@ -405,22 +417,9 @@ You melt an unoccupied 5 foot-square area of the ground within your range into l
 *Cost: 3 chi*  
 You turn a square area of the ground up to half your normal bending range on each side into quicksand for up to 1 minute. The entire area must be within your normal range. It is considered difficult terrain for the duration.  
 
-<div class='pageNumber auto'></div>
-<div class='footnote'>PART 2 | CLASSES</div>
-
-\page
 When this change occurs, each creature standing in the area must succeed on a Dexterity saving throw or be Restrained. A creature that enters the area or ends its turn there must also succeed on a Dexterity saving throw or become Restrained.
 
 To attempt to break free, a creature must spend its Action to make an Athletics check against your bending DC. On a success, it moves 5 feet in a direction of its choice. If it moves out of the affected area, it stops being Restrained.
-
-#### Collapse
-*Cost: X chi*  
-[Collapsing a portion of tunnel or ceiling of a certain area, dealing 4d10 damage (collapsing tunnel damage according to DMG pg. 249)]
-
-#### Earth Column
-
-#### Earth Projectiles
-**Metal:** When using metal as the material for this form, ...
 
 #### Rock cuffs
 *Cost: 3 chi (1 chi)*  
@@ -430,7 +429,16 @@ By spending 1 additional chi, you can cause the cuffs to crush the restrained ta
 
 To break out, the restrained target can use its action to make a Strength check against your bending DC. On a success, the target escapes and is no longer restrained by the hand.
 
+***
 **Metal:** When using metal as the material for this form, the DC increases by 2.
+
+#### Collapse
+*Cost: 4 chi*  
+You collapse a 30-foot square portion of tunnel or ceiling within range. Any creatures in the area must make a Dexterity saving throw. On a failure, they take 4d10 damage, and half on a success.
+<!--(collapsing tunnel damage according to DMG pg. 249)-->
+
+#### Earth Column
+*Cost: X chi*  
 
 #### Rock slide
 #### Fissure
