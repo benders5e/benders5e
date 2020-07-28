@@ -259,7 +259,7 @@ At 17th level, ...
 
 #### Swipe
 *Cost: 1 chi*   
-You prepare to defuse the next ranged attack that hits you (not one that is the result of a bending specialization). When you do so, the damage you take from the attack is reduced by 1d10 + your Dexterity modifier + your airbender level.
+When you take this form, gain the ability to use your reaction to defuse ranged attacks that are not the result of a bending specialization. When you do so, the damage you take from the attack is reduced by 1d10 + your Dexterity modifier + your airbender level, and you spend 1 chi of your next Attack action.
 
 If you reduce the damage to 0, you can completely defuse the attack, provided you have at least one hand free or are holding your glider.
 
@@ -271,9 +271,9 @@ You spend 1 chi to take the Dodge or Disengage action as a bonus action on this 
 *Cost: 1 chi*  
 You spend 1 chi to take the Dash action as a bonus action on this turn.
 
-#### Shunt (rename this)
+<!--#### Shunt (rename this)
 *Cost: 1 chi*  
-This turn, you can use your Be The Leaf reaction to shunt another creature out of the way of an impending attack, giving them the benefits of that ability.
+This turn, you can use your Be The Leaf reaction to shunt another creature out of the way of an impending attack, giving them the benefits of that ability.-->
 
 #### Air scooter
 *Cost: 1 chi*  
@@ -281,13 +281,19 @@ You form a ball our of air which you can ride up walls and vertical surfaces, bu
 
 #### Air ball
 *Cost: 2 chi*  
-You surround a creature (medium or smaller) or object with a compressed ball of air. You can move this ball with a speed equal to your own feet, including raising it up into the air. A creature in the ball is restrained.  
+Choose a creature or object (medium or smaller) within your normal bending range. The target must make a Dexterity saving throw against your bending DC (objects automatically fail). On a failure, the creature or object is surrounded by a compressed ball of air. 
+
+You can move this ball with a speed equal to your own, including raising it up into the air. A creature in the ball is Restrained.  
 
 You can also use this technique to create a smaller ball (up to 5 feet in diameter) which can be thrown or tossed around, in the same way as a regular ball, while you maintain concentration.
 
+With each additional chi you spend, the size of the creature you can trap increases by one category.
+
 #### Blast
 *Cost: 2 chi*  
-When you use this form, you send a pressurized blast of air at a creature within range. Make an attack. On a hit, you deal an amount of damage equal to twice your bending die. You also roll an airbending check (using your waterbending modifier) opposed by the target's Strength (Athletics) or Dexterity (Acrobatics). If the target fails, you can choose what distance it is pushed away from you (up to 15 feet).
+When you use this form, you send a pressurized blast of air at a creature within range. On a hit, you deal an amount of damage equal to twice your bending die. 
+
+You also roll an airbending check (using your waterbending modifier) opposed by the target's Strength (Athletics) or Dexterity (Acrobatics). If the target fails, you can choose what distance it is pushed away from you (up to 15 feet).
 
 Just like your regular bending attack, this form clears any clouds not caused by spirit magic.
 
@@ -295,7 +301,7 @@ Just like your regular bending attack, this form clears any clouds not caused by
 </div-->
 #### Wake
 *Cost: 2 chi*  
-You use your airbending to augment momentum of a moving object. Until the beginning of your next turn, a moving object of your choice gets a +10 bonus to speed. If the object is a projectile, it deals additional damage equal to your bending die.  
+You use your airbending to augment the momentum of a moving object. Until the beginning of your next turn, a moving object of your choice gets a +10 bonus to speed. If the object is a projectile, it deals additional damage equal to your bending die.  
 
 #### Funnel
 *Cost: 2 chi*  
@@ -304,7 +310,7 @@ You create a small funnel out of air of up to 1 foot in diameter. The funnel is 
 
 #### Air bomb
 *Cost: 3 chi*  
-When you hit the ground after a jump or after flying, you can spend three chi to create a powerful, outward-moving air current in all directions around you. This current dispels any non-spiritual clouds of fog, dust, or other physical cloud effects.
+You slam your hands or staff to the ground, creating a powerful, outward-moving air current that moves outward in a circle. This current dispels any non-spiritual clouds of fog, dust, or other physical cloud effects.
 
 Targets in your bending radius must make a Dexterity saving throw. On a failure, they take take 2d6 force damage and are stunned until the beginning of their next turn. On a success, they take half damage. 
 
@@ -312,7 +318,7 @@ The damage increases by 1d6 with each additional chi spent.
 
 #### Gust
 *Cost: 3 chi*  
-You create violent gusts of air that reach out in a circle centered on you with radius equal to your normal bending range. Each creature in the area must make a Dexterity saving throw or be knocked prone (the DC is 8 + proficiency modifier + your airbending modifier) and any non-spiritual clouds are dispelled. 
+You create violent gusts of air in a circle centered on you with radius equal to your normal bending range. Each creature in the area must make a Dexterity saving throw or be knocked prone (the DC is 8 + proficiency modifier + your airbending modifier) and any non-spiritual clouds are dispelled. 
 
 Non-airbenders in the area, regardless of whether they succeeded on the saving throw or not, have disadvantage of Dexterity saving throws until the start of your next turn, at which point the gust ends.
 
