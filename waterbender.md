@@ -60,17 +60,19 @@ When you take a basic bending attack, you spend 1 point of chi and deal 1d6 blud
 At 1st level, you must choose which of your modifiers to use for attacks: Intelligence or Dexterity. This cannot be changed later.  
 
 
-**Attack Bonus** = proficiency + [Int OR Dex modifier]   
+**Attack Bonus** = [Int OR Dex modifier] + proficiency bonus
 
 
 **Damage Bonus** = [Int OR Dex modifier]  
 
-The attack bonus is hereafter referred to as your waterbending modifier.
+
+**Bending DC** = 8 + [Int OR Dex mod] + proficiency bonus
+
+The attack bonus is hereafter referred to as your waterbending modifier. Unless otherwise specified, anytime a target is required to make a saving throw, it makes it against your bending DC.
 
 ### Redirection
 Starting at 2nd level, you can use your reaction to attempt to redirect a ranged attack that hits you. This ability applies to
 - basic ranged waterbending attacks (not ones that are the result of a bending form nor specialized bending such as an advanced waterbending ability)
-- basic ranged earthbending attacks, as long as the volume of earth used in the attack is smaller than the volume of water you use to redirect it
 
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 2 | CLASSES</div>
@@ -82,7 +84,7 @@ Starting at 2nd level, you can use your reaction to attempt to redirect a ranged
 |Level| Proficiency Bonus | Bending | Volume (sphere diameter) | Range | Forms Known | Chi per Attack | Features |
 |:---:|:-----------------:|:-------:|:------:|:-----:|:-:|:-----:|:---------|
 | 1st | +2 | 1d6     | 5 ft.  | 30/60 | – | 1     |Waterbending, Bending Attack|
-| 2nd | +2 | 1d6     | 5 ft.  | 30/60 | – | 1     |Stance, Redirection|
+| 2nd | +2 | 1d6     | 5 ft.  | 30/60 | – | 1     |Redirection, Stance|
 | 3rd | +2 | 1d6     | 5 ft.  | 30/60 | 2 | 2     |Waterbending Forms|
 | 4th | +2 | 1d6     | 10 ft. | 30/60 | 2 | 2     |Ability Score Improvement, Water in All Its States|
 | 5th | +3 | 1d8     | 10 ft. | 60/120| 3 | 2     |Waterbending specialization|
@@ -95,7 +97,7 @@ Starting at 2nd level, you can use your reaction to attempt to redirect a ranged
 |12th | +4 | 1d10    | 15 ft. |100/200| 6 | 4     |Ability Score Improvement|
 |13th | +5 | 1d10    | 15 ft. |100/200| 7 | 4     |?|
 |14th | +5 | 1d10    | 15 ft. |150/300| 7 | 4     |?|
-|15th | +5 | 1d10    | 20 ft. |150/300| 8 | 5     |Water Spout|
+|15th | +5 | 1d10    | 20 ft. |150/300| 8 | 5     |?|
 |16th | +5 | 1d10    | 20 ft. |150/300| 8 | 5     |Ability Score Improvement|
 |17th | +6 | 1d12    | 20 ft. |150/300| 9 | 5     |Specialization feature|
 |18th | +6 | 1d12    | 20 ft. |200/400| 9 | 5     |–|
@@ -103,6 +105,8 @@ Starting at 2nd level, you can use your reaction to attempt to redirect a ranged
 |20th | +6 | 1d12    | 20 ft. |200/400| 10| 6     |?|
 </div>
 
+
+- basic ranged earthbending attacks, as long as the volume of earth used in the attack is smaller than the volume of water you use to redirect it
 - non-bending ranged attacks
 
 You must have at least one hand free to use this ability. When you do so, the damage you take from the attack is reduced by 1d10 + your waterbending modifier + your waterbender level. If you reduce the damage to 0 and have at least one hand free, you redirect the element to make a ranged attack against a creature of your choice as part of the same reaction.  
@@ -112,6 +116,8 @@ You can use this ability a number of times equal to your bending modifier per lo
 ### Stance
 Beginning at 2nd level, you adopt a particular stance as your specialty. Choose one of the following options:
 
+<div style="height:4em;">
+</div>
 #### Water Ring
 In combat, you surround yourself with a ring of water which you can use as your source of bending. While surrounded by this ring, once per turn you can reduce the cost of a bending form by one chi. 
 
@@ -125,9 +131,6 @@ You coat your arms in water, increasing your reach by 5 feet. When you take an o
 With these tendrils, you also gain the ability to use your Redirection ability on non-bending melee attacks.    
 
 You must spend one chi on one of your turns to collect water around your arms and gain these benefits.
-
-<!--div style="height:2em;">
-</div-->  
 
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 2 | CLASSES</div>
@@ -158,6 +161,8 @@ At 4th level, you can manipulate water more nimbly, allowing you to change its s
 
 Additionally, you can bend even water you cannot see, such as an underground reservoir (provided it is within range).
 
+<div style="height:4em;">
+</div>
 ### Waterbending specialization
 At 5th level, you specialize in one of the following types of waterbending: advanced waterbending, healing, blood-bending, or swampbending. Your abilities are described in the specialization section at the end of this class description.
 
@@ -195,7 +200,7 @@ Beginning at 15th level, ... [movement or reaction upgrade]
 <!-- "making it easier for the user to dodge attacks" -->
 <!-- Limit height based on amount of water -->
 
-### ???
+### ?
 At 20th level, ... (something consistent with "element of change"?)
 
 <div class='pageNumber auto'></div>
@@ -314,7 +319,6 @@ You can also choose to use this ability to gain the benefits of the spell *Commu
 </div>
 ## Waterbending Forms
 <!--(Even mix of defense and offense)-->
-For forms which require a target to make a saving throw, your DC is 8 + your proficiency modifier + your waterbending modifier.
 
 You start out knowing forms marked with an asterisk.
 

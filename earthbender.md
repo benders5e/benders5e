@@ -72,8 +72,6 @@ The HP and AC of any structure you form with your bending can be determined by r
 ### Bending Attack
 During combat, you can channel your chi to use your bending as a rudimentary attack by hitting other creatures. Every time you take the Attack action, you draw on your inner pool of energy, or *chi*. The class table shows how much chi you have available every time you take the Attack action ("Chi per Attack"). This amount resets every round. As your bending grows more powerful and your connection to your inner chi grows, this number increases.  
 
-When you take a basic bending attack, you spend 1 point of chi and deal 1d6 bludgeoning damage. This damage increases with your earthbender level and is shown in the "Bending" column of the Earthbender Table. The range of your attacks is the same as your bending range ("Range" column).   
-
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 2 | CLASSES</div>
 \page
@@ -83,14 +81,14 @@ When you take a basic bending attack, you spend 1 point of chi and deal 1d6 blud
 |Level| Proficiency Bonus | Bending | Capacity | Range | Forms Known | Chi per Attack | Features |
 |:---:|:--:|:-----:|:----:|:-----:|:--:|:--:|:---------------------------------------|
 | 1st | +2 | 1d6   | 1  | 30/60 | –  | 1 | Earthbending, Bending Attack
-| 2nd | +2 | 1d6   | 1  | 30/60 | –  | 1 | Stance, Earthwall
+| 2nd | +2 | 1d6   | 1  | 30/60 | –  | 1 | Earthwall, Stance
 | 3rd | +2 | 1d6   | 1  | 30/60 | 2  | 2 | Earthbending Forms
 | 4th | +2 | 1d6   | 2  | 30/60 | 2  | 2 | Ability Score Improvement, Burrow
 | 5th | +3 | 1d8   | 2  | 60/120| 3  | 2 | Earthbending specialization
 | 6th | +3 | 1d8   | 2  | 60/120| 3  | 2 | Rolling Earth, Expansion and Compaction
 | 7th | +3 | 1d8   | 2  | 60/120| 4  | 3 | Specialization feature
 | 8th | +3 | 1d8   | 4  | 60/120| 4  | 3 | Ability Score Improvement
-| 9th | +4 | 1d8   | 4  | 60/120| 5  | 3 | Earth Reflex
+| 9th | +4 | 1d8   | 4  | 60/120| 5  | 3 | Chi-Empowered Reflex
 |10th | +4 | 1d8   | 4  |100/200| 5  | 3 | Earth Elevator
 |11th | +4 | 1d10  | 4  |100/200| 6  | 4 | Specialization feature
 |12th | +4 | 1d10  | 4  |100/200| 6  | 4 | Ability Score Improvement
@@ -104,16 +102,25 @@ When you take a basic bending attack, you spend 1 point of chi and deal 1d6 blud
 |20th | +6 | 1d12  | 8  |200/400| 10 | 6 | Substance
 </div>
 
+When you take a basic bending attack, you spend 1 point of chi and deal 1d6 bludgeoning damage. This damage increases with your earthbender level and is shown in the "Bending" column of the Earthbender Table. The range of your attacks is the same as your bending range ("Range" column).
+
 
 At 1st level, you must choose which of your modifiers to use for attacks: Charisma or Strength. This cannot be changed later.
 
-**Attack Bonus** = proficiency + [Cha OR Str modifier]  
+**Attack Bonus** = [Cha OR Str modifier] + proficiency
 
 
 **Damage Bonus** = [Cha OR Str modifier]  
 
-The attack bonus is hereafter referred to as your earthbending modifier.
 
+**Bending DC** = 8 + [Cha OR Str modifier] + proficiency
+
+The attack bonus is hereafter referred to as your earthbending modifier. Unless otherwise specified, anytime a target is required to make a saving throw, it makes it against your bending DC.
+
+As an earthbender, rocks that are not worn, equipped, or carried have 0 AC for the purposes of your attacks.
+
+<div style="height:5em;">
+</div>
 ### Earthwall
 Starting at 2nd level, you can use your reaction to create a wall 10 feet long, 5 feet high, and 1/2 foot thick in front of you to defend against an incoming attack. You can use this ability after the attack roll, but before the outcome is determined.  
 
@@ -123,10 +130,14 @@ The wall stays in place unless it is earthbent away or destroyed by other means.
 You can use this ability a number of times equal to your bending modifier per long rest.
 
 
-<div style="height:0em;">
-</div>
+<!--div style="height:0em;">
+</div-->
 ### Stance
 Beginning at 2nd level, you adopt a particular stance as your specialty. Choose one of the following options:
+
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 2 | CLASSES</div>
+\page
 
 #### Praying Mantis
 This style is known for its speed and continuous attacks and was famously used by Toph Beifong. When you roll a 19 or a 20 on an attack roll, you can spend your bonus action to make an additional basic bending attack. Your speed also increases by 5.
@@ -137,9 +148,6 @@ You favor a deep, low stance rooted in the earth beneath you. You gain advantage
 
 If another creature uses an ability that pushes you away from them, you always roll a Strength (Athletics) Saving Throw. On a failure, you are moved half the distance, and on a success, you stay where you are.
 
-<div class='pageNumber auto'></div>
-<div class='footnote'>PART 2 | CLASSES</div>
-\page
 #### Sticky Hands
 You are well-versed in the art of neutral *jing*, waiting and listening to predict your opponents' next moves. You gain a +2 to AC.
 
@@ -164,11 +172,11 @@ You have 4 exhaustion points at your disposal. (Use a d4 to keep track.) The d4 
 
 For example, say the counter is set at 2. That turn, you spend all your chi points attacking and turn the counter to 1. The next turn, you have 0 chi to spend, and you can either use your Attack action to make a melee, non-bending attack or forfeit it. The next turn, your counter is back up to 2. If you spend all your chi once again, it decreases back to 1 again, but if you spend anything less than the maximum (e.g. all but one chi) the counter once again increases to 3.
 
+<!--div style="height: 4em;">
+</div-->
 #### Opposing another bender's form
 You can attempt to reverse the effects caused by another bender of your same element on your turn. This only applies to forms that do not require concentration, e.g. Quicksand. To do this, you use your Action to roll earthbending against the other bender's bending DC; they can choose to fail the save if they wish. On a success, the effect of the form ends.
 
-<div style="height: 6em;">
-</div>
 ### Ability Score Improvement
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
@@ -187,7 +195,12 @@ At 6th level, your control increases. You are now able to compact or expand eart
 
 You also learn to bend earth-based materials such as mud, coal, gems, crystals, meteorites, and jennamite ("creeping crystal").  
 
-### Earth Reflex
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 2 | CLASSES</div>
+
+\page
+
+### Chi-Empowered Reflex
 Starting at 9th level, you gain one of the following abilities of your choice:
 
 ##### Improved Earthwall
@@ -196,18 +209,10 @@ You can now choose to use your Earthwall as a reaction to an attack against a fr
 ##### Imbalance
 You learn to use your control over the earth to throw your opponents off-balance. Instead of raising an earthwall when an enemy attempts to make an attack against you, you can use your reaction to move the earth beneath their feet in an attempt to cause them to miss. 
 
-<div class='pageNumber auto'></div>
-<div class='footnote'>PART 2 | CLASSES</div>
-
-\page
-
 Your opponent must make a DC 15 Dexterity Saving Throw. On a success, they make their attack with disadvantage. On a failure, the attack misses. The opponent must be within your normal bending range.  
 
 ### Earth Elevator
-At 10th level, you can move masses of earth beneath your feet to defy gravity. You can move an area of earth centered on you that is 10 feet in diameter and is holding 1 Medium creature (including yourself). At higher levels, you can carry more people, the equivalent of half your level minus 10 Medium creatures, rounded up (i.e. at 13th level, you lift yourself and one other Medium creature).  
-
-
-This feature doesn't use any chi, but the distance moved counts against your regular movement.
+At 10th level, you can move masses of earth beneath your feet to defy gravity. You can move an area of earth centered on you that is 10 feet in diameter and is holding 1 Medium creature (including yourself) with a flying speed equal to your ground speed. At higher levels, you can carry more people, the equivalent of half your level minus 10 Medium creatures, rounded up (i.e. at 13th level, you lift yourself and one other Medium creature).  
 
 ### ?
 Beginning at 13th level, ... [Some improved ability or saving throws]
@@ -223,10 +228,8 @@ At 15th level, you can move across difficult earth terrain (not ice, for example
 ### Substance
 At 20th level, ...
 
-<div class='pageNumber auto'></div>
-<div class='footnote'>PART 2 | CLASSES</div>
-
-\page
+<div style="height: 14em;">
+</div>
 
 ## Earthbending specializations
 
@@ -271,13 +274,18 @@ At 7th level, you learn to bend metal without touching it. You can bend metal as
 Beginning at 11th level, your deep relationship with metal grants you proficiency with smith's tools.
 <!-- this is a cool reference: https://dumpstatadventures.com/the-gm-is-always-right/making-tools-useful-in-5e-smiths-tools -->
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 2 | CLASSES</div>
+
+\page
+
+<!--div style="height: 1em;">
+</div-->
 #### Metalbending Forms
 At 17th level, you learn one additional form of your choice from the following list:
 
 ##### Metal Encasing
 
-<div style="height: 3em;">
-</div>
 ### Lavabending
 
 #### Volcanic Rock
@@ -302,11 +310,10 @@ At 17th level, you learn an additional form of your choice from the following li
 
 ##### Flaming Shuriken
 *Cost: 3 chi (+1 chi)*  
-You flatten a fist-sized rock, heating it in the process to create a red-hot throwing star. While you maintain concentration, you can control its flight, launching it in a 30-foot line in a direction of your choice by spending 1 chi. The attack uses your bending modifier. Targets in the line must make a Dexterity saving throw against your bending DC. On a failure, they take 2d6 slashing damage + 2d6 fire damage. On a success, the damage is halved.  
+You flatten a fist-sized rock, heating it in the process to create a red-hot throwing star. While you maintain concentration, you can control its flight, launching it in a 30-foot line in a direction of your choice by spending 1 chi. The attack uses your bending modifier. 
 
-<div class='pageNumber auto'></div>
-<div class='footnote'>PART 2 | CLASSES</div>
-\page
+Targets in the line must make a Dexterity saving throw against your bending DC. On a failure, they take 2d6 slashing damage + 2d6 fire damage. On a success, the damage is halved.  
+
 The shuriken is able to cut through stone and metal instantaneously. If it leaves your bending range, your concentration ends, and the rock cools and drops to the ground.
 
 ##### ?
@@ -319,8 +326,6 @@ The shuriken is able to cut through stone and metal instantaneously. If it leave
 
 ## Earthbending Forms
 <!--Mostly defense stuff-->
-For forms which require a target to make a saving throw, your DC is 8 + your proficiency modifier + your earthbending modifier.  
-
 <!--You start out knowing forms marked with an asterisk.-->
 
 <!--#### Shelter
@@ -355,8 +360,8 @@ You can also use it to attempt to grab and pull a target. The target must succee
 *Cost: 1 chi*  
 You shape earth into boots around your feet. The boots give you advantage against being knocked prone or shoved but reduce your speed to 0. They last for 1 minute, but you can dismiss them early as a free action.
 
-<!--div style="height:1em;">
-</div-->
+<div style="height:4em;">
+</div>
 #### Earth Launch
 *Cost: 1 chi*  
 You use the earth beneath you to launch yourself and/or other creatures in a 10-foot-square in range into the air, traveling up to 20 feet vertically and 50 feet horizontally. (The maximum number of creatures you can launch is equal to half your earthbending level.)   
@@ -367,8 +372,8 @@ This jump lasts the duration of your turn; you end the turn back on the ground.
 
 You gain 10 additional feet of height and 20 feet of horizontal distance per additional chi expended.
 
-<div style="height:6em;">
-</div>
+<!--div style="height:6em;">
+</div-->
 #### Earth Smash
 *Cost: 2 chi*  
 When you take this form, gain the ability to use your reaction to defuse ranged attacks, neutralizing the incoming projectiles by either countering them with earth projectiles of your own or, in the case of a ranged earth attack, smashing them with your own bending. When you use this reaction, you spend 2 chi of your next Attack action. 

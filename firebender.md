@@ -48,12 +48,15 @@ When you take a basic bending attack, you spend 1 point of chi and deal 1d6 fire
 As a firebender, Charisma is your primary attack ability:  
 
 
-**Attack Bonus** = proficiency + Cha modifier   
+**Attack Bonus** = Cha modifier + proficiency bonus
 
 
 **Damage Bonus** = Cha modifier  
 
-The attack bonus is hereafter referred to as your firebending modifier.
+
+**Bending DC** = 8 + Cha modifier + proficiency bonus
+
+The attack bonus is hereafter referred to as your firebending modifier. Unless otherwise specified, anytime a target is required to make a saving throw, it makes it against your bending DC.
 
 #### Bonus Attack
 Firebenders are fierce fighters. Anytime you use your action to make a firebending attack (basic or with a form), you may use your bonus action to make a basic firebending attack. You do not add your damage bonus to this attack.
@@ -61,29 +64,21 @@ Firebenders are fierce fighters. Anytime you use your action to make a firebendi
 ### Defusion
 Starting at 2nd level, you can use your reaction to defuse an attack when you are hit by a ranged non-bending attack or a basic ranged bending attack (not one that is the result of a form or specialized bending). When you do so, the damage you take from the attack is reduced by half. Any fire damage is reduced to 0.  
 
+
 You can use this ability a number of times equal to your bending modifier per long rest.  
 
 ### Stance
 Beginning at 2nd level, you adopt a particular stance as your specialty. Choose one of the following options:
 
 #### Dancing Dragon
-You practice a defensive and circular type of bending, gaining a +2 to AC.
+You practice a defensive and circular type of bending, gaining a +2 to AC. 
 
-#### Agni Kai
-You are skilled at duels and excel at focusing your power on one opponent. If you attack the same target as your previous attack, you gain a +2 to your attack roll.
-
-#### Chaquan
-You are an expert in acrobatics and agile, graceful movements. You gain +5 to your speed and proficiency in Acrobatics. If you already have proficiency, you gain expertise.
-
-<!--#### Shaolin
-You are used to fighting in close ranges, utilizing strong kicks and quick punches
-Aspects of the firebending combat style can be seen through a similar emphasis on highly technical kicking strikes, fundamentally strong movements, and the usage of swift, direct maneuvers. Northern Shaolin is an external style that uses long, aggressive techniques that explode and drive through the opponent.
-
-The Northern Shaolin style emphasizes "kicking over hand fighting", or prioritizing one's legwork as opposed to the arms. Kicks are meant to "extend as far as possible without compromising balance-->
+You also have the ability to redirect ranged firebending attacks instead of defusing them. Provided you have a free hand or foot, you are able to reduce the damage you take from the attack by 1d10 + your firebending modifier + your firebender level. If you reduce the damage to 0, you redirect the element to make a ranged attack against a creature of your choice as part of the same reaction. This counts as one of your defusion uses.  
 
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 2 | CLASSES</div>
 \page
+
 <div class='classTable wide'>
 ##### The Firebender
   
@@ -92,7 +87,7 @@ The Northern Shaolin style emphasizes "kicking over hand fighting", or prioritiz
 | 1st | +2 | 1d6   | 30/60 | – | 1 | Firebending, Fire Jab
 | 2nd | +2 | 1d6   | 30/60 | – | 1 | Defusion, Stance
 | 3rd | +2 | 1d6   | 30/60 | 2 | 2 | Firebending Forms 
-| 4th | +2 | 1d6   | 30/60 | 2 | 2 | Ability Score Improvement, Fire Kick
+| 4th | +2 | 1d6   | 30/60 | 2 | 2 | Ability Score Improvement, Inner Flame
 | 5th | +3 | 1d8   | 60/120| 3 | 2 | Firebending specialization
 | 6th | +3 | 1d8   | 60/120| 3 | 2 | Firestep, Fierce Fighter
 | 7th | +3 | 1d8   | 60/120| 4 | 3 | Specialization feature
@@ -110,6 +105,18 @@ The Northern Shaolin style emphasizes "kicking over hand fighting", or prioritiz
 |19th | +6 | 1d12  |200/400| 10| 6 | Ability Score Improvement
 |20th | +6 | 1d12  |200/400| 10| 6 | Element of Power
 </div> 
+
+#### Agni Kai
+You are skilled at duels and excel at focusing your power on one opponent. If you attack the same target as your previous attack, you gain a +2 to your attack roll.
+
+<!--#### Shaolin
+You are used to fighting in close ranges, utilizing strong kicks and quick punches
+Aspects of the firebending combat style can be seen through a similar emphasis on highly technical kicking strikes, fundamentally strong movements, and the usage of swift, direct maneuvers. Northern Shaolin is an external style that uses long, aggressive techniques that explode and drive through the opponent.
+
+The Northern Shaolin style emphasizes "kicking over hand fighting", or prioritizing one's legwork as opposed to the arms. Kicks are meant to "extend as far as possible without compromising balance-->
+
+#### Chaquan
+You are an expert in acrobatics and agile, graceful movements. You gain +5 to your speed and proficiency in Acrobatics. If you already have proficiency, you gain expertise.
 
 #### Seven Stars
 You favor a style that utilizes momentary bursts of extreme power at the expense of your defense. At the beginning of your turn, you can choose to decrease your AC for the next turn by 2 to add +2 to the damage dealt by all your attacks that hit.  
@@ -164,11 +171,11 @@ You also gain resistance to cold damage.
 
 <!--div style="height: 6em;">
 </div-->
-### ???
+### ?
 Beginning at 13th level, ... [Some improved ability or saving throws]
 
-### ???
-At 14th level, ... [some flavor-type thing]
+### ?
+At 14th level, ... [some flavor-type thing; charged attacks?]
 
 <!--div style="height: 4em;">
 </div-->
@@ -296,10 +303,10 @@ At 11th level, you learn an additional form of your choice from the following li
 
 ##### Charged Attack
 
-##### Breath of Fire
-(stealthy)
+##### Firebreathing
+(stealthy, cone AOE)
 
-#### ???
+#### ?
 At 17th level, ...
 
 <!--div style="height:16em;">

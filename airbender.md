@@ -33,8 +33,8 @@ You start with the following equipment, in addition to the equipment granted by 
 ### Unarmored Defense
 Beginning at 1st level, while you are wearing no armor and not wielding a shield, your AC equals 10 + your Wisdom and Dexterity modifiers.
 
-<!--div style="height: 10em;">
-</div-->
+<div style="height: 10em;">
+</div>
 ### Airbending
 At 1st level, you realize that you have an innate ability to manipulate the air around you. You can spend 1 chi of your Attack action to cause the effects of the *Gust* cantrip. (See "Air Punch" for a description of the role chi points play in attacks and the rules for bending attacks.) Your range increases with your level according to the "Range" column of the Airbender table.  
 
@@ -51,10 +51,13 @@ The damage caused by your attack increases with your airbender level and is show
 
 As an airbender, Wisdom is your primary attack ability:
 
-**Attack Bonus** = proficiency + Wis modifier   
+**Attack Bonus** = Wis modifier + proficiency bonus
 
 
 **Damage Bonus** = Wis modifier
+
+
+**Bending DC** = 8 + Wis modifier + proficiency bonus
 
 The attack bonus is hereafter referred to as your airbending modifier.
 
@@ -67,10 +70,7 @@ Airbenders, particularly air nomads, are the most peaceful benders, typically do
 Xingyiquan ("mind heart boxing")
 -->
 ### Be the Leaf
-At 2nd level, you become tuned in to the air around you. You learn to move like a leaf in the wind, allowing you to evade attacks more easily. You can choose to impose disadvantage on an attack against you as a reaction after the attack roll is made, but before the outcome is determined. You can use this ability a number of times equal to your bending modifier per long rest.  
-
-### Unarmored Movement
-Starting at 2nd level, your speed increases by 10 feet while you are not wearing armor or wielding a shield. This bonus increases when you reach certain levels, as shown in the class table.  
+At 2nd level, you become tuned in to the air around you. You learn to move like a leaf in the wind, allowing you to evade attacks more easily. You can choose to impose disadvantage on an attack against you as a reaction after the attack roll is made, but before the outcome is determined. You can use this ability a number of times equal to your bending modifier per long rest.   
 
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 2 | CLASSES</div>
@@ -103,6 +103,9 @@ Starting at 2nd level, your speed increases by 10 feet while you are not wearing
 |20th | +5 | +30 ft.  | 1d10 |200/400| 10| 6 | Detachment
 </div>
 
+### Unarmored Movement
+Starting at 2nd level, your speed increases by 10 feet while you are not wearing armor or wielding a shield. This bonus increases when you reach certain levels, as shown in the class table. 
+
 You also learn to use your bending to steer your glider. Your flying speed is equal to your ground speed. See the Glider description (in the "Equipment" section) for more details about using your glider. 
 
 ### Airbending Forms
@@ -119,11 +122,11 @@ You can use each form a maximum of once per turn.
 #### Chi Exhaustion
 Channeling chi into attacks is a physically and mentally draining endeavor.   
 
-You have 4 exhaustion points at your disposal. (Use a d4 to keep track.) The d4 starts with the "4" pointing up. Every turn you use all of your chi, you decrement this counter. When the counter indicates a "1", you need to take a break from bending and cannot spend any chi or take bending reactions that turn. Any bending concentration is also broken. Every turn that you do *not* use all your chi, the counter increments by 1. This counter resets every long rest.  
-
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 2 | CLASSES</div>
 \page
+
+You have 4 exhaustion points at your disposal. (Use a d4 to keep track.) The d4 starts with the "4" pointing up. Every turn you use all of your chi, you decrement this counter. When the counter indicates a "1", you need to take a break from bending and cannot spend any chi or take bending reactions that turn. Any bending concentration is also broken. Every turn that you do *not* use all your chi, the counter increments by 1. This counter resets every long rest.  
 
 For example, say the counter is set at 2. That turn, you spend all your chi points attacking and turn the counter to 1. The next turn, you have 0 chi to spend, and you can either use your Attack action to make a melee, non-bending attack or forfeit it. The next turn, your counter is back up to 2. If you spend all your chi once again, it decreases back to 1 again, but if you spend anything less than the maximum (e.g. all but one chi) the counter once again increases to 3.
 
@@ -155,6 +158,7 @@ You are also able to hold your breath for an unusual amount of time; instead of 
 
 ### Diamond Soul (but renamed)
 Beginning at 13th level, your mastery of chi grants you proficiency in all saving throws.  
+
 
 Additionally, once per long rest, whenever you make a saving throw and fail, you can choose to succeed instead.
 
@@ -214,7 +218,7 @@ The spell ends only when you, in your spiritual form, return to your material bo
 #### Wind Whisper
 At 7th level, you learn to communicate with creatures you are familiar with even when they are far from you through your spiritual connection. Once per long rest, you may communicate with such a creature as outlined in the spell *Sending*.
 
-#### ???
+#### ?
 At 11th level, ...
 
 #### Spiritual Projection
