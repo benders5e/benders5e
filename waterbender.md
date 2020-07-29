@@ -438,7 +438,7 @@ You reshape water around you while submerged to maintain a supply of breathable 
 
 #### Water Dome
 *Cost: 3 chi*  
-TODO (Lasts 24 hours unless you dismiss it.)
+You create a protective dome (half-sphere) of water around you. Its radius is equal to your normal bending range. The dome lasts 24 hours unless you dismiss it as a free action.
 
 
 #### Octopus
@@ -447,18 +447,20 @@ You create 4 water tendrils (see the *Water Tendril* form for actions the tendri
 
 #### Wave
 *Cost: 4 chi*  
+todo
 
 #### Razor Rings
 *Cost: 4 chi*  
-
-#### Ice Storm
-*Cost: 5 chi*  
-You cause the effects of the *Ice Storm* spell.
+todo
 
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 2 | CLASSES</div>
 
 \page
+
+#### Ice Storm
+*Cost: 5 chi*  
+You cause the effects of the *Ice Storm* spell.
 
 ### Advanced Forms
 Only Waterbenders of the Advanced Waterbending specialization have access to these forms.

@@ -214,7 +214,10 @@ At 7th level, when using a form, you are able to control your bending to protect
 
 #### Heat Control
 At 11th level, you learn to control not only fire, but any heat housed by matter. By touching an object, you can siphon off heat by spending an amount of time that depends on the material (some examples are shown in the table below). You must have one hand on the material and one hand free.  
+
 You can also have the opposite effect: if you have hands or nose or mouth free, you can heat up materials in the vicinity with an action, causing them to reach a temperature equal to the result of being exposed to a hot flame for half an hour. (You cannot use this ability to, for exmaple, heat rock into lava.)
+
+This ability gives you resistance to cold damage.
 
 ##### Cooling Time
 | Material | Minutes              |
@@ -284,7 +287,7 @@ At 17th level, you learn to bend the energy within people's bodies to a limited 
 
 <!--At 20th level, you gain energybending. It is a highly dangerous technique; if one's own energy is impure and therefore bendable, the practitioner will be consequently destroyed. Energybending allows the user to remove other people's bending abilities; restore them after a bender had their abilities blocked by bloodbending; and use the art to create a spiritual projection.
 
-(Needs more description of mechanics; high stakes if you fail a wisdom saving throw or something.)-->
+(Needs more description of mechanics; high stakes if you fail a wisdom saving throw or something.) This could be 20th level for the chi blocker.-->
 
 ### Combustionbending
 <!--You can blow stuff up with your mind!  
@@ -403,9 +406,13 @@ You cause the ambient temperature to raise to an uncomfortable level within your
 - 1 level of exhaustion (to maximum of level 3)
 - Loss of 1 chi exhaustion point
 
-#### Fire Missiles
-#### Fire Pinwheel
+<!-- #### Fire Missiles
+*Cost: 5 chi*  
+Fire streams that follow the target. [I don't think they make sense for D&D attacks though.] -->
+
 <!--#### Fire Comet
+#### Fire Pinwheel
+Not sure what these are
 -->
 
 <div class='pageNumber auto'></div>

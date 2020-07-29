@@ -69,6 +69,8 @@ The HP and AC of any structure you form with your bending can be determined by r
 | Rock (igneous)    | ~180 lbs             | 17 |
 </div>
 
+As an earthbender, when your hands and feet are covered in rock, you gain a climbing speed equal to your ground speed.
+
 ### Bending Attack
 During combat, you can channel your chi to use your bending as a rudimentary attack by hitting other creatures. Every time you take the Attack action, you draw on your inner pool of energy, or *chi*. The class table shows how much chi you have available every time you take the Attack action ("Chi per Attack"). This amount resets every round. As your bending grows more powerful and your connection to your inner chi grows, this number increases.  
 
@@ -243,16 +245,21 @@ Additionally, you gain advantage on Insight checks when your target is in normal
 #### Earth Dive
 Beginning at 7th level, you can dive into and out of earth as though it were liquid. Your "swim" speed equals your walking speed. While underground, you must hold your breath and use your arms for mobility, so you cannot earthbend.
 
+<!-- Also Redirection? Can say both are learned by observing waterbenders and mastering neutral jing -->
+
 #### Advanced Form
 At 11th level, you learn an additional form of your choice from the following list:  
 
 ##### Magnetization
 ##### Dust Stepping
+
 ##### Earth Sinking
+Cause target to sink into the earth and be trapped there (Dex ST). For each additional chi, they sink lower, and can make Str checks to escape.
 
 #### Remote Earthbending?
-Beginning at 19th level, ...
+Beginning at 19th level, ... (requires concentration)
 <!-- TODO: Change the range to not be source, except for advanced earthbending-->
+<!-- #### Earth Block, i.e. blocking/neutralizing attacks as a reaction -->
 
 ### Metalbending
 *Prerequisite: Find a metalbending master.*
@@ -287,6 +294,7 @@ At 17th level, you learn one additional form of your choice from the following l
 ##### Metal Encasing
 
 ### Lavabending
+<!-- rationale: you cause the particles of rock to vibrate quickly, increasing their temperature -->
 
 #### Volcanic Rock
 Beginning when you choose this specialization at 5th level, you can harden lava into volcanic rock, willing it to cool instead of waiting for this to happen naturally. This ability takes an action and cools a mass of lava equal to your earthbending capacity. The resulting volcanic rock can be earthbent like any other earth.  
@@ -328,9 +336,10 @@ The shuriken is able to cut through stone and metal instantaneously. If it leave
 <!--Mostly defense stuff-->
 <!--You start out knowing forms marked with an asterisk.-->
 
-<!--#### Shelter
+#### Shelter
 *Cost: 1 chi*  
-You raise a rock tent around you as shelter. While inside, you have full cover and cannot attack. You can dismiss the shelter by spending another chi point.  -->
+You raise a rock tent around you as shelter. While inside, you have full cover and cannot attack. You can dismiss the shelter by spending another chi point.  
+<!-- This is utility only, pretty much -->
 
 #### Earthen Weapon
 *Cost: 1 chi*  
@@ -351,10 +360,13 @@ You continue to gain the benefits of the rock armor as long as you maintain conc
 
 #### Earth Glove
 *Cost: 1 chi*  
-You shape earth into a glove around your hand. By spending one additional chi, you can launch it at an opponent, dealing 1d6 bludgeoning damage.   
+You shape earth into a glove around your hand. By spending one additional chi, you can cause the glove to leave your hand and float to an area within your normal bending range. If you launch it at an opponent, it deals 1d6 bludgeoning damage.   
 
+You can control the glove's actions, including manipulating an object, opening an unlocked door or container, stowing or retrieve an item from an open container, or pouring the contents out of a vial. You can move the glove a distance less than or equal to your bending range each time you use it. It has your stats.
 
-You can also use it to attempt to grab and pull a target. The target must succeed on a Strength (Athletics) or Dexterity (Acrobatics) check contested by your Strength (Athletics) or be moved against its will.
+If you use the glove to attempt to grab and pull a target, the target must succeed on a Strength (Athletics) or Dexterity (Acrobatics) check contested by your Strength (Athletics) or be moved against its will.
+
+The glove crumbles to the ground if it is ever out of your normal earthbending range.
 
 #### Earth Boots
 *Cost: 1 chi*  
@@ -390,10 +402,6 @@ You cause the earth to buckle beneath you, forming a line 5 feet wide and as lon
 
 
 Structures in this line take double damage.
-
-#### Dust Cloud
-*Cost: 2 chi*  
-You raise a cloud of dust, causing the effects of the *Fog Cloud* spell. If you lose concentration, the cloud of dust settles.
 
 #### Earth Projectiles
 *Cost: 2 chi*  
@@ -437,19 +445,39 @@ To break out, the restrained target can use its action to make a Strength check 
 ***
 **Metal:** When using metal as the material for this form, the DC increases by 2.
 
+#### Dust Cloud
+*Cost: 4 chi*  
+You raise a cloud of dust, causing the effects of the *Fog Cloud* spell. If you lose concentration, the cloud of dust settles.
+
 #### Collapse
 *Cost: 4 chi*  
-You collapse a 30-foot square portion of tunnel or ceiling within range. Any creatures in the area must make a Dexterity saving throw. On a failure, they take 4d10 damage, and half on a success.
+You collapse a 30-foot square portion of a rock tunnel, ceiling, or wall within range. Any creatures in the area must make a Dexterity saving throw. On a failure, they take 4d10 damage, and half on a success.
 <!--(collapsing tunnel damage according to DMG pg. 249)-->
 
-#### Earth Column
+<!-- #### Earth Column
 *Cost: X chi*  
+this is mostly superceded by Earthwave and earth launch -->
+
+<div style="height:3em;">
+</div>
+#### Earth Mannequin
+*Cost: 1 chi*  
+You create a mannequin out of earth within range, which has the abilities of an _Unseen Servant_, but using your normal bendig range as the spell's range.
+
+#### Earth Shift
+(Maybe a feature/ability instead) You can move a creature of your choice 5 feet in a direction of your choice by shifting the ground beneath them.
 
 #### Rock slide
 #### Fissure
+You make an (imprecise) fissure – at higher levels, the precision increases. Creatures may fall (Dex ST); depth also depends on chi spent (or level). 
+<!-- Supercharged version of this is "tectonics", e.g. when Kyoshi created Kyoshi Island -->
+
+#### Earthquake
+*Cost: 5 chi*  
+You can cause a quake. Magnitude depends on level or chi spent.
+
 #### Water filtering
 (with waterbender)
-<!--#### Earth Block, Advanced: #### Earth bomb-->
 
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 2 | CLASSES</div>
