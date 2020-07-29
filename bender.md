@@ -125,7 +125,9 @@ When used by a waterbender for healing, it restores double the amount of HP gran
 ## Water pouch
 A water pouch holds the equivalent of a 1-foot-diameter sphere of water. It is typically worn on the waist and can be used for waterbending when no water source is within range.
 
+<div style="height:5em;"></div>
 ## Hooked Swords
+On a hit, you can make an opposed Dexterity check against the target's Strength. On a success, the target is disarmed and its weapon clatters to the ground in the nearest empty space (your choice if there are multiple options). If the target is wielding more than one weapon, only one of them falls to the ground.
 
 ## Guanmao Hat
 This large-brimmed hat is flat and shield-like, allowing the wearer to defuse various attacks by lowering their head. It confers +1 to AC.
@@ -271,7 +273,7 @@ You hail from the Si Wong Desert. Your time in this arid biome has forced you to
 Sand is not difficult terrain for you.
 
 #### Feature: Sandbending
-The following earthbending forms are available to you in addition to the forms listed in the Earthbender class description.  
+The following earthbending forms are available to you in addition to the forms listed in the Earthbender class description. In addition, when you reach 6th level, you learn to bend glass in addition to the other earth-based materials described in "Expansion and Compaction".
 
 ##### Earth to Sand
 *Cost: 1 chi*  
@@ -280,6 +282,11 @@ You turn a 30-foot square area of earth in your bending range into sand. This ar
 ##### Sand spout
 *Cost: X chi*  
 ...
+
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 5 | BACKGROUNDS</div>
+
+\page
 
 ##### Sandstorm
 *Cost: 4 chi*  
@@ -291,12 +298,8 @@ The sandstorm lasts until the start of your next turn.
 ...
 
 ## Firebender
-### ?
-
-<div class='pageNumber auto'></div>
-<div class='footnote'>PART 5 | BACKGROUNDS</div>
-
-\page
+### [Some Background]
+...
 
 ## Airbender
 ### Air Nomad
