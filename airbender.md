@@ -136,6 +136,8 @@ When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can 
 ### Air Cushion
 Beginning at 4th level, you can use your reaction when you fall to slow yourself with airbending, reducing any falling damage you take by an amount equal to five times your bender level. You can also use this ability on another creature.
 
+<!-- Could add suction here; to pick up objects (that aren't being worn, equipped, or carried) from within 5 feet -->
+
 ### Airbending Specialization
 At 5th level, you specialize in one of the following aspects of airbending: advanced airbending, spirituality, or ?. Your abilities are described in the specialization section at the end of this class description. <!--This specialization grants you a new feature at 5th level, and again at 8th, 12th, and 17th level.-->
 
@@ -148,10 +150,10 @@ At 6th level, you gain the ability to bend clouds. Once per long rest, you can c
 ### Evasion
 At 9th level, your instinctive agility lets you dodge out of the way of certain area effects. When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
 
-<!--div style="height: 4em;">
-</div-->
+<div style="height: 3em;">
+</div>
 ### Breath of Wind
-At 10th level, you become capable of displaying formidable breath control. You learn to increase the volume of your voice or sounds of an instrument you are playing.  
+At 10th level, you become capable of displaying formidable breath control. You learn to increase the volume of your voice or sounds of an instrument you are playing. This ability can also be used to blow an extremely focused and cool stream of air at an object in your normal range, instantaneously cooling it to room temperature.  
 
 
 You are also able to hold your breath for an unusual amount of time; instead of the normal amount (a number of minutes equal to 1 + your Constitution modifier), you can hold your breath for a number of minutes equal to 1 + your proficiency bonus + your airbending modifier.
@@ -192,18 +194,21 @@ Like the Guru Laghima and the airbender Zaheer, you learn to levitate without us
 
 ### Advanced Airbending
 
-#### Advanced Forms
-Beginning when you choose this specialization at 5th level, you gain access to an extended form list. From now on, you can choose forms to learn from the "Advanced Forms" list in addition to the regular list. Both can be found at the end of this class description.
+#### Stillness of Mind
+Beginning when you choose this specialization at 5th level, you can spend your bonus action taking a brief respite and calming your breathing, resetting your chi exhaustion die back to the maximum. You can use this ability once per long rest.
 
-You also automatically know the form *Tranquility* and it does not count against the "Forms Known" limit in the class table.
+<!--#### Advanced Forms
+you gain access to an extended form list. From now on, you can choose forms to learn from the "Advanced Forms" list in addition to the regular list. Both can be found at the end of this class description.
+
+You also automatically know the form *Tranquility* and it does not count against the "Forms Known" limit in the class table.-->
+
+#### Heat Regulation
+At 7th level, you learn to use your breath control to regulate your body temperature. You gain resistance to cold damage, and warm temperatures do not make you uncomfortable, making you immune to heat exhaustion (this includes e.g. a firebender's _Heat Wave_ form).
 
 #### Stillness of Mind
-At 7th level, if you spend your bonus action taking a brief respite and calming your breathing, you reset your chi exhaustion die back to the maximum. You can use this ability once per long rest.
+Beginning at 11th level, you can enter a special meditation that surrounds you with an aura of peace. At the end of a long rest, you gain the effect of the _Sanctuary_ spell that lasts until the start of your next long rest (the spell can end early as normal).
 
-#### ???
-At 11th level, ...
-
-#### ???
+#### ?
 At 17th level, ...
 
 ### Spirituality
