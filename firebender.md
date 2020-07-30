@@ -167,8 +167,6 @@ Starting at 9nd level, when you are hit by lightning (natural or created by a be
 ### Fire Augmentation
 Beginning at 10th level, you are able to alter the quality of outside sources of fire. On your turn, you can spend a bonus action to cause the effects of the *Control Flames* cantrip (except that you cannot change the color of the flame). 
 
-You also gain resistance to cold damage.
-
 <!--div style="height: 6em;">
 </div-->
 ### ?
