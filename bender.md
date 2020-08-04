@@ -24,6 +24,19 @@ As you make your bender character, think about ...
 
 The element you bend and the type of training you underwent has a great impact on benders' alignments. Think about the type of environment you grew up in, and how that might manifest itself. As a rule of thumb, fire and air are more chaotic elements, while earth is lawful.
 
+### Classes in this setting
+
+- The four types of Benders (Water, Earth, Fire, Air)
+- Modified Monk (with Chi Blocker monastic tradition)
+- Rogue
+- Modified Fighter (with Kyoshi Warrior and Swordmaster subclasses)
+
+<!--#### Kyoshi Warrior
+Modified Fighter, uses fans; with specific bending attack defusion maneuvers
+
+#### Swordmaster
+Modified Fighter (Samurai or Battlemaster), similar to Sokka's training; with specific bending attack defusion maneuvers.-->
+
 ### Skills
 This class uses, for the most part, the same skills as regular 5th edition D&D. These are the exceptions:
 - No Arcana
@@ -125,7 +138,7 @@ When used by a waterbender for healing, it restores double the amount of HP gran
 ## Water pouch
 A water pouch holds the equivalent of a 1-foot-diameter sphere of water. It is typically worn on the waist and can be used for waterbending when no water source is within range.
 
-<div style="height:5em;"></div>
+<div style="height:7em;"></div>
 ## Hooked Swords
 On a hit, you can make an opposed Dexterity check against the target's Strength. On a success, the target is disarmed and its weapon clatters to the ground in the nearest empty space (your choice if there are multiple options). If the target is wielding more than one weapon, only one of them falls to the ground.
 
@@ -328,17 +341,6 @@ This class is meant to be played in a world in which the only race is Human and 
 If you want to include this class in a regular D&D 5e campaign, at 6th level bending attacks count as magical for the purposes of overcoming resistance and immunity to nonmagical attacks and damage.
 
 A custom character sheet that reflects the modifications made to regular 5e abilities, skills, etc. can be found [here](https://).
-
-
-### Other classes in this setting
-#### Chi blocker
-Modified Monk; you learn to interfere with the flow of chi in an opponent's body. A maximum of X times per long rest, when you hit another creature with a melee weapon attack, you can attempt to block their flow of chi. The target must succeed on a Constitution saving throw or be stunned until the end of your next turn.  
-
-#### Kyoshi Warrior
-Modified Fighter, uses fans; with specific bending attack defusion maneuvers
-
-#### Swordmaster
-Modified Fighter (Samurai or Battlemaster), similar to Sokka's training; with specific bending attack defusion maneuvers
 
 ### Credits
 * Made by Noemi Glaeser with [The Homebrewery](https://homebrewery.naturalcrit.com).
