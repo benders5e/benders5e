@@ -41,7 +41,7 @@ When wearing light armor, you use your Strength modifier instead of Dexterity to
 >##### Lifting and Carrying
 > **Carrying Capacity.** Your carrying capacity is your Strength score multiplied by 15. This is the weight (in pounds) that you can carry. 
 
-<div style="height:0em;">
+<div style="height:3em;">
 </div>
 ### Earthbending
 At 1st level, you realize that you have an innate ability to control earth. You can move small, contiguous masses of earth no more than your carrying capacity – see "Lifting and Carrying". You cannot shape, crack, or otherwise deform this earth, until you gain more fine-grained control through training and learning earthbending forms (see "Earthbending Forms" at 3rd level).
@@ -121,8 +121,8 @@ The attack bonus is hereafter referred to as your earthbending modifier. Unless 
 
 As an earthbender, rocks that are not worn, equipped, or carried have 0 AC for the purposes of your attacks.
 
-<div style="height:5em;">
-</div>
+<!--div style="height:5em;">
+</div-->
 ### Earthwall
 Starting at 2nd level, you can use your reaction to create a wall 10 feet long, 5 feet high, and 1/2 foot thick in front of you to defend against an incoming attack. You can use this ability after the attack roll, but before the outcome is determined.  
 
@@ -137,16 +137,15 @@ You can use this ability a number of times equal to your bending modifier per lo
 ### Stance
 Beginning at 2nd level, you adopt a particular stance as your specialty. Choose one of the following options:
 
-<div class='pageNumber auto'></div>
-<div class='footnote'>PART 2 | CLASSES</div>
-\page
-
 #### Praying Mantis
 This style is known for its speed and continuous attacks and was famously used by Toph Beifong. When you roll a 19 or a 20 on an attack roll, you can spend your bonus action to make an additional basic bending attack. Your speed also increases by 5.
 
 #### Hung Gar
 You favor a deep, low stance rooted in the earth beneath you. You gain advantage on Strength saving throws and expertise in Strength (Athletics) checks and cannot be knocked prone.   
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 2 | CLASSES</div>
+\page
 
 If another creature uses an ability that pushes you away from them, you always roll a Strength (Athletics) Saving Throw. On a failure, you are moved half the distance, and on a success, you stay where you are.
 
@@ -174,13 +173,15 @@ You have 4 exhaustion points at your disposal. (Use a d4 to keep track.) The d4 
 
 For example, say the counter is set at 2. That turn, you spend all your chi points attacking and turn the counter to 1. The next turn, you have 0 chi to spend, and you can either use your Attack action to make a melee, non-bending attack or forfeit it. The next turn, your counter is back up to 2. If you spend all your chi once again, it decreases back to 1 again, but if you spend anything less than the maximum (e.g. all but one chi) the counter once again increases to 3.
 
-<!--div style="height: 4em;">
-</div-->
 #### Opposing another bender's form
 You can attempt to reverse the effects caused by another bender of your same element on your turn. This only applies to forms that do not require concentration, e.g. Quicksand. To do this, you use your Action to roll earthbending against the other bender's bending DC; they can choose to fail the save if they wish. On a success, the effect of the form ends.
 
+<div style="height: 1em;">
+</div>
 ### Ability Score Improvement
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+
+Using the optional feats rule, you can forgo taking this feature to take a feat of your choice instead.
 
 ### Burrow
 At 4th level, you learn to tunnel like a badgermole. You can use your Action to choose a portion of dirt or stone that you can see within range, up to your bending capacity. You instantaneously excavate it, move it along the ground, and deposit it up to 5 feet away. This movement doesn’t have enough force to cause damage.
@@ -197,11 +198,6 @@ At 6th level, your control increases. You are now able to compact or expand eart
 
 You also learn to bend earth-based materials such as mud, coal, gems, crystals, meteorites, and jennamite ("creeping crystal").  
 
-<div class='pageNumber auto'></div>
-<div class='footnote'>PART 2 | CLASSES</div>
-
-\page
-
 ### Chi-Empowered Reflex
 Starting at 9th level, you gain one of the following abilities of your choice:
 
@@ -211,7 +207,12 @@ You can now choose to use your Earthwall as a reaction to an attack against a fr
 ##### Imbalance
 You learn to use your control over the earth to throw your opponents off-balance. Instead of raising an earthwall when an enemy attempts to make an attack against you, you can use your reaction to move the earth beneath their feet in an attempt to cause them to miss. 
 
-Your opponent must make a DC 15 Dexterity Saving Throw. On a success, they make their attack with disadvantage. On a failure, the attack misses. The opponent must be within your normal bending range.  
+Your opponent must make a DC 15 Dexterity Saving Throw. On a success, they make their attack with disadvantage. On a failure, the attack misses. The opponent must be within your normal bending range. 
+
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 2 | CLASSES</div>
+
+\page 
 
 ### Earth Elevator
 At 10th level, you can move masses of earth beneath your feet to defy gravity. You can move an area of earth centered on you that is 10 feet in diameter and is holding 1 Medium creature (including yourself) with a flying speed equal to your ground speed. At higher levels, you can carry more people, the equivalent of half your level minus 10 Medium creatures, rounded up (i.e. at 13th level, you lift yourself and one other Medium creature).  
@@ -230,7 +231,7 @@ At 15th level, you can move across difficult earth terrain (not ice, for example
 ### Substance
 At 20th level, ...
 
-<div style="height: 14em;">
+<div style="height: 40em;">
 </div>
 
 ## Earthbending specializations
@@ -372,7 +373,7 @@ The glove crumbles to the ground if it is ever out of your normal earthbending r
 *Cost: 1 chi*  
 You shape earth into boots around your feet. The boots give you advantage against being knocked prone or shoved but reduce your speed to 0. They last for 1 minute, but you can dismiss them early as a free action.
 
-<div style="height:4em;">
+<div style="height:7em;">
 </div>
 #### Earth Launch
 *Cost: 1 chi*  
@@ -458,8 +459,8 @@ You collapse a 30-foot square portion of a rock tunnel, ceiling, or wall within 
 *Cost: X chi*  
 this is mostly superceded by Earthwave and earth launch -->
 
-<div style="height:3em;">
-</div>
+<!--div style="height:3em;">
+</div-->
 #### Earth Mannequin
 *Cost: 1 chi*  
 You create a mannequin out of earth within range, which has the abilities of an _Unseen Servant_, but using your normal bendig range as the spell's range.

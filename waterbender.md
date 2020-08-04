@@ -38,7 +38,7 @@ You start with the following equipment, in addition to the equipment granted by 
 > ##### Seeing Underwater
 > You can see underwater just as well as above water. Areas above water viewed from underwater are considered lightly obscured.
 
-<div style="height: 6em;">
+<div style="height: 8em;">
 </div>
 ### Waterbending
 At 1st level, you realize that you have an innate ability to control water. You can move small volumes of *liquid* water and liquids that are mostly water at will by spending 1 chi of your Attack action to cause the effects of the *Shape Water* cantrip (excluding changing the water's color or opacity). (See "Bending Attack" for a description of the role chi points play in attacks and the rules for bending attacks.) You must draw your bending material from a source within 30 feet. 
@@ -116,8 +116,6 @@ You can use this ability a number of times equal to your bending modifier per lo
 ### Stance
 Beginning at 2nd level, you adopt a particular stance as your specialty. Choose one of the following options:
 
-<div style="height:4em;">
-</div>
 #### Water Ring
 In combat, you surround yourself with a ring of water which you can use as your source of bending. While surrounded by this ring, once per turn you can reduce the cost of a bending form by one chi. 
 
@@ -132,11 +130,12 @@ With these tendrils, you also gain the ability to use your Redirection ability o
 
 You must spend one chi on one of your turns to collect water around your arms and gain these benefits.
 
+### Waterbending Forms
+At 3rd level, your connection to chi and practice of bending allows you to weave your bending into your combat style. With training, you are able to learn particular attacks that combine martial arts and bending to carry out more sophisticated attacks.  
+
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 2 | CLASSES</div>
 \page
-### Waterbending Forms
-At 3rd level, your connection to chi and practice of bending allows you to weave your bending into your combat style. With training, you are able to learn particular attacks that combine martial arts and bending to carry out more sophisticated attacks.  
 
 You learn one form from the list at the end of this class description. The number of forms you know increases with level and is shown in the Waterbender Table. Each time you learn a new form you may also replace one form you already know with another one.  
 
@@ -155,14 +154,13 @@ For example, say the counter is set at 2. That turn, you spend all your chi poin
 ### Ability Score Improvement
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
+Using the optional feats rule, you can forgo taking this feature to take a feat of your choice instead.
 
 ### Water in All Its States
 At 4th level, you can manipulate water more nimbly, allowing you to change its state from liquid to solid and back at will. Additionally, your water source no longer needs to be liquid: you can solid and gaseous water as well, e.g. snow, ice, steam.  
 
 Additionally, you can bend even water you cannot see, such as an underground reservoir (provided it is within range).
 
-<div style="height:4em;">
-</div>
 ### Waterbending specialization
 At 5th level, you specialize in one of the following types of waterbending: advanced waterbending, healing, blood-bending, or swampbending. Your abilities are described in the specialization section at the end of this class description.
 
@@ -170,6 +168,8 @@ At 5th level, you specialize in one of the following types of waterbending: adva
 At 6th level, you learn to synchronize your control of water with your movement. You gain the ability to move across liquids. 
 <!--When you do so, your speed is doubled.-->
 
+<div style="height:1em;">
+</div>
 ### Versatile Reaction
 At 6th level, you react quickly and strategically when you are hit by a melee attack. By spending 1 chi point (from your upcoming turn), you can use your reaction to do one of the following:
 
@@ -292,7 +292,7 @@ At 11th level, your bloodbending control increases. ??
 <!--div style="height: 2em;">
 </div-->
 #### Bending Block
-At 17th level, you learn to use bloodbending to temporarily block another bender's abilities. Once per long rest, if the other bender is Restrained, you can touch them on the center of the forehead and use an action to remove their bending. They regain their bending after 1d100 hours.
+At 17th level, you learn to use bloodbending to temporarily block another bender's abilities. Once per long rest, if the other bender is Restrained or Incapacitated, you can touch them on the center of the forehead and use an action to remove their bending. They regain their bending after 1d100 hours.
 
 <!--#### Bloodbending Anytime
 At 19th level, you are able to bloodbend even on nights without a full moon, excluding those with a new moon.-->
@@ -315,7 +315,7 @@ You can also choose to use this ability to gain the benefits of the spell *Commu
 
 <!--Lifting things/pushing things-->
 
-<div style="height: 3em;">
+<div style="height: 6em;">
 </div>
 ## Waterbending Forms
 <!--(Even mix of defense and offense)-->
@@ -363,15 +363,15 @@ You create a water tendril. Its reach is determined by the amount of water you s
 ##### Attack
 The tendril acts as a water whip with 1 chi (see the *Water Whip* form).
 
-<div class='pageNumber auto'></div>
-<div class='footnote'>PART 2 | CLASSES</div>
-\page
-
 ##### Grapple
 You grapple a Large or smaller creature within the tendril's range. The tendril's Strength modifier is equal to your waterbending modifier.
 
 ##### Manipulate
 The tendril can interact with objects as a *Mage Hand* would, but it doesn't have fingers so it lacks fine-grained control.
+
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 2 | CLASSES</div>
+\page
 
 #### Ice Sword
 *Cost: 1 chi (+2 chi)*  
@@ -404,8 +404,8 @@ When you use this form, you send a pressurized jet of water at a creature within
 
 The damage increases by an additional die for each extra chi you spend.
 
-<div style="height: 5em;">
-</div>
+<!--div style="height: 5em;">
+</div-->
 #### Ice Daggers
 *Cost: 2 chi*  
 You create and launch 2 ice daggers at any combination of targets within your long range (the second number in the "Range" column). These attacks are made without disadvantage. Each dagger deals 1d4 percing damage.   
@@ -453,14 +453,14 @@ todo
 *Cost: 4 chi*  
 todo
 
+#### Ice Storm
+*Cost: 5 chi*  
+You cause the effects of the *Ice Storm* spell.
+
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 2 | CLASSES</div>
 
 \page
-
-#### Ice Storm
-*Cost: 5 chi*  
-You cause the effects of the *Ice Storm* spell.
 
 ### Advanced Forms
 Only Waterbenders of the Advanced Waterbending specialization have access to these forms.

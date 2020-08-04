@@ -36,8 +36,8 @@ At 1st level, you realize that you have an innate ability to produce fire with y
 
 As a firebender, you have resistance to fire damage.
 
-<div style="height:11em;">
-</div>
+<!--div style="height:11em;">
+</div-->
 ### Fire Jab
 During combat, you can channel your chi to use your bending as a rudimentary attack by hitting other creatures. Every time you take the Attack action, you draw on your inner pool of energy, or *chi*. The class table shows how much chi you have available every time you take the Attack action ("Chi per Attack"). This amount resets every round. As your bending grows more powerful and your connection to your inner chi grows, this number increases.  
 
@@ -75,6 +75,18 @@ You practice a defensive and circular type of bending, gaining a +2 to AC.
 
 You also have the ability to redirect ranged firebending attacks instead of defusing them. Provided you have a free hand or foot, you are able to reduce the damage you take from the attack by 1d10 + your firebending modifier + your firebender level. If you reduce the damage to 0, you redirect the element to make a ranged attack against a creature of your choice as part of the same reaction. This counts as one of your defusion uses.  
 
+#### Agni Kai
+You are skilled at duels and excel at focusing your power on one opponent. If you attack the same target as your previous attack, you gain a +2 to your attack roll.
+
+<!--#### Shaolin
+You are used to fighting in close ranges, utilizing strong kicks and quick punches
+Aspects of the firebending combat style can be seen through a similar emphasis on highly technical kicking strikes, fundamentally strong movements, and the usage of swift, direct maneuvers. Northern Shaolin is an external style that uses long, aggressive techniques that explode and drive through the opponent.
+
+The Northern Shaolin style emphasizes "kicking over hand fighting", or prioritizing one's legwork as opposed to the arms. Kicks are meant to "extend as far as possible without compromising balance-->
+
+#### Chaquan
+You are an expert in acrobatics and agile, graceful movements. You gain +5 to your speed and proficiency in Acrobatics. If you already have proficiency, you gain expertise.
+
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 2 | CLASSES</div>
 \page
@@ -106,18 +118,6 @@ You also have the ability to redirect ranged firebending attacks instead of defu
 |20th | +6 | 1d12  |200/400| 10| 6 | Element of Power
 </div> 
 
-#### Agni Kai
-You are skilled at duels and excel at focusing your power on one opponent. If you attack the same target as your previous attack, you gain a +2 to your attack roll.
-
-<!--#### Shaolin
-You are used to fighting in close ranges, utilizing strong kicks and quick punches
-Aspects of the firebending combat style can be seen through a similar emphasis on highly technical kicking strikes, fundamentally strong movements, and the usage of swift, direct maneuvers. Northern Shaolin is an external style that uses long, aggressive techniques that explode and drive through the opponent.
-
-The Northern Shaolin style emphasizes "kicking over hand fighting", or prioritizing one's legwork as opposed to the arms. Kicks are meant to "extend as far as possible without compromising balance-->
-
-#### Chaquan
-You are an expert in acrobatics and agile, graceful movements. You gain +5 to your speed and proficiency in Acrobatics. If you already have proficiency, you gain expertise.
-
 #### Seven Stars
 You favor a style that utilizes momentary bursts of extreme power at the expense of your defense. At the beginning of your turn, you can choose to decrease your AC for the next turn by 2 to add +2 to the damage dealt by all your attacks that hit.  
 
@@ -135,14 +135,16 @@ Channeling chi into attacks is a physically and mentally draining endeavor.
 
 You have 4 exhaustion points at your disposal. (Use a d4 to keep track.) The d4 starts with the "4" pointing up. Every turn you use all of your chi, you decrement this counter. When the counter indicates a "1", you need to take a break from bending and cannot spend any chi or take bending reactions that turn. Any bending concentration is also broken. Every turn that you do *not* use all your chi, the counter increments by 1. This counter resets every long rest.  
 
-<div class='pageNumber auto'></div>
-<div class='footnote'>PART 2 | CLASSES</div>
-\page 
-
 For example, say the counter is set at 2. That turn, you spend all your chi points attacking and turn the counter to 1. The next turn, you have 0 chi to spend, and you can either use your Attack action to make a melee, non-bending attack or forfeit it. The next turn, your counter is back up to 2. If you spend all your chi once again, it decreases back to 1 again, but if you spend anything less than the maximum (e.g. all but one chi) the counter once again increases to 3.
 
 ### Ability Score Improvement
 When you reach 4th level, and again at 8th, 11th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+
+Using the optional feats rule, you can forgo taking this feature to take a feat of your choice instead.
+
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 2 | CLASSES</div>
+\page 
 
 ### Inner Flame
 At 4th level, you gain the ability to reset your chi exhaustion die back to the maximum once per long rest.
@@ -175,8 +177,8 @@ Beginning at 13th level, ... [Some improved ability or saving throws]
 ### ?
 At 14th level, ... [some flavor-type thing; charged attacks?]
 
-<!--div style="height: 4em;">
-</div-->
+<div style="height: 3em;">
+</div>
 ### Fire Rockets
 At 15th level, the power of your Firestepping increases. You gain a flying speed of 60 feet and can end your turn in the air without falling.
 
@@ -261,16 +263,15 @@ Additionally, you can sense this energy and heat emanating from creatures even f
 
 You can use each of these features a number of times equal to your bending modifier. When you finish a Long Rest, you regain all expended uses.
 
+#### Healing
+At 7th level, you learn to clear blocked chi paths within creatures and redirect their energy towards wounds to speed up the healing process. By spending one minute concentrating on reading the chi paths in another person's body, you heal them by an amount of hit points equal to three times your firebender level.  
+
+You can use this ability a number of times equal to your bending modifier per long rest.
 
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 2 | CLASSES</div>
 
 \page 
-
-#### Healing
-At 7th level, you learn to clear blocked chi paths within creatures and redirect their energy towards wounds to speed up the healing process. By spending one minute concentrating on reading the chi paths in another person's body, you heal them by an amount of hit points equal to three times your firebender level.  
-
-You can use this ability a number of times equal to your bending modifier per long rest.
 
 #### Mass Heal
 At 11th level, ...
@@ -310,13 +311,8 @@ At 11th level, you learn an additional form of your choice from the following li
 #### ?
 At 17th level, ...
 
-<!--div style="height:16em;">
-</div-->
-
-<div class='pageNumber auto'></div>
-<div class='footnote'>PART 2 | CLASSES</div>
-
-\page
+<div style="height:21em;">
+</div>
 ## Firebending Forms
 <!--Mostly offense stuff-->
 
@@ -354,11 +350,16 @@ The daggers remain as long as you maintain concentration. You can continue to at
 
 Despite their slashing capabilities, these daggers lack the ability to block physical objects.
 
-<div style="height:6em;">
-</div>
+<!--div style="height:6em;">
+</div-->
 #### Shield of Fire
 *Cost: 2 chi*  
 When you take this form, gain the ability to use your reaction to raise your AC by 2. When you use this reaction, you spend 2 chi of your next Attack action. 
+
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 2 | CLASSES</div>
+
+\page
 
 If the shield causes the attack to miss, the shield disintegrates; otherwise, it remains for a maximum of 1 minute.
 
