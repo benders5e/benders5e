@@ -2,7 +2,21 @@ Link: https://homebrewery.naturalcrit.com/edit/grt0crs-z\_
 
 # Earthbender
 
-Earthbenders have a special connection with the earth that is achievable with neutral jing, listening, though seemingly doing nothing and waiting for the right moment to strike. Because of their element's stability and its stress on neutral jing, earthbenders stand their ground, absorbing or intercepting attacks until they completely overwhelm their opponents. Unlike the other bending arts, earthbending's strength equally lies in both offense and defense.
+Earth is the element of substance. Earthbenders have a special connection with the earth that is achievable with neutral jing, listening, though seemingly doing nothing and waiting for the right moment to strike. Because of their element's stability and its stress on neutral jing, earthbenders stand their ground, absorbing or intercepting attacks until they completely overwhelm their opponents. Unlike the other bending arts, earthbending's strength equally lies in both offense and defense.
+
+### Chi
+Benders make careful study of a magical energy called chi that flows through living bodies. Earthbenders harness this power within themselves to exert their will over earth.
+
+### Community and Training
+Earth Kingdom, badgermoles, and stuff. What it means to leave.
+
+### Creating an Earthbender
+As you make your earthbender character, think about ...
+- where in the vast expanse of the Earth Kingdom you are from, or whether you are from another nation entirely.
+- How you began training in earthbending. Were your parents waterbenders? Your siblings? When did you first learn of your abilities? Who became your bending master?
+- Why did you leave your home?
+
+Earthbenders tend towards a Neutral alignment because of the strong role neutral jing plays in bending this element.
 
 #### Quick Build
 You can make an earthbender quickly by following these suggestions. First, pick Strength as your highest score, followed by Charisma. Second, choose the Artisan background.  
@@ -34,26 +48,22 @@ You start with the following equipment, in addition to the equipment granted by 
 
 When wearing light armor, you use your Strength modifier instead of Dexterity to determine your AC.
 
-<div style="height:2em;">
+<div style="height:1em;">
 </div>
 
 ***
 >##### Lifting and Carrying
 > **Carrying Capacity.** Your carrying capacity is your Strength score multiplied by 15. This is the weight (in pounds) that you can carry. 
 
-<div style="height:3em;">
+<div style="height:0em;">
 </div>
 ### Earthbending
 At 1st level, you realize that you have an innate ability to control earth. You can move small, contiguous masses of earth no more than your carrying capacity – see "Lifting and Carrying". You cannot shape, crack, or otherwise deform this earth, until you gain more fine-grained control through training and learning earthbending forms (see "Earthbending Forms" at 3rd level).
 
 When earthbending up to your earth capacity, you spend 1 chi of your Attack action (see "Bending Attack" for a description of the role chi points play in attacks).  
 
-
-You must draw your bending material from a source of earth within 30 feet. The mass of earth you can control and the range within which you can control it (including as a source) increase with your earthbender level. See the "Volume" and "Range" columns of the Earthbender Table. A quick reference for the weight of various earthen materials is shown below.  
-
-
-The HP and AC of any structure you form with your bending can be determined by regular D&D 5e object rules. The table below provides a reference for the AC of various types of earth.
-
+<div style="height:1em;">
+</div>
 <div class='descriptive'>
 ##### Quick Conversions
 | Material          | Pounds in 1 cubic ft | AC |
@@ -69,11 +79,6 @@ The HP and AC of any structure you form with your bending can be determined by r
 | Rock (igneous)    | ~180 lbs             | 17 |
 </div>
 
-As an earthbender, when your hands and feet are covered in rock, you gain a climbing speed equal to your ground speed.
-
-### Bending Attack
-During combat, you can channel your chi to use your bending as a rudimentary attack by hitting other creatures. Every time you take the Attack action, you draw on your inner pool of energy, or *chi*. The class table shows how much chi you have available every time you take the Attack action ("Chi per Attack"). This amount resets every round. As your bending grows more powerful and your connection to your inner chi grows, this number increases.  
-
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 2 | CLASSES</div>
 \page
@@ -83,8 +88,8 @@ During combat, you can channel your chi to use your bending as a rudimentary att
 |Level| Proficiency Bonus | Bending | Capacity | Range | Forms Known | Chi per Attack | Features |
 |:---:|:--:|:-----:|:----:|:-----:|:--:|:--:|:---------------------------------------|
 | 1st | +2 | 1d6   | 1  | 30/60 | –  | 1 | Earthbending, Bending Attack
-| 2nd | +2 | 1d6   | 1  | 30/60 | –  | 1 | Earthwall, Stance
-| 3rd | +2 | 1d6   | 1  | 30/60 | 2  | 2 | Earthbending Forms
+| 2nd | +2 | 1d6   | 1  | 30/60 | 1  | 1 | Stance, Earthbending Forms
+| 3rd | +2 | 1d6   | 1  | 30/60 | 2  | 2 | Earthwall
 | 4th | +2 | 1d6   | 2  | 30/60 | 2  | 2 | Ability Score Improvement, Burrow
 | 5th | +3 | 1d8   | 2  | 60/120| 3  | 2 | Earthbending specialization
 | 6th | +3 | 1d8   | 2  | 60/120| 3  | 2 | Rolling Earth, Expansion and Compaction
@@ -103,6 +108,14 @@ During combat, you can channel your chi to use your bending as a rudimentary att
 |19th | +6 | 1d12  | 8  |200/400| 10 | 6 | Ability Score Improvement
 |20th | +6 | 1d12  | 8  |200/400| 10 | 6 | Substance
 </div>
+
+You must draw your bending material from a source of earth within 30 feet. The mass of earth you can control and the range within which you can control it (including as a source) increase with your earthbender level. See the "Volume" and "Range" columns of the Earthbender Table. A quick reference for the weight of various earthen materials is shown on the previous page.  
+
+
+The HP and AC of any structure you form with your bending can be determined by regular D&D 5e object rules. The table below provides a reference for the AC of various types of earth.
+
+### Bending Attack
+During combat, you can channel your chi to use your bending as a rudimentary attack by hitting other creatures. Every time you take the Attack action, you draw on your inner pool of energy, or *chi*. The class table shows how much chi you have available every time you take the Attack action ("Chi per Attack"). This amount resets every round. As your bending grows more powerful and your connection to your inner chi grows, this number increases.  
 
 When you take a basic bending attack, you spend 1 point of chi and deal 1d6 bludgeoning damage. This damage increases with your earthbender level and is shown in the "Bending" column of the Earthbender Table. The range of your attacks is the same as your bending range ("Range" column).
 
@@ -123,29 +136,18 @@ As an earthbender, rocks that are not worn, equipped, or carried have 0 AC for t
 
 <!--div style="height:5em;">
 </div-->
-### Earthwall
-Starting at 2nd level, you can use your reaction to create a wall 10 feet long, 5 feet high, and 1/2 foot thick in front of you to defend against an incoming attack. You can use this ability after the attack roll, but before the outcome is determined.  
-
-
-The wall stays in place unless it is earthbent away or destroyed by other means. As with all products of earthbending, the wall's AC and HP can be determined according to regular D&D 5e object rules. More specifically, the AC is determined by the type of earth you bend into the wall, and the HP is 15 per inch of thickness (resilient medium object).
-
-You can use this ability a number of times equal to your bending modifier per long rest.
-
-
-<!--div style="height:0em;">
-</div-->
 ### Stance
 Beginning at 2nd level, you adopt a particular stance as your specialty. Choose one of the following options:
+
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 2 | CLASSES</div>
+\page
 
 #### Praying Mantis
 This style is known for its speed and continuous attacks and was famously used by Toph Beifong. When you roll a 19 or a 20 on an attack roll, you can spend your bonus action to make an additional basic bending attack. Your speed also increases by 5.
 
 #### Hung Gar
 You favor a deep, low stance rooted in the earth beneath you. You gain advantage on Strength saving throws and expertise in Strength (Athletics) checks and cannot be knocked prone.   
-
-<div class='pageNumber auto'></div>
-<div class='footnote'>PART 2 | CLASSES</div>
-\page
 
 If another creature uses an ability that pushes you away from them, you always roll a Strength (Athletics) Saving Throw. On a failure, you are moved half the distance, and on a success, you stay where you are.
 
@@ -156,9 +158,9 @@ You are well-versed in the art of neutral *jing*, waiting and listening to predi
 Light on your feet.--> 
 
 ### Earthbending Forms
-At 3rd level, your connection to chi and practice of bending allows you to weave your bending into your combat style. With training, you are able to learn particular attacks that combine martial arts and earthbending to carry out more sophisticated attacks.   
+Starting at 2nd level, your connection to chi and practice of bending allows you to weave your bending into your combat style. With training, you are able to learn particular attacks that combine martial arts and earthbending to carry out more sophisticated attacks.   
 
-You learn two forms from the list at the end of this class description. The number of forms you know increases with level and is shown in the Earthbender Table. Each time you learn a new form you may also replace one form you already know with another one.  
+You learn one form from the list at the end of this class description. The number of forms you know increases with level and is shown in the Earthbender Table. Each time you learn a new form you may also replace one form you already know with another one.  
 
 You also learn to shape earth in a more fine-grained manner, including fashioning weapons (see the *Earthen Weapon* form at the end of this class description, which you start out knowing and doesn't count against your "Forms Known" limit).
 
@@ -176,8 +178,18 @@ For example, say the counter is set at 2. That turn, you spend all your chi poin
 #### Opposing another bender's form
 You can attempt to reverse the effects caused by another bender of your same element on your turn. This only applies to forms that do not require concentration, e.g. Quicksand. To do this, you use your Action to roll earthbending against the other bender's bending DC; they can choose to fail the save if they wish. On a success, the effect of the form ends.
 
-<div style="height: 1em;">
-</div>
+<!--div style="height:5em;">
+</div-->
+### Earthwall
+At 3rd level, you can use your reaction to create a wall 10 feet long, 5 feet high, and 1/2 foot thick in front of you to defend against an incoming attack. You can use this ability after the attack roll, but before the outcome is determined.  
+
+
+The wall stays in place unless it is earthbent away or destroyed by other means. As with all products of earthbending, the wall's AC and HP can be determined according to regular D&D 5e object rules. More specifically, the AC is determined by the type of earth you bend into the wall, and the HP is 15 per inch of thickness (resilient medium object).
+
+You can use this ability a number of times equal to your bending modifier per long rest.
+
+<!--div style="height: 1em;">
+</div-->
 ### Ability Score Improvement
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
@@ -189,6 +201,11 @@ At 4th level, you learn to tunnel like a badgermole. You can use your Action to 
 
 ### Earthbending specialization
 At 5th level, you specialize in one of the following types of earthbending: advanced earthbending, metalbending, or lavabending. Your abilities are described in the specialization section at the end of this class description.
+
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 2 | CLASSES</div>
+
+\page 
 
 ### Rolling Earth
 When you reach 6th level, you learn to synchronize your control of earth with your movement. As a bonus action while you are moving over earth, you can concentrate on traveling quickly, doubling your speed.
@@ -209,11 +226,6 @@ You learn to use your control over the earth to throw your opponents off-balance
 
 Your opponent must make a DC 15 Dexterity Saving Throw. On a success, they make their attack with disadvantage. On a failure, the attack misses. The opponent must be within your normal bending range. 
 
-<div class='pageNumber auto'></div>
-<div class='footnote'>PART 2 | CLASSES</div>
-
-\page 
-
 ### Earth Elevator
 At 10th level, you can move masses of earth beneath your feet to defy gravity. You can move an area of earth centered on you that is 10 feet in diameter and is holding 1 Medium creature (including yourself) with a flying speed equal to your ground speed. At higher levels, you can carry more people, the equivalent of half your level minus 10 Medium creatures, rounded up (i.e. at 13th level, you lift yourself and one other Medium creature).  
 
@@ -231,8 +243,8 @@ At 15th level, you can move across difficult earth terrain (not ice, for example
 ### Substance
 At 20th level, ...
 
-<div style="height: 40em;">
-</div>
+<!--div style="height: 40em;">
+</div-->
 
 ## Earthbending specializations
 
@@ -245,17 +257,32 @@ Additionally, you gain advantage on Insight checks when your target is in normal
 
 #### Earth Dive
 Beginning at 7th level, you can dive into and out of earth as though it were liquid. Your "swim" speed equals your walking speed. While underground, you must hold your breath and use your arms for mobility, so you cannot earthbend.
-
 <!-- Also Redirection? Can say both are learned by observing waterbenders and mastering neutral jing -->
+
+<!--#### Dust Step
+At 7th level, you are able to use your control over earth and dust to move through the air. By quickly moving tiny pillars of earth beneath your feet, you gain a flying speed equal to your ground speed. [note that this is essentially covered by Earth Elevator]-->
 
 #### Advanced Form
 At 11th level, you learn an additional form of your choice from the following list:  
 
+<div style="margin-left: 1.5em;">
 ##### Magnetization
-##### Dust Stepping
-
+*Prerequisite: Advanced Earthbending specialization*  
+*Cost: 1 chi*  
+By controlling the magnetic orientation of particles within the earth beneath your hands and feet, you can move up, down, and across vertical surfaces and upside down along ceilings until the beginning of your next turn, all while leaving your hands or feet free. You have a climbing speed equal to your walking speed.
+  
 ##### Earth Sinking
-Cause target to sink into the earth and be trapped there (Dex ST). For each additional chi, they sink lower, and can make Str checks to escape.
+*Prerequisite: Advanced Earthbending specialization*  
+*Cost: 3 chi*  
+Pick a target within your normal bending range. You can attempt to cause them to sink into the earth and be trapped there. The target makes a Dexterity saving throw. On a failure, the target sinks up to its knees into the ground and is Restrained. On a success, the target is moves into an unoccupied space within 5 feet and is knocked prone. A Restrained target can attempt a Strength (Athletics) check against your bending DC at the end of each of its turns. On a success, it is no longer Restrained. 
+  
+By spending an additional chi you cause the target to sink completely underground, where they begin suffocating.
+</div>
+
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 2 | CLASSES</div>
+
+\page
 
 #### Remote Earthbending?
 Beginning at 19th level, ... (requires concentration)
@@ -282,41 +309,51 @@ At 7th level, you learn to bend metal without touching it. You can bend metal as
 Beginning at 11th level, your deep relationship with metal grants you proficiency with smith's tools.
 <!-- this is a cool reference: https://dumpstatadventures.com/the-gm-is-always-right/making-tools-useful-in-5e-smiths-tools -->
 
-<div class='pageNumber auto'></div>
-<div class='footnote'>PART 2 | CLASSES</div>
-
-\page
-
 <!--div style="height: 1em;">
 </div-->
 #### Metalbending Forms
 At 17th level, you learn one additional form of your choice from the following list:
 
+<div style="margin-left: 1.5em;">
 ##### Metal Encasing
+</div>
 
 ### Lavabending
 <!-- rationale: you cause the particles of rock to vibrate quickly, increasing their temperature -->
 
 #### Volcanic Rock
-Beginning when you choose this specialization at 5th level, you can harden lava into volcanic rock, willing it to cool instead of waiting for this to happen naturally. This ability takes an action and cools a mass of lava equal to your earthbending capacity. The resulting volcanic rock can be earthbent like any other earth.  
+Beginning when you choose this specialization at 5th level, you can use your action to harden lava into volcanic rock, willing it to cool instead of waiting for this to happen naturally with the form _Solidify Lava_ (below).  
 
+In addition, you now use heated rocks in your basic bending attacks. Although not heated to the point of melting, this earth now deals 1d4 bludgeoning + 1d4 fire damage instead of 1d8 bludgeoning. At 11th level, this increases to 1d6 bludgeoning + 1d4 fire and again to 1d6 of each type at 17th level.
 
-In addition, you now use heated rocks in your basic bending attacks. Although not heated to the point of melting, this earth now deals 1d4 bludgeoning + 1d4 fire damage instead of 1d8 bludgeoning. At 11th level, this increases to 1d6 bludgeoning + 1d4 fire and again to 1d6 of each type at 17th level. If you roll a 1 or 2 on the fire damage die, you can reroll the damage but must use the new roll.
-
+<div style="margin-left: 1.5em;">
+##### Solidify Lava
+*Prerequisite: Lavabending specialization*  
+*Cost: 1 action*  
+You harden an amount of lava weighing up to your bending capacity into volcanic rock, willing it to cool instead of waiting for this to happen naturally. The resulting volcanic rock can be earthbent like any other earth. 
+</div>
+  
 #### Melting Earth
-Beginning at 7th level, you can melt an unoccupied 5 foot-square area of the ground within your range into lava, provided it is earth. This is encapsulated by the *Melting Earth* form in the forms list.
+Beginning at 7th level, you can melt an unoccupied 5 foot-square area of the ground within your range into lava, provided it is earth. This is encapsulated by the *Melting Earth* form below.
 
-Once the lava is produced, it slowly hardens due to the exposure to the air unless you spend an action to harden it. This amount of time is determined the first time you use this ability in an encounter, taking 1d6 rounds (starting at the end of your turn). Any creature still in the lava once it has hardened is restrained.  
+Lava is considered difficult terrain. The damage done by lava is determined according to standard D&D 5e rules: any creature standing in or wading through the lava takes 10d10 fire damage, and creatures fully submerged in lava take 18d10 fire damage. As a lavabender, you gain resistance to fire damage.
 
-
-Lava is considered difficult terrain. The damage done by lava is determined according to standard D&D 5e rules: any creature standing in or wading through the lava takes 10d10 fire damage, and creatures fully submerged in lava take 18d10 fire damage. As a lavabender, you have resistance to fire damage.
+<div style="margin-left: 1.5em;">
+##### Melting Earth
+*Prerequisite: Lavabending specialization*  
+*Cost: 1 action*  
+You melt an unoccupied 5 foot-square area of the ground within your range into lava, provided it is earth. Once the lava is produced, it slowly hardens due to the exposure to the air. This amount of time is determined the first time you use this ability in an encounter and is equal to 1d6 rounds (starting at the end of your turn). Any creature still in the lava once it has hardened is restrained.  
+</div>
 
 #### Lavabending
 At 11th level, you learn to move lava with as much control as you move earth. You spend an action to create and move the equivalent of a 3-foot-diameter sphere of lava at a time. When launching lava as an attack, you deal the amount of bludgeoning damage in the Bending column of the class table *and* an additional die of the same type as fire damage.
 
+<div style="height:2em;">
+</div>
 #### Advanced Form
 At 17th level, you learn an additional form of your choice from the following list:
 
+<div style="margin-left: 1.5em;">
 ##### Flaming Shuriken
 *Cost: 3 chi (+1 chi)*  
 You flatten a fist-sized rock, heating it in the process to create a red-hot throwing star. While you maintain concentration, you can control its flight, launching it in a 30-foot line in a direction of your choice by spending 1 chi. The attack uses your bending modifier. 
@@ -328,6 +365,7 @@ The shuriken is able to cut through stone and metal instantaneously. If it leave
 ##### ?
 *Cost: X chi*  
 ...
+</div>
 
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 2 | CLASSES</div>
@@ -359,6 +397,10 @@ You continue to gain the benefits of the rock armor as long as you maintain conc
 
 **Metal:** When using metal as the material for this form, you create a metal suit instead, raising your AC to 18.
 
+#### Mannequin
+*Cost: 1 chi*  
+You create a mannequin out of earth within range, which has the abilities of an _Unseen Servant_, but using your normal bendig range as the spell's range.
+
 #### Earth Glove
 *Cost: 1 chi*  
 You shape earth into a glove around your hand. By spending one additional chi, you can cause the glove to leave your hand and float to an area within your normal bending range. If you launch it at an opponent, it deals 1d6 bludgeoning damage.   
@@ -369,12 +411,12 @@ If you use the glove to attempt to grab and pull a target, the target must succe
 
 The glove crumbles to the ground if it is ever out of your normal earthbending range.
 
+<div style="height:5em;">
+</div>
 #### Earth Boots
 *Cost: 1 chi*  
 You shape earth into boots around your feet. The boots give you advantage against being knocked prone or shoved but reduce your speed to 0. They last for 1 minute, but you can dismiss them early as a free action.
 
-<div style="height:7em;">
-</div>
 #### Earth Launch
 *Cost: 1 chi*  
 You use the earth beneath you to launch yourself and/or other creatures in a 10-foot-square in range into the air, traveling up to 20 feet vertically and 50 feet horizontally. (The maximum number of creatures you can launch is equal to half your earthbending level.)   
@@ -413,19 +455,10 @@ You gain an additional rock for each extra chi you spend.
 ---
 **Metal:** When using metal as the material for this form, each projectile deals 1d6 damage.
 
-#### Solidify Lava
-*Prerequisite: Lavabending specialization*  
-*Cost: 1 action*  
-You harden an amount of lava weighing up to your bending capacity into volcanic rock, willing it to cool instead of waiting for this to happen naturally. The resulting volcanic rock can be earthbent like any other earth.  
-
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 2 | CLASSES</div>
 
 \page
-#### Melting Earth
-*Prerequisite: Lavabending specialization*  
-*Cost: 1 action*  
-You melt an unoccupied 5 foot-square area of the ground within your range into lava, provided it is earth. Once the lava is produced, it slowly hardens due to the exposure to the air. This amount of time is determined the first time you use this ability in an encounter and is equal to 1d6 rounds (starting at the end of your turn).  
 
 #### Quicksand
 *Cost: 3 chi*  
@@ -458,12 +491,6 @@ You collapse a 30-foot square portion of a rock tunnel, ceiling, or wall within 
 <!-- #### Earth Column
 *Cost: X chi*  
 this is mostly superceded by Earthwave and earth launch -->
-
-<!--div style="height:3em;">
-</div-->
-#### Earth Mannequin
-*Cost: 1 chi*  
-You create a mannequin out of earth within range, which has the abilities of an _Unseen Servant_, but using your normal bendig range as the spell's range.
 
 #### Earth Shift
 (Maybe a feature/ability instead) You can move a creature of your choice 5 feet in a direction of your choice by shifting the ground beneath them.

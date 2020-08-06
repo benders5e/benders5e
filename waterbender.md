@@ -2,8 +2,24 @@ Link: https://homebrewery.naturalcrit.com/edit/nv_PIRHWxL
 
 # Waterbender
 
-Waterbenders are extremely adaptable and versatile. Waterbending concentrates on the flow of energy, focusing less on strength and more on turning the opponent's own energy against them. A bender's victory in battle depends on their skill or ingenuity. As the element of change, waterbenders can fluidly and quickly alternate from defense to offense, from a wall of ice to a jet of water, turning their opponent's strength against them.
+Water is the element of change, and just like their namesake, waterbenders are extremely adaptable and versatile. Waterbending concentrates on the flow of energy, focusing less on strength and more on turning the opponent's own energy against them. A bender's victory in battle depends on their skill or ingenuity. As the element of change, waterbenders can fluidly and quickly alternate from defense to offense, from a wall of ice to a jet of water, turning their opponent's strength against them.
 
+### Chi
+Benders make careful study of a magical energy called chi that flows through living bodies. Waterbenders harness this power within themselves to exert their will over water.
+
+### Community and Training
+Tribes and stuff. What it means to leave.
+
+### Creating a Waterbender
+As you make your waterbender character, think about ...
+- The culture of your tribe. Did you grow up in the small Southern Water Tribe? The larger, better-equipped Northern Water Tribe? In the swamp? Or somewhere else entirely? This background will likely influence your bending style and your preferred state of water to bend.
+- How you began training in waterbending. Were your parents waterbenders? Your siblings? When did you first learn of your abilities? Who became your bending master?
+- Why did you leave your home?
+
+Waterbenders tend towards a Lawful alignment because of their strong sense of community.
+
+<!--div style="height: 2em;">
+</div-->
 #### Quick Build
 You can make a waterbender quickly by following these suggestions. First, pick Intelligence as your highest score, followed by Constitution. Second, choose the Sailor background.  
 
@@ -38,12 +54,12 @@ You start with the following equipment, in addition to the equipment granted by 
 > ##### Seeing Underwater
 > You can see underwater just as well as above water. Areas above water viewed from underwater are considered lightly obscured.
 
-<div style="height: 8em;">
+<div style="height: 2em;">
 </div>
 ### Waterbending
 At 1st level, you realize that you have an innate ability to control water. You can move small volumes of *liquid* water and liquids that are mostly water at will by spending 1 chi of your Attack action to cause the effects of the *Shape Water* cantrip (excluding changing the water's color or opacity). (See "Bending Attack" for a description of the role chi points play in attacks and the rules for bending attacks.) You must draw your bending material from a source within 30 feet. 
 
-You are also capable of converting water into ice or snow and back, but without fine-grained control over the shape of the ice or snow. You can also cause the effects of the *Grease* spell at will by freezing a thin sheet of water in an area of your choice. Your range for this spell equals your normal bending range.  
+You are also capable of converting water into ice or snow and back, but without fine-grained control over the shape of the ice or snow. You can cause the effects of the *Grease* spell at will by freezing a thin sheet of water in an area of your choice. Your range for this spell equals your normal bending range.  
 
 When using either *Grease* or changing the state of water from liquid to solid or vice versa in combat, you spend 1 chi of your Attack action (see "Bending Attack" for a description of the role chi points play in attacks).  
 
@@ -55,25 +71,6 @@ The volume of water you can control and the range within which you can control i
 ### Bending Attack
 During combat, you can channel your chi to use your bending as a rudimentary attack by hitting other creatures. Every time you take the Attack action, you draw on your inner pool of energy, or *chi*. The class table shows how much chi you have available for each Attack action ("Chi per Attack"). As your bending grows more powerful and your connection to your inner chi grows, this amount increases.
 
-When you take a basic bending attack, you spend 1 point of chi and deal 1d6 bludgeoning damage. This damage increases with your waterbender level and is shown in the "Bending" column of the Waterbender Table. The range of your attacks is the same as your bending range ("Range" column).  
-
-At 1st level, you must choose which of your modifiers to use for attacks: Intelligence or Dexterity. This cannot be changed later.  
-
-
-**Attack Bonus** = [Int OR Dex modifier] + proficiency bonus
-
-
-**Damage Bonus** = [Int OR Dex modifier]  
-
-
-**Bending DC** = 8 + [Int OR Dex mod] + proficiency bonus
-
-The attack bonus is hereafter referred to as your waterbending modifier. Unless otherwise specified, anytime a target is required to make a saving throw, it makes it against your bending DC.
-
-### Redirection
-Starting at 2nd level, you can use your reaction to attempt to redirect a ranged attack that hits you. This ability applies to
-- basic ranged waterbending attacks (not ones that are the result of a bending form nor specialized bending such as an advanced waterbending ability)
-
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 2 | CLASSES</div>
 \page
@@ -84,8 +81,8 @@ Starting at 2nd level, you can use your reaction to attempt to redirect a ranged
 |Level| Proficiency Bonus | Bending | Volume (sphere diameter) | Range | Forms Known | Chi per Attack | Features |
 |:---:|:-----------------:|:-------:|:------:|:-----:|:-:|:-----:|:---------|
 | 1st | +2 | 1d6     | 5 ft.  | 30/60 | – | 1     |Waterbending, Bending Attack|
-| 2nd | +2 | 1d6     | 5 ft.  | 30/60 | – | 1     |Redirection, Stance|
-| 3rd | +2 | 1d6     | 5 ft.  | 30/60 | 2 | 2     |Waterbending Forms|
+| 2nd | +2 | 1d6     | 5 ft.  | 30/60 | 1 | 1     |Stance, Waterbending Forms|
+| 3rd | +2 | 1d6     | 5 ft.  | 30/60 | 2 | 2     |Redirection|
 | 4th | +2 | 1d6     | 10 ft. | 30/60 | 2 | 2     |Ability Score Improvement, Water in All Its States|
 | 5th | +3 | 1d8     | 10 ft. | 60/120| 3 | 2     |Waterbending specialization|
 | 6th | +3 | 1d8     | 10 ft. | 60/120| 3 | 2     |Water Movement, Versatile Reaction|
@@ -103,18 +100,25 @@ Starting at 2nd level, you can use your reaction to attempt to redirect a ranged
 |18th | +6 | 1d12    | 20 ft. |200/400| 9 | 5     |–|
 |19th | +6 | 1d12    | 20 ft. |200/400| 10| 6     |Ability Score Improvement|
 |20th | +6 | 1d12    | 20 ft. |200/400| 10| 6     |?|
-</div>
+</div> 
+
+When you take a basic bending attack, you spend 1 point of chi and deal 1d6 bludgeoning damage. This damage increases with your waterbender level and is shown in the "Bending" column of the Waterbender Table. The range of your attacks is the same as your bending range ("Range" column).  
+
+At 1st level, you must choose which of your modifiers to use for attacks: Intelligence or Dexterity. This cannot be changed later.  
 
 
-- basic ranged earthbending attacks, as long as the volume of earth used in the attack is smaller than the volume of water you use to redirect it
-- non-bending ranged attacks
+**Attack Bonus** = [Int OR Dex modifier] + proficiency bonus
 
-You must have at least one hand free to use this ability. When you do so, the damage you take from the attack is reduced by 1d10 + your waterbending modifier + your waterbender level. If you reduce the damage to 0 and have at least one hand free, you redirect the element to make a ranged attack against a creature of your choice as part of the same reaction.  
 
-You can use this ability a number of times equal to your bending modifier per long rest.  
+**Damage Bonus** = [Int OR Dex modifier]  
+
+
+**Bending DC** = 8 + [Int OR Dex mod] + proficiency bonus
+
+The attack bonus is hereafter referred to as your waterbending modifier. Unless otherwise specified, anytime a target is required to make a saving throw, it makes it against your bending DC.
 
 ### Stance
-Beginning at 2nd level, you adopt a particular stance as your specialty. Choose one of the following options:
+Beginning at 2nd level, you adopt a particular stance as your specialty. Choose one of the following options: 
 
 #### Water Ring
 In combat, you surround yourself with a ring of water which you can use as your source of bending. While surrounded by this ring, once per turn you can reduce the cost of a bending form by one chi. 
@@ -130,12 +134,12 @@ With these tendrils, you also gain the ability to use your Redirection ability o
 
 You must spend one chi on one of your turns to collect water around your arms and gain these benefits.
 
-### Waterbending Forms
-At 3rd level, your connection to chi and practice of bending allows you to weave your bending into your combat style. With training, you are able to learn particular attacks that combine martial arts and bending to carry out more sophisticated attacks.  
-
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 2 | CLASSES</div>
 \page
+
+### Waterbending Forms
+Starting at 2nd level, your connection to chi and practice of bending allows you to weave your bending into your combat style. With training, you are able to learn particular attacks that combine martial arts and bending to carry out more sophisticated attacks. 
 
 You learn one form from the list at the end of this class description. The number of forms you know increases with level and is shown in the Waterbender Table. Each time you learn a new form you may also replace one form you already know with another one.  
 
@@ -151,13 +155,23 @@ You have 4 exhaustion points at your disposal. (Use a d4 to keep track.) The d4 
 
 For example, say the counter is set at 2. That turn, you spend all your chi points attacking and turn the counter to 1. The next turn, you have 0 chi to spend, and you can either use your Attack action to make a melee, non-bending attack or forfeit it. The next turn, your counter is back up to 2. If you spend all your chi once again, it decreases back to 1 again, but if you spend anything less than the maximum (e.g. all but one chi) the counter once again increases to 3.
 
+### Redirection
+At 3rd level, you can use your reaction to attempt to redirect a ranged attack that hits you. This ability applies to
+- basic ranged waterbending attacks (not ones that are the result of a bending form nor specialized bending such as an advanced waterbending ability)
+- basic ranged earthbending attacks, as long as the volume of earth used in the attack is smaller than the volume of water you use to redirect it
+- non-bending ranged attacks
+
+You must have at least one hand free to use this ability. When you do so, the damage you take from the attack is reduced by 1d10 + your waterbending modifier + your waterbender level. If you reduce the damage to 0 and have at least one hand free, you redirect the element to make a ranged attack against a creature of your choice as part of the same reaction.  
+
+You can use this ability a number of times equal to your bending modifier per long rest.
+
 ### Ability Score Improvement
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
 Using the optional feats rule, you can forgo taking this feature to take a feat of your choice instead.
 
 ### Water in All Its States
-At 4th level, you can manipulate water more nimbly, allowing you to change its state from liquid to solid and back at will. Additionally, your water source no longer needs to be liquid: you can solid and gaseous water as well, e.g. snow, ice, steam.  
+At 4th level, you learn to manipulate water more nimbly, creating more intricate shapes. Your water source no longer needs to be liquid: you can bend solid and gaseous water as well, e.g. snow, ice, steam.  
 
 Additionally, you can bend even water you cannot see, such as an underground reservoir (provided it is within range).
 
@@ -168,8 +182,8 @@ At 5th level, you specialize in one of the following types of waterbending: adva
 At 6th level, you learn to synchronize your control of water with your movement. You gain the ability to move across liquids. 
 <!--When you do so, your speed is doubled.-->
 
-<div style="height:1em;">
-</div>
+<!--div style="height:1em;">
+</div-->
 ### Versatile Reaction
 At 6th level, you react quickly and strategically when you are hit by a melee attack. By spending 1 chi point (from your upcoming turn), you can use your reaction to do one of the following:
 
@@ -181,6 +195,11 @@ You take this opportunity to wrap a tendril of water around your attacker. An at
 
 ### Improved Water Movement
 At 9th level, your control over solid water also grants you the ability to move easily over ice and snow. For you, this type of terrain is no longer difficult terrain.
+
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 2 | CLASSES</div>
+
+\page
 
 ### ?
 At 10th level, ...
@@ -203,11 +222,6 @@ Beginning at 15th level, ... [movement or reaction upgrade]
 ### ?
 At 20th level, ... (something consistent with "element of change"?)
 
-<div class='pageNumber auto'></div>
-<div class='footnote'>PART 2 | CLASSES</div>
-
-\page
-
 ## Waterbending specializations
 
 ### Advanced Waterbending
@@ -218,9 +232,9 @@ Beginning when you choose this specialization at 5th level, you gain access to a
 You also automatically know the form *Water is Everywhere* and it does not count against the "Forms Known" limit in the class table.
 
 #### Mist-Stepping
-At 7th level, you are able to use your control over water and ice to move through the air. By quickly freezing tiny pillars of ice beneath your feet, you gain a flying speed of 60 feet.
+At 7th level, you are able to use your control over water and ice to move through the air. By quickly freezing tiny pillars of ice beneath your feet, you gain a flying speed equal to your walking speed.
 
-#### ???
+#### ?
 At 11th level, ...  
 
 #### Expanded Horizons
@@ -247,8 +261,8 @@ At 17th level, you learn to heal even the oldest and deepest wounds. You can use
 
 <!--Spiritbending: https://avatar.fandom.com/wiki/Healing#Spiritbending -->
 
-<div style="height: 1em;">
-</div>
+<!--div style="height: 1em;">
+</div-->
 ### Bloodbending
 *Prerequisite: Find a bloodbending master.*
 
@@ -270,15 +284,15 @@ The creature makes a Charisma saving throw against your bending DC. If the moon 
 
 The condition of the creature persists while you maintain concentration. At the end of each of its turns, the target can make another Charisma saving throw. On a success, the condition (Paralyzed or Restrained) ends and the creature is immune to your bloodbending until it has taken a long rest.
 
-#### Bloodbending
-At 7th level, your power grows. During the full moon, you can use your action to attempt to control the movements of a creature instead of only Paralyzing it.  You can use this ability a number of times equal to your bending modifier per long rest.     
-
-The creature makes a Saving Throw as before. During a full moon, a failure leads it to become Paralyzed and its subsequent movements are under your control. On its turn, you can force the creature to take its movement and one Action (no bonus actions). If you cause it to take the Attack action, it only makes one attack. You can also cause the creature to use a Reaction, but this requires you to use your own Reaction as well. On a success, the creature becomes Paralyzed, but you have no control over its movements.
-
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 2 | CLASSES</div>
 
 \page
+
+#### Bloodbending
+At 7th level, your power grows. During the full moon, you can use your action to attempt to control the movements of a creature instead of only Paralyzing it.  You can use this ability a number of times equal to your bending modifier per long rest.     
+
+The creature makes a Saving Throw as before. During a full moon, a failure leads it to become Paralyzed and its subsequent movements are under your control. On its turn, you can force the creature to take its movement and one Action (no bonus actions). If you cause it to take the Attack action, it only makes one attack. You can also cause the creature to use a Reaction, but this requires you to use your own Reaction as well. On a success, the creature becomes Paralyzed, but you have no control over its movements.
 
 If the moon is not full, on a failure you can only force the target to use half its movement and take one Action at disadvantage (that is, attacks and ability checks you force it to take are made at disadvantage). You cannot make the creature use its Reaction. With a successful saving throw, the target is only Paralyzed and you have no further control over its actions.
 
@@ -306,7 +320,7 @@ Beginning when you choose this specialization at 5th level, you learn to control
 At 7th level, you learn to control 2 plants in your range at a time with your bending. This number continues to increase according to your swampbender level (waterbender level minus 5); at each level, you can control a number of stems equal to half your swampbender level (minimum of 2).
 
 #### Plant Armor
-At 11th level, you can summon plant to create a sort of biological armor. You spend two minutes gathering enough plants to surround you, increasing your AC <!--by X to a maximum of?--> to 18.
+At 11th level, you can summon plants to create a sort of biological armor. You spend one action gathering enough plants to surround you, increasing your AC <!--by X to a maximum of?--> to 18. The vines also transform you into a Large creature.
 
 #### Spirit Vines
 At 17th level, you are able to read the spiritual energy in the connected plant matter of the world. Once per long rest, you can spend at most ten minutes meditating while touching a plant. You essentially cast the spell *Scrying*, allowing you to see the events currently unfolding in another place of your choosing anywhere else in the material world, provided it has some plant cover.
@@ -315,8 +329,12 @@ You can also choose to use this ability to gain the benefits of the spell *Commu
 
 <!--Lifting things/pushing things-->
 
-<div style="height: 6em;">
-</div>
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 2 | CLASSES</div>
+\page
+
+<!--div style="height: 6em;">
+</div-->
 ## Waterbending Forms
 <!--(Even mix of defense and offense)-->
 
@@ -369,10 +387,6 @@ You grapple a Large or smaller creature within the tendril's range. The tendril'
 ##### Manipulate
 The tendril can interact with objects as a *Mage Hand* would, but it doesn't have fingers so it lacks fine-grained control.
 
-<div class='pageNumber auto'></div>
-<div class='footnote'>PART 2 | CLASSES</div>
-\page
-
 #### Ice Sword
 *Cost: 1 chi (+2 chi)*  
 *Prerequisite: 4th level*  
@@ -412,6 +426,11 @@ You create and launch 2 ice daggers at any combination of targets within your lo
 
 
 You gain an additional dagger for each extra chi you spend.
+
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 2 | CLASSES</div>
+
+\page
 
 #### Ice Shards
 *Cost: 2 chi*  
@@ -456,11 +475,6 @@ todo
 #### Ice Storm
 *Cost: 5 chi*  
 You cause the effects of the *Ice Storm* spell.
-
-<div class='pageNumber auto'></div>
-<div class='footnote'>PART 2 | CLASSES</div>
-
-\page
 
 ### Advanced Forms
 Only Waterbenders of the Advanced Waterbending specialization have access to these forms.

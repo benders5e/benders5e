@@ -2,16 +2,10 @@ Link: https://homebrewery.naturalcrit.com/edit/PZMEFOb7Xg
 
 # Monk
 
-Her fists a blur as they deflect an incoming hail of arrows, a half-elf springs over a barricade and throws herself into the massed ranks of hobgoblins on the other side. She whirls among them, knocking their blows aside and sending them reeling, until at last she stands alone.
-
-Taking a deep breath, a human covered in tattoos settles into a battle stance. As the first charging orcs reach him, he exhales and a blast of fire roars from his mouth, engulfing his foes.
-
-Moving with the silence of the night, a black-clad halfling steps into a shadow beneath an arch and emerges from another inky shadow on a balcony a stone’s throw away. She slides her blade free of its cloth-wrapped scabbard and peers through the open window at the tyrant prince, so vulnerable in the grip of sleep.
-
 Whatever their discipline, monks are united in their ability to magically harness the energy that flows in their bodies. Whether channeled as a striking display of combat prowess or a subtler focus of defensive ability and speed, this energy infuses all that a monk does.
 
-### The Magic of Ki
-Monks make careful study of a magical energy that most monastic traditions call ki. This energy is an element of the magic that suffuses the multiverse—specifically, the element that flows through living bodies. Monks harness this power within themselves to create magical effects and exceed their bodies’ physical capabilities, and some of their special attacks can hinder the flow of ki in their opponents. Using this energy, monks channel uncanny speed and strength into their unarmed strikes. As they gain experience, their martial training and their mastery of ki gives them more power over their bodies and the bodies of their foes.
+### The Magic of Chi
+Monks make careful study of a magical energy that most monastic traditions call chi (or ki). This energy is an element of the magic that suffuses the multiverse—specifically, the element that flows through living bodies. Monks harness this power within themselves to create magical effects and exceed their bodies’ physical capabilities, and some of their special attacks can hinder the flow of chi in their opponents. Using this energy, monks channel uncanny speed and strength into their unarmed strikes. As they gain experience, their martial training and their mastery of chi gives them more power over their bodies and the bodies of their foes.
 
 ### Training and Asceticism
 Small walled cloisters dot the landscapes of the worlds of D&D, tiny refuges from the flow of ordinary life, where time seems to stand still. The monks who live there seek personal perfection through contemplation and rigorous training. Many entered the monastery as children, sent to live there when their parents died, when food couldn’t be found to support them, or in return for some kindness that the monks had performed for their families.
@@ -49,6 +43,18 @@ As a monk, you gain the following class features.
 **Saving Throws:** Strength, Dexterity  
 **Skills:** Choose two from Acrobatics, Athletics, History, Insight, Religion, and Stealth
 
+#### Equipment
+
+You start with the following equipment, in addition to the equipment granted by your background:
+
+- (a) a shortsword or (b) any simple weapon
+- (a) a dungeoneer’s pack or (b) an explorer’s pack 
+- 10 darts
+
+### Unarmored Defense
+<!--*[also Airbender]*  -->
+Beginning at 1st level, while you are wearing no armor and not wielding a shield, your AC equals 10 + your Dexterity modifier + your Wisdom modifier.
+
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 2 | CLASSES</div>
 \page
@@ -79,18 +85,6 @@ As a monk, you gain the following class features.
 |20th | +5 | 1d10 | 6 | +30 ft.  | Perfect Self
 </div>
 
-#### Equipment
-
-You start with the following equipment, in addition to the equipment granted by your background:
-
-- (a) a shortsword or (b) any simple weapon
-- (a) a dungeoneer’s pack or (b) an explorer’s pack 
-- 10 darts
-
-### Unarmored Defense
-<!--*[also Airbender]*  -->
-Beginning at 1st level, while you are wearing no armor and not wielding a shield, your AC equals 10 + your Dexterity modifier + your Wisdom modifier.
-
 ### Martial Arts
 At 1st level, your practice of martial arts gives you mastery of combat styles that use unarmed strikes and monk weapons, which are shortswords and any simple melee weapons that don’t have the two-handed or heavy property.
 
@@ -102,16 +96,16 @@ You gain the following benefits while you are unarmed or wielding only monk weap
 
 Certain monasteries use specialized forms of the monk weapons. For example, you might use a club that is two lengths of wood connected by a short chain (called a nunchaku) or a sickle with a shorter, straighter blade (called a kama). Whatever name you use for a monk weapon, you can use the game statistics provided for the weapon in the Weapons section.
 
-<div class='pageNumber auto'></div>
-<div class='footnote'>PART 2 | CLASSES</div>
-\page
-
 ### Chi
 Starting at 2nd level, your training allows you to harness the mystic energy of chi. Your access to this energy is represented by a number of chi points. Your monk level determines the number of points you have, as shown in the Chi Points column of the Monk table.
 
 You can spend these points to fuel various chi features. You start knowing three such features: Flurry of Blows, Patient Defense, and Step of the Wind. You learn more chi features as you gain levels in this class.
 
 When you spend a chi point, it is unavailable until you finish a short or long rest, at the end of which you draw all of your expended chi back into yourself. You must spend at least 30 minutes of the rest meditating to regain your chi points.
+
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 2 | CLASSES</div>
+\page
 
 Some of your chi features require your target to make a saving throw to resist the feature’s effects. The saving throw DC is calculated as follows:
 
@@ -132,7 +126,7 @@ You can spend 1 chi point to take the Disengage or Dash action as a bonus action
 Starting at 2nd level, your speed increases by 10 feet while you are not wearing armor or wielding a shield. This bonus increases when you reach certain monk levels, as shown in the Monk table.
 
 ### Monastic Tradition
-When you reach 3rd level, you commit yourself to a monastic tradition: the Way of the Open Hand, detailed at the end of the class description or one from another source. Your tradition grants you features at 3rd level and again at 6th, 11th, and 17th level.
+When you reach 3rd level, you commit yourself to a monastic tradition: the Way of the Open Hand, the Way of Chi, or the Way of Shadow, all detailed at the end of the class description. Your tradition grants you features at 3rd level and again at 6th, 11th, and 17th level.
 
 <!--div style="height:0em;">
 </div-->
@@ -168,11 +162,6 @@ At 7th level, your instinctive agility lets you dodge out of the way of certain 
 <!--*[also Airbender (Advanced Specialization, 5th level)]*  -->
 Starting at 7th level, you can use your action to end one effect on yourself that is causing you to be charmed or frightened.
 
-<div class='pageNumber auto'></div>
-<div class='footnote'>PART 2 | CLASSES</div>
-
-\page
-
 ### Purity of Body
 At 10th level, your mastery of the chi flowing through you makes you immune to disease and poison.
 
@@ -188,6 +177,11 @@ Additionally, whenever you make a saving throw and fail, you can spend 1 chi poi
 ### Timeless Body
 <!--*[also Airbender (14th level)]*  -->
 At 15th level, your chi sustains you so that you suffer none of the frailty of old age, and you can’t be aged magically. You can still die of old age, however. In addition, you no longer need food or water.
+
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 2 | CLASSES</div>
+
+\page
 
 ### ?
 Beginning at 18th level, [combat utility to replace Empty Body]
@@ -219,22 +213,17 @@ At 17th level, you gain the ability to set up lethal vibrations in someone’s b
 
 You can have only one creature under the effect of this feature at a time. You can choose to end the vibrations harmlessly without using an action.
 
-### Way of the Chi
-Monks of the Way of the Chi possess a deep understanding of the flow of chi in the body and learn to interfere with it in their enemies. They learn to identify pressure points and techniques to block chi in their targets, dealing light but deadly strikes, weakening their opponents, and even causing them to temporarily lose their bending. 
+### Way of Chi
+Monks of the Way of Chi possess a deep understanding of the flow of chi in the body and learn to interfere with it in their enemies. They learn to identify pressure points and techniques to block chi in their targets, dealing light but deadly strikes, weakening their opponents, and even causing them to temporarily lose their bending. 
 
 #### Precise Strike
 Starting when you choose this tradition at 3rd level, you learn to use your knowledge of pressure points to augment your attacks by attacking a target's weak points. Whenever you make an unarmed strike, you can spend 1 chi point to attack the target's exposed weak point(s). On a hit, you deal the attack's full damage and the target is placed under the effects of the *Bane* spell, subtracting your martial arts die (instead of a 1d4) from its attack rolls for the next minute.
 
-#### ?
+#### Pressure Points
 *[Adapted from [Way of the Ki Blocker subclass](https://dandwiki.com/wiki/Way_of_the_Ki_Blocker_(5e_Subclass\))]*  
 At 6th level, you learn to use pressure points to disrupt the flow of chi and, consequently, certain bodily functions. Whenever you make an unarmed strike, you can spend 1 chi point to cause one of the following effects:
 
 <!--If the part of the body you target does not exist on a certain creature or cannot be reached, the attempt fails.-->
-
-<div class='pageNumber auto'></div>
-<div class='footnote'>PART 2 | CLASSES</div>
-
-\page 
 
 ***
 **Head:** On a hit, the creature must make a Constitution saving throw or be stunned until the end of their next turn.
@@ -249,6 +238,11 @@ At 6th level, you learn to use pressure points to disrupt the flow of chi and, c
 
 #### Chi Blocking
 Beginning at 11th level, you learn to use yoru strikes to completely block the flow of chi in your opponents for a short period of time. Whenever you hit a target with an unarmed strike, you can spend 3 chi points to impose one of the following effects on your target:
+
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 2 | CLASSES</div>
+
+\page 
 
 - It must succeed on a Dexterity saving throw or have its Strength or Dexterity reduced to 0 (setting the modifier to -5) for the next minute
 - It must succeed on a Dexterity saving throw or lose its bending for the next minute

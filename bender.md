@@ -5,26 +5,7 @@ W*ater – Earth – Fire – Air. Long ago, the nations lived together in harmo
 
 In his absence, chaos reigns, kept at bay only by brave benders who have taken it upon themselves to fill the void he left...
 
-### The Magic of Chi
-Benders make careful study of a magical energy called chi ("ki" by monks). This energy is an element of the magic that suffuses the multiverse – specifically, the element that flows through living bodies. Benders harness this power within themselves to create magical effects and exceed their bodies' physical capabilities, and some of their special attacks can hinder the flow of chi in their opponents. Using this energy, monks channel uncanny speed and strength into their unarmed strikes. As they gain experience, their martial training and their mastery of chi gives them more power over their bodies and the bodies of their foes.
-
-### Training
-Benders are trained in a variety of ways.
-- monks
-- self-taught
-- original benders
-- family members
-- travel to a master
-
-### Creating a Bender
-As you make your bender character, think about ...
-- The culture of your nation: did you grow up in the nation of your bending element? If not, your style may be very different from that of a bender raised by their element's culture (e.g. Zaheer as an airbender)
-- How you began training in bending. Were your parents benders? Siblings? When did you first learn of your abilities? Who became your bending master?
-- Why did you leave your home?
-
-The element you bend and the type of training you underwent has a great impact on benders' alignments. Think about the type of environment you grew up in, and how that might manifest itself. As a rule of thumb, fire and air are more chaotic elements, while earth is lawful.
-
-### Classes in this setting
+### Classes
 
 - The four types of Benders (Water, Earth, Fire, Air)
 - Modified Monk (with Chi Blocker monastic tradition)
@@ -42,21 +23,15 @@ This class uses, for the most part, the same skills as regular 5th edition D&D. 
 - No Arcana
 - Replace Religion (Int) with Spirituality (Wis) *[not propagated through classes yet]*
 
-<div style="height: 1em;">
-</div>
+<!--div style="height: 1em;">
+</div-->
 ### Languages
 Common is the only language in this setting. Thus, whenever a background allows you to learn an additional lanauge, you can instead gain proficiency in a new tool, gaming set, or musical instrument.
 
 ### Opportunity Attacks
 Benders can spend a maximum of 1 chi on their opportunity attacks.
 
-### Planes of Existence
-#### Material
-#### Spirit World
-There's spirits there.
-
-
-<div style="height:3em;">
+<div style="height:2em;">
 </div>
 
 > ##### Underwater Combat
@@ -68,6 +43,11 @@ There's spirits there.
 <div style="height: 2em;">
 </div>
 
+### Planes of Existence
+#### Material
+#### Spirit World
+There's spirits there.
+
 ### Celestial Tracking Variant
 
 - **Phases of the Moon.**
@@ -76,10 +56,6 @@ There's spirits there.
 - **Day and Night.**
 - **Harmonic Convergence.**
 
-<div class='pageNumber auto'></div>
-<div class='footnote'>PART 1 | INTRODUCTION</div>
-
-\page
 <div style="height:3em;">
 </div>
 
@@ -99,9 +75,10 @@ There's spirits there.
 ##### Equipment
 | Name        |Cost| Damage        | Weight   |Properties             |
 |:------------|:---|:--------------|:---------|:-----------------------
-| Dart        |5 cp|1d4 piercing   |0.25 lb each|Finess, range, thrown (range 20/60)|
-| Fan (closed)|5 gp|1d4 bludgeoning|1 lb. each|Finesse, light         |
-| Fan (open)  |5 gp|1d4 slashing   |1 lb. each|Finesse, light, special|
+| Boomerang   |1sp |1d6 bludgeoning|1/2 lb    |Finesse, special, thrown (range30/120)
+| Dart        |5 cp|1d4 piercing   |1/4 lb    |Finesse, thrown (range 20/60)|
+| Fan (closed)|5 gp|1d4 bludgeoning|1 lb.     |Finesse, light         |
+| Fan (open)  |5 gp|1d4 slashing   |1 lb.     |Finesse, light, special|
 | Shortsword  |10 gp|1d6 piercing  |2 lb.     |Finesse, light         |
 | Scimitar    |25 gp|1d6 slashing  |3 lb.     |Finesse, light         |
 | Glider      |5 gp|1d4 bludgeoning|2 lb.     |Versatile, special     | 
@@ -112,6 +89,9 @@ There's spirits there.
 
 +1 to AC
 -->
+
+## Boomerang
+It always comes back :')
 
 ## Fans
 Taking your fans out or putting them away takes a bonus action. Opening or closing them does as well. You can still earthbend while holding the fans; they augment your bending, increasing your range by 10 feet.
@@ -125,25 +105,24 @@ Your hands and feet are both occupied when gliding, so if you use them to bend o
 
 You can attempt to carry another other person in addition to you on the glider. In this case, you must succeed on a DC 13 Dexterity saving throw or lose control. The DC increases by 3 with each additional person on the glider.
 
-<!--## Pai Sho Board
-### Special White Lotus Tile
-Get room and board at any friendly house
+## Guanmao Hat
+This large-brimmed hat is flat and shield-like, allowing the wearer to defuse various attacks by lowering their head. It confers +1 to AC.
 
-## Space Sword
-Longsword, special.
--->
-## Spirit Water
-When used by a waterbender for healing, it restores double the amount of HP granted by regular healing.
-
-## Water pouch
-A water pouch holds the equivalent of a 1-foot-diameter sphere of water. It is typically worn on the waist and can be used for waterbending when no water source is within range.
-
-<div style="height:7em;"></div>
+<div style="height:7em;">
+</div>
 ## Hooked Swords
 On a hit, you can make an opposed Dexterity check against the target's Strength. On a success, the target is disarmed and its weapon clatters to the ground in the nearest empty space (your choice if there are multiple options). If the target is wielding more than one weapon, only one of them falls to the ground.
 
-## Guanmao Hat
-This large-brimmed hat is flat and shield-like, allowing the wearer to defuse various attacks by lowering their head. It confers +1 to AC.
+<!--## Pai Sho Board
+### Special White Lotus Tile
+Get room and board at any friendly house
+-->
+
+## Spirit Water
+When used by a waterbender for healing, it restores double the amount of HP granted by healing with regular water.
+
+## Water pouch
+A water pouch holds the equivalent of a 1-foot-diameter sphere of water. It is typically worn on the waist and can be used for waterbending when no water source is within range.
 
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 3 | ITEMS</div>
@@ -198,8 +177,12 @@ These feats can be chosen by any class in a Bender campaign.
 \page
 # Backgrounds
 
+<p></p>
+Some backgrounds are nation-specific. Backgrounds that can only be taken by Benders (of the corresponding element) are marked with an asterisk.
+
 ## All Classes
-### D&D 5e Backgrounds
+These backgrounds can be taken by any class.
+### Regular D&D 5e Backgrounds
 <div style='column-count:2'>
   
 - Charlatan
@@ -217,38 +200,81 @@ These feats can be chosen by any class in a Bender campaign.
 </div>
 
 ### White Lotus Memeber
+*Source: Sword Coast Adventurer's Guide "Faction Agent"*  
+<!--"Faction Agent" background in the Sword Coast Adventurer's Guide-->
+You are a member of the secret organization of the White Lotus.
 
+***
 **Skill Proficiencies:** Insight and one of Intelligence, Wisdom, or Charisma  
 **Tool Proficiencies:** Pai sho set, disguise kit  
 **Equipment:** White lotus pai sho tile, a copy of the history of the Order of the White Lotus, a set of common clothes, and a pouch containing 15 gp
 
 ***
-See the "Faction Agent" background in the *Sword Coast Adventurer's Guide* for the **Background Feature** and **Suggested Characteristics**.
+#### Feature:
+#### Suggested Characteristics
 
-### Cloistered Scholar
+### Cloistered Scholar  
+*Source: Sword Coast Adventurer's Guide*  
+<!--https://5ebackgrounds.com/cloistered-scholar/ -->
+***
 You are a scholar from one of the great universities of the Earth Kingdom (e.g. from Ba Sing Se University).
 ***
+**Skill Proficiencies:**  
 **Tool Proficiencies:** One type of musical instrument, ?  
+**Equipment:** 
 
-***
-See the [Cloistered Scholar background](https://5ebackgrounds.com/cloistered-scholar/) in the *Sword Coast Adventurer's Guide* for the remaining details.
+#### Feature: 
+#### Suggested Characteristics
 
 ### Fisher
-See the [Fisher background](https://ghostsofsaltmarsh-9.obsidianportal.com/wiki_pages/saltmarsh-backgrounds) in *Ghosts of Saltmarsh* for details.
+*Source: Ghosts of Saltmarsh*  
+<!--https://ghostsofsaltmarsh-9.obsidianportal.com/wiki_pages/saltmarsh-backgrounds -->
+***
+Description.
+***
+**Skill Proficiencies:**  
+**Tool Proficiencies:**  
+**Equipment:** 
+
+#### Feature: 
+#### Suggested Characteristics
 
 ### Marine
-See the [Marine background](https://ghostsofsaltmarsh-9.obsidianportal.com/wiki_pages/saltmarsh-backgrounds) in *Ghosts of Saltmarsh* for details.
+*Source: Ghosts of Saltmarsh*  
+<!--https://ghostsofsaltmarsh-9.obsidianportal.com/wiki_pages/saltmarsh-backgrounds -->
+***
+Description.
+***
+**Skill Proficiencies:**  
+**Tool Proficiencies:**  
+**Equipment:** 
+
+#### Feature: 
+#### Suggested Characteristics
 
 ### Shipwright
-See the [Shipwright background](https://ghostsofsaltmarsh-9.obsidianportal.com/wiki_pages/saltmarsh-backgrounds) in *Ghosts of Saltmarsh* for details.
-<!--In addition to the features described in the background's original source, you gain a swim speed of 30 feet.-->
+*Source: Ghosts of Saltmarsh*  
+<!--https://ghostsofsaltmarsh-9.obsidianportal.com/wiki_pages/saltmarsh-backgrounds -->
+***
+Description.
+***
+**Skill Proficiencies:**  
+**Tool Proficiencies:**  
+**Other Proficiencies:** Swim speed 30 feet  
+**Equipment:** 
+
+#### Feature: 
+#### Suggested Characteristics
 
 <!--div style="height: 1em;">
 </div-->
-## Waterbender
+
+## Water
 
 ### Southern/Northern Water Tribe
+Description.
 
+***
 **Skill Proficiencies:**  
 **Tool Proficiencies:**  
 **Equipment:** 
@@ -256,16 +282,15 @@ See the [Shipwright background](https://ghostsofsaltmarsh-9.obsidianportal.com/w
 #### Feature: Cold Endurance
 Use Cons instead of Dex. OR have proficiency with Cons ST instead of Dex. (?)
 
-<div style="height: 1em;">
-</div>
 #### Suggested Characteristics
 Use the tables for the guild artisan background in the Player's Handbook as the basis for your traits and motivations, modifying the entries when appropriate to suit your role within your home tribe.  
 
 Your bond might be associated with other members of your tribe, or a location or an object that is important to your tribe. The ideal you strive for is probably in keeping with the tenets and principles of your tribe, but might be more personal in nature.
 
-### Swampbender
+### \*Swampbender
 You hail from the swamps in the Earth Kingdom.  
 
+***
 **Skill Proficiencies:**  
 **Tool Proficiencies:**  
 **Other Proficiencies:** Swim speed 30 feet  
@@ -274,20 +299,28 @@ You hail from the swamps in the Earth Kingdom.
 #### Feature: ?
 You use your Wisdom modifier as your waterbending modifier. 
 
-## Earthbender
+#### Suggested Characteristics
 
-### Sandbender
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 5 | BACKGROUNDS</div>
+
+\page
+
+## Earth
+
+### \*Sandbender
 You hail from the Si Wong Desert. Your time in this arid biome has forced you to master a special form of earthbending known as sandbending.  
 
+***
 **Skill Proficiencies:**  
 **Tool Proficiencies:**  
+**Other Proficiencies:** Sand is not difficult terrain for you.
 **Equipment:** 
-
-Sand is not difficult terrain for you.
 
 #### Feature: Sandbending
 The following earthbending forms are available to you in addition to the forms listed in the Earthbender class description. In addition, when you reach 6th level, you learn to bend glass in addition to the other earth-based materials described in "Expansion and Compaction".
 
+<div style="margin-left: 1.5em;">
 ##### Earth to Sand
 *Cost: 1 chi*  
 You turn a 30-foot square area of earth in your bending range into sand. This area becomes difficult terrain.
@@ -295,26 +328,31 @@ You turn a 30-foot square area of earth in your bending range into sand. This ar
 ##### Sand spout
 *Cost: X chi*  
 ...
-
-<div class='pageNumber auto'></div>
-<div class='footnote'>PART 5 | BACKGROUNDS</div>
-
-\page
-
+  
 ##### Sandstorm
 *Cost: 4 chi*  
 You raise the sand around you and launch it into the air, creating a sandstorm that fills a cylinder  centered on you with radius and height equal to your bending range. Creatures in the area are blinded and must make a DC 10 Constitution saving throw. On a failure, the sand enters their lungs and they suffer 1 level of exhaustion (to a maximum of level 1).
 
 The sandstorm lasts until the start of your next turn.
+</div>
 
 #### Suggested Characteristics
-...
 
-## Firebender
+## Fire
+
 ### [Some Background]
-...
+Description
 
-## Airbender
+***
+**Skill Proficiencies:**  
+**Tool Proficiencies:**  
+**Equipment:**
+
+#### Feature:
+
+#### Suggested Characteristics
+
+## Air
 ### Air Nomad
 [Based on Hermit]
 
@@ -323,7 +361,7 @@ The sandstorm lasts until the start of your next turn.
 **Tool Proficiencies:**  
 **Equipment:** 
 
-#### Feature: ?
+#### Feature:
 
 #### Suggested Characteristics
 

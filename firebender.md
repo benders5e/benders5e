@@ -1,7 +1,26 @@
 Link: https://homebrewery.naturalcrit.com/edit/24oFxIIOYo
 
 # Firebender
-As the element of power, firebenders have to be able to maintain a constant source of energy and balance in battle, unleashing a volley of direct, successive attacks. 
+Fire is the element of power. Firebenders must be able to maintain a constant source of energy and balance in battle, unleashing a volley of direct, successive attacks. 
+
+Some more stuff about firebenders.
+
+And even more.
+
+### Chi
+Benders make careful study of a magical energy called chi that flows through living bodies. Firebenders harness this power within themselves to create and control fire.
+
+### Community and Training
+Fire Nation, dragons, and stuff. What it means to leave.
+
+### Creating a Firebender
+As you make your firebender character, think about ...
+- Whether you are from the Fire Nation, one of its colonies, or somewhere else entirely.
+- What status do you hold in the Fire Nation?
+- How you began training in firebending. Were your parents firebenders? Your siblings? When did you first learn of your abilities? Who became your bending master?
+- Why did you leave your home?
+
+Because of the passionate nature of fire, firebenders tend towards extreme alignments and are rarely neutral.
 
 #### Quick Build
 You can make a firebender quickly by following these suggestions. First, pick Charisma as your highest score, followed by Constitution. Second, choose the Soldier background. 
@@ -61,31 +80,11 @@ The attack bonus is hereafter referred to as your firebending modifier. Unless o
 #### Bonus Attack
 Firebenders are fierce fighters. Anytime you use your action to make a firebending attack (basic or with a form), you may use your bonus action to make a basic firebending attack. You do not add your damage bonus to this attack.
 
-### Defusion
-Starting at 2nd level, you can use your reaction to defuse an attack when you are hit by a ranged non-bending attack or a basic ranged bending attack (not one that is the result of a form or specialized bending). When you do so, the damage you take from the attack is reduced by half. Any fire damage is reduced to 0.  
-
-
-You can use this ability a number of times equal to your bending modifier per long rest.  
-
 ### Stance
 Beginning at 2nd level, you adopt a particular stance as your specialty. Choose one of the following options:
 
 #### Dancing Dragon
 You practice a defensive and circular type of bending, gaining a +2 to AC. 
-
-You also have the ability to redirect ranged firebending attacks instead of defusing them. Provided you have a free hand or foot, you are able to reduce the damage you take from the attack by 1d10 + your firebending modifier + your firebender level. If you reduce the damage to 0, you redirect the element to make a ranged attack against a creature of your choice as part of the same reaction. This counts as one of your defusion uses.  
-
-#### Agni Kai
-You are skilled at duels and excel at focusing your power on one opponent. If you attack the same target as your previous attack, you gain a +2 to your attack roll.
-
-<!--#### Shaolin
-You are used to fighting in close ranges, utilizing strong kicks and quick punches
-Aspects of the firebending combat style can be seen through a similar emphasis on highly technical kicking strikes, fundamentally strong movements, and the usage of swift, direct maneuvers. Northern Shaolin is an external style that uses long, aggressive techniques that explode and drive through the opponent.
-
-The Northern Shaolin style emphasizes "kicking over hand fighting", or prioritizing one's legwork as opposed to the arms. Kicks are meant to "extend as far as possible without compromising balance-->
-
-#### Chaquan
-You are an expert in acrobatics and agile, graceful movements. You gain +5 to your speed and proficiency in Acrobatics. If you already have proficiency, you gain expertise.
 
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 2 | CLASSES</div>
@@ -97,8 +96,8 @@ You are an expert in acrobatics and agile, graceful movements. You gain +5 to yo
 |Level| Proficiency Bonus | Bending | Range | Forms Known | Chi per Attack | Features |
 |:---:|:--:|:-----:|:-----:|:-:|:-:|:-----------------------------
 | 1st | +2 | 1d6   | 30/60 | – | 1 | Firebending, Fire Jab
-| 2nd | +2 | 1d6   | 30/60 | – | 1 | Defusion, Stance
-| 3rd | +2 | 1d6   | 30/60 | 2 | 2 | Firebending Forms 
+| 2nd | +2 | 1d6   | 30/60 | 1 | 1 | Stance, Firebending Forms
+| 3rd | +2 | 1d6   | 30/60 | 2 | 2 | Defusion
 | 4th | +2 | 1d6   | 30/60 | 2 | 2 | Ability Score Improvement, Inner Flame
 | 5th | +3 | 1d8   | 60/120| 3 | 2 | Firebending specialization
 | 6th | +3 | 1d8   | 60/120| 3 | 2 | Firestep, Fierce Fighter
@@ -118,15 +117,33 @@ You are an expert in acrobatics and agile, graceful movements. You gain +5 to yo
 |20th | +6 | 1d12  |200/400| 10| 6 | Element of Power
 </div> 
 
+You also have the ability to redirect ranged firebending attacks instead of defusing them. Provided you have a free hand or foot, you are able to reduce the damage you take from the attack by 1d10 + your firebending modifier + your firebender level. If you reduce the damage to 0, you redirect the element to make a ranged attack against a creature of your choice as part of the same reaction. This counts as one of your defusion uses.  
+
+#### Agni Kai
+You are skilled at duels and excel at focusing your power on one opponent. If you attack the same target as your previous attack, you gain a +2 to your attack roll.
+
+<!--#### Shaolin
+You are used to fighting in close ranges, utilizing strong kicks and quick punches
+Aspects of the firebending combat style can be seen through a similar emphasis on highly technical kicking strikes, fundamentally strong movements, and the usage of swift, direct maneuvers. Northern Shaolin is an external style that uses long, aggressive techniques that explode and drive through the opponent.
+
+The Northern Shaolin style emphasizes "kicking over hand fighting", or prioritizing one's legwork as opposed to the arms. Kicks are meant to "extend as far as possible without compromising balance-->
+
+#### Chaquan
+You are an expert in acrobatics and agile, graceful movements. You gain +5 to your speed and proficiency in Acrobatics. If you already have proficiency, you gain expertise.
+
 #### Seven Stars
 You favor a style that utilizes momentary bursts of extreme power at the expense of your defense. At the beginning of your turn, you can choose to decrease your AC for the next turn by 2 to add +2 to the damage dealt by all your attacks that hit.  
 
 ### Firebending Forms
-At 3rd level, your connection to chi and practice of bending allows you to weave your bending into your combat style. With training, you are able to learn particular forms that combine martial arts and firebending to carry out more sophisticated attacks.  
+Starting at 2nd level, your connection to chi and practice of bending allows you to weave your bending into your combat style. With training, you are able to learn particular forms that combine martial arts and firebending to carry out more sophisticated attacks.  
 
 You learn one form from the list at the end of this class description. The number of forms you know increases with level and is shown in the Firebender Table. Each time you learn a new form you may also replace one form you already know with another one. 
 
 Every time you take the Attack action on your turn, you have a certain amount of *chi* at your disposal (indicated by the "Chi per Attack" column of the class table). You can distribute your chi among basic bending attacks or regular bending (*cost: 1 chi*) and any forms you know (whose costs are indicated with their descriptions). Forms use your bending attack and damage bonuses.
+
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 2 | CLASSES</div>
+\page 
 
 You can use each form a maximum of once per turn.
 
@@ -137,14 +154,16 @@ You have 4 exhaustion points at your disposal. (Use a d4 to keep track.) The d4 
 
 For example, say the counter is set at 2. That turn, you spend all your chi points attacking and turn the counter to 1. The next turn, you have 0 chi to spend, and you can either use your Attack action to make a melee, non-bending attack or forfeit it. The next turn, your counter is back up to 2. If you spend all your chi once again, it decreases back to 1 again, but if you spend anything less than the maximum (e.g. all but one chi) the counter once again increases to 3.
 
+### Defusion
+At 3rd level, you can use your reaction to defuse an attack when you are hit by a ranged non-bending attack or a basic ranged bending attack (not one that is the result of a form or specialized bending). When you do so, the damage you take from the attack is reduced by half. <!--Any fire damage is reduced to 0.-->  
+
+
+You can use this ability a number of times equal to your bending modifier per long rest.
+
 ### Ability Score Improvement
 When you reach 4th level, and again at 8th, 11th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
 Using the optional feats rule, you can forgo taking this feature to take a feat of your choice instead.
-
-<div class='pageNumber auto'></div>
-<div class='footnote'>PART 2 | CLASSES</div>
-\page 
 
 ### Inner Flame
 At 4th level, you gain the ability to reset your chi exhaustion die back to the maximum once per long rest.
@@ -153,15 +172,17 @@ At 4th level, you gain the ability to reset your chi exhaustion die back to the 
 At 5th level, you specialize in one of the following types of firebending: advanced firebending, energy reading, or combustionbending. Your abilities are described in the specialization section at the end of this class description.
 
 ### Firestep
-When you reach 6th level, you can use flame jets to propel yourself through the air during your turn. You use your normal speed and movement when you fire-step and you must end your turn on the ground.
+When you reach 6th level, you can use flame jets to propel yourself through the air during your turn. Your speed when you fire-step equals your walking speed. You must end your turn on the ground.
 
 ### Fierce Fighter
 At 6th level, when you roll a 1 or 2 on a damage die for a basic firebending attack, you can reroll the damage. You must use the new roll. This ability does not apply to additional damage dice beyond the "bending" die listed in the table (e.g. Colorful Flame damage).
 
 ### Lightning Redirection
 
+<div style="margin-left: 1.5em;">
 *If you let the energy in your own body flow, the lightning will follow it. You must create a pathway from your fingertips up your arm to the shoulder, then down into the stomach. The stomach is the source of energy in your body; it is called the sea of chi. From your stomach you direct it up again and out the other arm. The stomach detour is critical; you must not let the lightning pass through your heart, or the damage could be deadly.*   
 –Iroh, inventor of lightning redirection
+</div>
 
 ***
 Starting at 9nd level, when you are hit by lightning (natural or created by a bender), you can use your reaction to attempt to redirect it by making a Wisdom saving throw. If you roll a 10 or higher, you successfully redirect the lightning at an unoccupied space within range, taking no damage. On a 15 or higher, you can choose to redirect the lightning anywhere within range as if you were generating it yourself. If you roll below a 10, you take double the normal damage of the attack.
@@ -177,8 +198,8 @@ Beginning at 13th level, ... [Some improved ability or saving throws]
 ### ?
 At 14th level, ... [some flavor-type thing; charged attacks?]
 
-<div style="height: 3em;">
-</div>
+<!--div style="height: 3em;">
+</div-->
 ### Fire Rockets
 At 15th level, the power of your Firestepping increases. You gain a flying speed of 60 feet and can end your turn in the air without falling.
 
@@ -274,7 +295,9 @@ You can use this ability a number of times equal to your bending modifier per lo
 \page 
 
 #### Mass Heal
-At 11th level, ...
+At 11th level, you can use your firebending to channel your healing abilities in combat. Anytime you make an attack, you can spend 1 additional chi to cause the attack to confer healing benefits instead of damage. The attack automatically "hits" any allies and heals them by an number of hit points equal to your firebender level.  
+
+This counts as a use of your healing ability.
 
 #### Minor Energybending
 At 17th level, you learn to bend the energy within people's bodies to a limited extent. Once per long rest, you may spend an action to do one of the following:
@@ -282,7 +305,7 @@ At 17th level, you learn to bend the energy within people's bodies to a limited 
 - End a temporary bending block caused by bloodbending
 - Give a target advantage on one skill or saving throw for the next 24 hours
 - Increase one creature's hit point maximum by 10 + your firebending modifier for the next 24 hours
-- ... (Some kind of buff like *Guidance*)
+- Confer the benefits of a 1st level _Bless_ spell on one creature for the next 24 hours
 
 <!--At 20th level, you gain energybending. It is a highly dangerous technique; if one's own energy is impure and therefore bendable, the practitioner will be consequently destroyed. Energybending allows the user to remove other people's bending abilities; restore them after a bender had their abilities blocked by bloodbending; and use the art to create a spiritual projection.
 
@@ -303,15 +326,21 @@ At 7th level, you can make an explosion as your basic bending attack. Instead of
 #### Advanced Forms
 At 11th level, you learn an additional form of your choice from the following list:  
 
+<div style="margin-left: 1.5em;">
 ##### Charged Attack
+*Prerequisite: Combustionbending specialization*  
+*Cost: X chi*  
 
 ##### Firebreathing
-(stealthy, cone AOE)
+*Prerequisite: Combustionbending specialization*  
+*Cost: X chi*  
+[stealthy, cone AOE]
+</div>
 
 #### ?
 At 17th level, ...
 
-<div style="height:21em;">
+<div style="height:4em;">
 </div>
 ## Firebending Forms
 <!--Mostly offense stuff-->

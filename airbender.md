@@ -1,7 +1,21 @@
 Link: https://homebrewery.naturalcrit.com/edit/3y6o6KPWIM
 
 # Airbender
-Airbending concentrates on speed and evasion, forgoing a strong offense for a greater defense. Though apparently lacking fatal finishing moves, it is the most dynamic of all the bending arts. As the element of freedom, airbenders use their capability to bend unencumbered by the ground or any other environmental factors and use their own momentum as a weapon, evading attacks with astounding agility to tire their opponents out or building up massive inertia for explosive gusts of wind to make their counterattacks finishing moves.
+Air is the element of freedom. Airbending concentrates on speed and evasion, forgoing a strong offense for a greater defense. Though apparently lacking fatal finishing moves, it is the most dynamic of all the bending arts. As the element of freedom, airbenders use their capability to bend unencumbered by the ground or any other environmental factors and use their own momentum as a weapon, evading attacks with astounding agility to tire their opponents out or building up massive inertia for explosive gusts of wind to make their counterattacks finishing moves.
+
+### Chi
+Benders make careful study of a magical energy called chi that flows through living bodies. Airbenders harness this power within themselves to exert their will on the air around them.
+
+### Community and Training
+Air Nomads, air bison, and stuff. What it means to leave.
+
+### Creating an Airbender
+As you make your airbender character, think about ...
+- Which Air Temple you are from (female airbenders were raised at the Western and Eastern Air Temples, while male airbenders hail from the Northern and Southern Air Temples).
+- If you are from the Air Nation, your temperament is likely very different from that of an Air Nomad (e.g. Zaheer).
+- Why did you leave your home?
+
+Because of the air's untethered nature, airbenders tend towards chaotic (or at most neutral) alignments.
 
 #### Quick Build
 You can make an airbender quickly by following these suggestions. First, pick Wisdom as your highest score, followed by Dexterity. Second, choose the Hermit background. 
@@ -61,25 +75,6 @@ As an airbender, Wisdom is your primary attack ability:
 
 The attack bonus is hereafter referred to as your airbending modifier.
 
-#### Nonlethal Damage
-Airbenders, particularly air nomads, are the most peaceful benders, typically doing their best to avoid taking a life whenever possible. When you make an attack (melee or ranged) that reduces a creature to 0 hit points, you can choose to make the damage nonlethal by dealing bludgeoning damage instead of the default damage type.
-
-
-<!--no stance-->
-<!-- Baguazhang ("circle walking")
-Xingyiquan ("mind heart boxing")
--->
-### Be the Leaf
-At 2nd level, you become tuned in to the air around you. You learn to move like a leaf in the wind, allowing you to evade attacks more easily. You can choose to impose disadvantage on an attack against you as a reaction after the attack roll is made, but before the outcome is determined. You can use this ability a number of times equal to your bending modifier per long rest.   
-
-### Unarmored Movement
-Starting at 2nd level, your speed increases by 10 feet while you are not wearing armor or wielding a shield. This bonus increases when you reach certain levels, as shown in the class table. 
-
-You also learn to use your bending to steer your glider, giving you proficiency with gliders. Your flying speed is equal to your ground speed. See the Glider description (in the "Equipment" section) for more details about using the glider. 
-
-
-When you reach 6th level, you gain the ability to move along vertical surfaces and across liquids on your turn without falling during the move.
-
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 2 | CLASSES</div>
 
@@ -90,8 +85,8 @@ When you reach 6th level, you gain the ability to move along vertical surfaces a
 |Level| Proficiency Bonus | Bending | Range | Forms Known | Chi per Attack |Unarmored Movement| Features |
 |:---:|:--:|:--------:|:----:|:-----:|:-:|:-:|:-----------|
 | 1st | +2 | 1d6  | 30/60 | – | 1 | -        | Unarmored Defense, Airbending, Air Punch
-| 2nd | +2 | 1d6  | 30/60 | – | 1 | +10 ft.  | Be the Leaf, Unarmored Movement
-| 3rd | +2 | 1d6  | 30/60 | 2 | 2 | +10 ft.  | Airbending Forms
+| 2nd | +2 | 1d6  | 30/60 | 1 | 1 | +10 ft.  | Unarmored Movement, Airbending Forms
+| 3rd | +2 | 1d6  | 30/60 | 2 | 2 | +10 ft.  | Be the Leaf
 | 4th | +2 | 1d6  | 30/60 | 2 | 2 | +10 ft.  | Ability Score Improvement, Air Cushion
 | 5th | +3 | 1d6  | 60/120| 3 | 2 | +15 ft.  | Airbending specialization
 | 6th | +3 | 1d6  | 60/120| 3 | 2 | +15 ft.  | Unarmored Movement Improvement, Cloudbending
@@ -111,8 +106,25 @@ When you reach 6th level, you gain the ability to move along vertical surfaces a
 |20th | +5 | 1d10 |200/400| 10| 6 | +30 ft.  | Detachment
 </div>
 
+#### Nonlethal Damage
+Airbenders, particularly air nomads, are the most peaceful benders, typically doing their best to avoid taking a life whenever possible. When you make an attack (melee or ranged) that reduces a creature to 0 hit points, you can choose to make the damage nonlethal by dealing bludgeoning damage instead of the default damage type.
+
+
+<!--no stance-->
+<!-- Baguazhang ("circle walking")
+Xingyiquan ("mind heart boxing")
+-->   
+
+### Unarmored Movement
+Starting at 2nd level, your speed increases by 10 feet while you are not wearing armor or wielding a shield. This bonus increases when you reach certain levels, as shown in the class table. 
+
+You also learn to use your bending to steer your glider, giving you proficiency with gliders. Your flying speed is equal to your ground speed. See the Glider description (in the "Equipment" section) for more details about using the glider. 
+
+
+When you reach 6th level, you gain the ability to move along vertical surfaces and across liquids on your turn without falling during the move.
+
 ### Airbending Forms
-At 3rd level, your connection to chi and practice of bending allows you to weave your bending into your combat style. With training, you are able to learn particular forms that combine martial arts and airbending to carry out more sophisticated attacks.   
+Starting at 2nd level, your connection to chi and practice of bending allows you to weave your bending into your combat style. With training, you are able to learn particular forms that combine martial arts and airbending to carry out more sophisticated attacks.   
 
 You learn one form from the list at the end of this class description. The number of forms you know increases with level and is shown in the Airbender Table. Each time you learn a new form you may also replace one form you already know with another one.  
 
@@ -120,18 +132,21 @@ Every time you take the Attack action on your turn, you have a certain amount of
 
 You can use each form a maximum of once per turn.
 
-<div style="height: 3em;">
-</div>
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 2 | CLASSES</div>
+\page
+
+### Be the Leaf
+At 3rd level, you become tuned in to the air around you. You learn to move like a leaf in the wind, allowing you to evade attacks more easily. You can choose to impose disadvantage on an attack against you as a reaction after the attack roll is made, but before the outcome is determined. You can use this ability a number of times equal to your bending modifier per long rest.
+
+<!--div style="height: 3em;">
+</div-->
 #### Chi Exhaustion
 Channeling chi into attacks is a physically and mentally draining endeavor.   
 
 You have 4 exhaustion points at your disposal. (Use a d4 to keep track.) The d4 starts with the "4" pointing up. Every turn you use all of your chi, you decrement this counter. When the counter indicates a "1", you need to take a break from bending and cannot spend any chi or take bending reactions that turn. Any bending concentration is also broken. Every turn that you do *not* use all your chi, the counter increments by 1. This counter resets every long rest.  
 
 For example, say the counter is set at 2. That turn, you spend all your chi points attacking and turn the counter to 1. The next turn, you have 0 chi to spend, and you can either use your Attack action to make a melee, non-bending attack or forfeit it. The next turn, your counter is back up to 2. If you spend all your chi once again, it decreases back to 1 again, but if you spend anything less than the maximum (e.g. all but one chi) the counter once again increases to 3.
-
-<div class='pageNumber auto'></div>
-<div class='footnote'>PART 2 | CLASSES</div>
-\page
 
 ### Ability Score Improvement
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
