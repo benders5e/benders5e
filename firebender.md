@@ -67,18 +67,27 @@ When you take a basic bending attack, you spend 1 point of chi and deal 1d6 fire
 As a firebender, Charisma is your primary attack ability:  
 
 
+---
+<p style="text-indent:1em;">
 **Attack Bonus** = Cha modifier + proficiency bonus
-
+</p>
 
 **Damage Bonus** = Cha modifier  
+  
+---
+  
+The attack bonus is hereafter referred to as your firebending modifier.
 
+Some of your abilities will require targets to make saving throws against your bending. The DC for these saving throws is your bending DC:
 
+---
 **Bending DC** = 8 + Cha modifier + proficiency bonus
 
-The attack bonus is hereafter referred to as your firebending modifier. Unless otherwise specified, anytime a target is required to make a saving throw, it makes it against your bending DC.
+---
+Unless otherwise specified, anytime a target is required to make a saving throw, it makes it against your bending DC.
 
 #### Bonus Attack
-Firebenders are fierce fighters. Anytime you use your action to make a firebending attack (basic or with a form), you may use your bonus action to make a basic firebending attack. You do not add your damage bonus to this attack.
+Firebenders are fierce fighters. Anytime you use your action to make a firebending attack (basic or with a form), you may use your bonus action to make a basic firebending attack without expending any additional chi. You do not add your damage bonus to this attack.
 
 ### Stance
 Beginning at 2nd level, you adopt a particular stance as your specialty. Choose one of the following options:
@@ -129,7 +138,7 @@ Aspects of the firebending combat style can be seen through a similar emphasis o
 The Northern Shaolin style emphasizes "kicking over hand fighting", or prioritizing one's legwork as opposed to the arms. Kicks are meant to "extend as far as possible without compromising balance-->
 
 #### Chaquan
-You are an expert in acrobatics and agile, graceful movements. You gain +5 to your speed and proficiency in Acrobatics. If you already have proficiency, you gain expertise.
+You are an expert in acrobatics and agile, graceful movements. You gain proficiency in Acrobatics and +5 to your speed. If you already have proficiency, you gain expertise.
 
 #### Seven Stars
 You favor a style that utilizes momentary bursts of extreme power at the expense of your defense. At the beginning of your turn, you can choose to decrease your AC for the next turn by 2 to add +2 to the damage dealt by all your attacks that hit.  
@@ -179,9 +188,12 @@ At 6th level, when you roll a 1 or 2 on a damage die for a basic firebending att
 
 ### Lightning Redirection
 
+<div style="height: 1em;">
+</div>
+
 <div style="margin-left: 1.5em;">
 *If you let the energy in your own body flow, the lightning will follow it. You must create a pathway from your fingertips up your arm to the shoulder, then down into the stomach. The stomach is the source of energy in your body; it is called the sea of chi. From your stomach you direct it up again and out the other arm. The stomach detour is critical; you must not let the lightning pass through your heart, or the damage could be deadly.*   
-–Iroh, inventor of lightning redirection
+  <p>–Iroh, inventor of lightning redirection</p>
 </div>
 
 ***
@@ -219,7 +231,9 @@ At 20th level, the power of your inner flame grows, increasing your stamina. You
 
 #### Colorful Flame 
 
-Beginning when you choose this specialization at 5th level, your fire begins to develop a character of its own. It takes on one of the colors below and the corresponding type of damage. At 5th level, your bending attack deals an additional 1d4 of the damage type determined by your fire's color. At 11th level this increases to 1d6, and again to 1d8 at 17th level.
+Beginning when you choose this specialization at 5th level, your fire begins to develop a character of its own. It takes on one of the colors below and the corresponding type of damage. At 5th level, bending attacks that are not the result of a form deal an additional 1d4 of the damage type determined by your fire's color. This includes your bonus attack.
+
+At 11th level this damage increases to 1d6, and again to 1d8 at 17th level.
 
 | Color     | Damage Type   |
 |:----------|:--------------|
@@ -260,8 +274,6 @@ The damage of your basic attacks also increases to 2d8.
 Beginning when you choose this specialization at 5th level, you learn to distinguish the yin and yang of energy, allowing you to conduct currents and amass small charges of electricity to release at will.
 
 Once per turn, you can attempt to stun a target with your basic firebending attack. On a hit, instead of taking damage, the target makes a Constitution saving throw against your bending DC. On a failure, it is stunned. At the beginning of each of its turns, the target can attempt another save to recover. 
-
-<!-- conducting current: not sure how this would work and not be OP like lightning -->
 
 #### Create Lightning
 At 7th level, you learn to distinguish the yin and yang of energy and separate the positive from the negative energy. This creates an imbalance, and when the energies attempts to restore balance by crashing back together, you provide release and guidance, creating lightning.  
@@ -321,7 +333,7 @@ Beginning when you choose this specialization at 5th level, you can fire bend ev
 You also gain advantage on initiative. On your first turn, you deal double damage.
 
 #### Combustion
-At 7th level, you can make an explosion as your basic bending attack. Instead of making a firebending attack, you can choose to make a combustion attack. You pick a point within range on which to center an explosion. Targets in a 5-foot radius must make a Dexterity saving throw. On a failure, they take your bending damage in force damage, and on a success they take half damage.
+At 7th level, you can make an explosion as your basic bending attack. Instead of making a firebending attack, you can choose to make a combustion attack. You pick a point within range on which to center an explosion. Targets in a 5-foot radius must make a Dexterity saving throw against your bending DC. On a failure, they take your bending damage in force damage, and on a success they take half damage.
 
 #### Advanced Forms
 At 11th level, you learn an additional form of your choice from the following list:  
@@ -343,7 +355,7 @@ At 17th level, ...
 <div style="height:4em;">
 </div>
 ## Firebending Forms
-<!--Mostly offense stuff-->
+Unless otherwise specified, anytime a target is required to make a saving throw, it makes it against your bending DC (see "Fire Jab").
 
 #### Flashbang
 *Cost: 1 chi*  
@@ -413,7 +425,7 @@ You shoot a continuous stream of fire from their fingertips, fists, palms, or le
 The stream widens by 5 feet for each additional chi you spend.
 
 #### Create Lightning
-*Prerequisite: Lightningbending, 8th level*  
+*Prerequisite: Lightningbending, 7th level*  
 *Cost: 3 chi*  
 You cast the *Lightning Bolt* spell with a range equal to your normal bending range.
 

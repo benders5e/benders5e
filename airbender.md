@@ -65,15 +65,23 @@ The damage caused by your attack increases with your airbender level and is show
 
 As an airbender, Wisdom is your primary attack ability:
 
+---
+<p style="text-indent:1em;">
 **Attack Bonus** = Wis modifier + proficiency bonus
-
+</p>
 
 **Damage Bonus** = Wis modifier
 
+---
+The attack bonus is hereafter referred to as your airbending modifier.
 
+Some of your abilities will require targets to make saving throws against your bending. The DC for these saving throws is your bending DC:
+
+---
 **Bending DC** = 8 + Wis modifier + proficiency bonus
 
-The attack bonus is hereafter referred to as your airbending modifier.
+---
+Unless otherwise specified, anytime a target is required to make a saving throw, it makes it against your bending DC.
 
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 2 | CLASSES</div>
@@ -109,7 +117,6 @@ The attack bonus is hereafter referred to as your airbending modifier.
 #### Nonlethal Damage
 Airbenders, particularly air nomads, are the most peaceful benders, typically doing their best to avoid taking a life whenever possible. When you make an attack (melee or ranged) that reduces a creature to 0 hit points, you can choose to make the damage nonlethal by dealing bludgeoning damage instead of the default damage type.
 
-
 <!--no stance-->
 <!-- Baguazhang ("circle walking")
 Xingyiquan ("mind heart boxing")
@@ -123,6 +130,8 @@ You also learn to use your bending to steer your glider, giving you proficiency 
 
 When you reach 6th level, you gain the ability to move along vertical surfaces and across liquids on your turn without falling during the move.
 
+<div style="height: 1em;">
+</div>
 ### Airbending Forms
 Starting at 2nd level, your connection to chi and practice of bending allows you to weave your bending into your combat style. With training, you are able to learn particular forms that combine martial arts and airbending to carry out more sophisticated attacks.   
 
@@ -164,6 +173,8 @@ At 5th level, you specialize in one of the following aspects of airbending: adva
 ### Cloudbending
 At 6th level, you gain the ability to bend clouds. Once per long rest, you can concentrate on reshaping clouds for a period of time up to 1 hour. During this time, you spend your Action on every turn cloudbending and cannot use it to attack or take any other actions.
 
+<div style="height: 3em;">
+</div>
 ### Evasion
 At 9th level, your instinctive agility lets you dodge out of the way of certain area effects. When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
 
@@ -181,8 +192,6 @@ Beginning at 13th level, your mastery of chi grants you proficiency in all savin
 
 Additionally, once per long rest, whenever you make a saving throw and fail, you can choose to succeed instead.
 
-<div style="height: 1em;">
-</div>
 ### Timeless Body
 At 14th level, your chi sustains you so that you suffer none of the frailty of old age and you cannot be aged by unnatural means. You can still die of old age, however. In addition, you no longer need food or water.
 
@@ -193,14 +202,12 @@ At 15th level, you are aware of every motion in the air surrounding you. Every t
 </div>
 ### Detachment
 
-<div style="height: 2em;">
+<div style="height: 1em;">
 </div>
 
-***
-> *Let go your earthly tether. Enter the void. Empty, and become wind.*   
-> **–Guru Laghima**
-
-<div style="height: 2em;">
+<div style="margin-left: 1.5em;">
+*Let go your earthly tether. Enter the void. Empty, and become wind.*   
+  <p>–Guru Laghima</p>
 </div>
 
 Like the Guru Laghima and the airbender Zaheer, you learn to levitate without using bending or any other means to propel yourself. You move naturally and without having to think about it through the air, as easily and naturally as if you were walking. Your gain a flying speed of 60 feet.
@@ -265,12 +272,17 @@ At 7th level, when you roll a 1 or 2 on a damage die for a basic airbending atta
 #### Advanced Form
 At 11th level, you learn an additional form of your choice from the following list: 
 
+<div style="margin-left: 1.5em;">
 ##### Asphyxiation
-<!--*Cost: 5 chi*  -->
+*Prerequisite: Offense Specialization*  
+*Cost: 5 chi*  
+...
 
 ##### Wind Sword
-
-##### ?
+*Prerequisite: Offense Specialization*  
+*Cost: X chi*  
+...
+</div>
 
 #### ?
 At 17th level, ...
@@ -283,7 +295,7 @@ At 17th level, ...
 <!--div style="height: 32em;">
 </div-->
 ## Airbending Forms
-<!--Mostly defense/utility-->
+Unless otherwise specified, anytime a target is required to make a saving throw, it makes it against your bending DC (see "Air Punch").
 
 #### Air Shield
 *Cost: varies*  

@@ -106,20 +106,29 @@ When you take a basic bending attack, you spend 1 point of chi and deal 1d6 blud
 
 At 1st level, you must choose which of your modifiers to use for attacks: Intelligence or Dexterity. This cannot be changed later.  
 
-
+---
+<p style="text-indent:1em;">
 **Attack Bonus** = [Int OR Dex modifier] + proficiency bonus
-
+</p>
 
 **Damage Bonus** = [Int OR Dex modifier]  
 
+---
+The attack bonus is hereafter referred to as your waterbending modifier. 
 
+Some of your abilities will require targets to make saving throws against your bending. The DC for these saving throws is your bending DC:
+
+---
 **Bending DC** = 8 + [Int OR Dex mod] + proficiency bonus
 
-The attack bonus is hereafter referred to as your waterbending modifier. Unless otherwise specified, anytime a target is required to make a saving throw, it makes it against your bending DC.
+---
+Unless otherwise specified, anytime a target is required to make a saving throw, it makes it against your bending DC. 
 
 ### Stance
 Beginning at 2nd level, you adopt a particular stance as your specialty. Choose one of the following options: 
 
+<!--div style="height:4em;">
+</div-->
 #### Water Ring
 In combat, you surround yourself with a ring of water which you can use as your source of bending. While surrounded by this ring, once per turn you can reduce the cost of a bending form by one chi. 
 
@@ -165,6 +174,8 @@ You must have at least one hand free to use this ability. When you do so, the da
 
 You can use this ability a number of times equal to your bending modifier per long rest.
 
+<div style="height:0em;">
+</div>
 ### Ability Score Improvement
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
@@ -188,7 +199,9 @@ At 6th level, you learn to synchronize your control of water with your movement.
 At 6th level, you react quickly and strategically when you are hit by a melee attack. By spending 1 chi point (from your upcoming turn), you can use your reaction to do one of the following:
 
 #### Freeze
-You encase your attacker's hands in ice. At the beginning of each of their turns, they can make a Strength saving throw against your bending DC. On a success, the ice breaks. On a failure, their hands remain encased in ice. While their hands are frozen, they have disadvantage on attacks and ability checks that rely on the use of their hands.
+You encase your attacker's hands in ice. At the beginning of each of their turns, they can make a Strength saving throw against your bending DC. 
+
+On a success, the ice breaks. On a failure, their hands remain encased in ice. While their hands are frozen, they have disadvantage on attacks and ability checks that rely on the use of their hands.
 
 #### Pull
 You take this opportunity to wrap a tendril of water around your attacker. An attacker at most one size larger is moved 10 feet into an unoccupied space of your choice. They also make a Dexterity saving throw and are knocked prone on a failure.
@@ -196,13 +209,13 @@ You take this opportunity to wrap a tendril of water around your attacker. An at
 ### Improved Water Movement
 At 9th level, your control over solid water also grants you the ability to move easily over ice and snow. For you, this type of terrain is no longer difficult terrain.
 
+### ?
+At 10th level, ...
+
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 2 | CLASSES</div>
 
 \page
-
-### ?
-At 10th level, ...
 
 <!--div style="height:3em;">
 </div-->
@@ -284,13 +297,13 @@ The creature makes a Charisma saving throw against your bending DC. If the moon 
 
 The condition of the creature persists while you maintain concentration. At the end of each of its turns, the target can make another Charisma saving throw. On a success, the condition (Paralyzed or Restrained) ends and the creature is immune to your bloodbending until it has taken a long rest.
 
+#### Bloodbending
+At 7th level, your power grows. During the full moon, you can use your action to attempt to control the movements of a creature instead of only Paralyzing it.  You can use this ability a number of times equal to your bending modifier per long rest.  
+
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 2 | CLASSES</div>
 
-\page
-
-#### Bloodbending
-At 7th level, your power grows. During the full moon, you can use your action to attempt to control the movements of a creature instead of only Paralyzing it.  You can use this ability a number of times equal to your bending modifier per long rest.     
+\page   
 
 The creature makes a Saving Throw as before. During a full moon, a failure leads it to become Paralyzed and its subsequent movements are under your control. On its turn, you can force the creature to take its movement and one Action (no bonus actions). If you cause it to take the Attack action, it only makes one attack. You can also cause the creature to use a Reaction, but this requires you to use your own Reaction as well. On a success, the creature becomes Paralyzed, but you have no control over its movements.
 
@@ -301,7 +314,7 @@ These effects persist while you maintain concentration. At the end of each of it
 The number of creatures you can control increases with your bloodbender level (waterbender level minus 5); at each level, you can control a number of creatures equal to half your bloodbender level, rounded down (minimum of 1).
 
 #### Greater Bloodbending
-At 11th level, your bloodbending control increases. ??
+At 11th level, your bloodbending control increases. ... (todo)
 
 <!--div style="height: 2em;">
 </div-->
@@ -316,12 +329,27 @@ At 19th level, you are able to bloodbend even on nights without a full moon, exc
 #### Plantbending
 Beginning when you choose this specialization at 5th level, you learn to control the water in plants. You can move one stem of a plant (one continuous tube) as you choose. The stem's physical modifiers are equal to your bending modifier.
 
+Your familiarity with plants makes you adept at traveling and surviving in the regions in which they thrive. Choose one type of favored terrain: forest, grassland, or swamp. When you make an Intelligence or Wisdom check related to your favored terrain, your proficiency bonus is doubled if you are using a skill that you’re proficient in.
+
+While traveling for an hour or more in your favored terrain, you gain the following benefits:
+
+- Difficult terrain doesn't slow your group's travel.
+- Your group can’t become lost except by spirit magic.
+- Even when you are engaged in another activity while traveling (such as foraging, navigating, or tracking), you remain alert to danger.
+- If you are traveling alone, you can move stealthily at a normal pace.
+- When you forage, you find twice as much food as you normally would.
+- While tracking other creatures, you also learn their exact number, their sizes, and how long ago they passed through the area.
+
 #### Greater Plantbending
 At 7th level, you learn to control 2 plants in your range at a time with your bending. This number continues to increase according to your swampbender level (waterbender level minus 5); at each level, you can control a number of stems equal to half your swampbender level (minimum of 2).
 
-#### Plant Armor
-At 11th level, you can summon plants to create a sort of biological armor. You spend one action gathering enough plants to surround you, increasing your AC <!--by X to a maximum of?--> to 18. The vines also transform you into a Large creature.
+Your experience using bending the water in plants has also made you a resourceful fighter. Your plant attacks have a reach of 10 feet and when you hit with such an attack, you can spend another chi to attempt to grapple your target in addition to dealing damage. 
 
+#### Plant Armor
+At 11th level, you can summon plants to create a sort of biological armor. You spend one action gathering enough plants to surround you, transforming you into a Large creature. The plant armor gives you temporary hit points equal to your bender level.
+
+<!--div style="height: 6em;">
+</div-->
 #### Spirit Vines
 At 17th level, you are able to read the spiritual energy in the connected plant matter of the world. Once per long rest, you can spend at most ten minutes meditating while touching a plant. You essentially cast the spell *Scrying*, allowing you to see the events currently unfolding in another place of your choosing anywhere else in the material world, provided it has some plant cover.
 
@@ -336,7 +364,7 @@ You can also choose to use this ability to gain the benefits of the spell *Commu
 <!--div style="height: 6em;">
 </div-->
 ## Waterbending Forms
-<!--(Even mix of defense and offense)-->
+Unless otherwise specified, anytime a target is required to make a saving throw, it makes it against your bending DC (see "Bending Attack").
 
 You start out knowing forms marked with an asterisk.
 
@@ -362,30 +390,8 @@ You shape water into a swirling disk by your arm and freeze it. Your AC increase
 
 Each additional chi point your spend increases the HP of the shield by 10.
 
-<!--div style="height: 3em;">
-</div-->
-
-#### Water Whip  
-
-*Cost: 1 chi*  
-You shape the water at your disposal into a lashing tendril (which has the statistics of a whip) and swipe at a target within 15 feet, dealing 1d4 bludgeoning damage on a hit. 
-
-For each additional chi point you spend, you create and attack with another water whip, dealing an additional die of damage.  
-
 <!--div style="height: 8em;">
 </div-->
-#### Water Tendril
-*Cost: 1 chi*  
-You create a water tendril. Its reach is determined by the amount of water you spend creating it; as a general rule of thumb, the reach will be 5 feet per 1-foot-diameter sphere of water. When you create the tendril, and by spending another chi on subsequent turns, you can cause it to take one of the following actions:
-
-##### Attack
-The tendril acts as a water whip with 1 chi (see the *Water Whip* form).
-
-##### Grapple
-You grapple a Large or smaller creature within the tendril's range. The tendril's Strength modifier is equal to your waterbending modifier.
-
-##### Manipulate
-The tendril can interact with objects as a *Mage Hand* would, but it doesn't have fingers so it lacks fine-grained control.
 
 #### Ice Sword
 *Cost: 1 chi (+2 chi)*  
@@ -394,16 +400,24 @@ You form water into a blade shape and freeze it. While you maintain concentratio
 
 You spend 2 chi to make an attack with this weapon.
 
+#### Underwater Bubble
+*Cost: 1 chi*  
+You reshape water around you while submerged to maintain a supply of breathable air, causing the effects of the spell *Water Breathing*.
+
+With each additional chi spent, you can provide air for another creature.
+
 #### Water Wall
 *Cost: 1+ chi*  
-You cause the effects of the spell *Wall of Water*. When you create the wall, you choose any area(s) of 5 square feet of the wall that are ice instead of water. You spend 1 chi point per 5-square-foot area.
+You cause the effects of the spell *Wall of Water*. When you create the wall, you choose any area(s) of 5 square feet of the wall that are ice instead of water. You spend 1 additional chi point per 5-square-foot area.
 
+<div style="height: 5em;">
+</div>
 #### Water Blade
 *Cost: 2 chi*  
 You make a waterbending attack, channeling your inner chi to rapidly shape water into a sharp point or edge for a split second when you make contact with the target. On a hit, the attack deals an additional 1d4 slashing damage.   
 
 
-If the target is wearing armor and you roll a 15 or higher to hit, this gash weakens the armor sufficiently to cause the target's AC to decrease by 1 until they repair the damage done to their armor.
+If the target is wearing armor and you roll a natural 15 or higher to hit, this gash weakens the armor sufficiently to cause the target's AC to decrease by 1 until they repair the damage done to their armor. You cannot use this ability to decrease a creature's AC below what its armor class would be without the armor.
 
 #### Ice Creeper
 *Cost: 2 chi*   
@@ -427,11 +441,6 @@ You create and launch 2 ice daggers at any combination of targets within your lo
 
 You gain an additional dagger for each extra chi you spend.
 
-<div class='pageNumber auto'></div>
-<div class='footnote'>PART 2 | CLASSES</div>
-
-\page
-
 #### Ice Shards
 *Cost: 2 chi*  
 You cause ice shards to rain down on creatures in a 10-foot diameter sphere centered on a point within your normal bending range. Each creature in this area must succeed on a Dexterity saving throw or take 1d8 piercing damage.
@@ -442,6 +451,12 @@ For each additional chi you spend, the sphere's diameter increases by 5 feet.
 *Cost: 2 chi*  
 You cover your fists with a layer of ice. For the next minute, you add an additional 1d4 to damage dealt by your unarmed strikes.
 
+
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 2 | CLASSES</div>
+
+\page
+
 #### Ice Head
 *Cost: 3 chi*  
 You make a ranged attack to hurl a sphere of water at a target. The sphere must be 1 foot in diameter for a medium or smaller creature and an an additional foot in diameter for each size above medium. 
@@ -451,19 +466,38 @@ On a hit, the target's head is encased in ice and it starts suffocating. Each tu
 On each of its turns, the target can spend its action making a Strength saving throw against your DC to break free.
 [This needs a better name]
 
-#### Underwater Bubble
+#### Water Tendril
 *Cost: 3 chi*  
-You reshape water around you while submerged to maintain a supply of breathable air, causing the effects of the spell *Water Breathing*.
+You create a tendril of water with a 15-foot reach at a point within range. When you create the tendril, you can cause it to take one of the actions described below. As a bonus action on subsequent turns until the tendril disappears, you can move it a distance equal to your normal bending range and take one of the actions again.  
+
+The tendril disappears after one minute.
+
+##### Water Whip
+The tendril lashes at a target within 15 feet. It has the statistics of a whip, dealing 1d4 bludgeoning damage on a hit.
+
+##### Grapple
+You can attempt to grapple a Large or smaller creature within the tendril's range. The tendril's Strength modifier is equal to your waterbending modifier.
 
 #### Water Dome
 *Cost: 3 chi*  
 You create a protective dome (half-sphere) of water around you. Its radius is equal to your normal bending range. The dome lasts 24 hours unless you dismiss it as a free action.
 
+You control the weather inside the dome. You must be outdoors to use this form. Moving to a place where you don’t have a clear path to the sky causes the dome to break apart.
 
-#### Octopus
-*Cost: 4 chi*    
-You create 4 water tendrils (see the *Water Tendril* form for actions the tendrils can take). Each additional chi you spend creates another tendril.
+Within the dome, the wind calms and you can change the precipitation. It takes 6 seconds for the new conditions to take effect. Once they do so, you can change the conditions again without expending any chi. When the dome disappears, the weather gradually returns to normal.
 
+When you change the precipitation, find its current condition on the following table and change its stage by one, up or down.
+
+##### Precipitation
+| Stage | Condition |
+|:-----:|:-----------|
+| 1     | Clear
+| 2     | Light rain
+| 3     | Rain, hail, or snow
+| 4     | Torrential rain, driving hail, or blizzard
+
+<div style="height: 4em;">
+</div>
 #### Wave
 *Cost: 4 chi*  
 todo
@@ -476,6 +510,8 @@ todo
 *Cost: 5 chi*  
 You cause the effects of the *Ice Storm* spell.
 
+<!--div style="height: 6em;">
+</div-->
 ### Advanced Forms
 Only Waterbenders of the Advanced Waterbending specialization have access to these forms.
 
@@ -484,9 +520,6 @@ Only Waterbenders of the Advanced Waterbending specialization have access to the
 You learn to draw water from your environment. From now on, you don't need a water source within 30 feet – instead, you can spend 6 seconds (1 round of combat) concentrating to draw water from plants within 30 feet of you. If you are not in an arid environment, you can spend 1 minute drawing water from the air. In both cases, you are able to obtain a water sphere 1 foot in diameter.  
 
 #### Maelstrom
-*Cost: X chi*  
-
-#### Mist-stepping
 *Cost: X chi*  
 
 #### Ice Prison 
