@@ -1,15 +1,15 @@
-[Draft 8](#v-alpha-8)  
-[Draft 7.1](#v-7-1-2020-08-06)  
-[Draft 7.0](#draft-70)  
-[Draft 6](#draft-6)  
-[Draft 5](#draft-5)  
-[Draft 4](#draft-4)  
-[Draft 3](#draft-3)  
-[Draft 2](#draft-2)  
+[Version 0.8](#08---tba)  
+[Version 0.7.1](#071---2020-08-06)  
+[Version 0.7.0](#draft-70)  
+[Version 0.6](#draft-6)  
+[Version 0.5](#draft-5)  
+[Version 0.4](#draft-4)  
+[Version 0.3](#draft-3)  
+[Version 0.2](#draft-2)  
 
 ---
 
-### [v \alpha.8] - TBA
+### [0.8] - TBA
 - Clarify bending DC
 
 #### Water
@@ -34,7 +34,7 @@
 
 ---
 
-### [v \alpha.7.1] - 2020.08.06
+### [0.7.1] - 2020.08.06
 - Add Boomerang
 - Swap Forms (3rd level) with 2nd level reaction ability to better match Monk progression
 - Add flavor front matter to all classes
@@ -47,7 +47,7 @@
 - Defusion no longer reduces fire damage to 0 (instead, half like all other types)
 - Add Mass Heal (11th level chi specialization ability) description
 
-### [v \alpha.7.0] - 2020.08.04
+### [0.7.0] - 2020.08.04
 - Shuffle some level abilities around (6th, 7th, 8th, and 11th) to better match regular D&D class progression
 - Add instructions on integrating class with magic D&D setting
 - Take out gaming set proficiencies
@@ -107,7 +107,7 @@
 
 ---
 
-### [v \alpha.6] - 2020.07.11
+### [0.6] - 2020.07.11
 - When you learn a new form you can also replace one form you already know (under 3rd level "Forms")
 - Specify that chi exhaustion also means bending reactions can't be taken and bending concentration is broken
 - Add outline of a celestial tracking variant
@@ -160,7 +160,7 @@
 
 ---
 
-### [v \alpha.5] - 2020.07.01
+### [0.5] - 2020.07.01
 - Added Languages header to intro
 - Flesh out Feats and Backgrounds
 - Edited credits
@@ -184,7 +184,7 @@
 
 ---
 
-### [v \alpha.4] - 2020.06.16
+### [0.4] - 2020.06.16
 
 #### General
 - Adjust all classes' saving throw proficiencies to 1 common and one uncommon
@@ -213,7 +213,7 @@
 
 ---
 
-### [v \alpha.3] - 2020.06.12
+### [0.3] - 2020.06.12
 
 #### General
 - Specify that opportunity attack is at most 1 chi
@@ -236,9 +236,9 @@
 
 ---
 
-### [v \alpha.2] - 2020.06.06 (no release)
+### [0.2] - 2020.06.06 (no release)
 - Make each element its own class instead of a subclass of a single Bender class (which was very close to Monk)
 - Add Water Pouch item
 
-### [v \alpha.1] - 2020.05.31 (no release)
+### [0.1] - 2020.05.31 (no release)
 - Initial version
