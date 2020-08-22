@@ -1,6 +1,6 @@
 # Benders
 
-Homebrew D&D campaign setting for _Avatar: The Last Airbender_.
+Homebrew D&D 5e campaign setting for _Avatar: The Last Airbender_.
 
 ## Releases
 - 6 August 2020: [Dr](drafts/draft7-1.pdf)[a](drafts/draft7-1-water.pdf)[f](drafts/draft7-1-earth.pdf)[t](drafts/draft7-1-fire.pdf) [7.1](drafts/draft7-1-air.pdf)

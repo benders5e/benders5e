@@ -1,9 +1,5 @@
 *.swp
 
-# dirs
-images
-recordings
-
 # old drafts
 draft1*pdf
 draft2*pdf
