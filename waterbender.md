@@ -343,7 +343,7 @@ While traveling for an hour or more in your favored terrain, you gain the follow
 #### Greater Plantbending
 At 7th level, you learn to control 2 plants in your range at a time with your bending. This number continues to increase according to your swampbender level (waterbender level minus 5); at each level, you can control a number of stems equal to half your swampbender level (minimum of 2).
 
-Your experience using bending the water in plants has also made you a resourceful fighter. Your plant attacks have a reach of 10 feet and when you hit with such an attack, you can spend another chi to attempt to grapple your target in addition to dealing damage. 
+Your experience bending the water in plants has also made you a resourceful fighter. Your plant attacks have a reach of 10 feet. When you hit with such an attack, you can spend another chi to attempt to grapple your target in addition to dealing your normal damage. 
 
 #### Plant Armor
 At 11th level, you can summon plants to create a sort of biological armor. You spend one action gathering enough plants to surround you, transforming you into a Large creature. The plant armor gives you temporary hit points equal to your bender level.
@@ -400,7 +400,7 @@ You form water into a blade shape and freeze it. While you maintain concentratio
 
 You spend 2 chi to make an attack with this weapon.
 
-#### Underwater Bubble
+#### Bubble
 *Cost: 1 chi*  
 You reshape water around you while submerged to maintain a supply of breathable air, causing the effects of the spell *Water Breathing*.
 
@@ -426,7 +426,7 @@ You send a ray of ice across the ground streaking towards a target of your choic
 
 At the end of each of its turns, a restrained target can make a Strength saving throw against your bending DC to break free.
 
-#### Water Jet
+#### Jet
 *Cost: 2 chi*  
 When you use this form, you send a pressurized jet of water at a creature within range. On a hit, you deal an amount of damage equal to twice your bending die. You also roll a waterbending check (using your waterbending modifier) opposed by the target's Strength (Athletics) or Dexterity (Acrobatics). If the target fails, it is knocked prone.
 
@@ -441,7 +441,7 @@ You create and launch 2 ice daggers at any combination of targets within your lo
 
 You gain an additional dagger for each extra chi you spend.
 
-#### Ice Shards
+#### Shards
 *Cost: 2 chi*  
 You cause ice shards to rain down on creatures in a 10-foot diameter sphere centered on a point within your normal bending range. Each creature in this area must succeed on a Dexterity saving throw or take 1d8 piercing damage.
 
@@ -457,14 +457,13 @@ You cover your fists with a layer of ice. For the next minute, you add an additi
 
 \page
 
-#### Ice Head
+#### Ice Encasing
 *Cost: 3 chi*  
 You make a ranged attack to hurl a sphere of water at a target. The sphere must be 1 foot in diameter for a medium or smaller creature and an an additional foot in diameter for each size above medium. 
 
 On a hit, the target's head is encased in ice and it starts suffocating. Each turn the creature ends with its head still encased in ice, it takes 2d6 cold damage.
 
 On each of its turns, the target can spend its action making a Strength saving throw against your DC to break free.
-[This needs a better name]
 
 #### Water Tendril
 *Cost: 3 chi*  
@@ -484,27 +483,27 @@ You create a protective dome (half-sphere) of water around you. Its radius is eq
 
 You control the weather inside the dome. You must be outdoors to use this form. Moving to a place where you don’t have a clear path to the sky causes the dome to break apart.
 
-Within the dome, the wind calms and you can change the precipitation. It takes 6 seconds for the new conditions to take effect. Once they do so, you can change the conditions again without expending any chi. When the dome disappears, the weather gradually returns to normal.
+Within the dome, you are protected from wind outside the dome and you can change the precipitation. It takes 6 seconds for the new conditions to take effect. Once they do so, you can change the conditions again without expending any chi. When the dome disappears, the weather gradually returns to normal.
 
 When you change the precipitation, find its current condition on the following table and change its stage by one, up or down.
 
 ##### Precipitation
-| Stage | Condition |
-|:-----:|:-----------|
+| Stage | Condition
+|:-----:|:-----------
 | 1     | Clear
 | 2     | Light rain
 | 3     | Rain, hail, or snow
 | 4     | Torrential rain, driving hail, or blizzard
 
-<div style="height: 4em;">
+<div style="height: 5em;">
 </div>
 #### Wave
 *Cost: 4 chi*  
-todo
+*[todo]*
 
 #### Razor Rings
 *Cost: 4 chi*  
-todo
+[*todo]*
 
 #### Ice Storm
 *Cost: 5 chi*  
@@ -532,9 +531,8 @@ See [here](https://www.dndbeyond.com/spells/14673-water-lung).
 <!--Advanced moves-->
 #### Ice Dome
 #### Ice Drill
-#### Ice Ladder?
 #### Ice Ramp
-#### Ice Tunneling
+#### Tunneling
 #### Water Ball
 #### Water Drill
 <!--#### Water Filtering

@@ -32,7 +32,8 @@ As an airbender, you gain the following class features.
 **Armor:** None  
 **Weapons:** Simple weapons, gliders  
 **Tools:** Choose one musical instrument
-***
+
+---
 **Saving Throws:** Intelligence, Dexterity  
 **Skills:** Choose two from Acrobatics, History, Religion, Persuasion, Sleight of Hand, and Stealth
 
@@ -104,7 +105,7 @@ Unless otherwise specified, anytime a target is required to make a saving throw,
 |10th | +4 | 1d8  |100/200| 5 | 3 | +20 ft.  | Breath of Wind
 |11th | +4 | 1d8  |100/200| 6 | 4 | +20 ft.  | Specialization feature
 |12th | +4 | 1d8  |100/200| 6 | 4 | +20 ft.  | Ability Score Improvement
-|13th | +5 | 1d10 |100/200| 7 | 4 | +20 ft.  | Diamond Soul (but renamed)
+|13th | +5 | 1d10 |100/200| 7 | 4 | +20 ft.  | Cosmic Spirit
 |14th | +5 | 1d10 |150/300| 7 | 4 | +25 ft.  | Timeless Body
 |15th | +5 | 1d10 |150/300| 8 | 5 | +25 ft.  | Wind Reader
 |16th | +5 | 1d10 |150/300| 8 | 5 | +25 ft.  | Ability Score Improvement
@@ -186,7 +187,7 @@ At 10th level, you become capable of displaying formidable breath control. You l
 
 You are also able to hold your breath for an unusual amount of time; instead of the normal amount (a number of minutes equal to 1 + your Constitution modifier), you can hold your breath for a number of minutes equal to 1 + your proficiency bonus + your airbending modifier.
 
-### Diamond Soul (but renamed)
+### Cosmic Spirit
 Beginning at 13th level, your mastery of chi grants you proficiency in all saving throws.  
 
 
@@ -340,8 +341,8 @@ Instead of dealing damage, you can attempt to push the target away. Roll an airb
 
 Just like your regular bending attack, this form clears any clouds not caused by spirit magic.
 
-<div style="height: 7em;">
-</div>
+<!--div style="height: 0em;">
+</div-->
 #### Wake
 *Cost: 2 chi*  
 You use your airbending to augment the momentum of a moving object. Until the beginning of your next turn, a moving object of your choice gets a +10 bonus to speed. If the object is a projectile, it deals additional damage equal to your bending die.  
@@ -359,7 +360,7 @@ You control the air currents around you to create an air spout, raising yourself
 *Cost: 3 chi*  
 You channel your inner chi to create a streamlined, slicing current of air. On a hit, the attack deals an additional bending die of slashing damage on top of your usual bending damage. If you have your staff in hand while making this attack, you use its narrow profile to assist you, gaining advantage on the attack.   
 
-#### Air bomb
+#### Air Bomb
 *Cost: 3 chi*  
 You slam your hands or staff to the ground, creating a powerful, outward-moving air current that moves outward in a circle. This current dispels any non-spiritual clouds of fog, dust, or other physical cloud effects.
 

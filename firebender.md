@@ -404,7 +404,7 @@ When you take this form, gain the ability to use your reaction to raise your AC 
 
 If the shield causes the attack to miss, the shield disintegrates; otherwise, it remains for a maximum of 1 minute.
 
-#### Fire Lashes
+#### Lashing Flames
 *Cost: 2 chi*  
 You shape your flame into a lashing tendril and swipe at a target within range, dealing 1d10 bludgeoning damage. 
 

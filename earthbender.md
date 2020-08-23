@@ -279,7 +279,7 @@ At 11th level, you learn an additional form of your choice from the following li
 *Cost: 1 chi*  
 By controlling the magnetic orientation of particles within the earth beneath your hands and feet, you can move up, down, and across vertical surfaces and upside down along ceilings until the beginning of your next turn, all while leaving your hands or feet free. You have a climbing speed equal to your walking speed.
   
-##### Earth Sinking
+##### Sinking Earth
 *Prerequisite: Advanced Earthbending specialization*  
 *Cost: 3 chi*  
 Pick a target within your normal bending range. You can attempt to cause them to sink into the earth and be trapped there. The target makes a Dexterity saving throw. On a failure, the target sinks up to its knees into the ground and is Restrained. On a success, the target is moves into an unoccupied space within 5 feet and is knocked prone. A Restrained target can attempt a Strength (Athletics) check against your bending DC at the end of each of its turns. On a success, it is no longer Restrained. 
@@ -309,6 +309,11 @@ Beginning when you choose this specialization at 5th level, you can bend the sma
 
 You can use metal instead of earth in any form you already know, increasing its chi cost by 1. Any changes in the form's behavior when using metal are marked in its description.
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 2 | CLASSES</div>
+
+\page
+
 #### Ranged Metalbending
 At 7th level, you learn to bend metal without touching it. You can bend metal as if it was earth (the same capacity and range restrictions apply to your metalbending as do to your earthbending). You cannot bend any metal that is being held, equipped, or carried.  
 
@@ -319,11 +324,6 @@ Beginning at 11th level, ...
 </div-->
 #### Metalbending Forms
 At 17th level, you learn one additional form of your choice from the following list:
-
-<div class='pageNumber auto'></div>
-<div class='footnote'>PART 2 | CLASSES</div>
-
-\page
 
 <div style="margin-left: 1.5em;">
 ##### Metal Encasing
@@ -365,8 +365,8 @@ At 11th level, you learn to move lava with as much control as you move earth. Yo
 #### Advanced Form
 At 17th level, you learn an additional form of your choice from the following list:
 
-<div style="height:2em;">
-</div>
+<!--div style="height:2em;">
+</div-->
 
 <div style="margin-left: 1.5em;">
 ##### Flaming Shuriken
@@ -417,7 +417,7 @@ You continue to gain the benefits of the rock armor as long as you maintain conc
 *Cost: 1 chi*  
 You create a mannequin out of earth within range, which has the abilities of an _Unseen Servant_, but using your normal bendig range as the spell's range.
 
-#### Earth Glove
+#### Rock Glove
 *Cost: 1 chi*  
 You shape earth into a glove around your hand. By spending one additional chi, you can cause the glove to leave your hand and float to an area within your normal bending range. If you launch it at an opponent, it deals 1d6 bludgeoning damage.   
 
@@ -451,7 +451,7 @@ When you take this form, gain the ability to use your reaction to defuse ranged 
 
 For projectiles of another element, the damage of each projectile is reduced by 1d6 + your earthbending modifier + your earthbender level. For earth projectiles, the damage is reduced by 1d12 + your earthbending modifier + your earthbender level.  
 
-#### Earth Levitation
+#### Levitation
 *Cost: 2 chi*  
 You stomp on the ground, using your kinetic energy to levitate a mass of earth equal to your bending capacity (shown in the class table). In the same motion, you can push the rock at a target of your choice, dealing double your regular bending damage + 1d4 additional damage.
 
