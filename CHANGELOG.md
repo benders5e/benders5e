@@ -1,4 +1,4 @@
-[Version 0.8](#08---tba)  
+[Version 0.8](#08---20200823)  
 [Version 0.7.1](#071---20200806)  
 [Version 0.7.0](#070---20200804)  
 [Version 0.6](#06---20200711)  
@@ -10,8 +10,11 @@
 
 ---
 
-### [0.8] - TBA
+### [0.8] - 2020.08.23
   - Clarify bending DC
+  - Rename some forms
+  - Add more celestial tracking info
+  - Add full descriptions for external (non-PHB and not homebrew) backgrounds
 
   #### Water
   - Plantbending:
