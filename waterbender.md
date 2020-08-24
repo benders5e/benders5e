@@ -85,11 +85,11 @@ During combat, you can channel your chi to use your bending as a rudimentary att
 | 3rd | +2 | 1d6     | 5 ft.  | 30/60 | 2 | 2     |Redirection|
 | 4th | +2 | 1d6     | 10 ft. | 30/60 | 2 | 2     |Ability Score Improvement, Water in All Its States|
 | 5th | +3 | 1d8     | 10 ft. | 60/120| 3 | 2     |Waterbending specialization|
-| 6th | +3 | 1d8     | 10 ft. | 60/120| 3 | 2     |Water Movement, Versatile Reaction|
+| 6th | +3 | 1d8     | 10 ft. | 60/120| 3 | 2     |Water Movement, ?|
 | 7th | +3 | 1d8     | 10 ft. | 60/120| 4 | 3     |Specialization feature|
 | 8th | +3 | 1d8     | 15 ft. | 60/120| 4 | 3     |Ability Score Improvement|
-| 9th | +4 | 1d8     | 15 ft. | 60/120| 5 | 3     |Improved Water Movement|
-|10th | +4 | 1d8     | 15 ft. |100/200| 5 | 3     |?|
+| 9th | +4 | 1d8     | 15 ft. | 60/120| 5 | 3     |Versatile Reaction|
+|10th | +4 | 1d8     | 15 ft. |100/200| 5 | 3     |Improved Water Movement|
 |11th | +4 | 1d10    | 15 ft. |100/200| 6 | 4     |Specialization feature|
 |12th | +4 | 1d10    | 15 ft. |100/200| 6 | 4     |Ability Score Improvement|
 |13th | +5 | 1d10    | 15 ft. |100/200| 7 | 4     |?|
@@ -124,17 +124,18 @@ Some of your abilities will require targets to make saving throws against your b
 ---
 Unless otherwise specified, anytime a target is required to make a saving throw, it makes it against your bending DC. 
 
+<div style="height:3em;">
+</div>
+
 ### Stance
 Beginning at 2nd level, you adopt a particular stance as your specialty. Choose one of the following options: 
 
-<!--div style="height:4em;">
-</div-->
 #### Water Ring
 In combat, you surround yourself with a ring of water which you can use as your source of bending. While surrounded by this ring, once per turn you can reduce the cost of a bending form by one chi. 
 
 The water also helps protect you from attacks, granting you a +2 bonus to AC.   
 
-You must spend one chi on one of your turns to create the ring and gain these benefits. After 1 minute, the ring disappears, and you must spend another chi to create it once again.
+You must spend one chi on one of your turns to create the ring and gain these benefits. After 1 minute, the ring disappears, and you must spend another chi to recreate it.
 
 #### Water Arms
 You coat your arms in water, increasing your reach by 5 feet. When you take an opportunity attack, you can attempt to grapple the target instead. Your grapple ends if anything passes through the water tendril.  
@@ -193,10 +194,13 @@ At 5th level, you specialize in one of the following types of waterbending: adva
 At 6th level, you learn to synchronize your control of water with your movement. You gain the ability to move across liquids. 
 <!--When you do so, your speed is doubled.-->
 
+### ?
+Also at 6th level, ... *[Some element-specific ability.]*
+
 <!--div style="height:1em;">
 </div-->
 ### Versatile Reaction
-At 6th level, you react quickly and strategically when you are hit by a melee attack. By spending 1 chi point (from your upcoming turn), you can use your reaction to do one of the following:
+Beginning at 9th level, you react quickly and strategically when you are hit by a melee attack. By spending 1 chi point (from your upcoming turn), you can use your reaction to do one of the following:
 
 #### Freeze
 You encase your attacker's hands in ice. At the beginning of each of their turns, they can make a Strength saving throw against your bending DC. 
@@ -207,7 +211,7 @@ On a success, the ice breaks. On a failure, their hands remain encased in ice. W
 You take this opportunity to wrap a tendril of water around your attacker. An attacker at most one size larger is moved 10 feet into an unoccupied space of your choice. They also make a Dexterity saving throw and are knocked prone on a failure.
 
 ### Improved Water Movement
-At 9th level, your control over solid water also grants you the ability to move easily over ice and snow. For you, this type of terrain is no longer difficult terrain.
+At 10th level, your control over solid water also grants you the ability to move easily over ice and snow. For you, this type of terrain is no longer difficult terrain.
 
 ### ?
 At 10th level, ...
@@ -495,12 +499,12 @@ When you change the precipitation, find its current condition on the following t
 | 3     | Rain, hail, or snow
 | 4     | Torrential rain, driving hail, or blizzard
 
-<div style="height: 5em;">
-</div>
 #### Wave
 *Cost: 4 chi*  
 *[todo]*
 
+<div style="height: 1em;">
+</div>
 #### Razor Rings
 *Cost: 4 chi*  
 [*todo]*

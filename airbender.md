@@ -82,7 +82,6 @@ Some of your abilities will require targets to make saving throws against your b
 **Bending DC** = 8 + Wis modifier + proficiency bonus
 
 ---
-Unless otherwise specified, anytime a target is required to make a saving throw, it makes it against your bending DC.
 
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 2 | CLASSES</div>
@@ -105,15 +104,17 @@ Unless otherwise specified, anytime a target is required to make a saving throw,
 |10th | +4 | 1d8  |100/200| 5 | 3 | +20 ft.  | Breath of Wind
 |11th | +4 | 1d8  |100/200| 6 | 4 | +20 ft.  | Specialization feature
 |12th | +4 | 1d8  |100/200| 6 | 4 | +20 ft.  | Ability Score Improvement
-|13th | +5 | 1d10 |100/200| 7 | 4 | +20 ft.  | Cosmic Spirit
-|14th | +5 | 1d10 |150/300| 7 | 4 | +25 ft.  | Timeless Body
-|15th | +5 | 1d10 |150/300| 8 | 5 | +25 ft.  | Wind Reader
+|13th | +5 | 1d10 |100/200| 7 | 4 | +20 ft.  | Wind Reader
+|14th | +5 | 1d10 |150/300| 7 | 4 | +25 ft.  | Cosmic Spirit
+|15th | +5 | 1d10 |150/300| 8 | 5 | +25 ft.  | Timeless Body
 |16th | +5 | 1d10 |150/300| 8 | 5 | +25 ft.  | Ability Score Improvement
 |17th | +6 | 1d10 |150/300| 9 | 5 | +25 ft.  | Specialization feature
 |18th | +5 | 1d10 |200/400| 9 | 5 | +30 ft.  | –
 |19th | +5 | 1d10 |200/400| 10| 5 | +30 ft.  | Ability Score Improvement
 |20th | +5 | 1d10 |200/400| 10| 6 | +30 ft.  | Detachment
 </div>
+
+Unless otherwise specified, anytime a target is required to make a saving throw, it makes it against your bending DC.
 
 #### Nonlethal Damage
 Airbenders, particularly air nomads, are the most peaceful benders, typically doing their best to avoid taking a life whenever possible. When you make an attack (melee or ranged) that reduces a creature to 0 hit points, you can choose to make the damage nonlethal by dealing bludgeoning damage instead of the default damage type.
@@ -131,8 +132,8 @@ You also learn to use your bending to steer your glider, giving you proficiency 
 
 When you reach 6th level, you gain the ability to move along vertical surfaces and across liquids on your turn without falling during the move.
 
-<div style="height: 1em;">
-</div>
+<!--div style="height: 1em;">
+</div-->
 ### Airbending Forms
 Starting at 2nd level, your connection to chi and practice of bending allows you to weave your bending into your combat style. With training, you are able to learn particular forms that combine martial arts and airbending to carry out more sophisticated attacks.   
 
@@ -187,17 +188,17 @@ At 10th level, you become capable of displaying formidable breath control. You l
 
 You are also able to hold your breath for an unusual amount of time; instead of the normal amount (a number of minutes equal to 1 + your Constitution modifier), you can hold your breath for a number of minutes equal to 1 + your proficiency bonus + your airbending modifier.
 
+### Wind Reader
+At 13th level, you are aware of every motion in the air surrounding you. Every turn, you may take the Dodge action as a bonus action.  
+
 ### Cosmic Spirit
-Beginning at 13th level, your mastery of chi grants you proficiency in all saving throws.  
+Beginning at 14th level, your mastery of chi grants you proficiency in all saving throws.  
 
 
 Additionally, once per long rest, whenever you make a saving throw and fail, you can choose to succeed instead.
 
 ### Timeless Body
-At 14th level, your chi sustains you so that you suffer none of the frailty of old age and you cannot be aged by unnatural means. You can still die of old age, however. In addition, you no longer need food or water.
-
-### Wind Reader
-At 15th level, you are aware of every motion in the air surrounding you. Every turn, you may take the Dodge action as a bonus action.  
+At 15th level, your chi sustains you so that you suffer none of the frailty of old age and you cannot be aged by unnatural means. You can still die of old age, however. In addition, you no longer need food or water.
 
 <div style="height: 0em;">
 </div>
@@ -341,8 +342,8 @@ Instead of dealing damage, you can attempt to push the target away. Roll an airb
 
 Just like your regular bending attack, this form clears any clouds not caused by spirit magic.
 
-<!--div style="height: 0em;">
-</div-->
+<div style="height: 2em;">
+</div>
 #### Wake
 *Cost: 2 chi*  
 You use your airbending to augment the momentum of a moving object. Until the beginning of your next turn, a moving object of your choice gets a +10 bonus to speed. If the object is a projectile, it deals additional damage equal to your bending die.  
