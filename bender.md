@@ -104,15 +104,20 @@ Waterbenders are strengthened as the moon grows fuller, reaching their peak duri
 
 <div class='classTable wide'>
 ##### Equipment
-| Name        |Cost| Damage        | Weight   |Properties             |
-|:------------|:---|:--------------|:---------|:-----------------------
-| Boomerang   |1sp |1d6 bludgeoning|1/2 lb    |Finesse, special, thrown (range30/120)
-| Dart        |5 cp|1d4 piercing   |1/4 lb    |Finesse, thrown (range 20/60)|
-| Fan (closed)|5 gp|1d4 bludgeoning|1 lb.     |Finesse, light         |
-| Fan (open)  |5 gp|1d4 slashing   |1 lb.     |Finesse, light, special|
-| Shortsword  |10 gp|1d6 piercing  |2 lb.     |Finesse, light         |
-| Scimitar    |25 gp|1d6 slashing  |3 lb.     |Finesse, light         |
-| Glider      |5 gp|1d4 bludgeoning|2 lb.     |Versatile, special     | 
+| Name               | Cost&emsp;| Damage        | Weight   |Properties             |
+|:-------------------|----------:|:--------------|:---------|:-----------------------
+| *Simple Melee Weapons*| | | | |
+| &emsp;Glider       | 5 gp&emsp;|1d4 bludgeoning|2 lb.     |Versatile, special
+| *Simple Ranged Weapons*| | | | |
+| &emsp;Boomerang    | 1sp&emsp;|1d6 bludgeoning |1/2 lb    |Finesse, special, thrown (range30/120)
+| &emsp;Dart         | 5 cp&emsp;|1d4 piercing   |1/4 lb    |Finesse, thrown (range 20/60)
+| *Martial Melee Weapons*| | | | |
+| &emsp;Fan (closed) | 5 gp&emsp;|1d6 bludgeoning|1 lb.     |Finesse, light
+| &emsp;Fan (open)   | 5 gp&emsp;|1d6 slashing   |1 lb.     |Finesse, light, special
+| &emsp;Hooked Swords|     &emsp;|               |           |Special
+| &emsp;Longsword    |15 gp&emsp;|1d8 slashing   |3 lb.     |Versatile (1d10)
+| &emsp;Scimitar     |25 gp&emsp;|1d6 slashing   |3 lb.     |Finesse, light
+| &emsp;Shortsword   |10 gp&emsp;|1d6 piercing   |2 lb.     |Finesse, light
 </div>
 
 <!--## Bracers of Defense
@@ -120,14 +125,15 @@ Waterbenders are strengthened as the moon grows fuller, reaching their peak duri
 
 +1 to AC
 -->
+This section describes items that have special rules or require further explanation.
 
-## Boomerang
+**_Boomerang._** 
 It always comes back :')
 
-## Fans
+**_Fans._** 
 Taking your fans out or putting them away takes a bonus action. Opening or closing them does as well. You can still earthbend while holding the fans; they augment your bending, increasing your range by 10 feet.
 
-## Glider
+**_Glider._**
 Opening or closing your glider takes a bonus action. When holding the glider in the closed position, you can use it to channel your bending as if it were a free hand.  
 
 When the glider is open, you can use a bonus action to fly. Flying requires airbending, so only airbenders will be able to use a glider to fly. You must use 5 feet of ground movement to take off, at which point you gain a flying speed of 60 feet. 
@@ -136,23 +142,18 @@ Your hands and feet are both occupied when gliding, so if you use them to bend o
 
 You can attempt to carry another other person in addition to you on the glider. In this case, you must succeed on a DC 13 Dexterity saving throw or lose control. The DC increases by 3 with each additional person on the glider.
 
-## Guanmao Hat
+<!--div style="height:4em;">
+</div-->
+**_Guanmao Hat._**
 This large-brimmed hat is flat and shield-like, allowing the wearer to defuse various attacks by lowering their head. It confers +1 to AC.
 
-<div style="height:7em;">
-</div>
-## Hooked Swords
+**_Hooked Swords._**
 On a hit, you can make an opposed Dexterity check against the target's Strength. On a success, the target is disarmed and its weapon clatters to the ground in the nearest empty space (your choice if there are multiple options). If the target is wielding more than one weapon, only one of them falls to the ground.
 
-<!--## Pai Sho Board
-### Special White Lotus Tile
-Get room and board at any friendly house
--->
-
-## Spirit Water
+**_Spirit Water._**
 When used by a waterbender for healing, it restores double the amount of HP granted by healing with regular water.
 
-## Water pouch
+**_Water pouch._**
 A water pouch holds the equivalent of a 1-foot-diameter sphere of water. It is typically worn on the waist and can be used for waterbending when no water source is within range.
 
 <div class='pageNumber auto'></div>
@@ -200,7 +201,10 @@ These feats can be chosen by any class in a Bender campaign.
 - Once per long rest, if you have tea leaves or herbs available, you can create an infusion laced with healing power. Any creature who drinks it gains the benefits of a Potion of Healing. Drinking more than once from the infusion does not confer any additional benefits.
 
 ### Gunpowder Amateur
-[Mostly meant for firebenders to interact with gunpowder and use it strategically in tandem with their bending]
+*[Mostly meant for firebenders to interact with gunpowder and use it strategically in tandem with their bending.]*
+
+### Elemental Defense
+*[Either something similar to Fighter Maneuvers, but element-specific, or just something simple like firebender Defusion.]*
 
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 4 | FEATS</div>
@@ -251,7 +255,7 @@ Use the tables for the acolyte background in the Player's Handbook as the basis 
 
 Your bond might be associated with other members of your faction, or a location or an object that is important to your faction. The ideal you strive for is probably in keeping with the tenets and principles of your faction, but might be more personal in nature.
 
-<div style="height: 6em;">
+<div style="height: 8em;">
 </div>
 
 ### Cloistered Scholar  
@@ -322,7 +326,7 @@ Fishers succeed only if they spend time at their jobs. As such, most fishers hav
 | 7  | I dislike bargaining; state your price and mean it.
 | 8  | Luck favors me, and I take risks others might not.
 
-<div style="height: 7em;">
+<div style="height: 9em;">
 </div>
 
 ##### Fisher Ideals
@@ -474,7 +478,7 @@ Shipwrights are resourceful carpenters and designers. They often have a dedicate
 | 7  | I have an endless supply of cautionary tales related to the sea.
 | 8  | I don't mind getting my hands dirty.
 
-<div style="height: 11em;">
+<div style="height: 13em;">
 </div>
 
 ##### Shipwright Ideals
@@ -563,6 +567,9 @@ You hail from the Si Wong Desert. Your time in this arid biome has forced you to
 You are accustomed to traveling in the desert, so sand is not difficult terrain for you.
 
 The following earthbending forms are available to you in addition to the forms listed in the Earthbender class description. Futhermore, when you reach 6th level, you learn to bend glass in addition to the other earth-based materials described in "Expansion and Compaction".
+
+<div style="height: 2em;">
+</div>
 
 <div style="margin-left: 1.5em;">
 ##### Earth to Sand

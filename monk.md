@@ -55,9 +55,15 @@ You start with the following equipment, in addition to the equipment granted by 
 <!--*[also Airbender]*  -->
 Beginning at 1st level, while you are wearing no armor and not wielding a shield, your AC equals 10 + your Dexterity modifier + your Wisdom modifier.
 
+### Martial Arts
+At 1st level, your practice of martial arts gives you mastery of combat styles that use unarmed strikes and monk weapons, which are shortswords and any simple melee weapons that don’t have the two-handed or heavy property.
+
+You gain the following benefits while you are unarmed or wielding only monk weapons and you aren’t wearing armor or wielding a shield:
+
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 2 | CLASSES</div>
 \page
+
 <div class='classTable wide'>
 ##### The Monk
   
@@ -85,17 +91,14 @@ Beginning at 1st level, while you are wearing no armor and not wielding a shield
 |20th | +5 | 1d10 | 6 | +30 ft.  | Perfect Self
 </div>
 
-### Martial Arts
-At 1st level, your practice of martial arts gives you mastery of combat styles that use unarmed strikes and monk weapons, which are shortswords and any simple melee weapons that don’t have the two-handed or heavy property.
-
-You gain the following benefits while you are unarmed or wielding only monk weapons and you aren’t wearing armor or wielding a shield:
-
 - You can use Dexterity instead of Strength for the attack and damage rolls of your unarmed strikes and monk weapons.
 - You can roll a d4 in place of the normal damage of your unarmed strike or monk weapon. This die changes as you gain monk levels, as shown in the Martial Arts column of the Monk table.
 - When you use the Attack action with an unarmed strike or a monk weapon on your turn, you can make one unarmed strike as a bonus action. For example, if you take the Attack action and attack with a quarterstaff, you can also make an unarmed strike as a bonus action, assuming you haven’t already taken a bonus action this turn.
 
 Certain monasteries use specialized forms of the monk weapons. For example, you might use a club that is two lengths of wood connected by a short chain (called a nunchaku) or a sickle with a shorter, straighter blade (called a kama). Whatever name you use for a monk weapon, you can use the game statistics provided for the weapon in the Weapons section.
 
+<div style="height:4em;">
+</div>
 ### Chi
 Starting at 2nd level, your training allows you to harness the mystic energy of chi. Your access to this energy is represented by a number of chi points. Your monk level determines the number of points you have, as shown in the Chi Points column of the Monk table.
 
@@ -103,14 +106,14 @@ You can spend these points to fuel various chi features. You start knowing three
 
 When you spend a chi point, it is unavailable until you finish a short or long rest, at the end of which you draw all of your expended chi back into yourself. You must spend at least 30 minutes of the rest meditating to regain your chi points.
 
+Some of your chi features require your target to make a saving throw to resist the feature’s effects. The saving throw DC is calculated as follows:
+
+---
+**Chi save DC** = 8 + your proficiency bonus + your Wisdom modifier
+
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 2 | CLASSES</div>
 \page
-
-Some of your chi features require your target to make a saving throw to resist the feature’s effects. The saving throw DC is calculated as follows:
-
-***
-**Chi save DC** = 8 + your proficiency bonus + your Wisdom modifier
 
 #### Flurry of Blows
 Immediately after you take the Attack action on your turn, you can spend 1 chi point to make two unarmed strikes as a bonus action.
@@ -145,6 +148,8 @@ Using the optional feats rule, you can forgo taking this feature to take a feat 
 <!--*[also Airbender (slightly modified, "Air Cushion")]*  -->
 Beginning at 4th level, you can use your reaction when you fall to reduce any falling damage you take by an amount equal to five times your monk level.
 
+<div style="height:3em;">
+</div>
 ### Extra Attack
 Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
 
@@ -178,16 +183,16 @@ Additionally, whenever you make a saving throw and fail, you can spend 1 chi poi
 <!--*[also Airbender (14th level)]*  -->
 At 15th level, your chi sustains you so that you suffer none of the frailty of old age, and you can’t be aged magically. You can still die of old age, however. In addition, you no longer need food or water.
 
-<div class='pageNumber auto'></div>
-<div class='footnote'>PART 2 | CLASSES</div>
-
-\page
-
 ### ?
 Beginning at 18th level, [combat utility to replace Empty Body]
 
 ### Perfect Self
 At 20th level, when you roll for initiative and have no chi points remaining, you regain 4 chi points.
+
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 2 | CLASSES</div>
+
+\page
 
 ## Monastic Traditions
 Three traditions of monastic pursuit are common in the monasteries scattered across the multiverse. Most monasteries practice one tradition exclusively, but a few honor the three traditions and instruct each monk according to his or her aptitude and interest. All three traditions rely on the same basic techniques, diverging as the student grows more adept. Thus, a monk need choose a tradition only upon reaching 3rd level.
@@ -213,6 +218,8 @@ At 17th level, you gain the ability to set up lethal vibrations in someone’s b
 
 You can have only one creature under the effect of this feature at a time. You can choose to end the vibrations harmlessly without using an action.
 
+<div style="height:3em;">
+</div>
 ### Way of Chi
 Monks of the Way of Chi possess a deep understanding of the flow of chi in the body and learn to interfere with it in their enemies. They learn to identify pressure points and techniques to block chi in their targets, dealing light but deadly strikes, weakening their opponents, and even causing them to temporarily lose their bending. 
 
@@ -221,34 +228,40 @@ Starting when you choose this tradition at 3rd level, you learn to use your know
 
 #### Pressure Points
 *[Adapted from [Way of the Ki Blocker subclass](https://dandwiki.com/wiki/Way_of_the_Ki_Blocker_(5e_Subclass\))]*  
+
+
 At 6th level, you learn to use pressure points to disrupt the flow of chi and, consequently, certain bodily functions. Whenever you make an unarmed strike, you can spend 1 chi point to cause one of the following effects:
 
 <!--If the part of the body you target does not exist on a certain creature or cannot be reached, the attempt fails.-->
 
-***
+---
 **Head:** On a hit, the creature must make a Constitution saving throw or be stunned until the end of their next turn.
-***
+
+---
 **Neck:** On a hit, the creature must make a Constitution saving throw or suffer disadvantage on all attacks until the end of their next turn.
-***
+
+---
 **Arm:** On a hit, the creature must make a Strength saving throw or drop 1 held item of your choice.
-***
+
+---
 **Chest:** On a hit, the creature suffers disadvantage on their next saving throw.
-***
+
+---
 **Leg:** On a hit, the creature must make a Strength saving throw or fall prone.
 
 #### Chi Blocking
-Beginning at 11th level, you learn to use yoru strikes to completely block the flow of chi in your opponents for a short period of time. Whenever you hit a target with an unarmed strike, you can spend 3 chi points to impose one of the following effects on your target:
-
-<div class='pageNumber auto'></div>
-<div class='footnote'>PART 2 | CLASSES</div>
-
-\page 
+Beginning at 11th level, you learn to use your strikes to completely block the flow of chi in your opponents for a short period of time. Whenever you hit a target with an unarmed strike, you can spend 3 chi points to impose one of the following effects on your target:
 
 - It must succeed on a Dexterity saving throw or have its Strength or Dexterity reduced to 0 (setting the modifier to -5) for the next minute
 - It must succeed on a Dexterity saving throw or lose its bending for the next minute
 
 #### Energybending
 At 17th level, you gain energybending. It is a highly dangerous technique; if one's own energy is impure and therefore bendable, the practitioner will be consequently destroyed. Energybending allows the user to remove other people's bending abilities or restore them after a bender had their abilities blocked by bloodbending.
+
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 2 | CLASSES</div>
+
+\page 
 
 ##### Removing Bending Abilities
 Once per long rest, if a bender is Restrained or Incapacitated, you can touch them on the center of the forehead and attempt to remove their bending permanently. 
@@ -273,14 +286,13 @@ Starting when you choose this tradition at 3rd level, you can use your chi to du
 #### Shadow Step
 At 6th level, you gain the ability to step from one shadow into another. When you are in dim light or darkness, as a bonus action you can teleport up to 60 feet to an unoccupied space you can see that is also in dim light or darkness. You then have advantage on the first melee attack you make before the end of the turn.
 
+<div style="height:4em;">
+</div>
 #### Cloak of Shadows
 By 11th level, you have learned to become one with the shadows. When you are in an area of dim light or darkness, you can use your action to become invisible. You remain invisible until you make an attack, cast a spell, or are in an area of bright light.
 
 #### Opportunist
 At 17th level, you can exploit a creature's momentary distraction when it is hit by an attack. Whenever a creature within 5 feet of you is hit by an attack made by a creature other than you, you can use your reaction to make a melee attack against that creature.
-
-<!--div style="height: 1em;">
-</div-->
 
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 2 | CLASSES</div>
