@@ -1,4 +1,6 @@
-[Version 0.8](#08---20200823)  
+
+[Version 0.8.1](#081---tba)  
+[Version 0.8.0](#080---20200823)  
 [Version 0.7.1](#071---20200806)  
 [Version 0.7.0](#070---20200804)  
 [Version 0.6](#06---20200711)  
@@ -10,7 +12,17 @@
 
 ---
 
-### [0.8] - 2020.08.23
+### [0.8.1] - TBA
+  - Start adding Elemental Defense feat
+  - Add Fighter (direct copy of PHB + Gunslinger)
+
+  #### Water
+  - Move Versatile Reaction to 9th level and Improved Water Movement to 10th
+
+  #### Air
+  - Switch around 13th, 14th, and 15th level abilities
+
+### [0.8.0] - 2020.08.23
   - Clarify bending DC
   - Rename some forms
   - Add more celestial tracking info

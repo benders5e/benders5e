@@ -9,14 +9,8 @@ In his absence, chaos reigns, kept at bay only by brave benders who have taken i
 
 - The four types of Benders (Water, Earth, Fire, Air)
 - Modified Monk (with new Chi Blocker monastic tradition)
+- Fighter
 - Rogue *[pending]*
-- Modified Fighter (with new Kyoshi Warrior and Swordmaster subclasses) *[pending]*
-
-<!--#### Kyoshi Warrior
-Modified Fighter, uses fans; with specific bending attack defusion maneuvers
-
-#### Swordmaster
-Modified Fighter (Samurai or Battlemaster), similar to Sokka's training; with specific bending attack defusion maneuvers.-->
 
 ### Skills
 This class uses, for the most part, the same skills as regular 5th edition D&D. These are the exceptions:
