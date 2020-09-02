@@ -121,7 +121,7 @@ Waterbenders are strengthened as the moon grows fuller, reaching their peak duri
 This section describes items that have special rules or require further explanation.
 
 **_Boomerang._** 
-It always comes back :')
+You can make both melee and ranged attacks with a boomerang. When thrown for a ranged attack, the boomerang returns to your hand unscathed at the beginning of your next turn.
 
 **_Fans._** 
 Taking your fans out or putting them away takes a bonus action. Opening or closing them does as well. You can still earthbend while holding the fans; they augment your bending, increasing your range by 10 feet.
@@ -198,6 +198,12 @@ These feats can be chosen by any class in a Bender campaign.
 
 ### Elemental Defense
 *[Either something similar to Fighter Maneuvers, but element-specific, or just something simple like firebender Defusion.]*
+
+### Weapon master
+*[focuses on bending in conjunction with weapons (especially for fire)]*
+
+### Ingenious observer
+*[See Waterbender's Ingenious Fighter/Expanded Horizons abilities]*
 
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 4 | FEATS</div>
@@ -511,58 +517,59 @@ Shipwrights are resourceful carpenters and designers. They often have a dedicate
 
 ## Water
 
-### Southern/Northern Water Tribe
-***
-...
+### Arctic Dweller
 
-***
-**Skill Proficiencies:**  
-**Tool Proficiencies:**  
-**Equipment:** 
+**Skill Proficiencies:** Survival, plus your choice of Animal Handling or Athletics  
+**Tool Proficiencies:** Two of your choice  
+**Equipment:** a set of warm clothes, a token or keepsake to remind you of home, dried jerky to last for 5 days, and a pouch containing 10 gp 
 
 #### Feature: Cold Endurance
-Use Cons instead of Dex. OR have proficiency with Cons ST instead of Dex. (?)
+Living in the brutal climate of the pole has made you hardy and resilient, granting you proficiency with Constitution saving throws.
 
 #### Suggested Characteristics
-Use the tables for the guild artisan background in the Player's Handbook as the basis for your traits and motivations, modifying the entries when appropriate to suit your role within your home tribe.  
+Use the tables for the guild artisan or sailor background in the Player's Handbook as the basis for your traits and motivations, modifying the entries when appropriate to suit your role within your home tribe.  
 
 Your bond might be associated with other members of your tribe, or a location or an object that is important to your tribe. The ideal you strive for is probably in keeping with the tenets and principles of your tribe, but might be more personal in nature.
 
 ### \*Swampbender
-***
+
 You hail from the swamps in the Earth Kingdom.  
 
-***
-**Skill Proficiencies:**  
-**Tool Proficiencies:**  
-**Equipment:**
-***
+---
+**Skill Proficiencies:** Nature, Survival  
+**Tool Proficiencies:** One type of artisan's tools, herbalism kit  
+**Equipment:** A staff, a hunting trap, and a leaf loincloth and hat
+
+---
 **Other Proficiencies:** Swim speed 30 feet  
 
 #### Feature: Not Clever, but Wise
-You use your Wisdom modifier as your waterbending modifier. 
+You use Wisdom as your waterbending ability. 
+
+#### Feature: Naked Defense
+While you are wearing no armor and not wielding a shield, your AC equals 13 + your Dexterity modifier.
 
 #### Suggested Characteristics
-...
+Use the tables for the outlander background in the Player's Handbook as the basis for your traits and motivations, modifying the entries when appropriate to suit your identity as a one hailing from the swamps. Your bond is almost certainly associated with the place you grew up.
 
 ## Earth
 
 ### \*Sandbender
-***
+
 You hail from the Si Wong Desert. Your time in this arid biome has forced you to master a special form of earthbending known as sandbending.  
 
-***
-**Skill Proficiencies:**  
-**Tool Proficiencies:**  
-**Equipment:** 
+---
+**Skill Proficiencies:** Animal Handling, Intimidation  
+**Tool Proficiencies:** Glassblower's tools, one type of gaming set  
+**Equipment:** A grappling hook, a set of traveler's clothes, and a pouch containing 10 gp 
 
 #### Feature: Sandbending
 You are accustomed to traveling in the desert, so sand is not difficult terrain for you.
 
 The following earthbending forms are available to you in addition to the forms listed in the Earthbender class description. Futhermore, when you reach 6th level, you learn to bend glass in addition to the other earth-based materials described in "Expansion and Compaction".
 
-<div style="height: 2em;">
-</div>
+<!--div style="height: 2em;">
+</div-->
 
 <div style="margin-left: 1.5em;">
 ##### Earth to Sand
@@ -581,40 +588,29 @@ The sandstorm lasts until the start of your next turn.
 </div>
 
 #### Suggested Characteristics
-...
+Use the tables for the outlander background in the Player's Handbook as the basis for your traits and motivations, modifying the entries when appropriate to suit your identity as a desert-dweller. 
 
-## Fire
+Your bond is likely associated with other members of your clan, or a location or an object that is important to your people.
 
-### ?
-***
-...
-
-***
-**Skill Proficiencies:**  
-**Tool Proficiencies:**  
-**Equipment:**
-
-#### Feature:
-...
-
-#### Suggested Characteristics
-...
+<!-- ## Fire -->
 
 ## Air
-### Air Nomad
-***
-[Based on Hermit]
+### \*Air Nomad
 
-***
-**Skill Proficiencies:**  
-**Tool Proficiencies:**  
-**Equipment:** 
+Air Nomad children are raised in Air Nomad temples from a young age, developing parental bonds with the nomad assigned to their training. A large part of this training is spiritual, which leads to all Air Nomads realizing their connection to their inner chi and unlocking the ability to airbend.
 
-#### Feature:
-...
+---
+**Skill Proficiencies:** Arcana (Spirituality) and your choice of Animal Handling or History  
+**Tool Proficiencies:** One type of artisan's tools, pai sho set  
+**Equipment:** A set of robes, 5 sticks of incense, and a pouch containing 5 gp 
+
+#### Feature: Meditation
+Air Nomads don't need to sleep. Instead, they meditate deeply, remaining semiconscious, for 4 hours a day. While meditating, you can dream after a fashion; such dreams are actually mental exercises that have become reflexive through years of practice. After resting in this way, you gain the same benefit that others do from 8 hours of sleep.
 
 #### Suggested Characteristics
-...
+Use the tables for the hermit background in the Player's Handbook as the basis for your traits and motivations, modifying the entries when appropriate.
+
+When choosing your ideal, keep in mind that the Air Nomads are a peaceful people who eschew violence of all sorts and thus tend to a neutral or good alignment.
 
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 5 | BACKGROUNDS</div>
