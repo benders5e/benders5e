@@ -19,6 +19,14 @@
   #### Water
   - Move Versatile Reaction to 9th level and Improved Water Movement to 10th
 
+  #### Earth
+  - Seismic sense "vision" is lightly obscured over sand
+
+  #### Fire
+  - Clarify that Lightning Redirection can be used for electricity, too
+  - Clarify that all targets get to make Dexterity saves for Lightning Arcs
+  - Add third eye tattoo to Combustionbending description
+
   #### Air
   - Switch around 13th, 14th, and 15th level abilities
 

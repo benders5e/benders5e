@@ -89,7 +89,7 @@ During combat, you can channel your chi to use your bending as a rudimentary att
 | 7th | +3 | 1d8     | 10 ft. | 60/120| 4 | 3     |Specialization feature|
 | 8th | +3 | 1d8     | 15 ft. | 60/120| 4 | 3     |Ability Score Improvement|
 | 9th | +4 | 1d8     | 15 ft. | 60/120| 5 | 3     |Versatile Reaction|
-|10th | +4 | 1d8     | 15 ft. |100/200| 5 | 3     |Improved Water Movement|
+|10th | +4 | 1d8     | 15 ft. |100/200| 5 | 3     |Water Movement Improvement|
 |11th | +4 | 1d10    | 15 ft. |100/200| 6 | 4     |Specialization feature|
 |12th | +4 | 1d10    | 15 ft. |100/200| 6 | 4     |Ability Score Improvement|
 |13th | +5 | 1d10    | 15 ft. |100/200| 7 | 4     |?|
@@ -210,7 +210,7 @@ On a success, the ice breaks. On a failure, their hands remain encased in ice. W
 #### Pull
 You take this opportunity to wrap a tendril of water around your attacker. An attacker at most one size larger is moved 10 feet into an unoccupied space of your choice. They also make a Dexterity saving throw and are knocked prone on a failure.
 
-### Improved Water Movement
+### Water Movement Improvement
 At 10th level, your control over solid water also grants you the ability to move easily over ice and snow. For you, this type of terrain is no longer difficult terrain.
 
 ### ?

@@ -9,8 +9,7 @@ In his absence, chaos reigns, kept at bay only by brave benders who have taken i
 
 - The four types of Benders (Water, Earth, Fire, Air)
 - Modified Monk (with new Chi Blocker monastic tradition)
-- Fighter
-- Rogue *[pending]*
+- Barbarian, Fighter, and Rogue as in the Player's Handbook
 
 ### Skills
 This class uses, for the most part, the same skills as regular 5th edition D&D. These are the exceptions:

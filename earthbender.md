@@ -103,7 +103,7 @@ The HP and AC of any structure you form with your bending can be determined by r
 |12th | +4 | 1d10  | 4  |100/200| 6  | 4 | Ability Score Improvement
 |13th | +5 | 1d10  | 4  |100/200| 7  | 4 | ?
 |14th | +5 | 1d10  | 4  |150/300| 7  | 4 | ?
-|15th | +5 | 1d10  | 8  |150/300| 8  | 5 | Improved Rolling Earth
+|15th | +5 | 1d10  | 8  |150/300| 8  | 5 | Rolling Earth Improvement
 |16th | +5 | 1d10  | 8  |150/300| 8  | 5 | Ability Score Improvement
 |17th | +6 | 1d12  | 8  |150/300| 9  | 5 | Specialization feature
 |18th | +6 | 1d12  | 8  |200/400| 9  | 5 | –
@@ -151,11 +151,11 @@ This style is known for its speed and continuous attacks and was famously used b
 #### Hung Gar
 You favor a deep, low stance rooted in the earth beneath you. You gain advantage on Strength saving throws and expertise in Strength (Athletics) checks and cannot be knocked prone.   
 
-If another creature uses an ability that pushes you away from them, you always roll a Strength (Athletics) check. On a failure, you are moved half the distance, and on a success, you stay where you are.
-
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 2 | CLASSES</div>
 \page
+
+If another creature uses an ability that pushes you away from them, you always roll a Strength (Athletics) check. On a failure, you are moved half the distance, and on a success, you stay where you are.
 
 #### Sticky Hands
 You are well-versed in the art of neutral *jing*, waiting and listening to predict your opponents' next moves. You gain a +2 to AC.
@@ -184,8 +184,8 @@ For example, say the counter is set at 2. That turn, you spend all your chi poin
 #### Opposing another bender's form
 You can attempt to reverse the effects caused by another bender of your same element on your turn. This only applies to forms that do not require concentration, e.g. Quicksand. To do this, you use your Action to roll earthbending against the other bender's bending DC; they can choose to fail the save if they wish. On a success, the effect of the form ends.
 
-<!--div style="height:5em;">
-</div-->
+<div style="height:1em;">
+</div>
 ### Earthwall
 At 3rd level, you can use your reaction to create a wall 10 feet long, 5 feet high, and 1/2 foot thick in front of you to defend against an incoming attack. You can use this ability after the attack roll, but before the outcome is determined.  
 
@@ -216,16 +216,16 @@ At 6th level, your control increases. You are now able to compact or expand eart
 
 You also learn to bend earth-based materials such as mud, coal, gems, crystals, meteorites, and jennamite ("creeping crystal").  
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 2 | CLASSES</div>
+
+\page  
+
 ### Chi-Empowered Reflex
 Starting at 9th level, you gain one of the following abilities of your choice:
 
 ##### Improved Earthwall
 You can now choose to use your Earthwall as a reaction to an attack against a friendly creature besides yourself, creating a wall in front of it instead.
-
-<div class='pageNumber auto'></div>
-<div class='footnote'>PART 2 | CLASSES</div>
-
-\page  
 
 ##### Imbalance
 You learn to use your control over the earth to throw your opponents off-balance. Instead of raising an earthwall when an enemy attempts to make an attack against you, you can use your reaction to move the earth beneath their feet in an attempt to cause them to miss. 
@@ -243,23 +243,23 @@ Beginning at 13th level, ... [Some improved ability or saving throws]
 ### ?
 At 14th level, ... [some flavor-type thing]
 
-### Improved Rolling Earth
+### Rolling Earth Improvement
 At 15th level, you can move across difficult earth terrain (not ice, for example) as though it were normal terrain. You can also move along vertical surfaces of earth without falling during your turn.
 
 ### Substance
 At 20th level, ...
 
-<!--div style="height: 40em;">
-</div-->
+<div style="height: 14em;">
+</div>
 
 ## Earthbending specializations
 
 ### Advanced Earthbending
 
 #### Seismic Sense
-Beginning when you choose this specialization at 5th level, you are so tuned in to the earth that you can sense vibrations with your feet. You have tremorsense within your normal bending range, allowing you to "see" anything in contact with the ground (as long as you are connected by earth). Enemies also have disadvantage when trying to surprise you.  
+Beginning when you choose this specialization at 5th level, you are so tuned in to the earth that you can sense vibrations with your feet. You have tremorsense within your normal bending range, allowing you to "see" anything in contact with the ground (as long as you are connected by earth). If you are standing on sand, your "vision" is lightly obscured.
 
-Additionally, you gain advantage on Insight checks when your target is in normal earthbending range.
+Enemies have disadvantage when trying to surprise you. Additionally, you gain advantage on Insight checks when your target is in normal earthbending range.
 
 #### Earth Dive
 Beginning at 7th level, you can dive into and out of earth as though it were liquid. Your "swim" speed equals your walking speed. While underground, you must hold your breath and use your arms for mobility, so you cannot earthbend.
@@ -268,8 +268,8 @@ Beginning at 7th level, you can dive into and out of earth as though it were liq
 <!--#### Dust Step
 At 7th level, you are able to use your control over earth and dust to move through the air. By quickly moving tiny pillars of earth beneath your feet, you gain a flying speed equal to your ground speed. [note that this is essentially covered by Earth Elevator]-->
 
-<div style="height: 1em;">
-</div>
+<!--div style="height: 1em;">
+</div-->
 #### Advanced Form
 At 11th level, you learn an additional form of your choice from the following list:  
 
@@ -292,6 +292,11 @@ Beginning at 17th level, ... (requires concentration)
 <!-- TODO: Change the range to not be source, except for advanced earthbending-->
 <!-- #### Earth Block, i.e. blocking/neutralizing attacks as a reaction -->
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 2 | CLASSES</div>
+
+\page
+
 ### Metalbending
 *Prerequisite: Find a metalbending master.*
 
@@ -308,11 +313,6 @@ Beginning when you choose this specialization at 5th level, you can bend the sma
 <!-- this is a cool reference: https://dumpstatadventures.com/the-gm-is-always-right/making-tools-useful-in-5e-smiths-tools -->
 
 You can use metal instead of earth in any form you already know, increasing its chi cost by 1. Any changes in the form's behavior when using metal are marked in its description.
-
-<div class='pageNumber auto'></div>
-<div class='footnote'>PART 2 | CLASSES</div>
-
-\page
 
 #### Ranged Metalbending
 At 7th level, you learn to bend metal without touching it. You can bend metal as if it was earth (the same capacity and range restrictions apply to your metalbending as do to your earthbending). You cannot bend any metal that is being held, equipped, or carried.  
@@ -347,6 +347,9 @@ In addition, you now use heated rocks in your basic bending attacks. Although no
 You harden an amount of lava weighing up to your bending capacity into volcanic rock, willing it to cool instead of waiting for this to happen naturally. The resulting volcanic rock can be earthbent like any other earth. 
 </div>
   
+<div style="height: 1em;">
+</div>
+
 #### Melting Earth
 Beginning at 7th level, you can melt an unoccupied 5 foot-square area of the ground within your range into lava, provided it is earth. This is encapsulated by the *Melting Earth* form below.
 
@@ -471,14 +474,14 @@ You gain an additional rock for each extra chi you spend.
 ---
 **Metal:** When using metal as the material for this form, each projectile deals 1d6 damage.
 
-#### Quicksand
-*Cost: 3 chi*  
-You turn a square area of the ground up to half your normal bending range on each side into quicksand for up to 1 minute. The entire area must be within your normal range. It is considered difficult terrain for the duration.  
-
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 2 | CLASSES</div>
 
 \page
+
+#### Quicksand
+*Cost: 3 chi*  
+You turn a square area of the ground up to half your normal bending range on each side into quicksand for up to 1 minute. The entire area must be within your normal range. It is considered difficult terrain for the duration.  
 
 When this change occurs, each creature standing in the area must succeed on a Dexterity saving throw or be Restrained. A creature that enters the area or ends its turn there must also succeed on a Dexterity saving throw or become Restrained.
 
@@ -516,6 +519,8 @@ this is mostly superceded by Earthwave and earth launch -->
 You make an (imprecise) fissure – at higher levels, the precision increases. Creatures may fall (Dex ST); depth also depends on chi spent (or level). 
 <!-- Supercharged version of this is "tectonics", e.g. when Kyoshi created Kyoshi Island -->
 
+<div style="height:4em;">
+</div>
 #### Earthquake
 *Cost: 5 chi*  
 You can cause a quake. Magnitude depends on level or chi spent.
