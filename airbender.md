@@ -195,7 +195,7 @@ At 13th level, you are aware of every motion in the air surrounding you. Every t
 Beginning at 14th level, your mastery of chi grants you proficiency in all saving throws.  
 
 
-Additionally, once per long rest, whenever you make a saving throw and fail, you can choose to succeed instead.
+Additionally, once per long rest, whenever you make a saving throw and fail, you can spend 1 chi to reroll it and take the second result.
 
 ### Timeless Body
 At 15th level, your chi sustains you so that you suffer none of the frailty of old age and you cannot be aged by unnatural means. You can still die of old age, however. In addition, you no longer need food or water.

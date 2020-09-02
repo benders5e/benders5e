@@ -15,9 +15,16 @@
 ### [0.8.1] - TBA
   - Start adding Elemental Defense feat
   - Add Fighter (direct copy of PHB + Gunslinger)
+  - Finish Boomerang item description
+  - Finish backgrounds: Arctic Dweller (formerly Northern/Southern Water Tribe), Swampbender, Sandbender (except forms), Air Nomad
 
   #### Water
   - Move Versatile Reaction to 9th level and Improved Water Movement to 10th
+  - Add Ingenious Fighter at 6th level
+  - Shuffle 10th-, 13/14/15th-level abilitiesA
+  - Advanced Specialization: move 17th level ability to 11th level
+  - Bloodbending: add 11th level ability
+  - Plantbending: remove phrasing about the number of stems controlled
 
   #### Earth
   - Seismic sense "vision" is lightly obscured over sand

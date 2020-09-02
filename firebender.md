@@ -186,7 +186,7 @@ At 5th level, you specialize in one of the following types of firebending: advan
 When you reach 6th level, you can use flame jets to propel yourself through the air during your turn. Your speed when you fire-step equals your walking speed. You must end your turn on the ground.
 
 ### Fierce Fighter
-At 6th level, when you roll a 1 or 2 on a damage die for a basic firebending attack, you can reroll the damage. You must use the new roll. This ability does not apply to additional damage dice beyond the "bending" die listed in the table (e.g. Colorful Flame damage).
+At 6th level, when you roll a 1 or 2 on a damage die for a basic firebending attack, you can reroll the damage. You must use the new roll. This ability does not apply to additional damage dice (e.g., the Colorful Flame damage) beyond the "bending" die listed in the table.
 
 <div style="height: 2em;">
 </div>

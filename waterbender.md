@@ -8,20 +8,22 @@ Water is the element of change, and just like their namesake, waterbenders are e
 Benders make careful study of a magical energy called chi that flows through living bodies. Waterbenders harness this power within themselves to exert their will over water.
 
 ### Community and Training
-Tribes and stuff. What it means to leave.
+Whether they live in the frigid poles, the humid swamps, or around any of the other bodies of water scattered around the globe, waterbenders form tight-knit communities, each with a unique culture. Custom and tradition tend to govern life, sometimes even dictating what type of waterbending particular members of a society may practice. 
+
+Because of these tight community bonds, waterbenders rarely leave their homes unless they have a very good reason. Most waterbenders may spend their entire lives in their village or town, never setting foot in the outside world.
 
 ### Creating a Waterbender
 As you make your waterbender character, think about ...
-- The culture of your tribe. Did you grow up in the small Southern Water Tribe? The larger, better-equipped Northern Water Tribe? In the swamp? Or somewhere else entirely? This background will likely influence your bending style and your preferred state of water to bend.
-- How you began training in waterbending. Were your parents waterbenders? Your siblings? When did you first learn of your abilities? Who became your bending master?
-- Why did you leave your home?
+- **The culture of your tribe.** Did you grow up in the small Southern Water Tribe? The larger and tradition-steeped Northern Water Tribe? In the swamp? Or somewhere else entirely? This background will likely influence your bending style and your preferred state of water to bend.
+- **How you began training in waterbending.** Were your parents waterbenders? Your siblings? When did you first learn of your abilities? Who became your bending master?
+- **Why did you leave your home?** Most waterbenders spend their whole lives in their home town or village. Did something happen to your home that forced you to move? Are you leaving to find a way to save it from some threat? Or did the outside world pull you away for some great mission?
 
 Waterbenders tend towards a Lawful alignment because of their strong sense of community.
 
 <!--div style="height: 2em;">
 </div-->
 #### Quick Build
-You can make a waterbender quickly by following these suggestions. First, pick Intelligence as your highest score, followed by Constitution. Second, choose the Sailor background.  
+You can make a waterbender quickly by following these suggestions. First, pick Intelligence as your highest score, followed by Dexterity. Second, choose the Sailor background.  
 
 ## Class Features
 
@@ -68,8 +70,6 @@ The volume of water you can control and the range within which you can control i
 
 <!--div style="height: 4em;">
 </div-->
-### Bending Attack
-During combat, you can channel your chi to use your bending as a rudimentary attack by hitting other creatures. Every time you take the Attack action, you draw on your inner pool of energy, or *chi*. The class table shows how much chi you have available for each Attack action ("Chi per Attack"). As your bending grows more powerful and your connection to your inner chi grows, this amount increases.
 
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 2 | CLASSES</div>
@@ -85,14 +85,14 @@ During combat, you can channel your chi to use your bending as a rudimentary att
 | 3rd | +2 | 1d6     | 5 ft.  | 30/60 | 2 | 2     |Redirection|
 | 4th | +2 | 1d6     | 10 ft. | 30/60 | 2 | 2     |Ability Score Improvement, Water in All Its States|
 | 5th | +3 | 1d8     | 10 ft. | 60/120| 3 | 2     |Waterbending specialization|
-| 6th | +3 | 1d8     | 10 ft. | 60/120| 3 | 2     |Water Movement, ?|
+| 6th | +3 | 1d8     | 10 ft. | 60/120| 3 | 2     |Water Movement, Ingenious Fighter|
 | 7th | +3 | 1d8     | 10 ft. | 60/120| 4 | 3     |Specialization feature|
 | 8th | +3 | 1d8     | 15 ft. | 60/120| 4 | 3     |Ability Score Improvement|
 | 9th | +4 | 1d8     | 15 ft. | 60/120| 5 | 3     |Versatile Reaction|
-|10th | +4 | 1d8     | 15 ft. |100/200| 5 | 3     |Water Movement Improvement|
+|10th | +4 | 1d8     | 15 ft. |100/200| 5 | 3     |?|
 |11th | +4 | 1d10    | 15 ft. |100/200| 6 | 4     |Specialization feature|
 |12th | +4 | 1d10    | 15 ft. |100/200| 6 | 4     |Ability Score Improvement|
-|13th | +5 | 1d10    | 15 ft. |100/200| 7 | 4     |?|
+|13th | +4 | 1d8     | 15 ft. |100/200| 5 | 3     |Water Movement Improvement|
 |14th | +5 | 1d10    | 15 ft. |150/300| 7 | 4     |?|
 |15th | +5 | 1d10    | 20 ft. |150/300| 8 | 5     |?|
 |16th | +5 | 1d10    | 20 ft. |150/300| 8 | 5     |Ability Score Improvement|
@@ -101,6 +101,9 @@ During combat, you can channel your chi to use your bending as a rudimentary att
 |19th | +6 | 1d12    | 20 ft. |200/400| 10| 6     |Ability Score Improvement|
 |20th | +6 | 1d12    | 20 ft. |200/400| 10| 6     |?|
 </div> 
+
+### Bending Attack
+During combat, you can channel your chi to use your bending as a rudimentary attack by hitting other creatures. Every time you take the Attack action, you draw on your inner pool of energy, or *chi*. The class table shows how much chi you have available for each Attack action ("Chi per Attack"). As your bending grows more powerful and your connection to your inner chi grows, this amount increases.
 
 When you take a basic bending attack, you spend 1 point of chi and deal 1d6 bludgeoning damage. This damage increases with your waterbender level and is shown in the "Bending" column of the Waterbender Table. The range of your attacks is the same as your bending range ("Range" column).  
 
@@ -124,8 +127,8 @@ Some of your abilities will require targets to make saving throws against your b
 ---
 Unless otherwise specified, anytime a target is required to make a saving throw, it makes it against your bending DC. 
 
-<div style="height:3em;">
-</div>
+<!--div style="height:3em;">
+</div-->
 
 ### Stance
 Beginning at 2nd level, you adopt a particular stance as your specialty. Choose one of the following options: 
@@ -194,8 +197,10 @@ At 5th level, you specialize in one of the following types of waterbending: adva
 At 6th level, you learn to synchronize your control of water with your movement. You gain the ability to move across liquids. 
 <!--When you do so, your speed is doubled.-->
 
-### ?
-Also at 6th level, ... *[Some element-specific ability.]*
+### Ingenious Fighter
+Also at 6th level, your ingenuity and experience with a variety of adversaries have allowed you to adapt another element's fightning style and make it your own. Pick one form from another element-bender's form list (not one that requires a bending specialization) with a cost of 2 chi or less. You can add this form to your list of known forms, and it doesn't count against the total number of forms you know (as indicated by the "Forms Known" column of the Waterbender Table).
+
+When you use this form, you adapt it to use water (in some state) instead of the original element, causing it do deal bludgeoning damage instead of the original damage type. You also use your waterbending modifiers and DCs.
 
 <!--div style="height:1em;">
 </div-->
@@ -210,11 +215,15 @@ On a success, the ice breaks. On a failure, their hands remain encased in ice. W
 #### Pull
 You take this opportunity to wrap a tendril of water around your attacker. An attacker at most one size larger is moved 10 feet into an unoccupied space of your choice. They also make a Dexterity saving throw and are knocked prone on a failure.
 
-### Water Movement Improvement
-At 10th level, your control over solid water also grants you the ability to move easily over ice and snow. For you, this type of terrain is no longer difficult terrain.
-
 ### ?
-At 10th level, ...
+At 10th level, ... *[flavor]*
+
+### Water Movement Improvement
+At 13th level, your control over solid water also grants you the ability to move easily over ice and snow. For you, this type of terrain is no longer difficult terrain.
+
+<!--Water Spout: Beginning at 15th level, you are able to use your control of water to raise yourself in the air. When you are near a body of water, you can use your action to collect enough water to create a funnel that raises you up to 60 feet in the air. You gain a "flying" speed equal to your ground speed.-->
+<!-- "making it easier for the user to dodge attacks" -->
+<!-- Limit height based on amount of water -->
 
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 2 | CLASSES</div>
@@ -224,17 +233,10 @@ At 10th level, ...
 <!--div style="height:3em;">
 </div-->
 ### ?
-Beginning at 13th level, ... [Some improved ability or saving throws]
+Beginning at 14th level, ... [Some improved ability or saving throws]
 
 ### ?
-At 14th level, ... [some flavor-type thing]
-
-### ?
-Beginning at 15th level, ... [movement or reaction upgrade]
-
-<!--Water Spout: Beginning at 15th level, you are able to use your control of water to raise yourself in the air. When you are near a body of water, you can use your action to collect enough water to create a funnel that raises you up to 60 feet in the air. You gain a "flying" speed equal to your ground speed.-->
-<!-- "making it easier for the user to dodge attacks" -->
-<!-- Limit height based on amount of water -->
+At 15th level, ... [some flavor-type thing]
 
 ### ?
 At 20th level, ... (something consistent with "element of change"?)
@@ -251,11 +253,11 @@ You also automatically know the form *Water is Everywhere* and it does not count
 #### Mist-Stepping
 At 7th level, you are able to use your control over water and ice to move through the air. By quickly freezing tiny pillars of ice beneath your feet, you gain a flying speed equal to your walking speed.
 
-#### ?
-At 11th level, ...  
-
 #### Expanded Horizons
-At 17th level, you study benders of other elements to improve your own bending. You learn one additional form off one of the other classes' form lists and adapt it to water (at the discretion of your DM).
+At 11th level, you have grown accustomed to studying benders of other elements to improve your own bending. Whenever you learn a new form, you can choose from any bending class's form list, with the same effects described in the 6th-level "Ingenious Fighter" ability.
+
+#### ?
+At 17th level, ...
 
 ### Healing
 
@@ -309,7 +311,7 @@ At 7th level, your power grows. During the full moon, you can use your action to
 
 \page   
 
-The creature makes a Saving Throw as before. During a full moon, a failure leads it to become Paralyzed and its subsequent movements are under your control. On its turn, you can force the creature to take its movement and one Action (no bonus actions). If you cause it to take the Attack action, it only makes one attack. You can also cause the creature to use a Reaction, but this requires you to use your own Reaction as well. On a success, the creature becomes Paralyzed, but you have no control over its movements.
+The creature makes a saving throw as before. During a full moon, a failure leads it to become Paralyzed and its subsequent movements are under your control. On its turn, you can force the creature to take its movement and one Action (no bonus actions). If you cause it to take the Attack action, it only makes one attack. You can also cause the creature to use a Reaction, but this requires you to use your own Reaction as well. On a success, the creature becomes Paralyzed, but you have no control over its movements.
 
 If the moon is not full, on a failure you can only force the target to use half its movement and take one Action at disadvantage (that is, attacks and ability checks you force it to take are made at disadvantage). You cannot make the creature use its Reaction. With a successful saving throw, the target is only Paralyzed and you have no further control over its actions.
 
@@ -318,7 +320,7 @@ These effects persist while you maintain concentration. At the end of each of it
 The number of creatures you can control increases with your bloodbender level (waterbender level minus 5); at each level, you can control a number of creatures equal to half your bloodbender level, rounded down (minimum of 1).
 
 #### Greater Bloodbending
-At 11th level, your bloodbending control increases. ... (todo)
+At 11th level, your bloodbending control increases. Instead of Paralyzing them, you can cause any subset of the targets that fail to resist your bloodbending to fall unconscious for 1d4 minutes.
 
 <!--div style="height: 2em;">
 </div-->
@@ -331,7 +333,7 @@ At 19th level, you are able to bloodbend even on nights without a full moon, exc
 ### Swampbending
 
 #### Plantbending
-Beginning when you choose this specialization at 5th level, you learn to control the water in plants. You can move one stem of a plant (one continuous tube) as you choose. The stem's physical modifiers are equal to your bending modifier.
+Beginning when you choose this specialization at 5th level, you learn to control the water in plants. You can use the stems of plants instead of water for your waterbending attacks. The stems' physical modifiers are equal to your bending modifier.
 
 Your familiarity with plants makes you adept at traveling and surviving in the regions in which they thrive. Choose one type of favored terrain: forest, grassland, or swamp. When you make an Intelligence or Wisdom check related to your favored terrain, your proficiency bonus is doubled if you are using a skill that you’re proficient in.
 
@@ -345,9 +347,7 @@ While traveling for an hour or more in your favored terrain, you gain the follow
 - While tracking other creatures, you also learn their exact number, their sizes, and how long ago they passed through the area.
 
 #### Greater Plantbending
-At 7th level, you learn to control 2 plants in your range at a time with your bending. This number continues to increase according to your swampbender level (waterbender level minus 5); at each level, you can control a number of stems equal to half your swampbender level (minimum of 2).
-
-Your experience bending the water in plants has also made you a resourceful fighter. Your plant attacks have a reach of 10 feet. When you hit with such an attack, you can spend another chi to attempt to grapple your target in addition to dealing your normal damage. 
+Your experience bending the water in plants has made you a resourceful fighter. Starting at 7th level, basic waterbending attacks made with plants have a reach of 10 feet. When you hit with such an attack, you can spend another chi to attempt to grapple your target in addition to dealing your normal damage. 
 
 #### Plant Armor
 At 11th level, you can summon plants to create a sort of biological armor. You spend one action gathering enough plants to surround you, transforming you into a Large creature. The plant armor gives you temporary hit points equal to your bender level.
