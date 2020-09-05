@@ -100,7 +100,7 @@ Some of your abilities will require targets to make saving throws against your b
 | 6th | +3 | 1d6  | 60/120| 3 | 2 | +15 ft.  | Unarmored Movement Improvement, Cloudbending
 | 7th | +3 | 1d8  | 60/120| 4 | 3 | +15 ft.  | Specialization feature
 | 8th | +3 | 1d8  | 60/120| 4 | 3 | +15 ft.  | Ability Score Improvement
-| 9th | +4 | 1d8  | 60/120| 5 | 3 | +15 ft.  | Evasion
+| 9th | +4 | 1d8  | 60/120| 5 | 3 | +15 ft.  | Shunt
 |10th | +4 | 1d8  |100/200| 5 | 3 | +20 ft.  | Breath of Wind
 |11th | +4 | 1d8  |100/200| 6 | 4 | +20 ft.  | Specialization feature
 |12th | +4 | 1d8  |100/200| 6 | 4 | +20 ft.  | Ability Score Improvement
@@ -177,8 +177,8 @@ At 6th level, you gain the ability to bend clouds. Once per long rest, you can c
 
 <div style="height: 3em;">
 </div>
-### Evasion
-At 9th level, your instinctive agility lets you dodge out of the way of certain area effects. When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
+### Shunt (this needs a new name)
+At 9th level, you can use your reaction to push your allies out of harm's way. You use your Be the Leaf ability for this, and it counts as one of your uses per long rest.
 
 <!--div style="height: 3em;">
 </div-->
@@ -248,8 +248,8 @@ The spell ends only when you, in your spiritual form, return to your material bo
 #### Wind Whisper
 At 7th level, you learn to communicate with creatures you are familiar with even when they are far from you through your spiritual connection. Once per long rest, you may communicate with such a creature as outlined in the spell *Sending*.
 
-#### ?
-At 11th level, ... [bringing others with you into the spirit world?]
+#### Spiritual Bridge
+At 11th level, you can attempt to bring others into the spirit world with you. You can bring a number of creatures up to half your bender level with you, including yourself. Each creature must spend 1 minute meditating and succeed on the saving throw. Any benders lose their bending while in the Spirit World.
 
 #### Spiritual Projection
 At 17th level, you can attempt to project your spirit into the *material* world. You must spend 1 minute meditating and succeed on a DC 15 Wisdom Saving Throw. The projection can't airbend, just as your spirit projection cannot airbend in the Spirit World.   

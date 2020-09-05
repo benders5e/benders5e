@@ -39,7 +39,9 @@
 
   #### Air
   - Move Wind Reader to 13th level
-  - Remove monk-based 14th and 15th level abilities
+  - Remove monk-based 9th, 14th, and 15th level abilities
+  - Add "Shunt" ability at 9th level
+  - Spirituality: add 11th level ability
 
 ### [0.8.0] - 2020.08.23
   - Clarify bending DC

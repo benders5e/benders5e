@@ -99,7 +99,7 @@ The volume of water you can control and the range within which you can control i
 |17th | +6 | 1d12    | 20 ft. |150/300| 9 | 5     |Specialization feature|
 |18th | +6 | 1d12    | 20 ft. |200/400| 9 | 5     |–|
 |19th | +6 | 1d12    | 20 ft. |200/400| 10| 6     |Ability Score Improvement|
-|20th | +6 | 1d12    | 20 ft. |200/400| 10| 6     |?|
+|20th | +6 | 1d12    | 20 ft. |200/400| 10| 6     |Element of Change|
 </div> 
 
 ### Bending Attack
@@ -203,7 +203,7 @@ Also at 6th level, you learn to bend liquids even if they are not pure water, as
 <div style="margin-left: 1.5em;">
 #### Purify Drink
 *Cost: 1 chi*  
-You gain the abilities granted by the spell *Purify Food and Drink*, but only for liquids.
+You gain the abilities granted by the spell *Purify Food and Drink*, but only for liquids. You can also use this ability to filter any other particles (e.g., earth) out of the water.
 </div>
 
 <div style="height:1em;">
@@ -221,6 +221,7 @@ On a success, the ice breaks. On a failure, their hands remain encased in ice. W
 You take this opportunity to wrap a tendril of water around your attacker. An attacker at most one size larger is moved 10 feet into an unoccupied space of your choice. They also make a Dexterity saving throw and are knocked prone on a failure.
 
 ### Ingenious Fighter
+<!-- rename this to use a noun besides "fighter", since the forms can be utility too -->
 Beginning at 10th level, your ingenuity and experience with a variety of adversaries have allowed you to adapt another element's fightning style and make it your own. Pick one form from another element-bender's form list (not one that requires a bending specialization) with a cost of 2 chi or less. You can add this form to your list of known forms, and it doesn't count against the total number of forms you know (as indicated by the "Forms Known" column of the Waterbender Table).
 
 When you use this form, you adapt it to use water (in some state) instead of the original element, causing it do deal bludgeoning damage instead of the original damage type. You also use your waterbending modifiers and DCs.
@@ -245,8 +246,8 @@ Beginning at 14th level, you learn to bend with minimal motion. Your use of bend
 ### ?
 At 15th level, ... [some flavor-type thing]
 
-### ?
-At 20th level, ... (something consistent with "element of change"?)
+### Element of Change
+At 20th level, ...
 
 ## Waterbending specializations
 

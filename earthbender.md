@@ -530,9 +530,6 @@ You make an (imprecise) fissure – at higher levels, the precision increases. C
 *Cost: 5 chi*  
 You can cause a quake. Magnitude depends on level or chi spent.
 
-#### Water filtering
-(with waterbender)
-
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 2 | CLASSES</div>
 
