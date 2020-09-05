@@ -277,7 +277,7 @@ The damage of your basic attacks also increases to 2d8.
 #### Shocking Strike
 Beginning when you choose this specialization at 5th level, you learn to distinguish the yin and yang of energy, allowing you to conduct currents and amass small charges of electricity to release at will.
 
-Once per turn, you can attempt to stun a target with your basic firebending attack. On a hit, instead of taking damage, the target makes a Constitution saving throw against your bending DC. On a failure, it is stunned. At the beginning of each of its turns, the target can attempt another save to recover. 
+Once per short rest, you can use your basic firebending attack to attempt to stun a target. On a hit, instead of taking damage, the target makes a Constitution saving throw against your bending DC. On a failure, it is stunned. At the beginning of each of its turns, the target can attempt another save to recover. 
 
 #### Create Lightning
 At 7th level, you learn to distinguish the yin and yang of energy and separate the positive from the negative energy. This creates an imbalance, and when the energies attempts to restore balance by crashing back together, you provide release and guidance, creating lightning.  
@@ -343,6 +343,7 @@ At 7th level, you can cause explosions with your basic bending attack. Instead o
 At 11th level, you learn an additional form of your choice from the following list:  
 
 <div style="margin-left: 1.5em;">
+
 ##### Charged Attack
 *Prerequisite: Combustionbending specialization*  
 *Cost: X chi*  
