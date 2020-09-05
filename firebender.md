@@ -333,14 +333,17 @@ Level ideas: silent, multiple simultaneous projectiles, increasing power/range/r
 
 Combustionbenders possess the rare ability to firebend with their minds. Instead of using movement to focus their chi, they carefully direct this energy through the forehead, which is often marked by an intricate third-eye tattoo.
 
+#### Uncanny Focus
+Beginning when you choose this specialization at 5th level, you learn to channel your chi with great precision and focus, allowing you to use your bending over incredible distances. By spending 1 chi, you can use your long bending range instead of the normal range for any form or attack without incurring disadvantage. This precision and power also allows you to deal double damage on your first turn of combat.
+
 #### Mind's Eye
-Beginning when you choose this specialization at 5th level, you learn to firebend without moving your limbs, channeling your bending through your forehead instead. Because your bending requires no movement, you have advantage on attacks against targets you have not yet attacked in the current combat. You also gain advantage on initiative. On your first turn, you deal double damage.
+At 7th level, you learn to firebend without moving your limbs, channeling your bending through your forehead instead. Because your bending requires no movement, you have advantage on attacks against targets you have not yet attacked in the current combat. You also gain advantage on initiative.
 
 #### Combustion
-At 7th level, you can cause explosions with your basic bending attack. Instead of making a firebending attack, you can choose to make a combustion attack. Pick a point within range on which to center the explosion. Targets in a 5-foot radius must make a Dexterity saving throw against your bending DC. On a failure, they take your bending damage in force damage, and on a success they take half damage.
+At 11th level, you can cause explosions with your basic bending attack. Instead of making a firebending attack, you can choose to make a combustion attack. Pick a point within range on which to center the explosion. Targets in a 5-foot radius must make a Dexterity saving throw against your bending DC. On a failure, they take your bending damage in force damage, and on a success they take half damage.
 
 #### Advanced Forms
-At 11th level, you learn an additional form of your choice from the following list:  
+At 17th level, you learn an additional form of your choice from the following list:  
 
 <div style="margin-left: 1.5em;">
 
@@ -353,9 +356,6 @@ At 11th level, you learn an additional form of your choice from the following li
 *Cost: X chi*  
 [stealthy, cone AOE]
 </div>
-
-#### ?
-At 17th level, ...
 
 <!--div style="height:4em;">
 </div-->
@@ -404,6 +404,7 @@ Despite their slashing capabilities, these daggers lack the ability to block phy
 
 <div style="height:3em;">
 </div>
+
 #### Shield of Fire
 *Cost: 2 chi*  
 When you take this form, gain the ability to use your reaction to raise your AC by 2. When you use this reaction, you spend 2 chi of your next Attack action. 

@@ -38,7 +38,7 @@
   #### Fire
   - Clarify that Lightning Redirection can be used for electricity, too
   - Lightningbending: clarify that all targets get to make Dexterity saves for Lightning Arcs, limit Shocking Strike to once per short rest
-  - Combustionbending: Add third eye tattoo to description
+  - Combustionbending: Add third eye tattoo to description; move all abilities up one slot and add Uncanny Focus at 5th level
   - Swap 6th and 10th level abilities
 
   #### Air
