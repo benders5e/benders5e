@@ -167,10 +167,6 @@ At 7th level, your instinctive agility lets you dodge out of the way of certain 
 <!--*[also Airbender (Advanced Specialization, 5th level)]*  -->
 Starting at 7th level, you can use your action to end one effect on yourself that is causing you to be charmed or frightened.
 
-### Unarmored Movement Improvement
-<!--*[also Airbender (6th level)]*  -->
-At 9th level, you gain the ability to move along vertical surfaces and across liquids on your turn without falling during your move.
-
 ### Purity of Body
 At 10th level, your mastery of the chi flowing through you makes you immune to disease and poison.
 
@@ -178,11 +174,13 @@ At 10th level, your mastery of the chi flowing through you makes you immune to d
 Starting at 13th level, [utility to replace Tongue of Sun and Moon]
 
 ### Diamond Soul
+<!--*[also Airbender (13th level)]*  -->
 Beginning at 14th level, your mastery of chi grants you proficiency in all saving throws.
 
 Additionally, whenever you make a saving throw and fail, you can spend 1 chi point to reroll it and take the second result.
 
 ### Timeless Body
+<!--*[also Airbender (14th level)]*  -->
 At 15th level, your chi sustains you so that you suffer none of the frailty of old age, and you can’t be aged magically. You can still die of old age, however. In addition, you no longer need food or water.
 
 ### ?

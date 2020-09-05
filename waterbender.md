@@ -59,7 +59,7 @@ You start with the following equipment, in addition to the equipment granted by 
 <div style="height: 2em;">
 </div>
 ### Waterbending
-At 1st level, you realize that you have an innate ability to control water. You can move small volumes of *liquid* water and liquids that are mostly water at will by spending 1 chi of your Attack action to cause the effects of the *Shape Water* cantrip (excluding changing the water's color or opacity). (See "Bending Attack" for a description of the role chi points play in attacks and the rules for bending attacks.) You must draw your bending material from a source within 30 feet. 
+At 1st level, you realize that you have an innate ability to control water. You can move small volumes of *liquid* water at will by spending 1 chi of your Attack action to cause the effects of the *Shape Water* cantrip (excluding changing the water's color or opacity). (See "Bending Attack" for a description of the role chi points play in attacks and the rules for bending attacks.) You must draw your bending material from a source within 30 feet. 
 
 You are also capable of converting water into ice or snow and back, but without fine-grained control over the shape of the ice or snow. You can cause the effects of the *Grease* spell at will by freezing a thin sheet of water in an area of your choice. Your range for this spell equals your normal bending range.  
 
@@ -197,13 +197,18 @@ At 5th level, you specialize in one of the following types of waterbending: adva
 At 6th level, you learn to synchronize your control of water with your movement. You gain the ability to move across liquids. 
 <!--When you do so, your speed is doubled.-->
 
-### Ingenious Fighter
-Also at 6th level, your ingenuity and experience with a variety of adversaries have allowed you to adapt another element's fightning style and make it your own. Pick one form from another element-bender's form list (not one that requires a bending specialization) with a cost of 2 chi or less. You can add this form to your list of known forms, and it doesn't count against the total number of forms you know (as indicated by the "Forms Known" column of the Waterbender Table).
+### Mudbending
+Also at 6th level, you learn to bend liquids even if they are not pure water, as long as they consist mostly of water. You learn the following form, which does not count against the total number of forms you know:
 
-When you use this form, you adapt it to use water (in some state) instead of the original element, causing it do deal bludgeoning damage instead of the original damage type. You also use your waterbending modifiers and DCs.
+<div style="margin-left: 1.5em;">
+#### Purify Drink
+*Cost: 1 chi*  
+You gain the abilities granted by the spell *Purify Food and Drink*, but only for liquids.
+</div>
 
-<!--div style="height:1em;">
-</div-->
+<div style="height:1em;">
+</div>
+
 ### Versatile Reaction
 Beginning at 9th level, you react quickly and strategically when you are hit by a melee attack. By spending 1 chi point (from your upcoming turn), you can use your reaction to do one of the following:
 
@@ -215,8 +220,10 @@ On a success, the ice breaks. On a failure, their hands remain encased in ice. W
 #### Pull
 You take this opportunity to wrap a tendril of water around your attacker. An attacker at most one size larger is moved 10 feet into an unoccupied space of your choice. They also make a Dexterity saving throw and are knocked prone on a failure.
 
-### ?
-At 10th level, ... *[flavor]*
+### Ingenious Fighter
+Beginning at 10th level, your ingenuity and experience with a variety of adversaries have allowed you to adapt another element's fightning style and make it your own. Pick one form from another element-bender's form list (not one that requires a bending specialization) with a cost of 2 chi or less. You can add this form to your list of known forms, and it doesn't count against the total number of forms you know (as indicated by the "Forms Known" column of the Waterbender Table).
+
+When you use this form, you adapt it to use water (in some state) instead of the original element, causing it do deal bludgeoning damage instead of the original damage type. You also use your waterbending modifiers and DCs.
 
 ### Water Movement Improvement
 At 13th level, your control over solid water also grants you the ability to move easily over ice and snow. For you, this type of terrain is no longer difficult terrain.
@@ -383,10 +390,6 @@ To convert to and from gaseous water you must be at least a level 4 waterbender.
 #### Floor of Ice\*
 *Cost: 1 chi*  
 You cause the effects of the *Grease* spell.
-
-#### Purify Drink
-*Cost: 1 chi*  
-You gain the abilities granted by the spell *Purify Food and Drink*, but only for liquids.
 
 #### Ice Shield
 *Cost: 1 chi*  

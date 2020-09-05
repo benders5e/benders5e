@@ -202,7 +202,7 @@ At 15th level, your chi sustains you so that you suffer none of the frailty of o
 
 <div style="height: 0em;">
 </div>
-### Detachment
+### Element of Freedom
 
 <div style="height: 1em;">
 </div>

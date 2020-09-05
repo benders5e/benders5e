@@ -185,8 +185,8 @@ At 5th level, you specialize in one of the following types of firebending: advan
 ### Firestep
 When you reach 6th level, you can use flame jets to propel yourself through the air during your turn. Your speed when you fire-step equals your walking speed. You must end your turn on the ground.
 
-### Fierce Fighter
-At 6th level, when you roll a 1 or 2 on a damage die for a basic firebending attack, you can reroll the damage. You must use the new roll. This ability does not apply to additional damage dice (e.g., the Colorful Flame damage) beyond the "bending" die listed in the table.
+### Fire Augmentation
+At 10th level, you are able to alter the quality of outside sources of fire. On your turn, you can spend a bonus action to cause the effects of the *Control Flames* cantrip (except that you cannot change the color of the flame). 
 
 <div style="height: 2em;">
 </div>
@@ -203,8 +203,8 @@ At 6th level, when you roll a 1 or 2 on a damage die for a basic firebending att
 ***
 Starting at 9nd level, when you are hit by lightning or electricity (natural or created by a bender), you can use your reaction to attempt to redirect it by making a Wisdom saving throw. If you roll a 10 or higher, you successfully redirect the lightning at an unoccupied space within range, taking no damage. On a 15 or higher, you can choose to redirect the lightning anywhere within range as if you were generating it yourself. If you roll below a 10, you take double the normal damage of the attack.
 
-### Fire Augmentation
-Beginning at 10th level, you are able to alter the quality of outside sources of fire. On your turn, you can spend a bonus action to cause the effects of the *Control Flames* cantrip (except that you cannot change the color of the flame). 
+### Fierce Fighter
+Beginning at 10th level, when you roll a 1 or 2 on a damage die for a basic firebending attack, you can reroll the damage. You must use the new roll. This ability does not apply to additional damage dice (e.g., the Colorful Flame damage) beyond the "bending" die listed in the table.
 
 <!--div style="height: 6em;">
 </div-->
@@ -334,9 +334,7 @@ Level ideas: silent, multiple simultaneous projectiles, increasing power/range/r
 Combustionbenders possess the rare ability to firebend with their minds. Instead of using movement to focus their chi, they carefully direct this energy through the forehead, which is often marked by an intricate third-eye tattoo.
 
 #### Mind's Eye
-Beginning when you choose this specialization at 5th level, you can fire bend even if your limbs are restrained as long as your head is free, without being at disadvantage.
-
-Because your bending requires no movement, you have advantage on attacks against targets you have not yet attacked in the current combat. You also gain advantage on initiative. On your first turn, you deal double damage.
+Beginning when you choose this specialization at 5th level, you learn to firebend without moving your limbs, channeling your bending through your forehead instead. Because your bending requires no movement, you have advantage on attacks against targets you have not yet attacked in the current combat. You also gain advantage on initiative. On your first turn, you deal double damage.
 
 #### Combustion
 At 7th level, you can cause explosions with your basic bending attack. Instead of making a firebending attack, you can choose to make a combustion attack. Pick a point within range on which to center the explosion. Targets in a 5-foot radius must make a Dexterity saving throw against your bending DC. On a failure, they take your bending damage in force damage, and on a success they take half damage.
