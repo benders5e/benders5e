@@ -116,9 +116,9 @@ You practice a defensive and circular type of bending, gaining a +2 to AC.
 |10th | +4 | 1d8   |100/200| 5 | 3 | Fierce Fighter
 |11th | +4 | 1d10  |100/200| 6 | 4 | Specialization feature
 |12th | +4 | 1d10  |100/200| 6 | 4 | Ability Score Improvement
-|13th | +5 | 1d10  |100/200| 7 | 4 | ?
+|13th | +5 | 1d10  |100/200| 7 | 4 | Fire Rockets
 |14th | +5 | 1d10  |150/300| 7 | 4 | Psychic Bending
-|15th | +5 | 1d10  |150/300| 8 | 5 | Fire Rockets
+|15th | +5 | 1d10  |150/300| 8 | 5 | ?
 |16th | +5 | 1d10  |150/300| 8 | 5 | Ability Score Improvement
 |17th | +6 | 1d12  |150/300| 9 | 5 | Specialization feature
 |18th | +6 | 1d12  |200/400| 9 | 5 | –
@@ -208,16 +208,16 @@ Beginning at 10th level, when you roll a 1 or 2 on a damage die for a basic fire
 
 <!--div style="height: 6em;">
 </div-->
-### ?
-At 13th level, ... [Some improved ability or saving throws]
+### Fire Rockets
+At 13th level, the power of your Firestepping increases. You gain a flying speed of 60 feet and can end your turn in the air without falling.
 
 ### Psychic Bending
 Beginning at 14th level, you learn to bend with minimal motion. Your use of bending becomes nearly imperceptible, and you do not suffer disadvantage on bending attacks when restrained as long as you can see your target.
 
 <!--div style="height: 3em;">
 </div-->
-### Fire Rockets
-At 15th level, the power of your Firestepping increases. You gain a flying speed of 60 feet and can end your turn in the air without falling.
+### ?
+At 13th level, ... [flavor]
 
 ### Element of Power
 At 20th level, the power of your inner flame grows, increasing your stamina. You now have 6 chi exhaustion points at your disposal and thus you now use a 1d6 as your chi exhaustion die.
