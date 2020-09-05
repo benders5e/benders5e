@@ -14,6 +14,7 @@
 
 ### [0.8.1] - TBA
   - Start adding Elemental Defense feat
+  - Feats: add Resourceful Bender, start adding Elemental Defense
   - Add Fighter (direct copy of PHB + Gunslinger)
   - Finish Boomerang item description
   - Finish backgrounds: Arctic Dweller (formerly Northern/Southern Water Tribe), Swampbender, Sandbender (except forms), Air Nomad

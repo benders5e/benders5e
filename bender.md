@@ -194,16 +194,24 @@ These feats can be chosen by any class in a Bender campaign.
 - Once per long rest, if you have tea leaves or herbs available, you can create an infusion laced with healing power. Any creature who drinks it gains the benefits of a Potion of Healing. Drinking more than once from the infusion does not confer any additional benefits.
 
 ### Gunpowder Amateur
-*[Mostly meant for firebenders to interact with gunpowder and use it strategically in tandem with their bending.]*
+[Mostly meant for firebenders to interact with gunpowder and use it strategically in tandem with their bending.]
 
 ### Elemental Defense
-*[Either something similar to Fighter Maneuvers, but element-specific, or just something simple like firebender Defusion.]*
+[Either something similar to Fighter Maneuvers, but element-specific, or just something simple like firebender Defusion.]
 
 ### Weapon master
-*[focuses on bending in conjunction with weapons (especially for fire)]*
+*Prerequisite: the ability to bend an element*   
 
-### Ingenious observer
-*[See Waterbender's Ingenious Fighter/Expanded Horizons abilities]*
+
+[focuses on bending in conjunction with weapons (especially for fire)]
+
+### Resourceful Bender
+*Prerequisite: the ability to bend an element*  
+
+***
+Your ingenuity and experience with a variety of adversaries have allowed you to adapt another element's fightning style and make it your own. Pick one form from another element-bender's form list (not one that requires a bending specialization). You can add this form to your list of known forms, and it doesn't count against the total number of forms you know (as indicated by the "Forms Known" column of the Bender Table).
+
+When you use this form, you adapt it to use your element instead of the original element, causing it do deal your element's damage type instead of the original damage type. You also use your bending modifiers and DCs.
 
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 4 | FEATS</div>
