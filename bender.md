@@ -61,20 +61,28 @@ If your party wishes to accurately track the passage of time and position of the
 
 These rules are optional.
 
+- **General simplifications.** For simplicity of calculations, many numbers have been rounded. A year consists of 12 30-day months or 360 days.
+
 - **Phases of the Moon.** In this setting, the period of the lunar phases (the synodic month) is rounded to 30 days and begins with the new moon. The phases are broken down as follows: 
-  - new moon (day 1),
-  - waxing crescent (days 2-8),
-  - first quarter (day 9),
-  - waxing gibbous (days 10-15),
-  - full moon (day 16),
-  - waning gibbous (days 17-22),
-  - last quarter (day 23),
-  - waning crescent (days 24-30),
-  - new moon (day 1 of the next cycle).  
+  - 1 day new moon (day 1),
+  - 7 days waxing crescent (days 2-8),
+  - 1 day first quarter (day 9),
+  - 6 days waxing gibbous (days 10-15),
+  - 1 day full moon (day 16),
+  - 6 days waning gibbous (days 17-22),
+  - 1 day last quarter (day 23),
+  - 7 days waning crescent (days 24-30),
+  - 1 day new moon (day 1 of the next cycle).  
   
 
+Whether the moon is out during the day or night depends on its phase.
+- New moon: during the day <!-- waxing crescent: during the majority of end of the day, minority of beginning of the night -->
+- First quarter: during the second half of the day and the first half of the night <!-- waxing gibbous: during the minority of end of the day, majority of beginning of the night -->
+- Full: during the night <!-- waning gibbous: during majority of end of the night, minority of beginning of the day -->
+- Last quarter: during the second half of the night and the first half of the day <!-- waning crescent: minority of end of night, majority of beginning of the day -->
+
 Waterbenders are strengthened as the moon grows fuller, reaching their peak during the full moon.
-- **Eclipses.** Firebenders lose their bending during a solar eclipse, and waterbenders lose theirs during a lunar eclipse.
+- **Eclipses.** Solar eclipses always occur during a new moon, and lunar eclipses during a full moon. Firebenders lose their bending during a solar eclipse, and waterbenders lose theirs during a lunar eclipse.
 
 - **Comets.** Individual comets are periodic, but on the whole, the passing of a comet does not follow a periodic pattern and as such it is the prerogative of the DM when a comet passes. Comets strengthen firebenders.
 
@@ -83,11 +91,11 @@ Waterbenders are strengthened as the moon grows fuller, reaching their peak duri
 
 \page
 
-- **Day and Night.** Firebenders are stronger during the day, when the sun is out. Waterbenders are strengthened by the moon (which may be out during either the day or the night).
+- **Day and Night.** Firebenders are stronger during the day, when the sun is out. Waterbenders are strengthened by the moon (which may be out during either the day or the night). The relative length of day and night varies based on the season and latitude.
 
-- **Solstices.** On the summer and winter solstice, the physical and spirit world are at their closest during a normal year. Spirits can pass into the physical world without passing through a portal. Conversely, it is most difficult to pass between the worlds without assistance during the equinoxes.
+- **Solstices.** On the summer and winter solstice (day 16 of the 6th and 12th month, respecitvely), the physical and spirit world are at their closest. Spirits can pass into the physical world without passing through a portal. Conversely, it is most difficult to pass between the worlds without assistance during the equinoxes (which fall on day 16 of the 3rd and 9th month, respectively).
 
-- **Harmonic Convergence.** Every 1000 years, the planets in the solar system align. During this alignment, the physical world and the spirit world are at their closest.
+- **Harmonic Convergence.** Every 1000 years, the planets in the solar system align. During this alignment, the physical world and the spirit world are separated by nothing more than a thin veil, even closer than on the solstices.
 
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 1 | INTRODUCTION</div>
@@ -97,8 +105,9 @@ Waterbenders are strengthened as the moon grows fuller, reaching their peak duri
 
 <div class='classTable wide'>
 ##### Equipment
+
 | Name               | Cost&emsp;| Damage        | Weight   |Properties             |
-|:-------------------|----------:|:--------------|:---------|:-----------------------
+|:-------------------|----------:|:--------------|:---------|:----------------------|
 | *Simple Melee Weapons*| | | | |
 | &emsp;Glider       | 5 gp&emsp;|1d4 bludgeoning|2 lb.     |Versatile, special
 | *Simple Ranged Weapons*| | | | |
@@ -160,6 +169,7 @@ These feats can be chosen by any class in a Bender campaign.
 
 ### D&D 5e Feats
 <div style='column-count:2'>
+
 - Actor
 - Alert
 - Athlete
@@ -183,6 +193,24 @@ These feats can be chosen by any class in a Bender campaign.
 
 <div style="height: 1em;">
 </div>
+
+### Elemental Parry
+
+You have martial training that allows you to perform special combat maneuvers. You gain the following benefits:
+• You learn two maneuvers of your choice from among those available to the Battle Master archetype in the fighter class. If a maneuver you use requires your target to make a saving throw to resist the maneuver’s effects, the saving throw DC equals 8 + your proficiency bonus + your Strength or Dexterity modifier (your choice).
+• If you already have superiority dice, you gain one more; otherwise, you have one superiority die, which is a d6. This die is used to fuel your maneuvers. A superiority die is expended when you use it. You regain your expended superiority dice when you finish a short or long rest
+
+You've become adept at fighting benders of a particular element of your choice. You gain the following benefits:
+- You learn the following two combat maneuvers, which are fueled by special dice called superiority dice. 
+
+<div style="margin-left: 1.5em;">
+
+**_Parry._** When a bender of your chosen element damages you with a melee attack that is not the result of a bending specialization, you can use your reaction and expend one superiority die to increase your AC by the number you roll on your superiority die.
+**_Defusion._** When a bender of your chosen element damages you with a ranged attack that is not the result of a bending specialization, you can use your reaction and expend one superiority die to defuse the attack, reducing the damage by the number you roll on your superiority die + your Dexterity modifier.
+</div>
+
+- If you already have superiority dice, you gain one more; otherwise, you have one superiority die, which is a d6. This die is used to fuel your maneuvers. A superiority die is expended when you use it. You regain your expended superiority dice when you finish a short or long rest.
+
 ### Fortuneteller
 - Increase your Intelligence or Wisdom score by 1, to a maximum of 20.
 - You can cast the spell *Augury* at will (you must have the necessary material components). 
@@ -193,18 +221,6 @@ These feats can be chosen by any class in a Bender campaign.
 - You have advantage on Wisdom (Survival) checks when foraging for tea leaves.
 - Once per long rest, if you have tea leaves or herbs available, you can create an infusion laced with healing power. Any creature who drinks it gains the benefits of a Potion of Healing. Drinking more than once from the infusion does not confer any additional benefits.
 
-### Gunpowder Amateur
-[Mostly meant for firebenders to interact with gunpowder and use it strategically in tandem with their bending.]
-
-### Elemental Defense
-[Either something similar to Fighter Maneuvers, but element-specific, or just something simple like firebender Defusion.]
-
-### Weapon master
-*Prerequisite: the ability to bend an element*   
-
-
-[focuses on bending in conjunction with weapons (especially for fire)]
-
 ### Resourceful Bender
 *Prerequisite: the ability to bend an element*  
 
@@ -212,6 +228,12 @@ These feats can be chosen by any class in a Bender campaign.
 Your ingenuity and experience with a variety of adversaries have allowed you to adapt another element's fightning style and make it your own. Pick one form from another element-bender's form list (not one that requires a bending specialization). You can add this form to your list of known forms, and it doesn't count against the total number of forms you know (as indicated by the "Forms Known" column of the Bender Table).
 
 When you use this form, you adapt it to use your element instead of the original element, causing it do deal your element's damage type instead of the original damage type. You also use your bending modifiers and DCs.
+
+### Weapon Master
+*Prerequisite: the ability to bend an element*   
+
+***
+You've learned to use your bending in conjunction with weapons when you fight. When you use the Attack action with a melee weapon on your turn, you can make basic bending attack as part of the same attack.
 
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 4 | FEATS</div>
