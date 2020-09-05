@@ -53,6 +53,17 @@ Beginning at 1st level, while you are wearing no armor and not wielding a shield
 ### Airbending
 At 1st level, you realize that you have an innate ability to manipulate the air around you. You can spend 1 chi of your Attack action to cause the effects of the *Gust* cantrip. (See "Air Punch" for a description of the role chi points play in attacks and the rules for bending attacks.) Your range increases with your level according to the "Range" column of the Airbender table.  
 
+<div style="margin-left: 1.5em;">
+
+#### Gust
+*Source: Elemental Evil Player's Companion*  
+**Range:** Normal bending range
+
+You seize the air and compel it to create one of the following effects at a point you can see within range:
+- One Medium or smaller creature that you choose must succeed on a Strength saving throw or be pushed up to 5 feet away from you.
+- You create a small blast of air capable of moving one object that is neither held nor carried and that weighs no more than 5 pounds. The object is pushed up to 10 feet away from you. It isn’t pushed with enough force to cause damage.
+- You create a harmless sensory effect using air, such as causing leaves to rustle, wind to slam shutters shut, or your clothing to ripple in a breeze.
+</div>
 
 In addition, your jump distance is permanently tripled and you only spend 5 feet of your movement to stand up.
 
@@ -170,7 +181,7 @@ Beginning at 4th level, you can use your reaction when you fall to slow yourself
 <!-- Could add suction here; to pick up objects (that aren't being worn, equipped, or carried) from within 5 feet -->
 
 ### Airbending Specialization
-At 5th level, you specialize in one of the following aspects of airbending: advanced airbending, spirituality, or ?. Your abilities are described in the specialization section at the end of this class description. <!--This specialization grants you a new feature at 5th level, and again at 8th, 12th, and 17th level.-->
+At 5th level, you specialize in one of the following aspects of airbending: advanced airbending, spirituality, or offense. Your abilities are described in the specialization section at the end of this class description. <!--This specialization grants you a new feature at 5th level, and again at 8th, 12th, and 17th level.-->
 
 ### Cloudbending
 At 6th level, you gain the ability to bend clouds. Once per long rest, you can concentrate on reshaping clouds for a period of time up to 1 hour. During this time, you spend your Action on every turn cloudbending and cannot use it to attack or take any other actions.
@@ -209,7 +220,7 @@ At 15th level, ... [flavor]
   <p>–Guru Laghima</p>
 </div>
 
-Like the Guru Laghima and the airbender Zaheer, you learn to levitate without using bending or any other means to propel yourself. You move naturally and without having to think about it through the air, as easily and naturally as if you were walking. Your gain a flying speed of 60 feet.
+Like the Guru Laghima and the airbender Zaheer, you learn to levitate without using bending or any other means to propel yourself. You move naturally and without having to think about it through the air, as easily and naturally as if you were walking. You gain a flying speed of 60 feet.
 
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 2 | CLASSES</div>

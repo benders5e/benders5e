@@ -51,7 +51,7 @@ You start with the following equipment, in addition to the equipment granted by 
 - 2 shortswords or 2 scimitars
 
 ### Firebending
-At 1st level, you realize that you have an innate ability to produce fire with your hands and feet. You can spend 1 chi of your Attack action to cause the effects of the *Produce Flame* cantrip, but the damage is determined by the "Bending" column of the Firebender table (see "Fire Jab" for a description of the role chi points play in attacks and the rules for bending attacks). Your range increases with your level according to the "Range" column of the Firebender table.
+At 1st level, you realize that you have an innate ability to produce fire with your hands and feet. You can spend 1 chi of your Attack action to cause the effects of the *Produce Flame* cantrip, but you use your bending range, and the damage is determined by the "Bending" column of the Firebender table (see "Fire Jab" for a description of the role chi points play in attacks and the rules for bending attacks). Your range increases with your level according to the "Range" column of the Firebender table.
 
 As a firebender, you have resistance to fire damage.
 
@@ -188,6 +188,20 @@ When you reach 6th level, you can use flame jets to propel yourself through the 
 ### Fire Augmentation
 Also at 6th level, you are able to alter the quality of outside sources of fire. On your turn, you can spend a bonus action to cause the effects of the *Control Flames* cantrip (except that you cannot change the color of the flame). 
 
+<div style="margin-left: 1.5em;">
+
+#### Control Flames
+*Source: Elemental Evil Player's Companion*  
+
+You choose nonmagical flame that you can see within range and that fits within a 5-foot cube. You affect it in one of the following ways:
+- You instantaneously expand the flame 5 feet in one direction, provided that wood or other fuel is present in the new location.
+- You instantaneously extinguish the flames within the cube.
+- You double or halve the area of bright light and dim light cast by the flame. The change lasts for 1 hour.
+- You cause simple shapes—such as the vague form of a creature, an inanimate object, or a location—to appear within the flames and animate as you like. The shapes last for 1 hour.
+
+If you cast this spell multiple times, you can have up to three of its non-instantaneous effects active at a time, and you can dismiss such an effect as an action.
+</div>
+
 <div style="height: 2em;">
 </div>
 ### Lightning Redirection
@@ -217,7 +231,7 @@ Beginning at 14th level, you learn to bend with minimal motion. Your use of bend
 <!--div style="height: 3em;">
 </div-->
 ### ?
-At 13th level, ... [flavor]
+At 15th level, ... [flavor]
 
 ### Element of Power
 At 20th level, the power of your inner flame grows, increasing your stamina. You now have 6 chi exhaustion points at your disposal and thus you now use a 1d6 as your chi exhaustion die.

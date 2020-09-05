@@ -59,9 +59,24 @@ You start with the following equipment, in addition to the equipment granted by 
 <div style="height: 2em;">
 </div>
 ### Waterbending
-At 1st level, you realize that you have an innate ability to control water. You can move small volumes of *liquid* water at will by spending 1 chi of your Attack action to cause the effects of the *Shape Water* cantrip (excluding changing the water's color or opacity). (See "Bending Attack" for a description of the role chi points play in attacks and the rules for bending attacks.) You must draw your bending material from a source within 30 feet. 
+At 1st level, you realize that you have an innate ability to control water. You can move small volumes of *liquid* water at will by spending 1 chi of your Attack action to cause the effects of the *Shape Water* cantrip (excluding changing the water's color or opacity). (See "Bending Attack" for a description of the role chi points play in attacks and the rules for bending attacks.) You must draw your bending material from a source within your normal bending range, which increases with your level according to the "Range" column of the Waterbender table.  
 
-You are also capable of converting water into ice or snow and back, but without fine-grained control over the shape of the ice or snow. You can cause the effects of the *Grease* spell at will by freezing a thin sheet of water in an area of your choice. Your range for this spell equals your normal bending range.  
+
+<div style="margin-left: 1.5em;">
+
+#### Shape Water
+*Source: Elemental Evil Player's Companion*  
+**Range:** Normal bending range
+
+You choose an area of water that you can see within range and that fits within a 5-foot cube. You manipulate it in one of the following ways:
+- You instantaneously move or otherwise change the flow of the water as you direct, up to 5 feet in any direction. This movement doesn’t have enough force to cause damage.
+- You cause the water to form into simple shapes and animate at your direction. This change lasts for 1 hour.
+- You freeze the water, provided that there are no creatures in it. The water unfreezes in 1 hour.
+
+You can dismiss a non-instantaneous effect as an action.
+</div>
+
+You are capable of converting water into ice or snow and back, but without fine-grained control over the shape of the ice or snow. You can cause the effects of the *Grease* spell at will by freezing a thin sheet of water in an area of your choice. Your range for this spell equals your normal bending range.  
 
 When using either *Grease* or changing the state of water from liquid to solid or vice versa in combat, you spend 1 chi of your Attack action (see "Bending Attack" for a description of the role chi points play in attacks).  
 
@@ -201,6 +216,7 @@ At 6th level, you learn to synchronize your control of water with your movement.
 Also at 6th level, you learn to bend liquids even if they are not pure water, as long as they consist mostly of water. You learn the following form, which does not count against the total number of forms you know:
 
 <div style="margin-left: 1.5em;">
+
 #### Purify Drink
 *Cost: 1 chi*  
 You gain the abilities granted by the spell *Purify Food and Drink*, but only for liquids. You can also use this ability to filter any other particles (e.g., earth) out of the water.
@@ -402,8 +418,8 @@ Each additional chi point your spend increases the HP of the shield by 10.
 </div-->
 
 #### Ice Sword
-*Cost: 1 chi (+2 chi)*  
 *Prerequisite: 4th level*  
+*Cost: 1 chi (+2 chi)*  
 You form water into a blade shape and freeze it. While you maintain concentration, this blade maintains its form and can be used as a weapon. It has the stats of a longsword, but deals an additional 1d4 cold damage on a hit.<!--maybe allow two shortswords as well--> 
 
 You spend 2 chi to make an attack with this weapon.
@@ -416,7 +432,12 @@ With each additional chi spent, you can provide air for another creature.
 
 #### Water Wall
 *Cost: 1+ chi*  
-You cause the effects of the spell *Wall of Water*. When you create the wall, you choose any area(s) of 5 square feet of the wall that are ice instead of water. You spend 1 additional chi point per 5-square-foot area.
+<!-- Wall of Water spell from Elemental Evil Player's Companion-->
+You create a wall of water on the ground at a point you can see within range. You can make the wall up to 30 feet long, 10 feet high, and 1 foot thick, or you can make a ringed wall up to 20 feet in diameter, 20 feet high, and 1 foot thick. The wall vanishes when the spell ends. The wall’s space is difficult terrain.
+
+When you create the wall, you choose any area(s) of 5 square feet of the wall that are ice instead of water. You spend 1 additional chi point per 5-square-foot area.
+
+Any ranged weapon attack that enters the wall’s space has disadvantage on the attack roll, and fire damage is halved if the fire effect passes through the wall to reach its target. Spells that deal cold damage that pass through the wall cause the area of the wall they pass through to freeze solid (at least a 5-foot-square section is frozen). Each 5-foot-square frozen section has AC 5 and 15 hit points. Reducing a frozen section to 0 hit points destroys it. When a section is destroyed, the wall’s water doesn’t fill it.
 
 <div style="height: 5em;">
 </div>
