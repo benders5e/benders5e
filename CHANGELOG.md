@@ -21,11 +21,11 @@
 
   #### Water
   - Move Versatile Reaction to 9th level and Improved Water Movement to 10th
-  - Add Ingenious Fighter at 6th level
-  - Shuffle 10th, 13/14/15th level abilitiesA
+  - Shuffle 10th, 13/14/15th level abilities
   - Advanced Specialization: move 17th level ability to 11th level
   - Bloodbending: add 11th level ability
   - Swampbending: remove phrasing about the number of stems controlled, rename to Plantbending
+  - New class features: Mudbending at 6th level and Ingenious Fighter at 10th level
 
   #### Earth
   - Seismic sense "vision" is lightly obscured over sand
@@ -34,7 +34,8 @@
   #### Fire
   - Clarify that Lightning Redirection can be used for electricity, too
   - Clarify that all targets get to make Dexterity saves for Lightning Arcs
-  - Add third eye tattoo to Combustionbending description
+  - Combustionbending: Add third eye tattoo to description
+  - Swap 6th and 10th level abilities
 
   #### Air
   - Move Wind Reader to 13th level
