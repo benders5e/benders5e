@@ -336,8 +336,8 @@ At 17th level, you learn one additional form of your choice from the following l
 <div style="margin-left: 1.5em;">
 
 ##### Metal Encasing
-*Cost: 5 chi (+1 chi)*  
 *Prerequisite: Metalbending specialization*  
+*Cost: 5 chi (+1 chi)*  
 You attempt to encase a target completely in metal. The target must make a Dexterity saving throw. On a failure, it is completely encased in metal and is considered Restrained. At the beginning of each of its subsequent turns, it can make a DC 20 Strength check to attempt to escape, and the condition ends on a success. If the target succeeds on the saving throw, it avoids being encased but takes 6d8 force damage.
 
 Once a target is trapped in a metal encasing, you can spend 1 chi on the same or subsequent turns to compress the encasing, causing the target to take 6d8 force damage.
@@ -354,8 +354,8 @@ In addition, you now use heated rocks in your basic bending attacks. Although no
 <div style="margin-left: 1.5em;">
 
 ##### Solidify Lava
-*Cost: 1 action*  
 *Prerequisite: Lavabending specialization*  
+*Cost: 1 action*  
 You harden an amount of lava weighing up to your bending capacity into volcanic rock, willing it to cool instead of waiting for this to happen naturally. The resulting volcanic rock can be earthbent like any other earth. 
 </div>
   
@@ -370,8 +370,8 @@ Lava is considered difficult terrain. The damage done by lava is determined acco
 <div style="margin-left: 1.5em;">
 
 ##### Melting Earth
-*Cost: 1 action*  
 *Prerequisite: Lavabending specialization*  
+*Cost: 1 action*  
 You melt an unoccupied 5 foot-square area of the ground within your range into lava, provided it is earth. Once the lava is produced, it slowly hardens due to the exposure to the air. This amount of time is determined the first time you use this ability in an encounter and is equal to 1d6 rounds (starting at the end of your turn). Any creature still in the lava once it has hardened is restrained.  
 </div>
 
@@ -387,8 +387,8 @@ At 17th level, you learn an additional form of your choice from the following li
 <div style="margin-left: 1.5em;">
 
 ##### Flaming Shuriken
-*Cost: 3 chi (+1 chi)*  
 *Prerequisite: Lavabending specialization*  
+*Cost: 3 chi (+1 chi)*  
 You flatten a fist-sized rock, heating it in the process to create a red-hot throwing star. While you maintain concentration, you can control its flight, launching it in a 30-foot line in a direction of your choice by spending 1 chi. The attack uses your bending modifier. 
 
 Targets in the line must make a Dexterity saving throw against your bending DC. On a failure, they take 2d6 slashing damage + 2d6 fire damage. On a success, the damage is halved.  
@@ -496,8 +496,8 @@ You gain an additional rock for each extra chi you spend.
 
 #### Bent Out of Shape
 <!-- based on the ability of the same name here: https://www.dandwiki.com/wiki/Earth_Bender_(5e_Class)#Metal_Bending -->
-*Cost: 3 chi*  
 *Prerequisite: Metalbending specialization*  
+*Cost: 3 chi*  
 You attempt to deform a metal weapon within range. The creature holding the weapon must make a Constitution (?) saving throw. On a failure, the weapon is bent beyond recognition and is treated as an improvised club dealing 1d4 damage for any future attacks. On a success, the weapon is unscathed.
 
 #### Quicksand
