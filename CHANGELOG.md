@@ -14,7 +14,8 @@
 
 ### [0.8.1] - TBA
   - Start adding Elemental Defense feat
-  - Feats: add Resourceful Bender, start adding Elemental Defense
+  - Finish Celestial Tracking details except for eclipse timing
+  - Feats: add Resourceful Bender, Elemental Parry, Weapon Master; remove Gunpowder Amateur (for now)
   - Add Fighter (direct copy of PHB + Gunslinger)
   - Finish Boomerang item description
   - Finish backgrounds: Arctic Dweller (formerly Northern/Southern Water Tribe), Swampbender, Sandbender (except forms), Air Nomad
@@ -31,10 +32,12 @@
   #### Earth
   - Seismic sense "vision" is lightly obscured over sand
   - Shuffle 10th, 13th, and 15th level abilities
+  - Metalbending: finish Metal Encasing form description
+  - Forms: add Bent Out of Shape
 
   #### Fire
   - Clarify that Lightning Redirection can be used for electricity, too
-  - Clarify that all targets get to make Dexterity saves for Lightning Arcs
+  - Lightningbending: clarify that all targets get to make Dexterity saves for Lightning Arcs, limit Shocking Strike to once per short rest
   - Combustionbending: Add third eye tattoo to description
   - Swap 6th and 10th level abilities
 

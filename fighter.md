@@ -58,7 +58,9 @@ You start with the following equipment, in addition to the equipment granted by 
 \page
 
 <div class='classTable'>
+
 ##### The Fighter
+
 |Level | Proficiency Bonus | Features
 |:----:|:-----------------:|:-----------
 |  1st | +2 | Fighting Style, Second Wind
