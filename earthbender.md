@@ -68,6 +68,7 @@ The HP and AC of any structure you form with your bending can be determined by r
 
 <div class='descriptive'>
 ##### Quick Conversions
+
 | Material          | Pounds in 1 cubic ft | AC |
 |:------------------|:---------------------|----|
 | Pumice            | 40 lbs               | 15 |
@@ -279,10 +280,11 @@ At 7th level, you are able to use your control over earth and dust to move throu
 At 11th level, you learn an additional form of your choice from the following list:  
 
 <div style="margin-left: 1.5em;">
+
 ##### Magnetization
 *Prerequisite: Advanced Earthbending specialization*  
 *Cost: 1 chi*  
-By controlling the magnetic orientation of particles within the earth beneath your hands and feet, you can move up, down, and across vertical surfaces and upside down along ceilings until the beginning of your next turn, all while leaving your hands or feet free. You have a climbing speed equal to your walking speed.
+By controlling the magnetic orientation of particles within the earth beneath your hands and feet, you can move up, down, and across vertical surfaces and upside down along ceilings until the beginning of your next turn, all while leaving either your hands or feet free. You have a climbing speed equal to your walking speed.
   
 ##### Sinking Earth
 *Prerequisite: Advanced Earthbending specialization*  
@@ -306,6 +308,7 @@ Beginning at 17th level, ... (requires concentration)
 *Prerequisite: Find a metalbending master.*
 
 <div class='descriptive'>
+
 ##### Quick Conversions (continued)
 | Material          | Pounds in 1 cubic ft | AC |
 |:------------------|:---------------------|:---|
@@ -314,13 +317,13 @@ Beginning at 17th level, ... (requires concentration)
 <!-- http://www.coyotesteel.com/assets/img/PDFs/weightspercubicfoot.pdf -->
 
 #### Metal Touch
-Beginning when you choose this specialization at 5th level, you can bend the small pieces of earth present in certain impure metals (alloys). You are able to bend such metal within touch range. Your deep relationship with metal also grants you proficiency with smith's tools.
+Beginning when you choose this specialization at 5th level, you can bend the small pieces of earth present in certain impure metals (alloys). You are able to bend such metal, of a quantity up to your earthbending capacity, within _touch_ range. You cannot bend metal that is being held, equipped, or carried unless the creature using it allows it.  
+
+Your deep relationship with metal also grants you proficiency with smith's tools.
 <!-- this is a cool reference: https://dumpstatadventures.com/the-gm-is-always-right/making-tools-useful-in-5e-smiths-tools -->
 
-You can use metal instead of earth in any form you already know, increasing its chi cost by 1. Any changes in the form's behavior when using metal are marked in its description.
-
 #### Ranged Metalbending
-At 7th level, you learn to bend metal without touching it. You can bend metal as if it was earth (the same capacity and range restrictions apply to your metalbending as do to your earthbending). You cannot bend any metal that is being held, equipped, or carried.  
+At 7th level, you learn to bend metal without touching it. You can bend metal as if it was earth (the same capacity and range restrictions apply to your metalbending as do to your earthbending), substituting it for earth in any form you already know by spending an additional chi. Changes in the form's behavior when using metal, if present, are marked in the form's description. 
 
 #### ?
 Beginning at 11th level, ...
@@ -331,10 +334,13 @@ Beginning at 11th level, ...
 At 17th level, you learn one additional form of your choice from the following list:
 
 <div style="margin-left: 1.5em;">
+
 ##### Metal Encasing
+*Cost: 5 chi (+1 chi)*  
 *Prerequisite: Metalbending specialization*  
-*Cost: X chi*  
-...
+You attempt to encase a target completely in metal. The target must make a Dexterity saving throw. On a failure, it is completely encased in metal and is considered Restrained. At the beginning of each of its subsequent turns, it can make a DC 20 Strength check to attempt to escape, and the condition ends on a success. If the target succeeds on the saving throw, it avoids being encased but takes 6d8 force damage.
+
+Once a target is trapped in a metal encasing, you can spend 1 chi on the same or subsequent turns to compress the encasing, causing the target to take 6d8 force damage.
 </div>
 
 ### Lavabending
@@ -346,9 +352,10 @@ Beginning when you choose this specialization at 5th level, you can use your act
 In addition, you now use heated rocks in your basic bending attacks. Although not heated to the point of melting, this earth now deals 1d4 bludgeoning + 1d4 fire damage instead of 1d8 bludgeoning. At 11th level, this increases to 1d6 bludgeoning + 1d4 fire and again to 1d6 of each type at 17th level.
 
 <div style="margin-left: 1.5em;">
+
 ##### Solidify Lava
-*Prerequisite: Lavabending specialization*  
 *Cost: 1 action*  
+*Prerequisite: Lavabending specialization*  
 You harden an amount of lava weighing up to your bending capacity into volcanic rock, willing it to cool instead of waiting for this to happen naturally. The resulting volcanic rock can be earthbent like any other earth. 
 </div>
   
@@ -361,14 +368,15 @@ Beginning at 7th level, you can melt an unoccupied 5 foot-square area of the gro
 Lava is considered difficult terrain. The damage done by lava is determined according to standard D&D 5e rules: any creature standing in or wading through the lava takes 10d10 fire damage, and creatures fully submerged in lava take 18d10 fire damage. As a lavabender, you gain resistance to fire damage.
 
 <div style="margin-left: 1.5em;">
+
 ##### Melting Earth
-*Prerequisite: Lavabending specialization*  
 *Cost: 1 action*  
+*Prerequisite: Lavabending specialization*  
 You melt an unoccupied 5 foot-square area of the ground within your range into lava, provided it is earth. Once the lava is produced, it slowly hardens due to the exposure to the air. This amount of time is determined the first time you use this ability in an encounter and is equal to 1d6 rounds (starting at the end of your turn). Any creature still in the lava once it has hardened is restrained.  
 </div>
 
 #### Lavabending
-At 11th level, you learn to move lava with as much control as you move earth. You spend an action to create and move the equivalent of a 3-foot-diameter sphere of lava at a time. When launching lava as an attack, you deal the amount of bludgeoning damage in the Bending column of the class table *and* an additional die of the same type as fire damage.
+At 11th level, you learn to move lava with as much control as you move earth. You can spend an action to create and move the equivalent of a 3-foot-diameter sphere of lava at a time. When launching lava as an attack, you deal the amount of bludgeoning damage in the Bending column of the class table *and* an additional die of the same type as fire damage.
 
 #### Advanced Form
 At 17th level, you learn an additional form of your choice from the following list:
@@ -377,8 +385,10 @@ At 17th level, you learn an additional form of your choice from the following li
 </div-->
 
 <div style="margin-left: 1.5em;">
+
 ##### Flaming Shuriken
 *Cost: 3 chi (+1 chi)*  
+*Prerequisite: Lavabending specialization*  
 You flatten a fist-sized rock, heating it in the process to create a red-hot throwing star. While you maintain concentration, you can control its flight, launching it in a 30-foot line in a direction of your choice by spending 1 chi. The attack uses your bending modifier. 
 
 Targets in the line must make a Dexterity saving throw against your bending DC. On a failure, they take 2d6 slashing damage + 2d6 fire damage. On a success, the damage is halved.  
@@ -483,6 +493,12 @@ You gain an additional rock for each extra chi you spend.
 <div class='footnote'>PART 2 | CLASSES</div>
 
 \page
+
+#### Bent Out of Shape
+<!-- based on the ability of the same name here: https://www.dandwiki.com/wiki/Earth_Bender_(5e_Class)#Metal_Bending -->
+*Cost: 3 chi*  
+*Prerequisite: Metalbending specialization*  
+You attempt to deform a metal weapon within range. The creature holding the weapon must make a Constitution (?) saving throw. On a failure, the weapon is bent beyond recognition and is treated as an improvised club dealing 1d4 damage for any future attacks. On a success, the weapon is unscathed.
 
 #### Quicksand
 *Cost: 3 chi*  
