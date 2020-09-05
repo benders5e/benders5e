@@ -67,6 +67,7 @@ You must draw your bending material from a source of earth within 30 feet. The m
 The HP and AC of any structure you form with your bending can be determined by regular D&D 5e object rules. The table below provides a reference for the AC of various types of earth.
 
 <div class='descriptive'>
+
 ##### Quick Conversions
 
 | Material          | Pounds in 1 cubic ft | AC |
@@ -85,7 +86,9 @@ The HP and AC of any structure you form with your bending can be determined by r
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 2 | CLASSES</div>
 \page
+
 <div class='classTable wide'>
+
 ##### The Earthbender
   
 |Level| Proficiency Bonus | Bending | Capacity | Range | Forms Known | Chi per Attack | Features |
@@ -122,6 +125,7 @@ At 1st level, you must choose which of your modifiers to use for attacks: Charis
 
 ---
 <p style="text-indent:1em;">
+
 **Attack Bonus** = [Cha OR Str modifier] + proficiency
 </p>
 

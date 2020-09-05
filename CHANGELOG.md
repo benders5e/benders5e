@@ -13,21 +13,20 @@
 ---
 
 ### [0.8.1] - TBA
-  - Start adding Elemental Defense feat
   - Finish Celestial Tracking details except for eclipse timing
-  - Feats: add Resourceful Bender, Elemental Parry, Weapon Master; remove Gunpowder Amateur (for now)
+  - Feats: add Resourceful Bender, Elemental Parry, Martial Bender; remove Gunpowder Amateur (for now); fill out the regular 5e feat list
   - Add Fighter (direct copy of PHB + Gunslinger)
   - Finish Boomerang item description
   - Finish backgrounds: Arctic Dweller (formerly Northern/Southern Water Tribe), Swampbender, Sandbender (except forms), Air Nomad
-  - At 14th level bending ability (Psychic Bending)
+  - At 14th level ability for all benders (Psychic Bending)
 
   #### Water
   - Move Versatile Reaction to 9th level and Improved Water Movement to 10th
   - Shuffle 10th, 13/14/15th level abilities
+  - New class features: Mudbending at 6th level and Ingenious Fighter at 10th level
   - Advanced Specialization: move 17th level ability to 11th level
   - Bloodbending: add 11th level ability
   - Swampbending: remove phrasing about the number of stems controlled, rename to Plantbending
-  - New class features: Mudbending at 6th level and Ingenious Fighter at 10th level
 
   #### Earth
   - Seismic sense "vision" is lightly obscured over sand

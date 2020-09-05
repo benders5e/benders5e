@@ -159,36 +159,51 @@ When used by a waterbender for healing, it restores double the amount of HP gran
 A water pouch holds the equivalent of a 1-foot-diameter sphere of water. It is typically worn on the waist and can be used for waterbending when no water source is within range.
 
 <div class='pageNumber auto'></div>
-<div class='footnote'>PART 3 | ITEMS</div>
+<div class='footnote'>PART 2 | ITEMS</div>
 
 \page
 
 # Feats
-***
-These feats can be chosen by any class in a Bender campaign.
 
 ### D&D 5e Feats
+*Source: Player's Handbook*  
+You can choose any feat(s) from the Player's Handbook that do not relate to magic (listed below for convenience).
 <div style='column-count:2'>
 
 - Actor
 - Alert
 - Athlete
 - Charger
+- Crossbow Expert
 - Defensive Duelist
 - Dual Wielder
 - Dungeon Delver
 - Durable
 - Grappler
+- Great Weapon Master
+- Healer
+- Heavily Armored
+- Heavy Armor Master
 - Inspiring Leader
 - Keen Mind
+- Lightly Armored
 - Lucky
+- Martial Adept
+- Medium Armor Master
+- Mobile
+- Mounted Combatant
 - Observant
+- Polearm Master
 - Resilient
+- Savage Attacker
 - Sentinel
+- Sharpshooter
+- Shield Master
 - Skilled
 - Skulker
 - Tavern Brawler
 - Tough
+- Weapon Master
 </div>
 
 <div style="height: 1em;">
@@ -229,14 +244,14 @@ Your ingenuity and experience with a variety of adversaries have allowed you to 
 
 When you use this form, you adapt it to use your element instead of the original element, causing it do deal your element's damage type instead of the original damage type. You also use your bending modifiers and DCs.
 
-### Weapon Master
+### Martial Bender
 *Prerequisite: the ability to bend an element*   
 
 ***
 You've learned to use your bending in conjunction with weapons when you fight. When you use the Attack action with a melee weapon on your turn, you can make basic bending attack as part of the same attack.
 
 <div class='pageNumber auto'></div>
-<div class='footnote'>PART 4 | FEATS</div>
+<div class='footnote'>PART 3 | FEATS</div>
 
 \page
 # Backgrounds
@@ -247,7 +262,9 @@ Some backgrounds are nation-specific. Backgrounds that can only be taken by Bend
 
 ## All Classes
 These backgrounds can be taken by any class.
+
 ### Regular D&D 5e Backgrounds
+*Source: Player's Handbook*  
 <div style='column-count:2'>
   
 - Charlatan
@@ -322,7 +339,7 @@ Your bond is almost certainly associated either with the place where you grew up
 You gain advantage on ability checks made using fishing tackle. If you have access to a body of water that sustains marine life, you can maintain a moderate lifestyle while working as a fisher, and you can catch enough food to feed yourself and up to ten other people each day.
 
 <div class='pageNumber auto'></div>
-<div class='footnote'>PART 5 | BACKGROUNDS</div>
+<div class='footnote'>PART 4 | BACKGROUNDS</div>
 
 \page
 
@@ -399,7 +416,7 @@ Fishers succeed only if they spend time at their jobs. As such, most fishers hav
 **Other Proficiencies:** Swim speed 30 feet  
 
 <div class='pageNumber auto'></div>
-<div class='footnote'>PART 5 | BACKGROUNDS</div>
+<div class='footnote'>PART 4 | BACKGROUNDS</div>
 
 \page
 
@@ -476,7 +493,7 @@ Marines are looked up to by other soldiers and respected by their superiors. The
 Provided you have carpenter's tools and wood, you can perform repairs on a water vehicle. When you use this ability, you restore a number of hit points to the hull of a water vehicle equal to 5 × your proficiency modifier. A vehicle cannot be patched by you in this way again until after it has been pulled ashore and fully repaired.
 
 <div class='pageNumber auto'></div>
-<div class='footnote'>PART 5 | BACKGROUNDS</div>
+<div class='footnote'>PART 4 | BACKGROUNDS</div>
 
 \page
 
@@ -541,7 +558,7 @@ Shipwrights are resourceful carpenters and designers. They often have a dedicate
 | 6  | I sometimes take things that don't belong to me, especially if they are very well made.
 
 <div class='pageNumber auto'></div>
-<div class='footnote'>PART 5 | BACKGROUNDS</div>
+<div class='footnote'>PART 4 | BACKGROUNDS</div>
 
 \page
 
@@ -602,6 +619,7 @@ The following earthbending forms are available to you in addition to the forms l
 </div-->
 
 <div style="margin-left: 1.5em;">
+
 ##### Earth to Sand
 *Cost: 1 chi*  
 You turn a 30-foot square area of earth in your bending range into sand. This area becomes difficult terrain.
@@ -643,7 +661,7 @@ Use the tables for the hermit background in the Player's Handbook as the basis f
 When choosing your ideal, keep in mind that the Air Nomads are a peaceful people who eschew violence of all sorts and thus tend to a neutral or good alignment.
 
 <div class='pageNumber auto'></div>
-<div class='footnote'>PART 5 | BACKGROUNDS</div>
+<div class='footnote'>PART 4 | BACKGROUNDS</div>
 
 \page
 
@@ -658,9 +676,10 @@ If you want to include this class in a regular D&D 5e campaign, at 6th level ben
 A custom character sheet that reflects the modifications made to regular 5e abilities, skills, etc. can be found [here](https://).
 
 ### Credits
-* Made by Noemi Glaeser with [The Homebrewery](https://homebrewery.naturalcrit.com).
-* [Avatar Wiki](https://avatar.fandom.com/wiki/Bending_arts) quoted and used for reference.
-* Thank you to Kevin Gagnon, Adam Groth, Jamie Mayson, and Trevor Schachner for feedback, suggestions, ideas, and help with playtesting.
+- Made by Noemi Glaeser with [The Homebrewery](https://homebrewery.naturalcrit.com).
+- Thank you to Kevin Gagnon, Adam Groth, Jamie Mayson, and Trevor Schachner for feedback, suggestions, ideas, and help with playtesting.
+- [Avatar Wiki](https://avatar.fandom.com/wiki/Bending_arts) quoted and used for reference.
+- Some inspiration for abilities and forms was drawn [this Avatar Supplement](https://www.dandwiki.com/wiki/5e_Classes_(Avatar_Supplement)) on the D&D Wiki.
 
 
 <div class='pageNumber auto'></div>
