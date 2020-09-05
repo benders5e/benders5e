@@ -85,15 +85,15 @@ The volume of water you can control and the range within which you can control i
 | 3rd | +2 | 1d6     | 5 ft.  | 30/60 | 2 | 2     |Redirection|
 | 4th | +2 | 1d6     | 10 ft. | 30/60 | 2 | 2     |Ability Score Improvement, Water in All Its States|
 | 5th | +3 | 1d8     | 10 ft. | 60/120| 3 | 2     |Waterbending specialization|
-| 6th | +3 | 1d8     | 10 ft. | 60/120| 3 | 2     |Water Movement, Ingenious Fighter|
+| 6th | +3 | 1d8     | 10 ft. | 60/120| 3 | 2     |Water Movement, Mudbending|
 | 7th | +3 | 1d8     | 10 ft. | 60/120| 4 | 3     |Specialization feature|
 | 8th | +3 | 1d8     | 15 ft. | 60/120| 4 | 3     |Ability Score Improvement|
 | 9th | +4 | 1d8     | 15 ft. | 60/120| 5 | 3     |Versatile Reaction|
-|10th | +4 | 1d8     | 15 ft. |100/200| 5 | 3     |?|
+|10th | +4 | 1d8     | 15 ft. |100/200| 5 | 3     |Ingenious Fighter|
 |11th | +4 | 1d10    | 15 ft. |100/200| 6 | 4     |Specialization feature|
 |12th | +4 | 1d10    | 15 ft. |100/200| 6 | 4     |Ability Score Improvement|
 |13th | +4 | 1d8     | 15 ft. |100/200| 5 | 3     |Water Movement Improvement|
-|14th | +5 | 1d10    | 15 ft. |150/300| 7 | 4     |?|
+|14th | +5 | 1d10    | 15 ft. |150/300| 7 | 4     |Psychic Bending|
 |15th | +5 | 1d10    | 20 ft. |150/300| 8 | 5     |?|
 |16th | +5 | 1d10    | 20 ft. |150/300| 8 | 5     |Ability Score Improvement|
 |17th | +6 | 1d12    | 20 ft. |150/300| 9 | 5     |Specialization feature|
@@ -191,7 +191,7 @@ At 4th level, you learn to manipulate water more nimbly, creating more intricate
 Additionally, you can bend even water you cannot see, such as an underground reservoir (provided it is within range).
 
 ### Waterbending specialization
-At 5th level, you specialize in one of the following types of waterbending: advanced waterbending, healing, blood-bending, or swampbending. Your abilities are described in the specialization section at the end of this class description.
+At 5th level, you specialize in one of the following types of waterbending: advanced waterbending, healing, bloodbending, or plantbending. Your abilities are described in the specialization section at the end of this class description.
 
 ### Water Movement
 At 6th level, you learn to synchronize your control of water with your movement. You gain the ability to move across liquids. 
@@ -239,8 +239,8 @@ At 13th level, your control over solid water also grants you the ability to move
 
 <!--div style="height:3em;">
 </div-->
-### ?
-Beginning at 14th level, ... [Some improved ability or saving throws]
+### Psychic Bending
+Beginning at 14th level, you learn to bend with minimal motion. Your use of bending becomes nearly imperceptible, and you do not suffer disadvantage on bending attacks when restrained as long as you can see your target.
 
 ### ?
 At 15th level, ... [some flavor-type thing]
@@ -337,9 +337,9 @@ At 17th level, you learn to use bloodbending to temporarily block another bender
 <!--#### Bloodbending Anytime
 At 19th level, you are able to bloodbend even on nights without a full moon, excluding those with a new moon.-->
 
-### Swampbending
+### Plantbending
 
-#### Plantbending
+#### Naturalist
 Beginning when you choose this specialization at 5th level, you learn to control the water in plants. You can use the stems of plants instead of water for your waterbending attacks. The stems' physical modifiers are equal to your bending modifier.
 
 Your familiarity with plants makes you adept at traveling and surviving in the regions in which they thrive. Choose one type of favored terrain: forest, grassland, or swamp. When you make an Intelligence or Wisdom check related to your favored terrain, your proficiency bonus is doubled if you are using a skill that you’re proficient in.

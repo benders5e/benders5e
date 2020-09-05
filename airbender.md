@@ -105,13 +105,13 @@ Some of your abilities will require targets to make saving throws against your b
 |11th | +4 | 1d8  |100/200| 6 | 4 | +20 ft.  | Specialization feature
 |12th | +4 | 1d8  |100/200| 6 | 4 | +20 ft.  | Ability Score Improvement
 |13th | +5 | 1d10 |100/200| 7 | 4 | +20 ft.  | Wind Reader
-|14th | +5 | 1d10 |150/300| 7 | 4 | +25 ft.  | Cosmic Spirit
-|15th | +5 | 1d10 |150/300| 8 | 5 | +25 ft.  | Timeless Body
+|14th | +5 | 1d10 |150/300| 7 | 4 | +25 ft.  | Psychic Bending
+|15th | +5 | 1d10 |150/300| 8 | 5 | +25 ft.  | ?
 |16th | +5 | 1d10 |150/300| 8 | 5 | +25 ft.  | Ability Score Improvement
 |17th | +6 | 1d10 |150/300| 9 | 5 | +25 ft.  | Specialization feature
 |18th | +5 | 1d10 |200/400| 9 | 5 | +30 ft.  | –
 |19th | +5 | 1d10 |200/400| 10| 5 | +30 ft.  | Ability Score Improvement
-|20th | +5 | 1d10 |200/400| 10| 6 | +30 ft.  | Detachment
+|20th | +5 | 1d10 |200/400| 10| 6 | +30 ft.  | Element of Freedom
 </div>
 
 Unless otherwise specified, anytime a target is required to make a saving throw, it makes it against your bending DC.
@@ -191,14 +191,11 @@ You are also able to hold your breath for an unusual amount of time; instead of 
 ### Wind Reader
 At 13th level, you are aware of every motion in the air surrounding you. Every turn, you may take the Dodge action as a bonus action.  
 
-### Cosmic Spirit
-Beginning at 14th level, your mastery of chi grants you proficiency in all saving throws.  
+### Psychic Bending
+Beginning at 14th level, you learn to bend with minimal motion. Your use of bending becomes nearly imperceptible, and you do not suffer disadvantage on bending attacks when restrained as long as you can see your target.
 
-
-Additionally, once per long rest, whenever you make a saving throw and fail, you can spend 1 chi to reroll it and take the second result.
-
-### Timeless Body
-At 15th level, your chi sustains you so that you suffer none of the frailty of old age and you cannot be aged by unnatural means. You can still die of old age, however. In addition, you no longer need food or water.
+### ?
+At 15th level, ... [flavor]
 
 <div style="height: 0em;">
 </div>

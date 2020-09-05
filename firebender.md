@@ -109,15 +109,15 @@ You practice a defensive and circular type of bending, gaining a +2 to AC.
 | 3rd | +2 | 1d6   | 30/60 | 2 | 2 | Defusion
 | 4th | +2 | 1d6   | 30/60 | 2 | 2 | Ability Score Improvement, Inner Flame
 | 5th | +3 | 1d8   | 60/120| 3 | 2 | Firebending specialization
-| 6th | +3 | 1d8   | 60/120| 3 | 2 | Firestep, Fierce Fighter
+| 6th | +3 | 1d8   | 60/120| 3 | 2 | Firestep, Fire Augmentation 
 | 7th | +3 | 1d8   | 60/120| 4 | 3 | Specialization feature
 | 8th | +3 | 1d8   | 60/120| 4 | 3 | Ability Score Improvement
 | 9th | +4 | 1d8   | 60/120| 5 | 3 | Lightning Redirection
-|10th | +4 | 1d8   |100/200| 5 | 3 | Fire Augmentation
+|10th | +4 | 1d8   |100/200| 5 | 3 | Fierce Fighter
 |11th | +4 | 1d10  |100/200| 6 | 4 | Specialization feature
 |12th | +4 | 1d10  |100/200| 6 | 4 | Ability Score Improvement
 |13th | +5 | 1d10  |100/200| 7 | 4 | ?
-|14th | +5 | 1d10  |150/300| 7 | 4 | ?
+|14th | +5 | 1d10  |150/300| 7 | 4 | Psychic Bending
 |15th | +5 | 1d10  |150/300| 8 | 5 | Fire Rockets
 |16th | +5 | 1d10  |150/300| 8 | 5 | Ability Score Improvement
 |17th | +6 | 1d12  |150/300| 9 | 5 | Specialization feature
@@ -186,7 +186,7 @@ At 5th level, you specialize in one of the following types of firebending: advan
 When you reach 6th level, you can use flame jets to propel yourself through the air during your turn. Your speed when you fire-step equals your walking speed. You must end your turn on the ground.
 
 ### Fire Augmentation
-At 10th level, you are able to alter the quality of outside sources of fire. On your turn, you can spend a bonus action to cause the effects of the *Control Flames* cantrip (except that you cannot change the color of the flame). 
+Also at 6th level, you are able to alter the quality of outside sources of fire. On your turn, you can spend a bonus action to cause the effects of the *Control Flames* cantrip (except that you cannot change the color of the flame). 
 
 <div style="height: 2em;">
 </div>
@@ -209,10 +209,10 @@ Beginning at 10th level, when you roll a 1 or 2 on a damage die for a basic fire
 <!--div style="height: 6em;">
 </div-->
 ### ?
-Beginning at 13th level, ... [Some improved ability or saving throws]
+At 13th level, ... [Some improved ability or saving throws]
 
-### ?
-At 14th level, ... [some flavor-type thing; charged attacks?]
+### Psychic Bending
+Beginning at 14th level, you learn to bend with minimal motion. Your use of bending becomes nearly imperceptible, and you do not suffer disadvantage on bending attacks when restrained as long as you can see your target.
 
 <!--div style="height: 3em;">
 </div-->

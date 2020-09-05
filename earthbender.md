@@ -98,17 +98,17 @@ The HP and AC of any structure you form with your bending can be determined by r
 | 7th | +3 | 1d8   | 2  | 60/120| 4  | 3 | Specialization feature
 | 8th | +3 | 1d8   | 4  | 60/120| 4  | 3 | Ability Score Improvement
 | 9th | +4 | 1d8   | 4  | 60/120| 5  | 3 | Chi-Empowered Reflex
-|10th | +4 | 1d8   | 4  |100/200| 5  | 3 | Earth Elevator
+|10th | +4 | 1d8   | 4  |100/200| 5  | 3 | ?
 |11th | +4 | 1d10  | 4  |100/200| 6  | 4 | Specialization feature
 |12th | +4 | 1d10  | 4  |100/200| 6  | 4 | Ability Score Improvement
-|13th | +5 | 1d10  | 4  |100/200| 7  | 4 | ?
-|14th | +5 | 1d10  | 4  |150/300| 7  | 4 | ?
-|15th | +5 | 1d10  | 8  |150/300| 8  | 5 | Rolling Earth Improvement
+|13th | +5 | 1d10  | 4  |100/200| 7  | 4 | Earth Elevator / Rolling Earth Improvement
+|14th | +5 | 1d10  | 4  |150/300| 7  | 4 | Psychic Bending
+|15th | +5 | 1d10  | 8  |150/300| 8  | 5 | ?
 |16th | +5 | 1d10  | 8  |150/300| 8  | 5 | Ability Score Improvement
 |17th | +6 | 1d12  | 8  |150/300| 9  | 5 | Specialization feature
 |18th | +6 | 1d12  | 8  |200/400| 9  | 5 | –
 |19th | +6 | 1d12  | 8  |200/400| 10 | 6 | Ability Score Improvement
-|20th | +6 | 1d12  | 8  |200/400| 10 | 6 | Substance
+|20th | +6 | 1d12  | 8  |200/400| 10 | 6 | Element of Substance
 </div>
 
 ### Bending Attack
@@ -232,21 +232,26 @@ You learn to use your control over the earth to throw your opponents off-balance
 
 Your opponent must make a DC 15 Dexterity Saving Throw. On a success, they make their attack with disadvantage. On a failure, the attack misses. The opponent must be within your normal bending range.
 
-### Earth Elevator
-At 10th level, you can move masses of earth beneath your feet to defy gravity. You can move an area of earth centered on you that is 10 feet in diameter and is holding 1 Medium creature (including yourself) with a flying speed equal to your ground speed. At higher levels, you can carry more people, the equivalent of half your level minus 10 Medium creatures, rounded up (i.e. at 13th level, you lift yourself and one other Medium creature).  
-
 ### ?
-Beginning at 13th level, ... [Some improved ability or saving throws]
+Beginning at 10th level, ... [flavor]
+
+### Rolling Earth Improvement
+At 13th level, you can move across difficult earth terrain (not ice, for example) as though it were normal terrain. You can also move along vertical surfaces of earth without falling during your turn.
+
+OR
+
+### Earth Elevator
+At 13th level, you can move masses of earth beneath your feet to defy gravity. You can move an area of earth centered on you that is 10 feet in diameter and is holding 1 Medium creature (including yourself) with a flying speed equal to your ground speed. At higher levels, you can carry more people, the equivalent of half your level minus 10 Medium creatures, rounded up (i.e. at 13th level, you lift yourself and one other Medium creature). 
 
 <!--div style="height: 1em;">
 </div-->
+### Psychic Bending
+Beginning at 14th level, you learn to bend with minimal motion. Your use of bending becomes nearly imperceptible, and you do not suffer disadvantage on bending attacks when restrained as long as you can see your target.
+
 ### ?
-At 14th level, ... [some flavor-type thing]
+At 15th level, ... [flavor]
 
-### Rolling Earth Improvement
-At 15th level, you can move across difficult earth terrain (not ice, for example) as though it were normal terrain. You can also move along vertical surfaces of earth without falling during your turn.
-
-### Substance
+### Element of Substance
 At 20th level, ...
 
 <div style="height: 14em;">

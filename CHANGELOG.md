@@ -17,17 +17,19 @@
   - Add Fighter (direct copy of PHB + Gunslinger)
   - Finish Boomerang item description
   - Finish backgrounds: Arctic Dweller (formerly Northern/Southern Water Tribe), Swampbender, Sandbender (except forms), Air Nomad
+  - At 14th level bending ability (Psychic Bending)
 
   #### Water
   - Move Versatile Reaction to 9th level and Improved Water Movement to 10th
   - Add Ingenious Fighter at 6th level
-  - Shuffle 10th-, 13/14/15th-level abilitiesA
+  - Shuffle 10th, 13/14/15th level abilitiesA
   - Advanced Specialization: move 17th level ability to 11th level
   - Bloodbending: add 11th level ability
-  - Plantbending: remove phrasing about the number of stems controlled
+  - Swampbending: remove phrasing about the number of stems controlled, rename to Plantbending
 
   #### Earth
   - Seismic sense "vision" is lightly obscured over sand
+  - Shuffle 10th, 13th, and 15th level abilities
 
   #### Fire
   - Clarify that Lightning Redirection can be used for electricity, too
@@ -35,7 +37,8 @@
   - Add third eye tattoo to Combustionbending description
 
   #### Air
-  - Switch around 13th, 14th, and 15th level abilities
+  - Move Wind Reader to 13th level
+  - Remove monk-based 14th and 15th level abilities
 
 ### [0.8.0] - 2020.08.23
   - Clarify bending DC
