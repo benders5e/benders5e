@@ -50,10 +50,16 @@ Benders can spend a maximum of 1 chi on their opportunity attacks.
 ### Planes of Existence
 #### Physical World
 
-The physical world, sometimes also called the material world, is the plane of existence on which humans live.
+The physical world, sometimes also called the material world, is the plane of existence on which humans live. It is divided into the four nations of the elements: the Water Tribe, Earth Kingdom, Fire Nation, and the Air Nomads. Benders (and non-benders) of each element usually live in the corresponding nation, with some exceptions. Other groups exist outside of these nations as well, such as the waterbending Foggy Swamp Tribe, the sandbending Si Wong tribes, and the firebending Sun Warriors.
+
+The political landscape has varied over time; depending on which period your campaign is set in, areas may fall under different jurisdictions or there may even be new or altogether different entities at play (e.g., the United Republic, the Fire Nation colonies, or the isolated lion-turtle cities of Avatar Wan's time, scattered through the Spirit Wilds).
 
 #### Spirit World
-There's spirits there.
+The Spirit World is a plane of existence that lies parallel to the physical world and is home to spirits. These supernatural and immortal entities span a wide range of forms and often represent some aspect of life or nature. 
+
+In some cases, the landscape of the Spirit World mirrors that of the physical world; in other cases it is completely unrelated. It can be a very fickle place: the environment can change based on one's emotions, since the spirits are sensitive to changes in their world and any negative energy brought into it.
+
+The simplest way to enter the Spirit World is to physically cross into it through a spirit portal. The two main portals are found at the North and South Pole. Spiritual humans can also pass into the Spirit World through meditation. This difficult process can be aided by attempting passage from very spiritual places in the physical world, or by taking advantage of the proximity of the two worlds during the solstices.
 
 ### Celestial Tracking Variant
 
@@ -130,7 +136,7 @@ Waterbenders are strengthened as the moon grows fuller, reaching their peak duri
 This section describes items that have special rules or require further explanation.
 
 **_Boomerang._** 
-You can make both melee and ranged attacks with a boomerang. When thrown for a ranged attack, the boomerang returns to your hand unscathed at the beginning of your next turn.
+You can make both melee and ranged attacks with a boomerang. When thrown for a ranged attack, on a miss, the boomerang returns to your hand unscathed at the beginning of your next turn.
 
 **_Fans._** 
 Taking your fans out or putting them away takes a bonus action. Opening or closing them does as well. You can still earthbend while holding the fans; they augment your bending, increasing your range by 10 feet.
