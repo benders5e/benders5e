@@ -171,7 +171,7 @@ Starting at 7th level, you can use your action to end one effect on yourself tha
 At 10th level, your mastery of the chi flowing through you makes you immune to disease and poison.
 
 ### ?
-Starting at 13th level, [utility to replace Tongue of Sun and Moon]
+Starting at 13th level, [utility to replace Tongue of Sun and Moon]: communicating with spirits
 
 ### Diamond Soul
 <!--*[also Airbender (13th level)]*  -->
@@ -184,7 +184,7 @@ Additionally, whenever you make a saving throw and fail, you can spend 1 chi poi
 At 15th level, your chi sustains you so that you suffer none of the frailty of old age, and you can’t be aged magically. You can still die of old age, however. In addition, you no longer need food or water.
 
 ### ?
-Beginning at 18th level, [combat utility to replace Empty Body]
+Beginning at 18th level, [combat utility to replace Empty Body]: spirit world projection
 
 ### Perfect Self
 At 20th level, when you roll for initiative and have no chi points remaining, you regain 4 chi points.

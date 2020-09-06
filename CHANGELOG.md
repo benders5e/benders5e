@@ -13,12 +13,14 @@
 ---
 
 ### [0.8.1] - TBA
+  - Add descriptions for Physical and Spirit World
   - Finish Celestial Tracking details except for eclipse timing
   - Feats: add Resourceful Bender, Elemental Parry, Martial Bender; remove Gunpowder Amateur (for now); fill out the regular 5e feat list
   - Add Fighter (direct copy of PHB + Gunslinger)
   - Finish Boomerang item description
   - Finish backgrounds: Arctic Dweller (formerly Northern/Southern Water Tribe), Swampbender, Sandbender (except forms), Air Nomad
   - At 14th level ability for all benders (Psychic Bending)
+  - Update all benders' blurbs for Chi, Community and Training, and Creating a(n) [X]bender
 
   #### Water
   - Move Versatile Reaction to 9th level and Improved Water Movement to 10th
@@ -35,10 +37,12 @@
   - Forms: add Bent Out of Shape
 
   #### Fire
+  - Update top class blurb
   - Clarify that Lightning Redirection can be used for electricity, too
-  - Lightningbending: clarify that all targets get to make Dexterity saves for Lightning Arcs, limit Shocking Strike to once per short rest
-  - Combustionbending: Add third eye tattoo to description; move all abilities up one slot and add Uncanny Focus at 5th level
   - Swap 6th and 10th level abilities
+  - Lightningbending: clarify that all targets get to make Dexterity saves for Lightning Arcs, limit Shocking Strike to once per short rest
+  - Combustionbending: Add third eye tattoo to description and flavor text; move all abilities up one slot and add Uncanny Focus at 5th level
+  - Energy Reading: rename 5th level ability to Chi Sensing
 
   #### Air
   - Move Wind Reader to 13th level

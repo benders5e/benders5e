@@ -305,7 +305,7 @@ At 17th level, ...
 
 ### Energy Reading
 
-#### Chi Paths
+#### Chi Sensing
 Beginning when you choose this specialization at 5th level, you learn to sense the chi paths in people and interpret their spiritual energy. You may use an action to touch a creature and end one disease or condition (blinded, deafened, paralyzed, or poisoned) on it.   
 
 
@@ -344,7 +344,7 @@ At 17th level, you learn to bend the energy within people's bodies to a limited 
 <!--You can blow stuff up with your mind!  
 Level ideas: silent, multiple simultaneous projectiles, increasing power/range/radius of blast.-->
 
-Combustionbenders possess the rare ability to firebend with their minds. Instead of using movement to focus their chi, they carefully direct this energy through the forehead, which is often marked by an intricate third-eye tattoo.
+Combustionbenders possess the rare ability to firebend with their minds. Instead of using movement to focus their chi, they gather chi from their stomachs – the "sea of chi" – and carefully direct this energy through the Light Chakra in the forehead. To help channel the energy, their foreheads are often marked by an intricate third-eye tattoo.
 
 #### Uncanny Focus
 Beginning when you choose this specialization at 5th level, you learn to channel your chi with great precision and focus, allowing you to use your bending over incredible distances. By spending 1 chi, you can use your long bending range instead of the normal range for any form or attack without incurring disadvantage. This precision and power also allows you to deal double damage on your first turn of combat.
