@@ -5,18 +5,18 @@ Link: https://homebrewery.naturalcrit.com/edit/nv_PIRHWxL
 Water is the element of change, and just like their namesake, waterbenders are extremely adaptable and versatile. Waterbending concentrates on the flow of energy, focusing less on strength and more on turning the opponent's own energy against them. A bender's victory in battle depends on their skill or ingenuity. As the element of change, waterbenders can fluidly and quickly alternate from defense to offense, from a wall of ice to a jet of water, turning their opponent's strength against them.
 
 ### Chi
-Benders make careful study of a magical energy called chi that flows through living bodies. Waterbenders harness this power within themselves to exert their will over water.
+Benders make careful study of a magical energy called chi that flows through living bodies. Waterbenders have mastered control of the chi within themselves and are able to extend its influence beyond their body, using the energy to interact with water in their environment. Waterbenders learned how to push and pull water from the original waterbender, the moon, who pushes and pulls the tides.
 
 ### Community and Training
-Whether they live in the frigid poles, the humid swamps, or around any of the other bodies of water scattered around the globe, waterbenders form tight-knit communities, each with a unique culture. Custom and tradition tend to govern life, sometimes even dictating what type of waterbending particular members of a society may practice. 
+Whether they live in the frigid poles, the humid swamps, or near any of the other bodies of water scattered around the globe, waterbenders form tight-knit communities, each with a unique culture. Custom and tradition tend to govern life, sometimes even dictating what type of waterbending particular members of a society may practice. 
 
-Because of these tight community bonds, waterbenders rarely leave their homes unless they have a very good reason. Most waterbenders may spend their entire lives in their village or town, never setting foot in the outside world.
+Because of these tight community bonds, waterbenders rarely leave their homes unless they have a very good reason. They may spend their entire lives in their home village or town, never setting foot in the outside world.
 
 ### Creating a Waterbender
 As you make your waterbender character, think about ...
 - **The culture of your tribe.** Did you grow up in the small Southern Water Tribe? The larger and tradition-steeped Northern Water Tribe? In the swamp? Or somewhere else entirely? This background will likely influence your bending style and your preferred state of water to bend.
 - **How you began training in waterbending.** Were your parents waterbenders? Your siblings? When did you first learn of your abilities? Who became your bending master?
-- **Why did you leave your home?** Most waterbenders spend their whole lives in their home town or village. Did something happen to your home that forced you to move? Are you leaving to find a way to save it from some threat? Or did the outside world pull you away for some great mission?
+- **Why you left home.** Most waterbenders spend their whole lives in their home town or village. Did something happen to your home that forced you to move? Are you leaving to find a way to save it from some threat? Or did the outside world pull you away for some great mission?
 
 Waterbenders tend towards a Lawful alignment because of their strong sense of community.
 

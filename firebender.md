@@ -1,24 +1,23 @@
 Link: https://homebrewery.naturalcrit.com/edit/24oFxIIOYo
 
 # Firebender
-Fire is the element of power. Firebenders must be able to maintain a constant source of energy and balance in battle, unleashing a volley of direct, successive attacks. 
+Fire is the element of power. Firebenders must be able to maintain a constant source of energy and balance in battle and direct it through unflinching conviction. This energy comes from within, but is strengthened by the sun and some other natural phenomena. 
 
-Some more stuff about firebenders.
-
-And even more.
+Firebenders are fierce fighters, unleashing volleys of direct, successive attacks, often lacking proper defensive measures. 
 
 ### Chi
-Benders make careful study of a magical energy called chi that flows through living bodies. Firebenders harness this power within themselves to create and control fire.
+Benders make careful study of a magical energy called chi that flows through living bodies. Firebenders have mastered control of the chi within themselves and are able to extend its influence beyond their body. They are remarkable among benders in that their energy takes physical form as fire, though they can also control existing flames. Firebenders learned firebending from the dragons, the original firebenders.
 
 ### Community and Training
-Fire Nation, dragons, and stuff. What it means to leave.
+Most firebenders live in the Fire Nation, though the Earth Kingdom also harbors a significant minority of firebenders. During the Hundred Year War, firebending was twisted into a tool for oppression and powered by hatred and anger through extreme militarism. During this period, the Fire Nation became an oppressive and imperialist society, enforcing strict laws and traditions that were perpetuated through propaganda and state-approved teachings. Many people of the Fire Nation never knew a different way of life and were unaware of the horrors perpetuated by their nation in other parts of the world. 
+
+Firebenders generally only ventured outside their homeland as part of the military and were trained to use their bending for these means. After the War, the nation was reborn, with emphasis placed on fire as a bringer of life instead of estruction.
 
 ### Creating a Firebender
 As you make your firebender character, think about ...
-- Whether you are from the Fire Nation, one of its colonies, or somewhere else entirely.
-- What status do you hold in the Fire Nation?
-- How you began training in firebending. Were your parents firebenders? Your siblings? When did you first learn of your abilities? Who became your bending master?
-- Why did you leave your home?
+- **Where you are from.** Are from the Fire Nation? One of its colonies in the Earth Kingdom? Somewhere else entirely?
+- **How you began training in firebending.** Were your parents firebenders? Your siblings? When did you first learn of your abilities? Who became your bending master?
+- **Why you left home.** Did the Hundred Years War call you to fight or cause you to flee? Are you helping to rebuild the rest of the world after the war? Or are you simply satisfying a yearning for adventure?
 
 Because of the passionate nature of fire, firebenders tend towards extreme alignments and are rarely neutral.
 

@@ -5,16 +5,18 @@ Link: https://homebrewery.naturalcrit.com/edit/grt0crs-z\_
 Earth is the element of substance. Earthbenders have a special connection with the earth that is achievable with neutral jing, listening, though seemingly doing nothing and waiting for the right moment to strike. Because of their element's stability and its stress on neutral jing, earthbenders stand their ground, absorbing or intercepting attacks until they completely overwhelm their opponents. Unlike the other bending arts, earthbending's strength equally lies in both offense and defense.
 
 ### Chi
-Benders make careful study of a magical energy called chi that flows through living bodies. Earthbenders harness this power within themselves to exert their will over earth.
+Benders make careful study of a magical energy called chi that flows through living bodies. Earthbenders have mastered control of the chi within themselves and are able to extend its influence beyond their body, using the energy to manipulate the earth around them. Earthbenders learned earthbending from the badgermoles, the original earthbenders.
 
 ### Community and Training
-Earth Kingdom, badgermoles, and stuff. What it means to leave.
+Earthbending is a very diverse bending art and, by extension, so are earthbenders. The Earth Kingdom is the largest of the four nations, comprising both the greatest land mass and having the largest population. This means that an earthbender can come from one of many disparate communities and backgrounds: a city dweller, a country artisan, an outlander from one of the many biomes of the Kingdom... 
+
+One thing that all earthbenders have in common, however, is their toughness and directness. They tend to be patient, weighing their options and waiting the right opportunity.
 
 ### Creating an Earthbender
 As you make your earthbender character, think about ...
-- where in the vast expanse of the Earth Kingdom you are from, or whether you are from another nation entirely.
-- How you began training in earthbending. Were your parents waterbenders? Your siblings? When did you first learn of your abilities? Who became your bending master?
-- Why did you leave your home?
+- **Where you are from.** Where in the vast expanse and variety of the Earth Kingdom you are from? Are from another nation entirely? What is the culture like?
+- **How you began training in earthbending.** Were your parents earthbenders? Your siblings? When did you first learn of your abilities? Who became your bending master?
+- **Why you left home.** What drew you to a life of adventure? How does your family feel about your calling?
 
 Earthbenders tend towards a Neutral alignment because of the strong role neutral jing plays in bending this element.
 

@@ -4,16 +4,22 @@ Link: https://homebrewery.naturalcrit.com/edit/3y6o6KPWIM
 Air is the element of freedom. Airbending concentrates on speed and evasion, forgoing a strong offense for a greater defense. Though apparently lacking fatal finishing moves, it is the most dynamic of all the bending arts. As the element of freedom, airbenders use their capability to bend unencumbered by the ground or any other environmental factors and use their own momentum as a weapon, evading attacks with astounding agility to tire their opponents out or building up massive inertia for explosive gusts of wind to make their counterattacks finishing moves.
 
 ### Chi
-Benders make careful study of a magical energy called chi that flows through living bodies. Airbenders harness this power within themselves to exert their will on the air around them.
+Benders make careful study of a magical energy called chi that flows through living bodies. Airbenders have mastered control of the chi within themselves and are able to extend its influence beyond their body, using the energy to manipulate the air around them. Airbenders learned airbending from the flying bison, the original earthbenders.
 
 ### Community and Training
-Air Nomads, air bison, and stuff. What it means to leave.
+Airbenders are raised by airbending masters in one of the four Air Temples from a young age. Unlike the other nations, Air Nomads continually strive for spiritual englightenment, so all members of the Air Nation are also airbenders.
+
+The Air Nomads reside in four Air Temples, named after the cardinal directions: the Western and Eastern Air Temples were home to female airbenders, and the Northern and Southern to male airbenders.
+
+During the Hundred Year War, almost all airbenders were wiped out by the Fire Nation, with some surviving the initial attack and fleeing to the Earth Kingdom to spend the rest of their days in hiding. After Harmonic Convergence, the world miraculously saw new airbenders, now with very diverse backgrounds.
+
+Although airbenders often lead secluded lives as part of their quest for spiritual enlightenment, they hold great respect for all life, stepping in to prevent harm to people, animals, nature, and spirits. This conviction can lead some airbenders to leave behind their structured lifestyle to become noble adventurers driven by a deeper mission than greed and glory.
 
 ### Creating an Airbender
 As you make your airbender character, think about ...
-- Which Air Temple you are from (female airbenders were raised at the Western and Eastern Air Temples, while male airbenders hail from the Northern and Southern Air Temples).
-- If you are from the Air Nation, your temperament is likely very different from that of an Air Nomad (e.g. Zaheer).
-- Why did you leave your home?
+- **Where you are from.** Which Air Temple you are from? Did you hide out in the Earth Kingdom after the Hundred Year War? Were you one of the many non-benders who miraculously discovered airbending after Harmonic Convergence? In the latter case, your temperament is likely very different from that of an Air Nomad (Zaheer is a good example).
+- **How you began your training in airbending.** Where you raised by monks and trained in both the physical and spiritual aspects of airbending? Are you self-taught?
+- **Why you left home.** Did you flee from the Fire Nation? Set out to right some wrong? Did you go in search of a master after you discovered your power?
 
 Because of the air's untethered nature, airbenders tend towards chaotic (or at most neutral) alignments.
 
