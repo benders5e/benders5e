@@ -30,11 +30,12 @@
   - Advanced Specialization: move 17th level ability to 11th level
   - Bloodbending: add 11th level ability
   - Swampbending: remove phrasing about the number of stems controlled, rename to Plantbending
+  - Add 2 shortswords option to _Ice Sword_ form
 
   #### Earth
   - Seismic sense "vision" is lightly obscured over sand
   - Shuffle 10th, 13th, and 15th level abilities
-  - Metalbending: finish Metal Encasing form description
+  - Metalbending: finish Metal Encasing form description, add 11th level ability
   - Forms: add Bent Out of Shape
 
   #### Fire

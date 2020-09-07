@@ -280,25 +280,16 @@ Your projection is able to travel anywhere in the world almost instantaneously a
 <!-- This specialization could be stepping on Firebender's toes...-->
 
 #### Bonus Attack
-Beginning when you choose this specialization at 5th level, you fight with more ferocity than your fellow pacifist airbenders. Anytime you use your action to make an airbending attack (basic or with a form), you may use your bonus action to make a basic airbending attack. You do not add your damage bonus to this attack.
+Beginning when you choose this specialization at 5th level, you fight with more ferocity than pacifist airbenders. Anytime you use your action to make an airbending attack (basic or with a form), you can use your bonus action to make a basic airbending attack. You do not add your damage bonus to this attack.
 
 #### Deadly Strike
-At 7th level, when you roll a 1 or 2 on a damage die for a basic airbending attack, you can reroll the damage. You must use the new roll. This ability only applies to the base bending damage die.
+At 7th level, when you roll a 1 or 2 on a damage die for a basic airbending attack, you can reroll the damage. You must use the new roll.
 
-#### Advanced Form
-At 11th level, you learn an additional form of your choice from the following list: 
+#### Martial Forms
+At 11th level, you gain access to an extended list of more aggressive forms. From now on, you can choose forms to learn from the "Martial Forms" list in addition to the regular list. Both can be found at the end of this class description.
 
 <div style="margin-left: 1.5em;">
 
-##### Asphyxiation
-*Prerequisite: Offense Specialization*  
-*Cost: 5 chi*  
-...
-
-##### Wind Sword
-*Prerequisite: Offense Specialization*  
-*Cost: X chi*  
-...
 </div>
 
 #### ?
@@ -407,6 +398,21 @@ In a larger version of the funnel, you direct the air in the space around you in
 A creature inside the vortex must succeed on a Dexterity saving throw or be trapped. At the beginning of each of its turns, it can attempt to pass through the vortex by making Strength (Athletics) check. On a success, it can move out of the vortex's space.
 
 Any ranged attacks that pass within 5 feet of the vortex wrap around it and are redirected to their source. On each of your turns, you can spend 1 chi to move the vortex up to 30 feet.
+
+### Martial Forms
+Only airbenders of the Offense specialization have access to these forms.
+
+##### Wind Sword
+*Cost: 1 chi (+2 chi)*  
+You channel a contained stream of air into a blade shape. While you maintain concentration, this blade maintains its form and can be used as a weapon. It has the statistics of a longsword, but deals an additional 1d8 force damage on a hit.
+
+You can also use this ability to create two shorter streams of air in each hand, each with the statistics of a shortsword with an additional 1d6 of force damage. Attacking with both weapons is subject to the rules of two-weapon fighting.
+
+You must spend 2 chi to make an attack with the weapon(s).
+
+##### Asphyxiation
+*Cost: 4 chi*  
+Pick a target within range. The target must make a Constitution saving throw. On a failure, you succeed in bending the air out of the target's lungs and the creature begins suffocating. While suffocating, the target puts all its energy and focus into regaining its breath and is treated as Paralyzed. The effect ends if you lose concentration.
 
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 2 | CLASSES</div>

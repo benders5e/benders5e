@@ -420,9 +420,11 @@ Each additional chi point your spend increases the HP of the shield by 10.
 #### Ice Sword
 *Prerequisite: 4th level*  
 *Cost: 1 chi (+2 chi)*  
-You form water into a blade shape and freeze it. While you maintain concentration, this blade maintains its form and can be used as a weapon. It has the stats of a longsword, but deals an additional 1d4 cold damage on a hit.<!--maybe allow two shortswords as well--> 
+You form water into a blade shape and freeze it. While you maintain concentration, this blade maintains its form and can be used as a weapon. It has the stats of a longsword, but deals an additional 1d4 cold damage on a hit.
 
-You spend 2 chi to make an attack with this weapon.
+You can also use this ability to create two shorter blades of ice in each hand, each with the statistics of a shortsword with an additional 1d4 of cold damage. Attacking with both weapons is subject to the rules of two-weapon fighting.
+
+You must spend 2 chi to make an attack with the weapon(s).
 
 #### Bubble
 *Cost: 1 chi*  
@@ -441,6 +443,7 @@ Any ranged weapon attack that enters the wall’s space has disadvantage on the 
 
 <div style="height: 5em;">
 </div>
+
 #### Water Blade
 *Cost: 2 chi*  
 You make a waterbending attack, channeling your inner chi to rapidly shape water into a sharp point or edge for a split second when you make contact with the target. On a hit, the attack deals an additional 1d4 slashing damage.   
@@ -541,7 +544,7 @@ You cause the effects of the *Ice Storm* spell.
 <!--div style="height: 6em;">
 </div-->
 ### Advanced Forms
-Only Waterbenders of the Advanced Waterbending specialization have access to these forms.
+Only waterbenders of the Advanced Waterbending specialization have access to these forms.
 
 #### Water is Everywhere\*
 *Cost: –*  

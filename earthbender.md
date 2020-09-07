@@ -331,8 +331,20 @@ Your deep relationship with metal also grants you proficiency with smith's tools
 #### Ranged Metalbending
 At 7th level, you learn to bend metal without touching it. You can bend metal as if it was earth (the same capacity and range restrictions apply to your metalbending as do to your earthbending), substituting it for earth in any form you already know by spending an additional chi. Changes in the form's behavior when using metal, if present, are marked in the form's description. 
 
-#### ?
-Beginning at 11th level, ...
+#### Kinetic Bending
+Beginning at 11th level, your control of the earth in metal has reached such precision that you are able to speed up the individual particles to heat the material. You can spend 1 minute concentrating to melt metal that is not being held, equipped, or carried into liquid form.
+
+You also learn the form _Heat Metal_ and it doesn't count against your Forms Known.
+
+<div style="margin-left: 1.5em;">
+
+##### Heat Metal
+*Prerequisite: Metalbending specialization*  
+*Cost: 2 chi*  
+You cause the effects of the spell _Heat Metal_, using your normal bending range as the range of the spell. 
+
+The damage increases by 1d8 for each additional chi you spend.
+</div>
 
 <!--div style="height: 1em;">
 </div-->
