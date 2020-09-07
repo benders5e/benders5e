@@ -14,7 +14,7 @@
 
 ### [0.8.1] - TBA
   - Add descriptions for Physical and Spirit World
-  - Finish Celestial Tracking details except for eclipse timing
+  - Finish Celestial Tracking details
   - Feats: add Resourceful Bender, Elemental Parry, Martial Bender; remove Gunpowder Amateur (for now); fill out the regular 5e feat list
   - Add Fighter (direct copy of PHB + Gunslinger)
   - Finish Boomerang item description

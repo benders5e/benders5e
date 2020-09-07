@@ -80,6 +80,7 @@ These rules are optional.
   - 7 days waning crescent (days 24-30),
   - 1 day new moon (day 1 of the next cycle).  
   
+<div style="margin-left: 2em">
 
 Whether the moon is out during the day or night depends on its phase.
 - New moon: during the day <!-- waxing crescent: during the majority of end of the day, minority of beginning of the night -->
@@ -88,7 +89,11 @@ Whether the moon is out during the day or night depends on its phase.
 - Last quarter: during the second half of the night and the first half of the day <!-- waning crescent: minority of end of night, majority of beginning of the day -->
 
 Waterbenders are strengthened as the moon grows fuller, reaching their peak during the full moon.
-- **Eclipses.** Solar eclipses always occur during a new moon, and lunar eclipses during a full moon. Firebenders lose their bending during a solar eclipse, and waterbenders lose theirs during a lunar eclipse.
+</div>
+
+- **Eclipses.** Both lunar and solar eclipses occur during "eclipse season", a 35-day period that happens every 6 months. A solar eclipse occurs on every new moon during eclipse season, and a lunar eclipse on every full moon. Keep in mind that lunar eclipses are visible everywhere on earth, but solar eclipses are total eclipses only in a small region. 
+The DM decides where the first eclipse season falls and calculates all subsequent seasons according to the rules above. The DM also decides what region each total solar eclipse is visible in.
+Firebenders lose their bending during a solar eclipse, and waterbenders lose theirs during a lunar eclipse (also called a "Blood Moon").
 
 - **Comets.** Individual comets are periodic, but on the whole, the passing of a comet does not follow a periodic pattern and as such it is the prerogative of the DM when a comet passes. Comets strengthen firebenders.
 
