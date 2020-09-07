@@ -21,6 +21,7 @@
   - Finish backgrounds: Arctic Dweller (formerly Northern/Southern Water Tribe), Swampbender, Sandbender (except forms), Air Nomad
   - At 14th level ability for all benders (Psychic Bending)
   - Update all benders' blurbs for Chi, Community and Training, and Creating a(n) [X]bender
+  - Finish Modified Monk (by addign 13th and 18th level abilities)
 
   #### Water
   - Move Versatile Reaction to 9th level and Improved Water Movement to 10th

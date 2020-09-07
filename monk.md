@@ -170,8 +170,22 @@ Starting at 7th level, you can use your action to end one effect on yourself tha
 ### Purity of Body
 At 10th level, your mastery of the chi flowing through you makes you immune to disease and poison.
 
-### ?
-Starting at 13th level, [utility to replace Tongue of Sun and Moon]: communicating with spirits
+### Bridge of Chi
+<!-- based on Detect Thoughts and ... -->
+Starting at 13th level, you learn to touch the chi of other minds. You can use an action to read the surface-level thoughts and emotions of a creature you can see within 30 feet of you. If the creature you choose has an Intelligence of 3 or lower or doesn't speak any language, you only learn its general emotional state. This effect lasts for 1 minute. The creature does not know that you probed its mind.
+
+You can use another action to attempt to calm the emotions of a creature you have touched with your mind. The creature must make a Charisma saving throw; it can choose to fail this saving throw if it wishes. If it fails, choose one of the following two effects.
+
+- You can suppress any effect causing a target to be charmed or frightened. When this spell ends, any suppressed effect resumes, provided that its duration has not expired in the meantime.
+- You can make the target indifferent about creatures of your choice that it is hostile toward. This indifference ends if the target is attacked or harmed by a spell or if it witnesses any of its friends being harmed. When the spell ends, the creature becomes hostile again, unless the DM rules otherwise.
+
+<!-- Potential spell basis:
+- Animal Friendship
+- Antipathy/Sympathy?
+- Calm Emotions
+- Charm Person
+- Detect Thoughts
+-->
 
 ### Diamond Soul
 <!--*[also Airbender (13th level)]*  -->
@@ -183,8 +197,10 @@ Additionally, whenever you make a saving throw and fail, you can spend 1 chi poi
 <!--*[also Airbender (14th level)]*  -->
 At 15th level, your chi sustains you so that you suffer none of the frailty of old age, and you can’t be aged magically. You can still die of old age, however. In addition, you no longer need food or water.
 
-### ?
-Beginning at 18th level, [combat utility to replace Empty Body]: spirit world projection
+#### Spiritual Projection
+Beginning at 18th level, you can spend 8 chi points to attempt to enter the Spirit World. You must spend 1 minute meditating and make a DC 15 Wisdom Saving Throw. On a success, your spirit is projected into the Spirit World according to the spell *Astral Projection*. You can’t take any other creatures with you.  
+
+The spell ends only when you, in your spiritual form, return to your material body.
 
 ### Perfect Self
 At 20th level, when you roll for initiative and have no chi points remaining, you regain 4 chi points.

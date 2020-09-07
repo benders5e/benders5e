@@ -256,7 +256,7 @@ At 17th level, ...
 ### Spirituality
 
 #### Spirit World
-Beginning when you choose this specialization at 5th level, you can attempt to enter the spiritworld. You must spend 1 minute meditating and make a DC 15 Wisdom Saving Throw. On a success, your spirit is projected into the Spirit World according to the spell *Astral Projection*. You can’t take any other creatures with you.  
+Beginning when you choose this specialization at 5th level, you can attempt to enter the Spirit World. You must spend 1 minute meditating and make a DC 15 Wisdom Saving Throw. On a success, your spirit is projected into the Spirit World according to the spell *Astral Projection*. You can’t take any other creatures with you.  
 
 While in the Spirit World you cannot airbend (more specifically, you also can't make any basic or airbending form attacks and cannot use the Air Cushion and Cloudbending features.)
 
