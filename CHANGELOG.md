@@ -40,7 +40,7 @@
   #### Fire
   - Update top class blurb
   - Clarify that Lightning Redirection can be used for electricity, too
-  - Swap 6th and 10th level abilities
+  - Swap 6th and 10th level abilities  and buff 6th level ability (Fire Augmentation)
   - Lightningbending: clarify that all targets get to make Dexterity saves for Lightning Arcs, limit Shocking Strike to once per short rest
   - Combustionbending: Add third eye tattoo to description and flavor text; move all abilities up one slot and add Uncanny Focus at 5th level
   - Energy Reading: rename 5th level ability to Chi Sensing

@@ -3,7 +3,7 @@ Link: https://homebrewery.naturalcrit.com/edit/24oFxIIOYo
 # Firebender
 Fire is the element of power. Firebenders must be able to maintain a constant source of energy and balance in battle and direct it through unflinching conviction. This energy comes from within, but is strengthened by the sun and some other natural phenomena. 
 
-Firebenders are fierce fighters, unleashing volleys of direct, successive attacks, often lacking proper defensive measures. 
+Firebenders are fierce fighters, unleashing volleys of direct, successive attacks, but often lacking proper defensive measures. 
 
 ### Chi
 Benders make careful study of a magical energy called chi that flows through living bodies. Firebenders have mastered control of the chi within themselves and are able to extend its influence beyond their body. They are remarkable among benders in that their energy takes physical form as fire, though they can also control existing flames. Firebenders learned firebending from the dragons, the original firebenders.
@@ -68,6 +68,7 @@ As a firebender, Charisma is your primary attack ability:
 
 ---
 <p style="text-indent:1em;">
+
 **Attack Bonus** = Cha modifier + proficiency bonus
 </p>
 
@@ -185,21 +186,11 @@ At 5th level, you specialize in one of the following types of firebending: advan
 When you reach 6th level, you can use flame jets to propel yourself through the air during your turn. Your speed when you fire-step equals your walking speed. You must end your turn on the ground.
 
 ### Fire Augmentation
-Also at 6th level, you are able to alter the quality of outside sources of fire. On your turn, you can spend a bonus action to cause the effects of the *Control Flames* cantrip (except that you cannot change the color of the flame). 
-
-<div style="margin-left: 1.5em;">
-
-#### Control Flames
-*Source: Elemental Evil Player's Companion*  
-
-You choose nonmagical flame that you can see within range and that fits within a 5-foot cube. You affect it in one of the following ways:
-- You instantaneously expand the flame 5 feet in one direction, provided that wood or other fuel is present in the new location.
-- You instantaneously extinguish the flames within the cube.
-- You double or halve the area of bright light and dim light cast by the flame. The change lasts for 1 hour.
-- You cause simple shapes—such as the vague form of a creature, an inanimate object, or a location—to appear within the flames and animate as you like. The shapes last for 1 hour.
-
-If you cast this spell multiple times, you can have up to three of its non-instantaneous effects active at a time, and you can dismiss such an effect as an action.
-</div>
+<!-- based on Control Flames cantrip -->
+Also at 6th level, you gain the ability to alter outside sources of fire. On your turn, you can spend a bonus action to choose a flame you can see within your normal bending range that is not being produced by another firebender. You affect it in one of the following ways: 
+- You instantaneously expand the flame 5 feet in one direction.
+- You instantaneously extinguish the flames.
+- You cause the flame to grow hotter and brighter, increasing the damage taken by a creature that comes into contact with it by your bending die, and doubling the area of bright and dim light cast by the flame. The change lasts for 1 hour.
 
 <div style="height: 2em;">
 </div>
