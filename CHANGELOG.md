@@ -1,5 +1,5 @@
 
-[Version 0.8.1](#081---tba)  
+[Version 0.8.1](#081---20200910)  
 [Version 0.8.0](#080---20200823)  
 [Version 0.7.1](#071---20200806)  
 [Version 0.7.0](#070---20200804)  
@@ -12,7 +12,7 @@
 
 ---
 
-### [0.8.1] - TBA
+### [0.8.1] - 2020.09.10
   - Add descriptions for Physical and Spirit World
   - Finish Celestial Tracking details
   - Feats: add Resourceful Bender, Elemental Parry, Martial Bender; remove Gunpowder Amateur (for now); fill out the regular 5e feat list
