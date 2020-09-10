@@ -75,25 +75,6 @@ As a firebender, Charisma is your primary attack ability:
 **Damage Bonus** = Cha modifier  
   
 ---
-  
-The attack bonus is hereafter referred to as your firebending modifier.
-
-Some of your abilities will require targets to make saving throws against your bending. The DC for these saving throws is your bending DC:
-
----
-**Bending DC** = 8 + Cha modifier + proficiency bonus
-
----
-Unless otherwise specified, anytime a target is required to make a saving throw, it makes it against your bending DC.
-
-#### Bonus Attack
-Firebenders are fierce fighters. Anytime you use your action to make a firebending attack (basic or with a form), you may use your bonus action to make a basic firebending attack without expending any additional chi. You do not add your damage bonus to this attack.
-
-### Stance
-Beginning at 2nd level, you adopt a particular stance as your specialty. Choose one of the following options:
-
-#### Dancing Dragon
-You practice a defensive and circular type of bending, gaining a +2 to AC. 
 
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 2 | CLASSES</div>
@@ -126,6 +107,25 @@ You practice a defensive and circular type of bending, gaining a +2 to AC.
 |20th | +6 | 1d12  |200/400| 10| 6 | Element of Power
 </div> 
 
+The attack bonus is hereafter referred to as your firebending modifier.
+
+Some of your abilities will require targets to make saving throws against your bending. The DC for these saving throws is your bending DC:
+
+---
+**Bending DC** = 8 + Cha modifier + proficiency bonus
+
+---
+Unless otherwise specified, anytime a target is required to make a saving throw, it makes it against your bending DC.
+
+#### Bonus Attack
+Firebenders are fierce fighters. Anytime you use your action to make a firebending attack (basic or with a form), you may use your bonus action to make a basic firebending attack without expending any additional chi. You do not add your damage bonus to this attack.
+
+### Stance
+Beginning at 2nd level, you adopt a particular stance as your specialty. Choose one of the following options:
+
+#### Dancing Dragon
+You practice a defensive and circular type of bending, gaining a +2 to AC. 
+
 You also have the ability to redirect ranged firebending attacks instead of defusing them. Provided you have a free hand or foot, you are able to reduce the damage you take from the attack by 1d10 + your firebending modifier + your firebender level. If you reduce the damage to 0, you redirect the element to make a ranged attack against a creature of your choice as part of the same reaction. This counts as one of your defusion uses.  
 
 #### Agni Kai
@@ -143,8 +143,13 @@ You are an expert in acrobatics and agile, graceful movements. You gain proficie
 #### Seven Stars
 You favor a style that utilizes momentary bursts of extreme power at the expense of your defense. At the beginning of your turn, you can choose to decrease your AC for the next turn by 2 to add +2 to the damage dealt by all your attacks that hit.  
 
-<div style="height: 1em;">
-</div>
+<!--div style="height: 1em;">
+</div-->
+
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 2 | CLASSES</div>
+\page 
+ 
 ### Firebending Forms
 Starting at 2nd level, your connection to chi and practice of bending allows you to weave your bending into your combat style. With training, you are able to learn particular forms that combine martial arts and firebending to carry out more sophisticated attacks.  
 
@@ -157,10 +162,6 @@ You can use each form a maximum of once per turn.
 #### Chi Exhaustion
 Channeling chi into attacks is a physically and mentally draining endeavor.  
 
-<div class='pageNumber auto'></div>
-<div class='footnote'>PART 2 | CLASSES</div>
-\page 
- 
 You have 4 exhaustion points at your disposal. (Use a d4 to keep track.) The d4 starts with the "4" pointing up. Every turn you use all of your chi, you decrement this counter. When the counter indicates a "1", you need to take a break from bending and cannot spend any chi or take bending reactions that turn. Any bending concentration is also broken. Every turn that you do *not* use all your chi, the counter increments by 1. This counter resets every long rest.  
 
 For example, say the counter is set at 2. That turn, you spend all your chi points attacking and turn the counter to 1. The next turn, you have 0 chi to spend, and you can either use your Attack action to make a melee, non-bending attack or forfeit it. The next turn, your counter is back up to 2. If you spend all your chi once again, it decreases back to 1 again, but if you spend anything less than the maximum (e.g. all but one chi) the counter once again increases to 3.
@@ -176,6 +177,8 @@ When you reach 4th level, and again at 8th, 11th, 16th, and 19th level, you can 
 
 Using the optional feats rule, you can forgo taking this feature to take a feat of your choice instead.
 
+<div style="height: 3em;">
+</div>
 ### Inner Flame
 At 4th level, you gain the ability to reset your chi exhaustion die back to the maximum once per long rest.
 
@@ -192,8 +195,6 @@ Also at 6th level, you gain the ability to alter outside sources of fire. On you
 - You instantaneously extinguish the flames.
 - You cause the flame to grow hotter and brighter, increasing the damage taken by a creature that comes into contact with it by your bending die, and doubling the area of bright and dim light cast by the flame. The change lasts for 1 hour.
 
-<div style="height: 2em;">
-</div>
 ### Lightning Redirection
 
 <div style="height: 1em;">
@@ -212,6 +213,15 @@ Beginning at 10th level, when you roll a 1 or 2 on a damage die for a basic fire
 
 <!--div style="height: 6em;">
 </div-->
+
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 2 | CLASSES</div>
+
+<!--div style="height:4em;">
+</div-->
+
+\page
+
 ### Fire Rockets
 At 13th level, the power of your Firestepping increases. You gain a flying speed of 60 feet and can end your turn in the air without falling.
 
@@ -226,13 +236,6 @@ At 15th level, ... [flavor]
 ### Element of Power
 At 20th level, the power of your inner flame grows, increasing your stamina. You now have 6 chi exhaustion points at your disposal and thus you now use a 1d6 as your chi exhaustion die.
 
-<div class='pageNumber auto'></div>
-<div class='footnote'>PART 2 | CLASSES</div>
-
-<!--div style="height:4em;">
-</div-->
-
-\page
 ## Firebending Specializations
 
 ### Advanced Firebending
@@ -294,6 +297,11 @@ At 11th level, your lightning attacks have the potential to arc from one target 
 #### ?
 At 17th level, ...
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 2 | CLASSES</div>
+
+\page 
+
 ### Energy Reading
 
 #### Chi Sensing
@@ -303,11 +311,6 @@ Beginning when you choose this specialization at 5th level, you learn to sense t
 Additionally, you can sense this energy and heat emanating from creatures even from afar. As a bonus action, you can open your awareness to detect life forms around you. Until the end of your next turn, you know the location of any warm-blooded life forms within your bending range that are not behind total cover. You know the type (human or beast) of any being whose presence you sense, but not its identity.
 
 You can use each of these features a number of times equal to your bending modifier. When you finish a Long Rest, you regain all expended uses.
-
-<div class='pageNumber auto'></div>
-<div class='footnote'>PART 2 | CLASSES</div>
-
-\page 
 
 #### Healing
 At 7th level, you learn to clear blocked chi paths within creatures and redirect their energy towards wounds to speed up the healing process. By spending one minute concentrating on reading the chi paths in another person's body, you heal them by an amount of hit points equal to three times your firebender level.  
@@ -336,6 +339,9 @@ At 17th level, you learn to bend the energy within people's bodies to a limited 
 Level ideas: silent, multiple simultaneous projectiles, increasing power/range/radius of blast.-->
 
 Combustionbenders possess the rare ability to firebend with their minds. Instead of using movement to focus their chi, they gather chi from their stomachs – the "sea of chi" – and carefully direct this energy through the Light Chakra in the forehead. To help channel the energy, their foreheads are often marked by an intricate third-eye tattoo.
+
+<div style="height: 6em;">
+</div>
 
 #### Uncanny Focus
 Beginning when you choose this specialization at 5th level, you learn to channel your chi with great precision and focus, allowing you to use your bending over incredible distances. By spending 1 chi, you can use your long bending range instead of the normal range for any form or attack without incurring disadvantage. This precision and power also allows you to deal double damage on your first turn of combat.
@@ -406,7 +412,7 @@ The daggers remain as long as you maintain concentration. You can continue to at
 
 Despite their slashing capabilities, these daggers lack the ability to block physical objects.
 
-<div style="height:3em;">
+<div style="height:4em;">
 </div>
 
 #### Shield of Fire

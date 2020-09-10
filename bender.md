@@ -65,7 +65,13 @@ The simplest way to enter the Spirit World is to physically cross into it throug
 
 If your party wishes to accurately track the passage of time and position of the celestial bodies to account for their effects on benders and spirits, your DM can calculate these positions according to the following rules.  
 
+
 These rules are optional.
+
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 1 | INTRODUCTION</div>
+
+\page
 
 - **General simplifications.** For simplicity of calculations, many numbers have been rounded. A year consists of 12 30-day months or 360 days.
 
@@ -97,11 +103,6 @@ The DM decides where the first eclipse season falls and calculates all subsequen
 Firebenders lose their bending during a solar eclipse, and waterbenders lose theirs during a lunar eclipse (also called a "Blood Moon").
 
 - **Comets.** Individual comets are periodic, but on the whole, the passing of a comet does not follow a periodic pattern and as such it is the prerogative of the DM when a comet passes. Comets strengthen firebenders.
-
-<div class='pageNumber auto'></div>
-<div class='footnote'>PART 1 | INTRODUCTION</div>
-
-\page
 
 - **Day and Night.** Firebenders are stronger during the day, when the sun is out. Waterbenders are strengthened by the moon (which may be out during either the day or the night). The relative length of day and night varies based on the season and latitude.
 
@@ -233,6 +234,8 @@ You've become adept at fighting benders of a particular element of your choice. 
 <div style="margin-left: 1.5em;">
 
 **_Parry._** When a bender of your chosen element damages you with a melee attack that is not the result of a bending specialization, you can use your reaction and expend one superiority die to increase your AC by the number you roll on your superiority die.
+  
+  
 **_Defusion._** When a bender of your chosen element damages you with a ranged attack that is not the result of a bending specialization, you can use your reaction and expend one superiority die to defuse the attack, reducing the damage by the number you roll on your superiority die + your Dexterity modifier.
 </div>
 
@@ -668,6 +671,11 @@ Air Nomad children are raised in Air Nomad temples from a young age, developing 
 **Tool Proficiencies:** One type of artisan's tools, pai sho set  
 **Equipment:** A set of robes, 5 sticks of incense, and a pouch containing 5 gp 
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 4 | BACKGROUNDS</div>
+
+\page
+
 #### Feature: Meditation
 Air Nomads don't need to sleep. Instead, they meditate deeply, remaining semiconscious, for 4 hours a day. While meditating, you can dream after a fashion; such dreams are actually mental exercises that have become reflexive through years of practice. After resting in this way, you gain the same benefit that others do from 8 hours of sleep.
 
@@ -695,7 +703,7 @@ A custom character sheet that reflects the modifications made to regular 5e abil
 - Made by Noemi Glaeser with [The Homebrewery](https://homebrewery.naturalcrit.com).
 - Thank you to Kevin Gagnon, Adam Groth, Jamie Mayson, and Trevor Schachner for feedback, suggestions, ideas, and help with playtesting.
 - [Avatar Wiki](https://avatar.fandom.com/wiki/Bending_arts) quoted and used for reference.
-- Some inspiration for abilities and forms was drawn [this Avatar Supplement](https://www.dandwiki.com/wiki/5e_Classes_(Avatar_Supplement)) on the D&D Wiki.
+- Some inspiration for abilities and forms was drawn <a href="https://www.dandwiki.com/wiki/5e_Classes_(Avatar_Supplement)">this Avatar Supplement</a> on the D&D Wiki.
 
 
 <div class='pageNumber auto'></div>

@@ -2,13 +2,7 @@ Link: https://homebrewery.naturalcrit.com/edit/JxnmsfRamH
 
 # Fighter
 
-A human in clanging plate armor holds her shield before her as she runs toward the massed goblins. An elf behind her, clad in studded leather armor, peppers the goblins with arrows loosed from his exquisite bow. The half-orc nearby shouts orders, helping the two combatants coordinate their assault to the best advantage.
-
-A dwarf in chain mail interposes his shield between the ogre’s club and his companion, knocking the deadly blow aside. His companion, a half-elf in scale armor, swings two scimitars in a blinding whirl as she circles the ogre, looking for a blind spot in its defenses.
-
-A gladiator fights for sport in an arena, a master with his trident and net, skilled at toppling foes and moving them around for the crowd’s delight—and his own tactical advantage. His opponent’s sword flares with blue light an instant before she sends lightning flashing forth to smite him.
-
-All of these heroes are fighters, perhaps the most diverse class of characters in the worlds of Dungeons & Dragons. Questing knights, conquering overlords, royal champions, elite foot soldiers, hardened mercenaries, and bandit kings—as fighters, they all share an unparalleled mastery with weapons and armor, and a thorough knowledge of the skills of combat. And they are well acquainted with death, both meting it out and staring it defiantly in the face.
+The fighter is perhaps the most diverse class of characters. Questing knights, conquering overlords, royal champions, elite foot soldiers, hardened mercenaries, and bandit kings—as fighters, they all share an unparalleled mastery with weapons and armor, and a thorough knowledge of the skills of combat. And they are well acquainted with death, both meting it out and staring it defiantly in the face.
 
 ### Well-Rounded Specialists
 
@@ -53,6 +47,11 @@ As a fighter, you gain the following class features.
 #### Equipment
 You start with the following equipment, in addition to the equipment granted by your background:
 
+- (a) chain mail or (b) leather armor, longbow, and 20 arrows
+- (a) a martial weapon and a shield or (b) two martial weapons
+- (a) a light crossbow and 20 bolts or (b) two handaxes
+- (a) a dungeoneer’s pack or (b) an explorer’s pack
+
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 2 | CLASSES</div>
 \page
@@ -84,11 +83,6 @@ You start with the following equipment, in addition to the equipment granted by 
 | 19th | +6 | Ability Score Improvement
 | 20th | +6 | Extra Attack (3)
 </div>
-
-- (a) chain mail or (b) leather armor, longbow, and 20 arrows
-- (a) a martial weapon and a shield or (b) two martial weapons
-- (a) a light crossbow and 20 bolts or (b) two handaxes
-- (a) a dungeoneer’s pack or (b) an explorer’s pack
 
 ### Fighting Style
 You adopt a particular style of fighting as your specialty. Choose one of the following options. You can’t take a Fighting Style option more than once, even if you later get to choose again.
@@ -130,16 +124,16 @@ Using the optional feats rule, you can forgo taking this feature to take a feat 
 ### Extra Attack
 Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
 
-<div class='pageNumber auto'></div>
-<div class='footnote'>PART 2 | CLASSES</div>
-\page
-
 The number of attacks increases to three when you reach 11th level in this class and to four when you reach 20th level in this class.
 
 ### Indomitable
 Beginning at 9th level, you can reroll a saving throw that you fail. If you do so, you must use the new roll, and you can’t use this feature again until you finish a long rest.
 
 You can use this feature twice between long rests starting at 13th level and three times between long rests starting at 17th level.
+
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 2 | CLASSES</div>
+\page
 
 ### Extra Attack
 Beginning at 11th level, you can attack three times, instead of twice, whenever you take the Attack action on your turn.
@@ -177,6 +171,9 @@ At 18th level, you attain the pinnacle of resilience in battle. At the start of 
 
 Those who emulate the archetypal Battle Master employ martial techniques passed down through generations. To a Battle Master, combat is an academic field, sometimes including subjects beyond battle such as weaponsmithing and calligraphy. Not every fighter absorbs the lessons of history, theory, and artistry that are reflected in the Battle Master archetype, but those who do are well-rounded fighters of great skill and knowledge.
 
+<div style="height:2em;">
+</div>
+
 #### Combat Superiority
 
 When you choose this archetype at 3rd level, you learn maneuvers that are fueled by special dice called superiority dice.
@@ -209,10 +206,6 @@ Starting at 7th level, if you spend at least 1 minute observing or interacting w
 #### Improved Combat Superiority
 At 10th level, your superiority dice turn into d10s. At 18th level, they turn into d12s.
 
-<div class='pageNumber auto'></div>
-<div class='footnote'>PART 2 | CLASSES</div>
-\page
-
 #### Relentless
 Starting at 15th level, when you roll initiative and have no superiority dice remaining, you regain 1 superiority die.
 
@@ -220,6 +213,10 @@ Starting at 15th level, when you roll initiative and have no superiority dice re
 The maneuvers are presented in alphabetical order.  
 
 **_Commander's Strike._** When you take the Attack action on your turn, you can forgo one of your attacks and use a bonus action to direct one of your companions to strike. When you do so, choose a friendly creature who can see or hear you and expend one superiority die. That creature can immediately use its reaction to make one weapon attack, adding the superiority die to the attack's damage roll.
+
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 2 | CLASSES</div>
+\page
 
 **_Disarming Attack._** When you hit a creature with a weapon attack, you can expend one superiority die to attempt to disarm the target, forcing it to drop one item of your choice that it's holding. You add the superiority die to the attack's damage roll, and the target must make a Strength saving throw. On a failed save, it drops the object you choose. The object lands at its feet.
 
@@ -256,6 +253,16 @@ Most warriors and combat specialists spend their years perfecting the classic ar
 
 However, some minds couldn’t stop with the innovation of the crossbow. Experimentation with alchemical components and rare metals have unlocked the secrets of controlled explosive force. The few who survive these trials of ingenuity may become the first to create, and deftly wield, the first firearms.
 
+This archetype focuses on the ability to design, craft, and utilize powerful, yet dangerous ranged weapons. Through creative innovation and immaculate aim, you become a distant force of death on the battlefield. However, not being a perfect science, firearms carry an inherent instability that can occasionally leave you without a functional means of attack. This is the danger of new, untested technologies in a world where the arcane energies that rule the elements are ever present.
+
+Should this path of powder, fire, and metal call to you, keep your wits about you, hold on to your convictions as a fighter, and let skill meet luck to guide your bullets to strike true.
+
+#### Firearm Proficiency
+Starting when you choose this archetype at 3rd level, you gain proficiency with firearms, allowing you to add your proficiency bonus to attacks made with firearms.
+
+#### Gunsmith
+Upon choosing this archetype at 3rd level, you gain proficiency with Tinker’s Tools. You may use them to craft ammunition at half the cost, repair damaged firearms, or even draft and create new ones (DM’s discretion). Some extremely experimental and intricate firearms are only available through crafting.
+
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 2 | CLASSES</div>
 \page
@@ -272,16 +279,6 @@ However, some minds couldn’t stop with the innovation of the crossbow. Experim
 | Bad News    | Crafted | 10gp (5) | 2d12 piercing| 25 lb.| 200/800| Two-handed, reload 1, misfire 3
 | Hand Mortar | Crafted | 10gp (1) | 2d8 fire     | 10 lb.| 30/60  | Reload 1, misfire 3, explosive
 </div>
-
-This archetype focuses on the ability to design, craft, and utilize powerful, yet dangerous ranged weapons. Through creative innovation and immaculate aim, you become a distant force of death on the battlefield. However, not being a perfect science, firearms carry an inherent instability that can occasionally leave you without a functional means of attack. This is the danger of new, untested technologies in a world where the arcane energies that rule the elements are ever present.
-
-Should this path of powder, fire, and metal call to you, keep your wits about you, hold on to your convictions as a fighter, and let skill meet luck to guide your bullets to strike true.
-
-#### Firearm Proficiency
-Starting when you choose this archetype at 3rd level, you gain proficiency with firearms, allowing you to add your proficiency bonus to attacks made with firearms.
-
-#### Gunsmith
-Upon choosing this archetype at 3rd level, you gain proficiency with Tinker’s Tools. You may use them to craft ammunition at half the cost, repair damaged firearms, or even draft and create new ones (DM’s discretion). Some extremely experimental and intricate firearms are only available through crafting.
 
 ##### Firearm Properties
 Firearms are a new and volatile technology, and as such bring their own unique set of weapon properties. Some properties are followed by a number, and this number signifies an element of that property (outlined below). These properties replace the optional ones presented in the Dungeon Master’s Guide. Firearms are ranged weapons.
@@ -301,10 +298,6 @@ When you choose this archetype at 3rd level, you learn to perform powerful trick
 **_Trick Shots._** You learn two trick shots of your choice, which are detailed under “Trick Shots” below. Many maneuvers enhance an attack in some way. Each use of a trick shot must be declared before the attack roll is made. You can use only one trick shot per attack.
 
 You learn an additional trick shot of your choice at 7th, 10th, 15th, and 18th level. Each time you learn a new trick shot, you can also replace one trick shot you know with a different one.
-
-<div class='pageNumber auto'></div>
-<div class='footnote'>PART 2 | CLASSES</div>
-\page
 
 **_Grit._** You gain a number of grit points equal to your Wisdom modifier (minimum of 1). You regain 1 expended grit point each time you roll a 20 on the d20 roll for an attack with a firearm, or deal a killing blow with a firearm to a creature of significant threat (DM’s discretion). You regain all expended grit points after a short or long rest.
 
@@ -332,6 +325,10 @@ Upon reaching 18th level, whenever you score a critical hit on an attack with a 
 
 #### Trick Shots
 These trick shots are presented in alphabetical order.
+
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 2 | CLASSES</div>
+\page
 
 ##### Bullying Shot
 You can use the powerful blast and thundering sound of your firearm to shake the resolve of a creature. You can expend one grit point while making a Charisma (Intimidation) check to gain advantage on the roll.

@@ -97,7 +97,7 @@ You gain the following benefits while you are unarmed or wielding only monk weap
 
 Certain monasteries use specialized forms of the monk weapons. For example, you might use a club that is two lengths of wood connected by a short chain (called a nunchaku) or a sickle with a shorter, straighter blade (called a kama). Whatever name you use for a monk weapon, you can use the game statistics provided for the weapon in the Weapons section.
 
-<div style="height:4em;">
+<div style="height:6em;">
 </div>
 ### Chi
 Starting at 2nd level, your training allows you to harness the mystic energy of chi. Your access to this energy is represented by a number of chi points. Your monk level determines the number of points you have, as shown in the Chi Points column of the Monk table.
@@ -187,6 +187,11 @@ You can use another action to attempt to calm the emotions of a creature you hav
 - Detect Thoughts
 -->
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 2 | CLASSES</div>
+
+\page
+
 ### Diamond Soul
 <!--*[also Airbender (13th level)]*  -->
 Beginning at 14th level, your mastery of chi grants you proficiency in all saving throws.
@@ -205,11 +210,6 @@ The spell ends only when you, in your spiritual form, return to your material bo
 ### Perfect Self
 At 20th level, when you roll for initiative and have no chi points remaining, you regain 4 chi points.
 
-<div class='pageNumber auto'></div>
-<div class='footnote'>PART 2 | CLASSES</div>
-
-\page
-
 ## Monastic Traditions
 Three traditions of monastic pursuit are common in the monasteries scattered across the multiverse. Most monasteries practice one tradition exclusively, but a few honor the three traditions and instruct each monk according to his or her aptitude and interest. All three traditions rely on the same basic techniques, diverging as the student grows more adept. Thus, a monk need choose a tradition only upon reaching 3rd level.
 
@@ -223,6 +223,9 @@ Starting when you choose this tradition at 3rd level, you can manipulate your en
 - It must make a Strength saving throw. If it fails, you can push it up to 15 feet away from you.
 - It can’t take reactions until the end of your next turn.
 
+<div style="height:4em;">
+</div>
+
 #### Wholeness of Body
 At 6th level, you gain the ability to heal yourself. As an action, you can regain hit points equal to three times your monk level. You must finish a long rest before you can use this feature again.
 
@@ -234,8 +237,6 @@ At 17th level, you gain the ability to set up lethal vibrations in someone’s b
 
 You can have only one creature under the effect of this feature at a time. You can choose to end the vibrations harmlessly without using an action.
 
-<div style="height:3em;">
-</div>
 ### Way of Chi
 Monks of the Way of Chi possess a deep understanding of the flow of chi in the body and learn to interfere with it in their enemies. They learn to identify pressure points and techniques to block chi in their targets, dealing light but deadly strikes, weakening their opponents, and even causing them to temporarily lose their bending. 
 
@@ -243,7 +244,7 @@ Monks of the Way of Chi possess a deep understanding of the flow of chi in the b
 Starting when you choose this tradition at 3rd level, you learn to use your knowledge of pressure points to augment your attacks by attacking a target's weak points. Whenever you make an unarmed strike, you can spend 1 chi point to attack the target's exposed weak point(s). On a hit, you deal the attack's full damage and the target is placed under the effects of the *Bane* spell, subtracting your martial arts die (instead of a 1d4) from its attack rolls for the next minute.
 
 #### Pressure Points
-*[Adapted from [Way of the Ki Blocker subclass](https://dandwiki.com/wiki/Way_of_the_Ki_Blocker_(5e_Subclass\))]*  
+*[Adapted from <a href="https://dandwiki.com/wiki/Way_of_the_Ki_Blocker_(5e_Subclass)">Way of the Ki Blocker subclass</a>]*  
 
 
 At 6th level, you learn to use pressure points to disrupt the flow of chi and, consequently, certain bodily functions. Whenever you make an unarmed strike, you can spend 1 chi point to cause one of the following effects:
@@ -260,6 +261,12 @@ At 6th level, you learn to use pressure points to disrupt the flow of chi and, c
 **Arm:** On a hit, the creature must make a Strength saving throw or drop 1 held item of your choice.
 
 ---
+
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 2 | CLASSES</div>
+
+\page 
+
 **Chest:** On a hit, the creature suffers disadvantage on their next saving throw.
 
 ---
@@ -273,11 +280,6 @@ Beginning at 11th level, you learn to use your strikes to completely block the f
 
 #### Energybending
 At 17th level, you gain energybending. It is a highly dangerous technique; if one's own energy is impure and therefore bendable, the practitioner will be consequently destroyed. Energybending allows the user to remove other people's bending abilities or restore them after a bender had their abilities blocked by bloodbending.
-
-<div class='pageNumber auto'></div>
-<div class='footnote'>PART 2 | CLASSES</div>
-
-\page 
 
 ##### Removing Bending Abilities
 Once per long rest, if a bender is Restrained or Incapacitated, you can touch them on the center of the forehead and attempt to remove their bending permanently. 
@@ -293,6 +295,8 @@ The number of both is reset to zero when you succeed or fail to remove a target'
 ##### Restoring Bending Abilities
 Once per long rest, you can use your action to end a temporary bending block (e.g. one caused by bloodbending or chi blocking).
 
+<div style="height:7em;">
+</div>
 ### Way of Shadow
 Monks of the Way of Shadow follow a tradition that values stealth and subterfuge. These monks might be called ninjas or shadowdancers, and they serve as spies and assassins. Sometimes the members of a ninja monastery are family members, forming a clan sworn to secrecy about their arts and missions. Other monasteries are more like thieves' guilds, hiring out their services to nobles, rich merchants, or anyone else who can pay their fees. Regardless of their methods, the heads of these monasteries expect the unquestioning obedience of their students.
 
@@ -302,8 +306,6 @@ Starting when you choose this tradition at 3rd level, you can use your chi to du
 #### Shadow Step
 At 6th level, you gain the ability to step from one shadow into another. When you are in dim light or darkness, as a bonus action you can teleport up to 60 feet to an unoccupied space you can see that is also in dim light or darkness. You then have advantage on the first melee attack you make before the end of the turn.
 
-<div style="height:4em;">
-</div>
 #### Cloak of Shadows
 By 11th level, you have learned to become one with the shadows. When you are in an area of dim light or darkness, you can use your action to become invisible. You remain invisible until you make an attack, cast a spell, or are in an area of bright light.
 

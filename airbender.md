@@ -66,39 +66,7 @@ At 1st level, you realize that you have an innate ability to manipulate the air 
 **Range:** Normal bending range
 
 You seize the air and compel it to create one of the following effects at a point you can see within range:
-- One Medium or smaller creature that you choose must succeed on a Strength saving throw or be pushed up to 5 feet away from you.
-- You create a small blast of air capable of moving one object that is neither held nor carried and that weighs no more than 5 pounds. The object is pushed up to 10 feet away from you. It isn’t pushed with enough force to cause damage.
-- You create a harmless sensory effect using air, such as causing leaves to rustle, wind to slam shutters shut, or your clothing to ripple in a breeze.
 </div>
-
-In addition, your jump distance is permanently tripled and you only spend 5 feet of your movement to stand up.
-
-### Air Punch
-During combat, you can channel your chi to use your bending as a rudimentary attack by hitting other creatures. Every time you take the Attack action, you draw on your inner pool of energy, or *chi*. The class table shows how much chi you have available every time you take the Attack action ("Chi per Attack"). This amount resets every round. As your bending grows more powerful and your connection to your inner chi grows, this number increases.  
-
-
-When you take a basic bending attack, you spend 1 point of chi and deal 1d6 force damage. You also clear any non-spiritual fog, dust, or other type of cloud effect in a 5-foot-wide line from you to the target (not including your position but including the target's position). 
-
-The damage caused by your attack increases with your airbender level and is shown in the "Bending" column of the Airbender Table. The range of your attacks is the same as your bending range ("Range" column).      
-
-As an airbender, Wisdom is your primary attack ability:
-
----
-<p style="text-indent:1em;">
-**Attack Bonus** = Wis modifier + proficiency bonus
-</p>
-
-**Damage Bonus** = Wis modifier
-
----
-The attack bonus is hereafter referred to as your airbending modifier.
-
-Some of your abilities will require targets to make saving throws against your bending. The DC for these saving throws is your bending DC:
-
----
-**Bending DC** = 8 + Wis modifier + proficiency bonus
-
----
 
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 2 | CLASSES</div>
@@ -131,6 +99,48 @@ Some of your abilities will require targets to make saving throws against your b
 |20th | +5 | 1d10 |200/400| 10| 6 | +30 ft.  | Element of Freedom
 </div>
 
+<div style="margin-left: 1.5em;">
+- One Medium or smaller creature that you choose must succeed on a Strength saving throw or be pushed up to 5 feet away from you.
+- You create a small blast of air capable of moving one object that is neither held nor carried and that weighs no more than 5 pounds. The object is pushed up to 10 feet away from you. It isn’t pushed with enough force to cause damage.
+- You create a harmless sensory effect using air, such as causing leaves to rustle, wind to slam shutters shut, or your clothing to ripple in a breeze.
+</div>
+
+In addition, your jump distance is permanently tripled and you only spend 5 feet of your movement to stand up.
+
+### Air Punch
+During combat, you can channel your chi to use your bending as a rudimentary attack by hitting other creatures. Every time you take the Attack action, you draw on your inner pool of energy, or *chi*. The class table shows how much chi you have available every time you take the Attack action ("Chi per Attack"). This amount resets every round. As your bending 
+
+<p style="text-indent:0em;">
+grows more powerful and your connection to your inner chi grows, this number increases.</p>
+
+
+When you take a basic bending attack, you spend 1 point of chi and deal 1d6 force damage. You also clear any non-spiritual fog, dust, or other type of cloud effect in a 5-foot-wide line from you to the target (not including your position but including the target's position). 
+
+The damage caused by your attack increases with your airbender level and is shown in the "Bending" column of the Airbender Table. The range of your attacks is the same as your bending range ("Range" column).      
+
+As an airbender, Wisdom is your primary attack ability:
+
+---
+<p style="text-indent:1em;">
+**Attack Bonus** = Wis modifier + proficiency bonus
+</p>
+
+**Damage Bonus** = Wis modifier
+
+---
+The attack bonus is hereafter referred to as your airbending modifier.
+
+Some of your abilities will require targets to make saving throws against your bending. The DC for these saving throws is your bending DC:
+
+---
+**Bending DC** = 8 + Wis modifier + proficiency bonus
+
+---
+
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 2 | CLASSES</div>
+\page
+
 Unless otherwise specified, anytime a target is required to make a saving throw, it makes it against your bending DC.
 
 #### Nonlethal Damage
@@ -160,10 +170,6 @@ Every time you take the Attack action on your turn, you have a certain amount of
 
 You can use each form a maximum of once per turn.
 
-<div class='pageNumber auto'></div>
-<div class='footnote'>PART 2 | CLASSES</div>
-\page
-
 ### Be the Leaf
 At 3rd level, you become tuned in to the air around you. You learn to move like a leaf in the wind, allowing you to evade attacks more easily. You can choose to impose disadvantage on an attack against you as a reaction after the attack roll is made, but before the outcome is determined. You can use this ability a number of times equal to your bending modifier per long rest.
 
@@ -192,8 +198,8 @@ At 5th level, you specialize in one of the following aspects of airbending: adva
 ### Cloudbending
 At 6th level, you gain the ability to bend clouds. Once per long rest, you can concentrate on reshaping clouds for a period of time up to 1 hour. During this time, you spend your Action on every turn cloudbending and cannot use it to attack or take any other actions.
 
-<div style="height: 3em;">
-</div>
+<!--div style="height: 3em;">
+</div-->
 ### Shunt (this needs a new name)
 At 9th level, you can use your reaction to push your allies out of harm's way. You use your Be the Leaf ability for this, and it counts as one of your uses per long rest.
 
@@ -202,6 +208,10 @@ At 9th level, you can use your reaction to push your allies out of harm's way. Y
 ### Breath of Wind
 At 10th level, you become capable of displaying formidable breath control. You learn to increase the volume of your voice or sounds of an instrument you are playing. This ability can also be used to blow an extremely focused and cool stream of air at an object in your normal range, instantaneously cooling it to room temperature.  
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 2 | CLASSES</div>
+
+\page
 
 You are also able to hold your breath for an unusual amount of time; instead of the normal amount (a number of minutes equal to 1 + your Constitution modifier), you can hold your breath for a number of minutes equal to 1 + your proficiency bonus + your airbending modifier.
 
@@ -228,10 +238,6 @@ At 15th level, ... [flavor]
 
 Like the Guru Laghima and the airbender Zaheer, you learn to levitate without using bending or any other means to propel yourself. You move naturally and without having to think about it through the air, as easily and naturally as if you were walking. You gain a flying speed of 60 feet.
 
-<div class='pageNumber auto'></div>
-<div class='footnote'>PART 2 | CLASSES</div>
-
-\page
 ## Airbending Specializations
 
 ### Advanced Airbending
@@ -253,6 +259,9 @@ Beginning at 11th level, you can enter a special meditation that surrounds you w
 #### ?
 At 17th level, ...
 
+<div style="height: 1em;">
+</div>
+
 ### Spirituality
 
 #### Spirit World
@@ -273,8 +282,6 @@ At 17th level, you can attempt to project your spirit into the *material* world.
 
 Your projection is able to travel anywhere in the world almost instantaneously and can pass through physical objects. It lasts 1d20 minutes. You can use this ability once per long rest.
 
-<div style="height: 0em;">
-</div>
 ### Offense
 
 <!-- This specialization could be stepping on Firebender's toes...-->
@@ -288,20 +295,16 @@ At 7th level, when you roll a 1 or 2 on a damage die for a basic airbending atta
 #### Martial Forms
 At 11th level, you gain access to an extended list of more aggressive forms. From now on, you can choose forms to learn from the "Martial Forms" list in addition to the regular list. Both can be found at the end of this class description.
 
-<div style="margin-left: 1.5em;">
-
-</div>
-
-#### ?
-At 17th level, ...
-
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 2 | CLASSES</div>
 
 \page
 
-<!--div style="height: 32em;">
-</div-->
+#### ?
+At 17th level, ...
+
+<div style="height: 74em;">
+</div>
 ## Airbending Forms
 Unless otherwise specified, anytime a target is required to make a saving throw, it makes it against your bending DC (see "Air Punch").
 
@@ -348,8 +351,13 @@ Instead of dealing damage, you can attempt to push the target away. Roll an airb
 
 Just like your regular bending attack, this form clears any clouds not caused by spirit magic.
 
-<div style="height: 2em;">
-</div>
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 2 | CLASSES</div>
+
+\page
+
+<!--div style="height: 2em;">
+</div-->
 #### Wake
 *Cost: 2 chi*  
 You use your airbending to augment the momentum of a moving object. Until the beginning of your next turn, a moving object of your choice gets a +10 bonus to speed. If the object is a projectile, it deals additional damage equal to your bending die.  
@@ -384,13 +392,8 @@ Non-airbenders in the area, regardless of whether they succeeded on the saving t
 <!--#### Air punch/kick
 *Cost: 2 chi*  
 Rapid succession-->
-
-<div class='pageNumber auto'></div>
-<div class='footnote'>PART 2 | CLASSES</div>
-
-\page
-
 <!--#### Air sphere-->
+
 #### Vortex
 *Cost: 5 chi*  
 In a larger version of the funnel, you direct the air in the space around you in currents to create a large vortex centered on a point within range. The vortex is a cylinder with a 5-foot diameter and height up to your normal bending range. 
@@ -402,7 +405,7 @@ Any ranged attacks that pass within 5 feet of the vortex wrap around it and are 
 ### Martial Forms
 Only airbenders of the Offense specialization have access to these forms.
 
-##### Wind Sword
+#### Wind Sword
 *Cost: 1 chi (+2 chi)*  
 You channel a contained stream of air into a blade shape. While you maintain concentration, this blade maintains its form and can be used as a weapon. It has the statistics of a longsword, but deals an additional 1d8 force damage on a hit.
 
@@ -410,7 +413,7 @@ You can also use this ability to create two shorter streams of air in each hand,
 
 You must spend 2 chi to make an attack with the weapon(s).
 
-##### Asphyxiation
+#### Asphyxiation
 *Cost: 4 chi*  
 Pick a target within range. The target must make a Constitution saving throw. On a failure, you succeed in bending the air out of the target's lungs and the creature begins suffocating. While suffocating, the target puts all its energy and focus into getting air and is treated as Paralyzed. 
 
