@@ -109,7 +109,7 @@ The volume of water you can control and the range within which you can control i
 |10th | +4 | 1d8     | 15 ft. |100/200| 5 | 3     |Ingenious Fighter|
 |11th | +4 | 1d10    | 15 ft. |100/200| 6 | 4     |Specialization feature|
 |12th | +4 | 1d10    | 15 ft. |100/200| 6 | 4     |Ability Score Improvement|
-|13th | +4 | 1d8     | 15 ft. |100/200| 5 | 3     |Water Movement Improvement|
+|13th | +4 | 1d8     | 15 ft. |100/200| 5 | 4     |Water Spout|
 |14th | +5 | 1d10    | 15 ft. |150/300| 7 | 4     |Psychic Bending|
 |15th | +5 | 1d10    | 20 ft. |150/300| 8 | 5     |?|
 |16th | +5 | 1d10    | 20 ft. |150/300| 8 | 5     |Ability Score Improvement|
@@ -214,12 +214,15 @@ At 5th level, you specialize in one of the following types of waterbending: adva
 At 6th level, you learn to synchronize your control of water with your movement. You gain the ability to move across liquids. 
 <!--When you do so, your speed is doubled.-->
 
+Your control over solid water also grants you the ability to move easily over ice and snow. For you, this type of terrain is no longer difficult terrain.
+
 ### Mudbending
 Also at 6th level, you learn to bend liquids even if they are not pure water, as long as they consist mostly of water. You learn the following form, which does not count against the total number of forms you know:
 
 <div style="margin-left: 1.5em;">
 
 #### Purify Drink
+*Prerequisite: 6th level*  
 *Cost: 1 chi*  
 You gain the abilities granted by the spell *Purify Food and Drink*, but only for liquids. You can also use this ability to filter any other particles (e.g., earth) out of the water.
 </div>
@@ -244,12 +247,10 @@ Beginning at 10th level, your ingenuity and experience with a variety of adversa
 
 When you use this form, you adapt it to use water (in some state) instead of the original element, causing it do deal bludgeoning damage instead of the original damage type. You also use your waterbending modifiers and DCs.
 
-### Water Movement Improvement
-At 13th level, your control over solid water also grants you the ability to move easily over ice and snow. For you, this type of terrain is no longer difficult terrain.
+### Water Spout
+At 13th level, you learn to use your control of water to raise yourself into the air. When you are near a body of water that is at least 30 feet square and 25 feet deep, you can use your action to collect enough water to create a funnel that raises you up to 60 feet in the air. You gain a "flying" speed equal to your ground speed.
 
-<!--Water Spout: Beginning at 15th level, you are able to use your control of water to raise yourself in the air. When you are near a body of water, you can use your action to collect enough water to create a funnel that raises you up to 60 feet in the air. You gain a "flying" speed equal to your ground speed.-->
-<!-- "making it easier for the user to dodge attacks" -->
-<!-- Limit height based on amount of water -->
+When falling into a body of water, you can also use this ability to catch yourself, reducing the effective height of your fall by 60 feet.
 
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 2 | CLASSES</div>
@@ -280,7 +281,7 @@ You also automatically know the form *Water is Everywhere* and it does not count
 At 7th level, you are able to use your control over water and ice to move through the air. By quickly freezing tiny pillars of ice beneath your feet, you gain a flying speed equal to your walking speed.
 
 #### Expanded Horizons
-At 11th level, you have grown accustomed to studying benders of other elements to improve your own bending. Whenever you learn a new form, you can choose from any bending class's form list, with the same effects described in the 6th-level "Ingenious Fighter" ability.
+At 11th level, you have grown accustomed to studying benders of other elements to improve your own bending. Whenever you learn a new form, you can choose from any bending class's form list, with the same effects described in the 10th-level "Ingenious Fighter" ability.
 
 #### ?
 At 17th level, ...
@@ -310,6 +311,7 @@ At 17th level, you learn to heal even the oldest and deepest wounds. You can use
 </div-->
 ### Bloodbending
 *Prerequisite: Find a bloodbending master.*
+<!-- also... have an evil or at best neutral alignment? -->
 
 #### Paralysis
 Beginning when you choose this specialization at 5th level, you learn to control the water inside others' bodies. You can use your action to attempt to stop one creature at a time in its tracks, provided it is within your range. You can use this ability a number of times equal to your bending modifier per long rest.   
@@ -434,6 +436,13 @@ You reshape water around you while submerged to maintain a supply of breathable 
 
 With each additional chi spent, you can provide air for another creature.
 
+#### Ice Creeper
+*Cost: 1 chi*   
+You send a ray of ice across the ground streaking towards a target of your choice within range. The target must succeed on a Dexterity saving throw or have its speed reduced to 0 as its feet are frozen in place.  
+
+
+At the end of each of its turns, a the target must succeed on a DC 13 Strength check to break free.
+
 #### Water Wall
 *Cost: 1+ chi*  
 <!-- Wall of Water spell from Elemental Evil Player's Companion-->
@@ -452,13 +461,6 @@ You make a waterbending attack, channeling your inner chi to rapidly shape water
 
 
 If the target is wearing armor and you roll a natural 15 or higher to hit, this gash weakens the armor sufficiently to cause the target's AC to decrease by 1 until they repair the damage done to their armor. You cannot use this ability to decrease a creature's AC below what its armor class would be without the armor.
-
-#### Ice Creeper
-*Cost: 2 chi*   
-You send a ray of ice across the ground streaking towards a target of your choice within range. The target must succeed on a Dexterity saving throw or be Restrained as their feet are frozen in place.  
-
-
-At the end of each of its turns, a restrained target can make a Strength saving throw against your bending DC to break free.
 
 #### Jet
 *Cost: 2 chi*  
@@ -493,7 +495,7 @@ You cover your fists with a layer of ice. For the next minute, you add an additi
 
 #### Ice Encasing
 *Cost: 3 chi*  
-You make a ranged attack to hurl a sphere of water at a target. The sphere must be 1 foot in diameter for a medium or smaller creature and an an additional foot in diameter for each size above medium. 
+You make a ranged attack to hurl a sphere of water at a target. The sphere must be 1 foot in diameter for a Medium or smaller creature and an an additional foot in diameter for each size above Medium. 
 
 On a hit, the target's head is encased in ice and it starts suffocating. Each turn the creature ends with its head still encased in ice, it takes 2d6 cold damage.
 
@@ -529,19 +531,16 @@ When you change the precipitation, find its current condition on the following t
 | 3     | Rain, hail, or snow
 | 4     | Torrential rain, driving hail, or blizzard
 
-#### Wave
+#### Razor Rings
 *Cost: 4 chi*  
 *[todo]*
 
 <div style="height: 1em;">
 </div>
-#### Razor Rings
-*Cost: 4 chi*  
-[*todo]*
 
 #### Ice Storm
 *Cost: 5 chi*  
-You cause the effects of the *Ice Storm* spell.
+You cause the effects of the *Ice Storm* spell with a range equal to your normal bending range.
 
 <!--div style="height: 6em;">
 </div-->
@@ -552,43 +551,48 @@ Only waterbenders of the Advanced Waterbending specialization have access to the
 *Cost: –*  
 You learn to draw water from your environment. From now on, you don't need a water source within 30 feet – instead, you can spend 6 seconds (1 round of combat) concentrating to draw water from plants within 30 feet of you. If you are not in an arid environment, you can spend 1 minute drawing water from the air. In both cases, you are able to obtain a water sphere 1 foot in diameter.  
 
-#### Maelstrom
-*Cost: X chi*  
+#### Flood
+*Cost: 2 chi*  
+You cause the water level of all standing water in an sphere with radius up to your bending range to rise by as much as 20 feet. If the area includes a shore, the flooding water spills over onto dry land.
+<!-- Modified from _Control Water_ -->
 
 #### Ice Prison 
-*Cost: X chi*  
+*Cost: 2 chi*  
+You cause water to stream along the ground towards a target and erupt upwards into long pillars of ice around it. The target must make a Dexterity saving throw. On a failure, the target is trapped in an icy cage and is considered Restrained.
+
+At the beginning of each of its subsequent turns, it can make a DC 13 Strength check to attempt to escape. On a success, the creature is no longer Restrained. 
+<!-- DC 13 Strength check to break free is based on ice AC -->
 
 #### Drowning
-*Cost: 6 chi*  
-See [here](https://www.dndbeyond.com/spells/14673-water-lung).
+*Cost: 4 chi*  
+Pick a target within range. The target must make a Constitution saving throw. On a failure, you succeed in bending water into the target's lungs and the creature begins drowning (suffocating). While drowning, the target puts all its energy and focus into getting air and is treated as Paralyzed. 
 
-<!--Advanced moves-->
-#### Ice Dome
-#### Ice Drill
-#### Ice Ramp
-#### Tunneling
-#### Water Ball
-#### Water Drill
-<!--#### Water Filtering
-With earthbender-->
+At the end of each of its turns, the target can make a Constitution saving throw. On a success, it coughs up the water and stops drowning.
 
-<!--Disliked/Unused
-Ice Claws
-Ice Column
-Ice Disk
-Iceberg Spike
-Water Manipulation
-Water Pressure Manipulation
-Ice Spear-->
+The effect also ends if you lose concentration.
+<!-- I kind of want using this to have a chance of making a character shift towards an evil alignment -->
 
-<!--See https://www.dndbeyond.com/spells/control-water-->
+#### Whirlpool
+*Cost: 4 chi (+1 chi)*  
+This form requires a body of water at least 50 feet square and 25 feet deep. You cause a whirlpool to form in the center of the area. The whirlpool forms a vortex that is 5 feet wide at the base, up to 50 feet wide at the top, and 25 feet tall. Any creature or object in the water and within 25 feet of the vortex is pulled 10 feet toward it. A creature can swim away from the vortex by making a Strength (Athletics) check against your DC.
 
-<!--Advanced Unused
-Water Boxing
-Ice Sled
-Partial Ice Whip
--->
+When a creature enters the vortex for the first time on a turn or starts its turn there, it must make a Strength saving throw. On a failed save, the creature takes 2d8 bludgeoning damage and is caught in the vortex until the spell ends. On a successful save, the creature takes half damage, and isn't caught in the vortex. A creature caught in the vortex can use its action to try to swim away from the vortex as described above, but has disadvantage on the Strength (Athletics) check to do so.
 
+The first time each turn that an object enters the vortex, the object takes 2d8 bludgeoning damage; this damage occurs each round it remains in the vortex.
+<!-- From _Control Water_ -->
+
+Unless you spend 1 chi on each subsequent round, the whirlpool disappears at the beginning of your next turn.
+
+#### Tsunami
+*Cost: 5 chi*  
+You cause the effects of the spell *Tsunami* with a range equal to your normal bending range.
+
+<!-- #### Water Ball
+*Cost: 5 chi*  
+You surround a Medium or smaller target with a large mass of water, trapping it. 
+
+How is this different from ice creeper and/or ice prison? -->
+ 
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 2 | CLASSES</div>
 

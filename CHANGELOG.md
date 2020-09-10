@@ -18,19 +18,20 @@
   - Feats: add Resourceful Bender, Elemental Parry, Martial Bender; remove Gunpowder Amateur (for now); fill out the regular 5e feat list
   - Add Fighter (direct copy of PHB + Gunslinger)
   - Finish Boomerang item description
-  - Finish backgrounds: Arctic Dweller (formerly Northern/Southern Water Tribe), Swampbender, Sandbender (except forms), Air Nomad
+  - Finish backgrounds: Arctic Dweller (formerly Northern/Southern Water Tribe), Swampbender, Sandbender, Air Nomad
   - At 14th level ability for all benders (Psychic Bending)
   - Update all benders' blurbs for Chi, Community and Training, and Creating a(n) [X]bender
   - Finish Modified Monk (by addign 13th and 18th level abilities)
 
   #### Water
-  - Move Versatile Reaction to 9th level and Improved Water Movement to 10th
-  - Shuffle 10th, 13/14/15th level abilities
-  - New class features: Mudbending at 6th level and Ingenious Fighter at 10th level
+  - Water Movement now includes ignoring ice and snow as difficult terrain
+  - Move Versatile Reaction to 9th level
+  - Add new 6th, 10th, 13th, 14th level abilities
   - Advanced Specialization: move 17th level ability to 11th level
   - Bloodbending: add 11th level ability
   - Swampbending: remove phrasing about the number of stems controlled, rename to Plantbending
-  - Add 2 shortswords option to _Ice Sword_ form
+  - Add 2 shortswords option to _Ice Sword_ form, nerf _Ice Creeper_
+  - New forms: _Flood_, _Ice Prison_, _Drowning_, _Whirlpool_, _Tsunami_
 
   #### Earth
   - Seismic sense "vision" is lightly obscured over sand

@@ -412,7 +412,11 @@ You must spend 2 chi to make an attack with the weapon(s).
 
 ##### Asphyxiation
 *Cost: 4 chi*  
-Pick a target within range. The target must make a Constitution saving throw. On a failure, you succeed in bending the air out of the target's lungs and the creature begins suffocating. While suffocating, the target puts all its energy and focus into regaining its breath and is treated as Paralyzed. The effect ends if you lose concentration.
+Pick a target within range. The target must make a Constitution saving throw. On a failure, you succeed in bending the air out of the target's lungs and the creature begins suffocating. While suffocating, the target puts all its energy and focus into getting air and is treated as Paralyzed. 
+
+At the end of each of its turns, the target can make a Constitution saving throw. On a success, it stops suffocating.
+
+The effect also ends if you lose concentration.
 
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 2 | CLASSES</div>
