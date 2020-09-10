@@ -91,7 +91,8 @@ Whether the moon is out during the day or night depends on its phase.
 Waterbenders are strengthened as the moon grows fuller, reaching their peak during the full moon.
 </div>
 
-- **Eclipses.** Both lunar and solar eclipses occur during "eclipse season", a 35-day period that happens every 6 months. A solar eclipse occurs on every new moon during eclipse season, and a lunar eclipse on every full moon. Keep in mind that lunar eclipses are visible everywhere on earth, but solar eclipses are total eclipses only in a small region. 
+- **Eclipses.** Both lunar and solar eclipses occur during "eclipse season", a 35-day period that happens every 6 months. A solar eclipse occurs on every new moon during eclipse season, but only every third is a total solar eclipse; the others are either partial or annular (DM's discretion). 
+A lunar eclipse occurs on every full moon during an eclipse season. Keep in mind that lunar eclipses are visible everywhere on earth, but solar eclipses are total eclipses only in a small region. 
 The DM decides where the first eclipse season falls and calculates all subsequent seasons according to the rules above. The DM also decides what region each total solar eclipse is visible in.
 Firebenders lose their bending during a solar eclipse, and waterbenders lose theirs during a lunar eclipse (also called a "Blood Moon").
 
