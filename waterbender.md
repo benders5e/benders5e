@@ -2,7 +2,9 @@ Link: https://homebrewery.naturalcrit.com/edit/nv_PIRHWxL
 
 # Waterbender
 
-Water is the element of change, and just like their namesake, waterbenders are extremely adaptable and versatile. Waterbending concentrates on the flow of energy, focusing less on strength and more on turning the opponent's own energy against them. A bender's victory in battle depends on their skill or ingenuity. As the element of change, waterbenders can fluidly and quickly alternate from defense to offense, from a wall of ice to a jet of water, turning their opponent's strength against them.
+Water is the element of change, and just like their namesake, waterbenders are extremely adaptable and versatile. Waterbending concentrates on the flow of energy, focusing less on strength and more on turning the opponent's own energy against them. A bender's victory in battle depends on their skill or ingenuity. 
+
+As practitioners of the element of change, waterbenders can fluidly and quickly alternate from defense to offense, from a wall of ice to a jet of water, turning their opponent's strength against them.
 
 ### Chi
 Benders make careful study of a magical energy called chi that flows through living bodies. Waterbenders have mastered control of the chi within themselves and are able to extend its influence beyond their body, using the energy to interact with water in their environment. Waterbenders learned how to push and pull water from the original waterbender, the moon, who pushes and pulls the tides.

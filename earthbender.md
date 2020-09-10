@@ -2,7 +2,7 @@ Link: https://homebrewery.naturalcrit.com/edit/grt0crs-z\_
 
 # Earthbender
 
-Earth is the element of substance. Earthbenders have a special connection with the earth that is achievable with neutral jing, listening, though seemingly doing nothing and waiting for the right moment to strike. Because of their element's stability and its stress on neutral jing, earthbenders stand their ground, absorbing or intercepting attacks until they completely overwhelm their opponents. Unlike the other bending arts, earthbending's strength equally lies in both offense and defense.
+Earth is the element of substance. Earthbenders have a special connection with the earth that is characterized by *neutral jing*: listening and waiting for the right moment to strike. Because of their element's stability and its stress on neutral jing, earthbenders stand their ground, absorbing or intercepting attacks until they completely overwhelm their opponents. Like waterbending, earthbending's strength lies equally in offense and defense.
 
 ### Chi
 Benders make careful study of a magical energy called chi that flows through living bodies. Earthbenders have mastered control of the chi within themselves and are able to extend its influence beyond their body, using the energy to manipulate the earth around them. Earthbenders learned earthbending from the badgermoles, the original earthbenders.
@@ -107,7 +107,7 @@ The HP and AC of any structure you form with your bending can be determined by r
 |10th | +4 | 1d8   | 4  |100/200| 5  | 3 | ?
 |11th | +4 | 1d10  | 4  |100/200| 6  | 4 | Specialization feature
 |12th | +4 | 1d10  | 4  |100/200| 6  | 4 | Ability Score Improvement
-|13th | +5 | 1d10  | 4  |100/200| 7  | 4 | Earth Elevator / Rolling Earth Improvement
+|13th | +5 | 1d10  | 4  |100/200| 7  | 4 | Dust Step
 |14th | +5 | 1d10  | 4  |150/300| 7  | 4 | Psychic Bending
 |15th | +5 | 1d10  | 8  |150/300| 8  | 5 | ?
 |16th | +5 | 1d10  | 8  |150/300| 8  | 5 | Ability Score Improvement
@@ -216,7 +216,7 @@ At 4th level, you learn to tunnel like a badgermole. You can use your Action to 
 At 5th level, you specialize in one of the following types of earthbending: advanced earthbending, metalbending, or lavabending. Your abilities are described in the specialization section at the end of this class description.
 
 ### Rolling Earth
-When you reach 6th level, you learn to synchronize your control of earth with your movement. As a bonus action while you are moving over earth, you can concentrate on traveling quickly, doubling your speed.
+When you reach 6th level, you learn to synchronize your control of earth with your movement. As a bonus action while you are moving over earth, you can concentrate on traveling quickly, doubling your speed. 
 
 ### Expansion and Compaction
 At 6th level, your control increases. You are now able to compact or expand earth of the weight and range that you can bend as a bonus action. Each compaction increases the material's AC by 1 (to a maximum of 19), while each expansion decreases the AC by 1 (see the Quick Conversions table on pg. 1). As a consequence, you can now tunnel underground without having to deposit the removed earth elsewhere.
@@ -240,15 +240,10 @@ You learn to use your control over the earth to throw your opponents off-balance
 Your opponent must make a DC 15 Dexterity Saving Throw. On a success, they make their attack with disadvantage. On a failure, the attack misses. The opponent must be within your normal bending range.
 
 ### ?
-Beginning at 10th level, ... [flavor]
+Beginning at 10th level, ... [element-specific]
 
-### Rolling Earth Improvement
-At 13th level, you can move across difficult earth terrain (not ice, for example) as though it were normal terrain. You can also move along vertical surfaces of earth without falling during your turn.
-
-OR
-
-### Earth Elevator
-At 13th level, you can move masses of earth beneath your feet to defy gravity. You can move an area of earth centered on you that is 10 feet in diameter and is holding 1 Medium creature (including yourself) with a flying speed equal to your ground speed. At higher levels, you can carry more people, the equivalent of half your level minus 10 Medium creatures, rounded up (i.e. at 13th level, you lift yourself and one other Medium creature). 
+#### Dust Step
+At 13th level, you are able to use your control over earth and dust to move through the air. By quickly moving tiny pillars of earth beneath your feet, you gain a flying speed equal to your ground speed.
 
 <!--div style="height: 1em;">
 </div-->
@@ -275,10 +270,6 @@ Enemies have disadvantage when trying to surprise you. Additionally, you gain ad
 
 #### Earth Dive
 Beginning at 7th level, you can dive into and out of earth as though it were liquid. Your "swim" speed equals your walking speed. While underground, you must hold your breath and use your arms for mobility, so you cannot earthbend.
-<!-- Also Redirection? Can say both are learned by observing waterbenders and mastering neutral jing -->
-
-<!--#### Dust Step
-At 7th level, you are able to use your control over earth and dust to move through the air. By quickly moving tiny pillars of earth beneath your feet, you gain a flying speed equal to your ground speed. [note that this is essentially covered by Earth Elevator]-->
 
 <!--div style="height: 1em;">
 </div-->
@@ -300,8 +291,14 @@ Pick a target within your normal bending range. You can attempt to cause them to
 By spending an additional chi you cause the target to sink completely underground, where they begin suffocating.
 </div>
 
-#### Remote Earthbending?
-Beginning at 17th level, ... (requires concentration)
+#### Seismic Foresight
+<!-- based on Foresight spell -->
+Beginning at 17th level, your seismic sense has grown so advanced that you can detect even the slightest shifts in your opponents' weight, revealing their attacks. This ability applies whenever you have a line of sight with your seismic sense to a creature making an attack, and that creature must move to make the attack (i.e., the attack has a somatic component).
+
+Whenever such a creature makes such an attack, it does so at disadvantage. If the attack requires you to make a saving throw, you do so with advantage.
+
+Once per long rest, you can use your reaction to completely neutralize such an attack, causing it to miss you.
+
 <!-- TODO: Change the range to not be source, except for advanced earthbending-->
 <!-- #### Earth Block, i.e. blocking/neutralizing attacks as a reaction -->
 
@@ -487,16 +484,20 @@ When you take this form, gain the ability to use your reaction to defuse ranged 
 
 For projectiles of another element, the damage of each projectile is reduced by 1d6 + your earthbending modifier + your earthbender level. For earth projectiles, the damage is reduced by 1d12 + your earthbending modifier + your earthbender level.  
 
-#### Levitation
-*Cost: 2 chi*  
-You stomp on the ground, using your kinetic energy to levitate a mass of earth equal to your bending capacity (shown in the class table). In the same motion, you can push the rock at a target of your choice, dealing double your regular bending damage + 1d4 additional damage.
-
 #### Earthwave
 *Cost: 2 chi*  
 You cause the earth to buckle beneath you, forming a line originating from you that is 5 feet wide and as long as your bending range. Each creature in the line must make a Dexterity saving throw. A creature takes 4d6 bludgeoning damage and is knocked prone on a failed save, or half as much damage on a successful one.  
 
 
 Structures in this line take double damage.
+
+#### Earth Elevator
+*Cost: 2 chi (+1 chi)*
+You levitate a large mass of earth beneath your feet to defy gravity. Pick an area of earth centered on you that is up to 10 feet in diameter and contains at most 1 Medium creature (including yourself). The mass of earth moves with a flying speed equal to your ground speed.
+
+Levitating the earth requires concentration and you must expend 1 chi on each subsequent turn to keep levitating it. If you break concentration or do not spend chi to maintain the form, the mass of earth falls to the ground and creatures on the platform take the corresponding fall damage.
+
+With each additional chi spent, the diameter of the area increases by 5 feet and can carry 1 additional Medium creature.
 
 #### Earth Projectiles
 *Cost: 2 chi*  
@@ -506,6 +507,10 @@ You gain an additional rock for each extra chi you spend.
 
 ---
 **Metal:** When using metal as the material for this form, each projectile deals 1d6 damage.
+
+#### Levitation
+*Cost: 2 chi*  
+You stomp on the ground, using your kinetic energy to levitate a mass of earth equal to your bending capacity (shown in the class table). In the same motion, you can push the rock at a target of your choice, dealing double your regular bending damage + 1d4 additional damage.
 
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 2 | CLASSES</div>

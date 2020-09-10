@@ -34,9 +34,10 @@
 
   #### Earth
   - Seismic sense "vision" is lightly obscured over sand
-  - Shuffle 10th, 13th, and 15th level abilities
+  - Shuffle 10th, 13th, and 15th level abilities, and replace 13th with Dust Step
+  - Advanced Earthbending: Add Seismic Foresight at 17th level
   - Metalbending: finish Metal Encasing form description, add 11th level ability
-  - Forms: add Bent Out of Shape
+  - Forms: add Bent Out of Shape, add Earth Elevator as form (formerly an ability)
 
   #### Fire
   - Update top class blurb

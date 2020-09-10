@@ -1,7 +1,7 @@
 Link: https://homebrewery.naturalcrit.com/edit/3y6o6KPWIM
 
 # Airbender
-Air is the element of freedom. Airbending concentrates on speed and evasion, forgoing a strong offense for a greater defense. Though apparently lacking fatal finishing moves, it is the most dynamic of all the bending arts. As the element of freedom, airbenders use their capability to bend unencumbered by the ground or any other environmental factors and use their own momentum as a weapon, evading attacks with astounding agility to tire their opponents out or building up massive inertia for explosive gusts of wind to make their counterattacks finishing moves.
+Air is the element of freedom. Airbending concentrates on speed and evasion, forgoing a strong offense for a greater defense. Though apparently lacking fatal finishing moves, it is the most dynamic of all the bending arts. As the element of freedom, airbenders use their capability to bend unencumbered by the ground or any other environmental factors and use their own momentum as a weapon, evading attacks with astounding agility to tire out their opponents or to build up massive inertia for explosive gusts of wind and make their counterattacks finishing moves.
 
 ### Chi
 Benders make careful study of a magical energy called chi that flows through living bodies. Airbenders have mastered control of the chi within themselves and are able to extend its influence beyond their body, using the energy to manipulate the air around them. Airbenders learned airbending from the flying bison, the original earthbenders.
