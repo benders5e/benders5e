@@ -539,9 +539,9 @@ When you change the precipitation, find its current condition on the following t
 | 3     | Rain, hail, or snow
 | 4     | Torrential rain, driving hail, or blizzard
 
-#### Razor Rings
+<!--#### Razor Rings
 *Cost: 4 chi*  
-*[todo]*
+*[todo]*-->
 
 <!--div style="height: 1em;">
 </div-->

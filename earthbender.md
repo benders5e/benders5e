@@ -12,10 +12,32 @@ Earthbending is a very diverse bending art and, by extension, so are earthbender
 
 One thing that all earthbenders have in common, however, is their toughness and directness. They tend to be patient, weighing their options and waiting the right opportunity.
 
+
 ### Creating an Earthbender
 As you make your earthbender character, think about ...
 - **Where you are from.** Where in the vast expanse and variety of the Earth Kingdom you are from? Are from another nation entirely? What is the culture like?
 - **How you began training in earthbending.** Were your parents earthbenders? Your siblings? When did you first learn of your abilities? Who became your bending master?
+
+<div style="height:1em;">
+</div>
+
+<div class='descriptive'>
+
+##### Quick Conversions
+
+| Material          | Pounds in 1 cubic ft | AC |
+|:------------------|:---------------------|----|
+| Pumice            | 40 lbs               | 15 |
+| Dirt              | 75 lbs               | 13 |
+| Coal              | 85 lbs               | 15 |
+| Sand              | 100 lbs              | 13 |
+| Crystal/gem       | 145 lbs              | 13 |
+| Lava (liquid)     | ~150 lbs             | –– |
+| Rock (sedimentary)| ~160 lbs             | 17 |
+| Granite           | 165 lbs              | 17 |
+| Rock (igneous)    | ~180 lbs             | 17 |
+</div> 
+
 - **Why you left home.** What drew you to a life of adventure? How does your family feel about your calling?
 
 Earthbenders tend towards a Neutral alignment because of the strong role neutral jing plays in bending this element.
@@ -23,8 +45,6 @@ Earthbenders tend towards a Neutral alignment because of the strong role neutral
 #### Quick Build
 You can make an earthbender quickly by following these suggestions. First, pick Strength as your highest score, followed by Charisma. Second, choose the Artisan background.  
 
-<div style="height:6em;">
-</div>
 ## Class Features
 
 As an earthbender, you gain the following class features.
@@ -52,32 +72,18 @@ You start with the following equipment, in addition to the equipment granted by 
 
 When wearing light armor, you use your Strength modifier instead of Dexterity to determine your AC.
 
-<div style="height:0em;">
+<div style="height:1em;">
 </div>
 
 ***
 >##### Lifting and Carrying
 > **Carrying Capacity.** Your carrying capacity is your Strength score multiplied by 15. This is the weight (in pounds) that you can carry. 
 
+<div style="height:1em;">
+</div> 
+
 ### Earthbending
 At 1st level, you realize that you have an innate ability to control earth. You can move small, contiguous masses of earth no more than your carrying capacity – see "Lifting and Carrying". You cannot shape, crack, or otherwise deform this earth until you gain more fine-grained control by learning earthbending forms (see "Earthbending Forms" at 3rd level).
-
-<div class='descriptive'>
-
-##### Quick Conversions
-
-| Material          | Pounds in 1 cubic ft | AC |
-|:------------------|:---------------------|----|
-| Pumice            | 40 lbs               | 15 |
-| Dirt              | 75 lbs               | 13 |
-| Coal              | 85 lbs               | 15 |
-| Sand              | 100 lbs              | 13 |
-| Crystal/gem       | 145 lbs              | 13 |
-| Lava (liquid)     | ~150 lbs             | –– |
-| Rock (sedimentary)| ~160 lbs             | 17 |
-| Granite           | 165 lbs              | 17 |
-| Rock (igneous)    | ~180 lbs             | 17 |
-</div>  
 
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 2 | CLASSES</div>
@@ -113,7 +119,7 @@ At 1st level, you realize that you have an innate ability to control earth. You 
 
 When earthbending up to your earth capacity, you spend 1 chi of your Attack action (see "Bending Attack" for a description of the role chi points play in attacks).  
 
-You must draw your bending material from a source of earth within 30 feet. The mass of earth you can control and the range within which you can control it (including as a source) increase with your earthbender level. See the "Volume" and "Range" columns of the Earthbender Table. A quick reference for the weight of various earthen materials is shown below.
+You must draw your bending material from a source of earth within 30 feet. The mass of earth you can control and the range within which you can control it (including as a source) increase with your earthbender level. See the "Volume" and "Range" columns of the Earthbender Table. A quick reference for the weight of various earthen materials is shown on the previous page.
 
 The HP and AC of any structure you form with your bending can be determined by regular D&D 5e object rules. The table below provides a reference for the AC of various types of earth.
 
