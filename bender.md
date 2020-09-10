@@ -627,6 +627,12 @@ You are accustomed to traveling in the desert, so sand is not difficult terrain 
 
 The following earthbending forms are available to you in addition to the forms listed in the Earthbender class description. Futhermore, when you reach 6th level, you learn to bend glass in addition to the other earth-based materials described in "Expansion and Compaction".
 
+##### Quick Conversions
+
+| Material          | Pounds in 1 cubic ft | AC |
+|:------------------|:---------------------|----|
+| Glass             | 155 lbs              | 13 |
+
 <!--div style="height: 2em;">
 </div-->
 
@@ -635,14 +641,12 @@ The following earthbending forms are available to you in addition to the forms l
 ##### Earth to Sand
 *Cost: 1 chi*  
 You turn a 30-foot square area of earth in your bending range into sand. This area becomes difficult terrain.
-
-##### Sand spout
-*Cost: X chi*  
-...
   
 ##### Sandstorm
 *Cost: 4 chi*  
-You raise the sand around you and launch it into the air, creating a sandstorm that fills a cylinder  centered on you with radius and height equal to your bending range. Creatures in the area are blinded and must make a DC 10 Constitution saving throw. On a failure, the sand enters their lungs and they suffer 1 level of exhaustion (to a maximum of level 1).
+You raise the sand around you and launch it into the air, creating a sandstorm that fills a cylinder centered on you with diameter and height equal to your bending range. Creatures in the area are Blinded.
+
+Each target must make a DC 10 Constitution saving throw. On a failure, sand enters its lungs and it suffers 1 level of exhaustion (to a maximum of level 1).
 
 The sandstorm lasts until the start of your next turn.
 </div>
