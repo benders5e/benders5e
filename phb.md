@@ -1,6 +1,6 @@
 ---
-layout: page
+layout: pagenav
 title: Player's Handbook
+permalink: /phb/
+redirect_to: /phb/introduction
 ---
-
-There will be class info here later.
