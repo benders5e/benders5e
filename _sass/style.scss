@@ -1,0 +1,39 @@
+.center-title {
+  text-align: center;
+}
+
+.pagenav {
+  float: left;
+  width: 15%;
+  padding-top: 75px;
+  position: fixed;
+  margin-left: $spacing-unit * 3;
+}
+.pagenav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+#subnav {
+  margin-left: $spacing-unit / 2;
+  list-style-type: none;
+}
+
+.linkToTop {
+  margin-top: 50px;
+}
+
+details {
+  margin-bottom: $spacing-unit / 2;
+}
+
+.classtile {
+  width: 27%;
+  margin-left: $spacing-unit / 2;
+  margin-bottom: $spacing-unit / 2;
+  height: $base-line-height * 2em;
+  padding: $spacing-unit / 2;
+  background-color: $grey-color-light;
+  float: left;
+  text-align: center;
+}
