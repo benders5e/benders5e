@@ -10,33 +10,57 @@ Classes
 </h1>
 
 <div class="classtile">
-    <a href="./barbarian">Barbarian (as in Player's Handbook)</a>
+    Airbender
+    <a href="./airbender">
+        <span class="classLink"></span>
+    </a>
 </div>
 
 <div class="classtile">
-    <a href="./waterbender">Waterbender</a>
+    Barbarian
+    <a href="./barbarian">
+        <span class="classLink"></span>
+    </a>
 </div>
 
 <div class="classtile">
-    <a href="./earthbender">Earthbender</a>
+    Earthbender
+    <a href="./earthbender">
+        <span class="classLink"></span>
+    </a>
 </div>
 
 <div class="classtile">
-    <a href="./firebender">Firebender</a>
+    Fighter
+    <a href="./fighter">
+        <span class="classLink"></span>
+    </a>
 </div>
 
 <div class="classtile">
-    <a href="./airbender">Airbender</a>
+    Firebender
+    <a href="./firebender">
+        <span class="classLink"></span>
+    </a>
 </div>
 
 <div class="classtile">
-    <a href="./fighter">Fighter</a>
+    Modified Monk
+    <a href="./monk">
+        <span class="classLink"></span>
+    </a>
 </div>
 
 <div class="classtile">
-    <a href="./monk">Modified Monk</a>
+    Rogue
+    <a href="./rogue">
+        <span class="classLink"></span>
+    </a>
 </div>
 
 <div class="classtile">
-    <a href="./rogue">Rogue (as in Player's Handbook)</a>
+    Waterbender
+    <a href="./waterbender">
+        <span class="classLink"></span>
+    </a>
 </div>
