@@ -146,7 +146,7 @@ This section describes items that have special rules or require further explanat
 You can make both melee and ranged attacks with a boomerang. When thrown for a ranged attack, on a miss, the boomerang returns to your hand unscathed at the beginning of your next turn.
 
 **_Fans._** 
-Taking your fans out or putting them away takes a bonus action. Opening or closing them does as well. You can still earthbend while holding the fans; they augment your bending, increasing your range by 10 feet.
+Fans are usually found in pairs, but can still be wielded individually. Taking your fans out or putting them away takes a bonus action. Opening or closing them does as well. You can still earthbend while holding the fans; they augment your bending, increasing your range by 10 feet.
 
 **_Glider._**
 Opening or closing your glider takes a bonus action. When holding the glider in the closed position, you can use it to channel your bending as if it were a free hand.  
@@ -160,7 +160,7 @@ You can attempt to carry another other person in addition to you on the glider. 
 <!--div style="height:4em;">
 </div-->
 **_Guanmao Hat._**
-This large-brimmed hat is flat and shield-like, allowing the wearer to defuse various attacks by lowering their head. It confers +1 to AC.
+This large-brimmed hat is flat and shield-like, allowing the wearer to defuse various attacks by lowering their head. It confers +1 to AC and costs 10gp.
 
 **_Hooked Swords._**
 On a hit, you can make an opposed Dexterity check against the target's Strength. On a success, the target is disarmed and its weapon clatters to the ground in the nearest empty space (your choice if there are multiple options). If the target is wielding more than one weapon, only one of them falls to the ground.
@@ -259,7 +259,9 @@ When you use this form, you adapt it to use your element instead of the original
 *Prerequisite: the ability to bend an element*   
 
 ***
-You've learned to use your bending in conjunction with weapons when you fight. When you use the Attack action with a melee weapon on your turn, you can make basic bending attack as part of the same attack.
+You've learned to use your bending in conjunction with weapons when you fight. 
+- You can bend even when your hands are occupied by melee weapons
+- When you use the Attack action with a melee weapon on your turn, you can make basic bending attack as part of the same attack.
 
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 3 | FEATS</div>

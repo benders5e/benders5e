@@ -242,7 +242,7 @@ At 20th level, the power of your inner flame grows, increasing your stamina. You
 
 #### Colorful Flame 
 
-Beginning when you choose this specialization at 5th level, your fire begins to develop a character of its own. It takes on one of the colors below and the corresponding type of damage. At 5th level, bending attacks that are not the result of a form deal an additional 1d4 of the damage type determined by your fire's color. This includes your bonus attack.
+Beginning when you choose this specialization at 5th level, your fire begins to develop a character of its own. When you gain this ability, choose one of the colors below and the corresponding type of damage. Bending attacks that are not the result of a form deal an additional 1d4 of the damage type determined by your fire's color. This includes your bonus attack.
 
 At 11th level this damage increases to 1d6, and again to 1d8 at 17th level.
 
@@ -250,7 +250,7 @@ At 11th level this damage increases to 1d6, and again to 1d8 at 17th level.
 |:----------|:--------------|
 | Blue      | Lightning     |
 | Red-orange| Fire          |
-| Green     | Poison or acid|
+| Green     | Acid          |
 | Yellow    | Radiant       |
 | Black     | Necrotic      |
 | White     | Cold          |

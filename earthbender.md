@@ -83,7 +83,7 @@ When wearing light armor, you use your Strength modifier instead of Dexterity to
 </div> 
 
 ### Earthbending
-At 1st level, you realize that you have an innate ability to control earth. You can move small, contiguous masses of earth no more than your carrying capacity – see "Lifting and Carrying". You cannot shape, crack, or otherwise deform this earth until you gain more fine-grained control by learning earthbending forms (see "Earthbending Forms" at 3rd level).
+At 1st level, you realize that you have an innate ability to control earth. You can move small, contiguous masses of earth no more than your carrying capacity (see the "Lifting and Carrying" inset). You cannot shape, crack, or otherwise deform this earth until you gain more fine-grained control by learning earthbending forms (see "Earthbending Forms" at 3rd level).
 
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 2 | CLASSES</div>
@@ -119,7 +119,7 @@ At 1st level, you realize that you have an innate ability to control earth. You 
 
 When earthbending up to your earth capacity, you spend 1 chi of your Attack action (see "Bending Attack" for a description of the role chi points play in attacks).  
 
-You must draw your bending material from a source of earth within 30 feet. The mass of earth you can control and the range within which you can control it (including as a source) increase with your earthbender level. See the "Volume" and "Range" columns of the Earthbender Table. A quick reference for the weight of various earthen materials is shown on the previous page.
+You must draw your bending material from a source of earth within 30 feet. The mass of earth you can control and the range within which you can control it (including as a source) increase with your earthbender level. See the "Capacity" column of the Earthbender Table, which indicates how many times your carrying capacity you can bend (for instance, at 3rd level you gain the ability to bend double your carrying capacity in earth), and the "Range" column for your normal and long bending range. A quick reference for the weight of various earthen materials is shown on the previous page.
 
 The HP and AC of any structure you form with your bending can be determined by regular D&D 5e object rules. The table below provides a reference for the AC of various types of earth.
 
@@ -167,7 +167,7 @@ Beginning at 2nd level, you adopt a particular stance as your specialty. Choose 
 This style is known for its speed and continuous attacks and was famously used by Toph Beifong. When you roll a 19 or a 20 on an attack roll, you can spend your bonus action to make an additional basic bending attack. Your speed also increases by 5.
 
 #### Hung Gar
-You favor a deep, low stance rooted in the earth beneath you. You gain advantage on Strength saving throws and expertise in Strength (Athletics) checks and cannot be knocked prone.   
+You favor a deep, low stance rooted in the earth beneath you. You gain advantage on Strength saving throws and expertise (also called "double proficiency") in Strength (Athletics) checks and cannot be knocked prone.   
 
 If another creature uses an ability that pushes you away from them, you always roll a Strength (Athletics) check. On a failure, you are moved half the distance, and on a success, you stay where you are.
 
@@ -459,7 +459,7 @@ You continue to gain the benefits of the rock armor as long as you maintain conc
 
 #### Mannequin
 *Cost: 1 chi*  
-You create a mannequin out of earth within range, which has the abilities of an _Unseen Servant_, but using your normal bendig range as the spell's range.
+You create a mannequin out of earth within range, which has the abilities of an _Unseen Servant_, but using your normal bending range as the spell's range.
 
 #### Rock Glove
 *Cost: 1 chi*  
@@ -529,7 +529,7 @@ You gain an additional rock for each extra chi you spend.
 
 #### Levitation
 *Cost: 2 chi*  
-You stomp on the ground, using your kinetic energy to levitate a mass of earth equal to your bending capacity (shown in the class table). In the same motion, you can push the rock at a target of your choice, dealing double your regular bending damage + 1d4 additional damage.
+You stomp on the ground, using your kinetic energy to levitate a mass of earth up to your bending capacity (shown in the class table). In the same motion, you can push the rock at a target of your choice. On a hit, you deal double your regular bending damage + 1d4 additional damage.
 
 #### Bent Out of Shape
 <!-- based on the ability of the same name here: https://www.dandwiki.com/wiki/Earth_Bender_(5e_Class)#Metal_Bending -->
