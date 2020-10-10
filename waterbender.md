@@ -178,7 +178,7 @@ Starting at 2nd level, your connection to chi and practice of bending allows you
 You learn one form from the list at the end of this class description. The number of forms you know increases with level and is shown in the Waterbender Table. Each time you learn a new form you may also replace one form you already know with another one.  
 
 
-Every time you take the Attack action on your turn, you have a certain amount of *chi* at your disposal (indicated by the "Chi per Attack" column of the class table). You can distribute your chi among basic bending attacks or regular bending (*cost: 1 chi*) and any forms you know (whose costs are indicated with their descriptions). Forms use your bending attack and damage bonuses.
+Every time you take the Attack action on your turn, you have a certain amount of *chi* at your disposal (indicated by the "Chi per Attack" column of the class table). You can distribute your chi among basic bending attacks or regular bending (*cost: 1 chi*) and any forms you know (whose costs are indicated with their descriptions). When you use a form, you add your bending attack bonus to the attack roll but you do not add your bending damage bonus to the resulting damage.
 
 You can use each form a maximum of once per turn.
 
@@ -403,7 +403,11 @@ You can also choose to use this ability to gain the benefits of the spell *Commu
 \page
 
 ## Waterbending Forms
-Unless otherwise specified, anytime a target is required to make a saving throw, it makes it against your bending DC (see "Bending Attack").
+Most forms require you to roll to attack, adding your bending attack bonus. You do *not* add a bonus to the damage caused by forms.
+
+Unless otherwise specified, anytime a target is required to make a saving throw, it makes it against your bending DC.
+
+All bonuses are defined at the beginning of the class description (see "Bending Attack").
 
 You start out knowing forms marked with an asterisk.
 
@@ -466,10 +470,10 @@ Any ranged weapon attack that enters the wall’s space has disadvantage on the 
 
 #### Water Blade
 *Cost: 2 chi*  
-You make a waterbending attack, channeling your inner chi to rapidly shape water into a sharp point or edge for a split second when you make contact with the target. On a hit, the attack deals an additional 1d4 slashing damage.   
+You make a waterbending attack, channeling your inner chi to rapidly shape water into a sharp point or edge for a split second when you make contact with the target. On a hit, the attack deals 1d4 slashing damage.   
 
 
-If the target is wearing armor and you roll a natural 15 or higher to hit, this gash weakens the armor sufficiently to cause the target's AC to decrease by 1 until they repair the damage done to their armor. You cannot use this ability to decrease a creature's AC below what its armor class would be without the armor.
+If the target is wearing armor and you roll a natural 15 or higher to hit, this gash weakens the armor sufficiently to cause the target's AC to decrease by 1 until they repair the damage done to their armor. You cannot use this ability to decrease a creature's AC below its natural armor class (its AC without armor).
 
 #### Jet
 *Cost: 2 chi*  
@@ -523,9 +527,9 @@ You can attempt to grapple a Large or smaller creature within the tendril's rang
 
 #### Water Dome
 *Cost: 3 chi*  
-You create a protective dome (half-sphere) of water around you. Its radius is equal to your normal bending range. The dome lasts 24 hours unless you dismiss it as a free action.
+You create a protective dome (half-sphere) of water above you. Its radius is equal to your normal bending range. The dome lasts 24 hours unless you dismiss it as a free action.
 
-You control the weather inside the dome. You must be outdoors to use this form. Moving to a place where you don’t have a clear path to the sky causes the dome to break apart.
+You must be outdoors to use this form. Once you create the dome, you control the weather inside it. Moving to a place where you don’t have a clear path to the sky causes the dome to break apart.
 
 Within the dome, you are protected from wind outside the dome and you can change the precipitation. It takes 6 seconds for the new conditions to take effect. Once they do so, you can change the conditions again without expending any chi. When the dome disappears, the weather gradually returns to normal.
 

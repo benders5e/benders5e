@@ -12,6 +12,12 @@
 
 ---
 
+### [0.8.2] - TBA
+  - No damage bonus added to forms
+  - Earth & Fire: decrease number of projectiles in Projectile form from 4 to 3
+  - Water: nerf damage of Water Blade form since it has AC decreasing benefits; wording
+  - Update Acknowledgments
+
 ### [0.8.1] - 2020.09.10
   - Add descriptions for Physical and Spirit World
   - Finish Celestial Tracking details

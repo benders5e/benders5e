@@ -166,7 +166,7 @@ Starting at 2nd level, your connection to chi and practice of bending allows you
 
 You learn one form from the list at the end of this class description. The number of forms you know increases with level and is shown in the Airbender Table. Each time you learn a new form you may also replace one form you already know with another one.  
 
-Every time you take the Attack action on your turn, you have a certain amount of *chi* at your disposal (indicated by the "Chi per Attack" column of the class table). You can distribute your chi among basic bending attacks or regular bending (*cost: 1 chi*) and any forms you know (whose costs are indicated with their descriptions). Forms use your bending attack and damage bonuses.
+Every time you take the Attack action on your turn, you have a certain amount of *chi* at your disposal (indicated by the "Chi per Attack" column of the class table). You can distribute your chi among basic bending attacks or regular bending (*cost: 1 chi*) and any forms you know (whose costs are indicated with their descriptions). When you use a form, you add your bending attack bonus to the attack roll but you do not add your bending damage bonus to the resulting damage.
 
 You can use each form a maximum of once per turn.
 
@@ -305,8 +305,13 @@ At 17th level, ...
 
 <div style="height: 74em;">
 </div>
+
 ## Airbending Forms
-Unless otherwise specified, anytime a target is required to make a saving throw, it makes it against your bending DC (see "Air Punch").
+Most forms require you to roll to attack, adding your bending attack bonus. You do *not* add a bonus to the damage caused by forms.
+
+Unless otherwise specified, anytime a target is required to make a saving throw, it makes it against your bending DC.
+
+All bonuses are defined at the beginning of the class description (see "Air Punch").
 
 #### Air Shield
 *Cost: varies*  
@@ -358,14 +363,14 @@ Just like your regular bending attack, this form clears any clouds not caused by
 
 <!--div style="height: 2em;">
 </div-->
-#### Wake
-*Cost: 2 chi*  
-You use your airbending to augment the momentum of a moving object. Until the beginning of your next turn, a moving object of your choice gets a +10 bonus to speed. If the object is a projectile, it deals additional damage equal to your bending die.  
-
 #### Funnel
 *Cost: 2 chi*  
 You create a small funnel out of air of up to 1 foot in diameter. The funnel is held between your hands. Any small objects that are dropped into the funnel shoot out the other side, causing the funnel to essentially act like a sling (see the Sling entry in the Weapon Table for damage and range). 
 <!--ex: you could make a funnel, then pick up rocks with air ball and put them in your funnel-->
+
+#### Wake
+*Cost: 2 chi*  
+You use your airbending to augment the momentum of a moving object. Until the beginning of your next turn, a moving object of your choice gets a +10 bonus to speed. If the object is a projectile, it deals additional damage equal to your bending die.  
 
 #### Air Spout
 *Cost: 3 chi*  
@@ -373,7 +378,7 @@ You control the air currents around you to create an air spout, raising yourself
 
 #### Air Blade
 *Cost: 3 chi*  
-You channel your inner chi to create a streamlined, slicing current of air. On a hit, the attack deals an additional bending die of slashing damage on top of your usual bending damage. If you have your staff in hand while making this attack, you use its narrow profile to assist you, gaining advantage on the attack.   
+You channel your inner chi to create a streamlined, slicing current of air. On a hit, the attack deals an additional bending die of slashing damage on top of your usual bending damage. If you have your staff in hand while making this attack, you can use its narrow profile to assist you, gaining advantage on the attack.   
 
 #### Air Bomb
 *Cost: 3 chi*  

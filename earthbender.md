@@ -184,7 +184,7 @@ You learn one form from the list at the end of this class description. The numbe
 
 You also learn to shape earth in a more fine-grained manner, including fashioning weapons (see the *Earthen Weapon* form at the end of this class description, which you start out knowing and doesn't count against your "Forms Known" limit).
 
-Every time you take the Attack action on your turn, you can distribute your chi among basic bending attacks (*cost: 1 chi*) and any forms you know (whose costs are indicated with their descriptions). Forms use your bending attack and damage bonuses.
+Every time you take the Attack action on your turn, you have a certain amount of *chi* at your disposal (indicated by the "Chi per Attack" column of the class table). You can distribute your chi among basic bending attacks or regular bending (*cost: 1 chi*) and any forms you know (whose costs are indicated with their descriptions). When you use a form, you add your bending attack bonus to the attack roll but you do not add your bending damage bonus to the resulting damage.
 
 You can use each form a maximum of once per turn.
 
@@ -430,8 +430,13 @@ The shuriken is able to cut through stone and metal instantaneously. If it leave
 
 <div style="height:51em;">
 </div>
+
 ## Earthbending Forms
-Unless otherwise specified, anytime a target is required to make a saving throw, it makes it against your bending DC (see "Bending Attack").
+Most forms require you to roll to attack, adding your bending attack bonus. You do *not* add a bonus to the damage caused by forms.
+
+Unless otherwise specified, anytime a target is required to make a saving throw, it makes it against your bending DC.
+
+All bonuses are defined at the beginning of the class description (see "Bending Attack").
 
 #### Shelter
 *Cost: 1 chi*  
@@ -520,7 +525,7 @@ With each additional chi spent, the diameter of the area increases by 5 feet and
 
 #### Earth Projectiles
 *Cost: 2 chi*  
-You create and launch 4 fist-sized rocks at any combination of targets within your long range (the second number in the "Range" column). These attacks are made without disadvantage. Each rock deals 1d4 bludgeoning damage.   
+You create and launch 3 fist-sized rocks at any combination of targets within your long range (the second number in the "Range" column). These attacks are made without disadvantage. Each rock deals 1d4 bludgeoning damage.   
 
 You gain an additional rock for each extra chi you spend.
 

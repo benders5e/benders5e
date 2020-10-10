@@ -155,7 +155,7 @@ Starting at 2nd level, your connection to chi and practice of bending allows you
 
 You learn one form from the list at the end of this class description. The number of forms you know increases with level and is shown in the Firebender Table. Each time you learn a new form you may also replace one form you already know with another one. 
 
-Every time you take the Attack action on your turn, you have a certain amount of *chi* at your disposal (indicated by the "Chi per Attack" column of the class table). You can distribute your chi among basic bending attacks or regular bending (*cost: 1 chi*) and any forms you know (whose costs are indicated with their descriptions). Forms use your bending attack and damage bonuses.
+Every time you take the Attack action on your turn, you have a certain amount of *chi* at your disposal (indicated by the "Chi per Attack" column of the class table). You can distribute your chi among basic bending attacks or regular bending (*cost: 1 chi*) and any forms you know (whose costs are indicated with their descriptions). When you use a form, you add your bending attack bonus to the attack roll but you do not add your bending damage bonus to the resulting damage.
 
 You can use each form a maximum of once per turn.
 
@@ -376,7 +376,11 @@ At 17th level, you learn an additional form of your choice from the following li
 \page
 
 ## Firebending Forms
-Unless otherwise specified, anytime a target is required to make a saving throw, it makes it against your bending DC (see "Fire Jab").
+Most forms require you to roll to attack, adding your bending attack bonus. You do *not* add a bonus to the damage caused by forms.
+
+Unless otherwise specified, anytime a target is required to make a saving throw, it makes it against your bending DC.
+
+All bonuses are defined at the beginning of the class description (see "Fire Jab").
 
 #### Flashbang
 *Cost: 1 chi*  
@@ -429,7 +433,7 @@ For each additional chi point you spend, you create and attack with another fire
 
 #### Projectiles
 *Cost: 2 chi*  
-You create and launch 4 miniature fireballs at any combination of targets within your long range (the second number in the "Range" column). These attacks are made without disadvantage. Each fireball deals 1d4 fire damage.   
+You create and launch 3 miniature fireballs at any combination of targets within your long range (the second number in the "Range" column). These attacks are made without disadvantage. Each fireball deals 1d4 fire damage.   
 
 
 You gain an additional fireball for each extra chi you spend.
