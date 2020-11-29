@@ -5,9 +5,13 @@ permalink: /phb/backgrounds/
 nav-hide: true
 ---
 
+<!-- Homebrewery Link: https://homebrewery.naturalcrit.com/edit/vP9MXg6ODF -->
+
 <h1 id="backgrounds" class="center-title">
 Backgrounds
 </h1>
+
+<p></p>
 
 Some backgrounds are nation-specific. Backgrounds that can only be taken by Benders (of the corresponding element) are marked with an asterisk.
 
@@ -18,6 +22,7 @@ These backgrounds can be taken by any class.
 *Source: Player's Handbook*  
 
 <div style='column-count:3'>
+<!--div style='column-count:2'-->
 <ul>
     <li>Charlatan</li>
     <li>Criminal</li>
@@ -36,14 +41,16 @@ These backgrounds can be taken by any class.
 
 ### Faction Agent
 *Source: Sword Coast Adventurer's Guide*  
-<!--"Faction Agent" background in the Sword Coast Adventurer's Guide-->
 
+<div class="HBonly" style="height:0em;"></div>
 You are a member of a secret order, such as the Order of the White Lotus or the Order of the red Lotus.
 
-**Skill Proficiencies:** Insight and one Intelligence, Wisdom, or Charisma skill of your choice, appropriate to your faction 
+<div class="HBonly" style="height:0em;"></div>
+**Skill Proficiencies:** Insight and one Intelligence, Wisdom, or Charisma skill of your choice, appropriate to your faction  
 **Tool Proficiencies:** Pai sho set, disguise kit  
 **Equipment:** Badge or emblem of your faction (for example a white lotus pai sho tile), a copy of a seminal faction text (or code-book for a covert faction), a set of common clothes, and a pouch containing 15 gp
 
+<div class="HBonly" style="height:0em;"></div>
 #### Feature: Safe Haven
 As a faction agent, you have access to a secret network of supporters and operatives who can provide assistance on your adventures. You know a set of secret signs and passwords you can use to identify such operatives, who can provide you with access to a hidden safe house, free room and board, or assistance in finding information. These agents never risk their lives for you or risk revealing their true identities.
 
@@ -52,10 +59,14 @@ Use the tables for the acolyte background in the Player's Handbook as the basis 
 
 Your bond might be associated with other members of your faction, or a location or an object that is important to your faction. The ideal you strive for is probably in keeping with the tenets and principles of your faction, but might be more personal in nature.
 
+<div class="HBspacing" style="height: 8em;">
+</div>
+
 ### Cloistered Scholar  
 *Source: Sword Coast Adventurer's Guide*  
 <!--https://5ebackgrounds.com/cloistered-scholar/ -->
 
+<div class="HBonly" style="height:0em;"></div>
 **Skill Proficiencies:**  History, plus your choice of one from among Arcana, Nature, and Religion  
 **Tool Proficiencies:** Any two of your choice  
 **Equipment:** The scholar's robes of your cloister, a writing kit (small pouch with a quill, ink, folded parchment, and a small penknife), a borrowed book on the subject of your current study, and a pouch containing 10 gp
@@ -70,20 +81,26 @@ Additionally, you are likely to gain preferential treatment at other libraries a
 #### Suggested Characteristics
 Use the tables for the sage background in the Player's Handbook as the basis for your traits and motivations, modifying the entries when appropriate to suit your identity as a cloistered scholar.
 
-Your bond is almost certainly associated either with the place where you grew up or with the knowledge you hope to acquire through adventuring. Your ideal is no doubt related to how you view the quest for knowledge and truth - perhaps as a worthy goal in itself, or maybe as a means to a desirable end.
+Your bond is almost certainly associated either with the place where you grew up or with the knowledge you hope to acquire through adventuring. Your ideal is no doubt related to how you view the quest for knowledge and truth --- perhaps as a worthy goal in itself, or maybe as a means to a desirable end.
 
 ### Fisher
 *Source: Ghosts of Saltmarsh*  
 <!--https://ghostsofsaltmarsh-9.obsidianportal.com/wiki_pages/saltmarsh-backgrounds -->
 
+<div class="HBonly" style="height:0em;"></div>
 **Skill Proficiencies:** History, Survival  
 **Tool Proficiencies:** One of your choice  
 **Equipment:** Fishing tackle, a net, a favorite fishing lure or oiled leather wading boots, a set of traveler's clothes, and a belt pouch containing 10 gp
-
+<div class="HBonly" style="height:0em;"></div>
 **Other Proficiencies:** Swim speed 30 feet  
 
 #### Feature: Harvest the Water
 You gain advantage on ability checks made using fishing tackle. If you have access to a body of water that sustains marine life, you can maintain a moderate lifestyle while working as a fisher, and you can catch enough food to feed yourself and up to ten other people each day.
+
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 4 | BACKGROUNDS</div>
+
+\page
 
 #### Fishing Tale
 You can tell a compelling tale, whether tall or true, to impress and entertain others. Once a day, you can tell your story to willing listeners. At the DM's discretion, a number of those listeners become friendly toward you; this is not a magical effect, and continued amicability on their part depends on your actions. You can roll on the following table to help determine the theme of your tale or choose one that best fits your character. Alternatively, work with your DM to create your own fishing tale.
@@ -114,6 +131,9 @@ Fishers succeed only if they spend time at their jobs. As such, most fishers hav
 | 6  | I work hard; nature offers no handouts.
 | 7  | I dislike bargaining; state your price and mean it.
 | 8  | Luck favors me, and I take risks others might not.
+
+<div class="HBspacing" style="height: 9em;">
+</div>
 
 ##### Fisher Ideals
 
@@ -152,11 +172,17 @@ Fishers succeed only if they spend time at their jobs. As such, most fishers hav
 *Source: Ghosts of Saltmarsh*  
 <!--https://ghostsofsaltmarsh-9.obsidianportal.com/wiki_pages/saltmarsh-backgrounds -->
 
+<div class="HBonly" style="height:0em;"></div>
 **Skill Proficiencies:** Athletics, Survival  
 **Tool Proficiencies:** Vehicles (water, land)   
 **Equipment:** A dagger that belonged to a fallen comrade, a folded flag emblazoned with the symbol of your ship or company, a set of traveler's clothes, and a belt pouch containing 10 gp
-
+<div class="HBonly" style="height:0em;"></div>
 **Other Proficiencies:** Swim speed 30 feet  
+
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 4 | BACKGROUNDS</div>
+
+\page
 
 #### Feature: Steady
 You can move twice the normal amount of time (up to 16 hours) each day before being subject to the effect of a forced march (see "Travel Pace" in chapter 8 of the Player's Handbook). Additionally, you can automatically find a safe route to land a boat on shore, provided such a route exists.
@@ -226,12 +252,19 @@ Marines are looked up to by other soldiers and respected by their superiors. The
 *Source: Ghosts of Saltmarsh*  
 <!--https://ghostsofsaltmarsh-9.obsidianportal.com/wiki_pages/saltmarsh-backgrounds -->
 
+<div class="HBonly" style="height:0em;"></div>
 **Skill Proficiencies:** History, Perception  
 **Tool Proficiencies:** Carpenter's tools, Vehicles (water)  
 **Equipment:** A set of well-loved carpenter's tools, a blank book, 1 ounce of ink, an ink pen, a set of traveler's clothes, and a leather pouch with 10 gp
+<div class="HBonly" style="height:0em;"></div>
 
 #### Feature: I'll Patch It!
 Provided you have carpenter's tools and wood, you can perform repairs on a water vehicle. When you use this ability, you restore a number of hit points to the hull of a water vehicle equal to 5 × your proficiency modifier. A vehicle cannot be patched by you in this way again until after it has been pulled ashore and fully repaired.
+
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 4 | BACKGROUNDS</div>
+
+\page
 
 #### Life at Sea
 Your life at sea and in port has shaped you; you can roll on the following table to determine its impact or choose an element that best fits your character.
@@ -260,6 +293,9 @@ Shipwrights are resourceful carpenters and designers. They often have a dedicate
 | 6  | A pipe, an ale, and the smell of the sea: paradise.
 | 7  | I have an endless supply of cautionary tales related to the sea.
 | 8  | I don't mind getting my hands dirty.
+
+<div class="HBspacing" style="height: 13em;">
+</div>
 
 ##### Shipwright Ideals
 
@@ -294,6 +330,11 @@ Shipwrights are resourceful carpenters and designers. They often have a dedicate
 | 5  | I'm judgmental of those who are not skilled with tools of some kind.
 | 6  | I sometimes take things that don't belong to me, especially if they are very well made.
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 4 | BACKGROUNDS</div>
+
+\page
+
 ## Water
 
 ### Arctic Dweller
@@ -314,10 +355,12 @@ Your bond might be associated with other members of your tribe, or a location or
 
 You hail from the swamps in the Earth Kingdom.  
 
+<div class="HBonly" style="height:0em;"></div>
 **Skill Proficiencies:** Nature, Survival  
 **Tool Proficiencies:** One type of artisan's tools, herbalism kit  
 **Equipment:** A staff, a hunting trap, and a leaf loincloth and hat
 
+<div class="HBonly" style="height:0em;"></div>
 **Other Proficiencies:** Swim speed 30 feet  
 
 #### Feature: Not Clever, but Wise
@@ -335,6 +378,7 @@ Use the tables for the outlander background in the Player's Handbook as the basi
 
 You hail from the Si Wong Desert. Your time in this arid biome has forced you to master a special form of earthbending known as sandbending.  
 
+<div class="HBonly" style="height:0em;"></div>
 **Skill Proficiencies:** Animal Handling, Intimidation  
 **Tool Proficiencies:** Glassblower's tools, one type of gaming set  
 **Equipment:** A grappling hook, a set of traveler's clothes, and a pouch containing 10 gp 
@@ -350,25 +394,19 @@ The following earthbending forms are available to you in addition to the forms l
 |:------------------|:---------------------|----|
 | Glass             | 155 lbs              | 13 |
 
-<!--div style="height: 2em;">
-</div-->
-
-<div style="margin-left: 1.5em;">
+<div style="margin-left: 1.5em; margin-bottom: 1em;">
 
 <h5>Earth to Sand</h5>
-
 *Cost: 1 chi*  
 You turn a 30-foot square area of earth in your bending range into sand. This area becomes difficult terrain.
   
 <h5>Sandstorm</h5>
-
 *Cost: 4 chi*  
 You raise the sand around you and launch it into the air, creating a sandstorm that fills a cylinder centered on you with diameter and height equal to your bending range. Creatures in the area are Blinded.
 
 Each target must make a DC 10 Constitution saving throw. On a failure, sand enters its lungs and it suffers 1 level of exhaustion (to a maximum of level 1).
 
 The sandstorm lasts until the start of your next turn.
-
 </div>
 
 #### Suggested Characteristics
@@ -383,9 +421,15 @@ Your bond is likely associated with other members of your clan, or a location or
 
 Air Nomad children are raised in Air Nomad temples from a young age, developing parental bonds with the nomad assigned to their training. A large part of this training is spiritual, which leads to all Air Nomads realizing their connection to their inner chi and unlocking the ability to airbend.
 
+<div class="HBonly" style="height:0em;"></div>
 **Skill Proficiencies:** Arcana (Spirituality) and your choice of Animal Handling or History  
 **Tool Proficiencies:** One type of artisan's tools, pai sho set  
 **Equipment:** A set of robes, 5 sticks of incense, and a pouch containing 5 gp 
+
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 4 | BACKGROUNDS</div>
+
+\page
 
 #### Feature: Meditation
 Air Nomads don't need to sleep. Instead, they meditate deeply, remaining semiconscious, for 4 hours a day. While meditating, you can dream after a fashion; such dreams are actually mental exercises that have become reflexive through years of practice. After resting in this way, you gain the same benefit that others do from 8 hours of sleep.
@@ -394,3 +438,8 @@ Air Nomads don't need to sleep. Instead, they meditate deeply, remaining semicon
 Use the tables for the hermit background in the Player's Handbook as the basis for your traits and motivations, modifying the entries when appropriate.
 
 When choosing your ideal, keep in mind that the Air Nomads are a peaceful people who eschew violence of all sorts and thus tend to a neutral or good alignment.
+
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 4 | BACKGROUNDS</div>
+
+\page

@@ -19,6 +19,9 @@ $grey-color-light: lighten($grey-color, 40%) !default;
 $grey-color-dark:  darken($grey-color, 25%) !default;
 $grey-color-hover:  #bbb !default;
 
+$inset-green:       #c5dead !default;
+$inset-blue:        #adc5de !default;
+
 $table-text-align: left !default;
 
 // Width of the content area
@@ -49,5 +52,6 @@ $on-laptop:        800px !default;
   "minima/base",
   "minima/layout",
   "style",
+  "homebrewery",
   "minima/syntax-highlighting"
 ;

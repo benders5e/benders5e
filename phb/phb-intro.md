@@ -5,11 +5,26 @@ permalink: /phb/introduction
 nav-hide: true
 ---
 
+<!-- Homebrewery Link: https://homebrewery.naturalcrit.com/edit/vP9MXg6ODF -->
+
 <h1 id="introduction" class="center-title">
 Player's Handbook: Introduction
 </h1>
 
 ### About the Player's Handbook
+
+<div class="HBonly">
+# Bender Campaign Setting
+W*ater – Earth – Fire – Air. Long ago, the nations lived together in harmony. Then, everything changed when the Fire Nation attacked. Only the Avatar, master of all four elements, could stop them, but when the world needed him most, he vanished.* 
+
+In his absence, chaos reigns, kept at bay only by brave benders who have taken it upon themselves to fill the void he left...
+
+### Classes
+
+- The four types of Benders (Water, Earth, Fire, Air)
+- Modified Monk (with new Chi Blocker monastic tradition)
+- Barbarian, Fighter, and Rogue as in the Player's Handbook
+</div>
 
 ### Skills
 This class uses, for the most part, the same skills as regular 5th edition D&D. These are the exceptions:
@@ -22,25 +37,26 @@ Common is the only language in this setting. Thus, whenever a background allows 
 ### Opportunity Attacks
 Benders can spend a maximum of 1 chi on their opportunity attacks.
 
-<details>
-<summary><strong>Underwater Combat</strong></summary>
-The normal <a href="https://dnd5e.info/combat/underwater-combat/">D&D 5e underwater combat rules</a> apply. More specifically, for bending attacks and forms, the following rules apply:  
-  <ul>
-    <li><strong>Waterbending:</strong> Advantage on attack rolls; normal damage.</li>
-    <li><strong>Firebending:</strong> Disadvantage on ranged attacks, regular roll for touch range. In each case, the attack does half damage if it is dealt underwater (since fully immersed creatures have resistance against fire damage).</li>
-    <li><strong>Earth- & Airbending:</strong> Disadvantage on melee and ranged attacks within normal range (automatic miss beyond normal range); half damage.</li>
-  </ul>
-</details>
+<div class="HBspacing" style="height:2em;">
+</div>
 
-<details>
-<summary><strong>Nonlethal Damage</strong></summary>
-  <ul>
-    <li>For <strong>melee attacks</strong>, only slashing, piercing, and bludgeoning damage can be dealt in a nonlethal manner.</li>
-    <li>For <strong>ranged attacks</strong>, only bludgeoning damage can be dealt in a nonlethal manner.</li>
-  </ul>
-  (Thus, for the most part, firebenders are unable to deliver nonlethal attacks.)
-</details>
+> ##### Underwater Combat
+> The usual [D&D 5e underwater combat rules](https://dnd5e.info/combat/underwater-combat/) apply. More specifically, for bending attacks and forms, the following rules apply:  
+> - **Waterbending:** Advantage on attack rolls; normal damage.  
+> - **Firebending:** Disadvantage on ranged attacks, regular roll for touch range. In each case, the attack does half damage if it is dealt underwater (since fully immersed creatures have resistance against fire damage).  
+> - **Earth- & Airbending:** Disadvantage on melee and ranged attacks within normal range (automatic miss beyond normal range); half damage.
 
+<div class="HBspacing" style="height: 4em;">
+</div>
+
+> ##### Nonlethal Damage
+> - For **melee attacks**, only slashing, piercing, and bludgeoning damage can be dealt in a nonlethal manner.
+> - For **ranged attacks**, only bludgeoning damage can be dealt in a nonlethal manner.  
+> 
+> (Thus, for the most part, firebenders are unable to deliver nonlethal attacks.)
+
+<div class="HBspacing" style="height: 2em;">
+</div>
 
 ### Planes of Existence
 #### Physical World
@@ -62,6 +78,11 @@ If your party wishes to accurately track the passage of time and position of the
 
 
 These rules are optional.
+
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 1 | INTRODUCTION</div>
+
+\page
 
 - **General simplifications.** For simplicity of calculations, many numbers have been rounded. A year consists of 12 30-day months or 360 days.
 
@@ -103,3 +124,8 @@ Firebenders lose their bending during a solar eclipse, and waterbenders lose the
 - **Solstices.** On the summer and winter solstice (day 16 of the 6th and 12th month, respecitvely), the physical and spirit world are at their closest. Spirits can pass into the physical world without passing through a portal. Conversely, it is most difficult to pass between the worlds without assistance during the equinoxes (which fall on day 16 of the 3rd and 9th month, respectively).
 
 - **Harmonic Convergence.** Every 1000 years, the planets in the solar system align. During this alignment, the physical world and the spirit world are separated by nothing more than a thin veil, even closer than on the solstices.
+
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 1 | INTRODUCTION</div>
+
+\page

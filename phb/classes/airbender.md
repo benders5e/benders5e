@@ -5,6 +5,8 @@ permalink: /phb/classes/airbender/
 nav-hide: true
 ---
 
+<!-- Homebrewery Link: https://homebrewery.naturalcrit.com/edit/3y6o6KPWIM -->
+
 <h1 id="classes">
     Airbender
 </h1>
@@ -47,6 +49,8 @@ As an airbender, you gain the following class features.
 **Weapons:** Simple weapons, gliders  
 **Tools:** Choose one musical instrument
 
+<div style="height: 0em;"></div>
+
 **Saving Throws:** Intelligence, Dexterity  
 **Skills:** Choose two from Acrobatics, History, Religion, Persuasion, Sleight of Hand, and Stealth
 
@@ -61,6 +65,15 @@ You start with the following equipment, in addition to the equipment granted by 
 ### Unarmored Defense
 Beginning at 1st level, while you are wearing no armor and not wielding a shield, your AC equals 10 + your Wisdom and Dexterity modifiers.
 
+### Airbending
+At 1st level, you realize that you have an innate ability to manipulate the air around you. You can spend 1 chi of your Attack action to cause the effects of the *Gust* cantrip described below the class table. (See "Air Punch" for a description of the role chi points play in attacks and the rules for bending attacks.) Your range increases with your level according to the "Range" column of the Airbender table.  
+
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 2 | CLASSES</div>
+
+\page
+
+<!--div class='classTable wide'-->
 <h5> The Airbender</h5>
   
 |Level| Proficiency Bonus | Bending | Range | Forms Known | Chi per Attack |Unarmored Movement| Features |
@@ -86,22 +99,18 @@ Beginning at 1st level, while you are wearing no armor and not wielding a shield
 |19th | +5 | 1d10 |200/400| 10| 5 | +30 ft.  | Ability Score Improvement
 |20th | +5 | 1d10 |200/400| 10| 6 | +30 ft.  | Element of Freedom
 
-### Airbending
-At 1st level, you realize that you have an innate ability to manipulate the air around you. You can spend 1 chi of your Attack action to cause the effects of the *Gust* cantrip. (See "Air Punch" for a description of the role chi points play in attacks and the rules for bending attacks.) Your range increases with your level according to the "Range" column of the Airbender table.  
+<!--/div-->
 
 <div style="margin-left: 1.5em;">
     <h4>Gust</h4>
-    <emph>Source: Elemental Evil Player's Companion</emph>
+    <p style="font-style: italic;">Source: Elemental Evil Player's Companion</p>
     <p><strong>Range:</strong> Normal bending range</p>
-
     You seize the air and compel it to create one of the following effects at a point you can see within range:
-
     <ul>
         <li>One Medium or smaller creature that you choose must succeed on a Strength saving throw or be pushed up to 5 feet away from you.</li>
         <li>You create a small blast of air capable of moving one object that is neither held nor carried and that weighs no more than 5 pounds. The object is pushed up to 10 feet away from you. It isn’t pushed with enough force to cause damage.</li>
         <li>You create a harmless sensory effect using air, such as causing leaves to rustle, wind to slam shutters shut, or your clothing to ripple in a breeze.</li>
     </ul>
-
 </div>
 
 In addition, your jump distance is permanently tripled and you only spend 5 feet of your movement to stand up.
@@ -128,10 +137,19 @@ Some of your abilities will require targets to make saving throws against your b
     <p><strong>Bending DC</strong> = 8 + Wis modifier + proficiency bonus</p>
 </div>
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 2 | CLASSES</div>
+\page
+
 Unless otherwise specified, anytime a target is required to make a saving throw, it makes it against your bending DC.
 
 #### Nonlethal Damage
 Airbenders, particularly air nomads, are the most peaceful benders, typically doing their best to avoid taking a life whenever possible. When you make an attack (melee or ranged) that reduces a creature to 0 hit points, you can choose to make the damage nonlethal by dealing bludgeoning damage instead of the default damage type.
+
+<!--no stance-->
+<!-- Baguazhang ("circle walking")
+Xingyiquan ("mind heart boxing")
+-->   
 
 ### Unarmored Movement
 Starting at 2nd level, your speed increases by 10 feet while you are not wearing armor or wielding a shield. This bonus increases when you reach certain levels, as shown in the class table. 
@@ -146,7 +164,7 @@ Starting at 2nd level, your connection to chi and practice of bending allows you
 
 You learn one form from the list at the end of this class description. The number of forms you know increases with level and is shown in the Airbender Table. Each time you learn a new form you may also replace one form you already know with another one.  
 
-Every time you take the Attack action on your turn, you have a certain amount of *chi* at your disposal (indicated by the "Chi per Attack" column of the class table). You can distribute your chi among basic bending attacks or regular bending (*cost: 1 chi*) and any forms you know (whose costs are indicated with their descriptions). Forms use your bending attack and damage bonuses.
+Every time you take the Attack action on your turn, you have a certain amount of *chi* at your disposal (indicated by the "Chi per Attack" column of the class table). You can distribute your chi among basic bending attacks or regular bending (*cost: 1 chi*) and any forms you know (whose costs are indicated with their descriptions). When you use a form, you add your bending attack bonus to the attack roll but you do not add your bending damage bonus to the resulting damage.
 
 You can use each form a maximum of once per turn.
 
@@ -182,6 +200,11 @@ At 9th level, you can use your reaction to push your allies out of harm's way. Y
 ### Breath of Wind
 At 10th level, you become capable of displaying formidable breath control. You learn to increase the volume of your voice or sounds of an instrument you are playing. This ability can also be used to blow an extremely focused and cool stream of air at an object in your normal range, instantaneously cooling it to room temperature.  
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 2 | CLASSES</div>
+
+\page
+
 You are also able to hold your breath for an unusual amount of time; instead of the normal amount (a number of minutes equal to 1 + your Constitution modifier), you can hold your breath for a number of minutes equal to 1 + your proficiency bonus + your airbending modifier.
 
 ### Wind Reader
@@ -193,10 +216,15 @@ Beginning at 14th level, you learn to bend with minimal motion. Your use of bend
 ### ?
 At 15th level, ... [flavor]
 
+<div class="HBspacing" style="height: 0em;">
+</div>
 ### Element of Freedom
 
+<div class="HBspacing" style="height: 1em;">
+</div>
+
 <div style="margin-left: 1.5em;">
-    <emph>Let go your earthly tether. Enter the void. Empty, and become wind.</emph>
+    <p style="font-style: italic;">Let go your earthly tether. Enter the void. Empty, and become wind.</p>
     <p>–Guru Laghima</p>
 </div>
 
@@ -209,6 +237,11 @@ Like the Guru Laghima and the airbender Zaheer, you learn to levitate without us
 #### Stillness of Mind
 Beginning when you choose this specialization at 5th level, you can spend your bonus action taking a brief respite and calming your breathing, resetting your chi exhaustion die back to the maximum. You can use this ability once per long rest.
 
+<!--#### Advanced Forms
+you gain access to an extended form list. From now on, you can choose forms to learn from the "Advanced Forms" list in addition to the regular list. Both can be found at the end of this class description.
+
+You also automatically know the form *Tranquility* and it does not count against the "Forms Known" limit in the class table.-->
+
 #### Heat Regulation
 At 7th level, you learn to use your breath control to regulate your body temperature. You gain resistance to cold damage, and warm temperatures do not make you uncomfortable, making you immune to heat exhaustion (this includes e.g. a firebender's _Heat Wave_ form).
 
@@ -217,6 +250,9 @@ Beginning at 11th level, you can enter a special meditation that surrounds you w
 
 #### ?
 At 17th level, ...
+
+<div class="HBspacing" style="height: 1em;">
+</div>
 
 ### Spirituality
 
@@ -240,6 +276,8 @@ Your projection is able to travel anywhere in the world almost instantaneously a
 
 ### Offense
 
+<!-- This specialization could be stepping on Firebender's toes...-->
+
 #### Bonus Attack
 Beginning when you choose this specialization at 5th level, you fight with more ferocity than pacifist airbenders. Anytime you use your action to make an airbending attack (basic or with a form), you can use your bonus action to make a basic airbending attack. You do not add your damage bonus to this attack.
 
@@ -249,20 +287,42 @@ At 7th level, when you roll a 1 or 2 on a damage die for a basic airbending atta
 #### Martial Forms
 At 11th level, you gain access to an extended list of more aggressive forms. From now on, you can choose forms to learn from the "Martial Forms" list in addition to the regular list. Both can be found at the end of this class description.
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 2 | CLASSES</div>
+
+\page
+
 #### ?
 At 17th level, ...
 
+<div class="HBspacing" style="height: 74em;">
+</div>
+
 ## Airbending Forms
-Unless otherwise specified, anytime a target is required to make a saving throw, it makes it against your bending DC (see "Air Punch").
+Most forms require you to roll to attack, adding your bending attack bonus. You do *not* add a bonus to the damage caused by forms.
+
+Unless otherwise specified, anytime a target is required to make a saving throw, it makes it against your bending DC.
+
+All bonuses are defined at the beginning of the class description (see "Air Punch").
 
 #### Air Shield
 *Cost: varies*  
 When you take this form, gain the ability to use your reaction to raise your AC. You must have at least one hand free or be holding your glider. When you use this reaction, you spend chi from your next turn, increasing your AC by a number equal to the chi spent.
 <!-- Could be regarded as an air cocoon when a lot of chi is spent -->
 
+<!--#### Swipe
+*Cost: 1 chi*   
+When you take this form, gain the ability to use your reaction to defuse ranged attacks that are not the result of a bending specialization. When you do so, the damage you take from the attack is reduced by 1d10 + your Dexterity modifier + your airbender level, and you spend 1 chi of your next Attack action.
+
+If you reduce the damage to 0, you can completely defuse the attack, provided you have at least one hand free or are holding your glider.-->
+
 #### Nimble action
 *Cost: 1 chi*  
 You spend 1 chi to take the Dodge, Disengage, or Dash action as a bonus action on this turn.
+
+<!--#### Shunt (rename this)
+*Cost: 1 chi*  
+This turn, you can use your Be The Leaf reaction to shunt another creature out of the way of an impending attack, giving them the benefits of that ability.-->
 
 #### Air scooter
 *Cost: 1 chi (2 chi)*  
@@ -288,14 +348,19 @@ Instead of dealing damage, you can attempt to push the target away. Roll an airb
 
 Just like your regular bending attack, this form clears any clouds not caused by spirit magic.
 
-#### Wake
-*Cost: 2 chi*  
-You use your airbending to augment the momentum of a moving object. Until the beginning of your next turn, a moving object of your choice gets a +10 bonus to speed. If the object is a projectile, it deals additional damage equal to your bending die.  
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 2 | CLASSES</div>
+
+\page
 
 #### Funnel
 *Cost: 2 chi*  
 You create a small funnel out of air of up to 1 foot in diameter. The funnel is held between your hands. Any small objects that are dropped into the funnel shoot out the other side, causing the funnel to essentially act like a sling (see the Sling entry in the Weapon Table for damage and range). 
 <!--ex: you could make a funnel, then pick up rocks with air ball and put them in your funnel-->
+
+#### Wake
+*Cost: 2 chi*  
+You use your airbending to augment the momentum of a moving object. Until the beginning of your next turn, a moving object of your choice gets a +10 bonus to speed. If the object is a projectile, it deals additional damage equal to your bending die.  
 
 #### Air Spout
 *Cost: 3 chi*  
@@ -303,7 +368,7 @@ You control the air currents around you to create an air spout, raising yourself
 
 #### Air Blade
 *Cost: 3 chi*  
-You channel your inner chi to create a streamlined, slicing current of air. On a hit, the attack deals an additional bending die of slashing damage on top of your usual bending damage. If you have your staff in hand while making this attack, you use its narrow profile to assist you, gaining advantage on the attack.   
+You channel your inner chi to create a streamlined, slicing current of air. On a hit, the attack deals an additional bending die of slashing damage on top of your usual bending damage. If you have your staff in hand while making this attack, you can use its narrow profile to assist you, gaining advantage on the attack.   
 
 #### Air Bomb
 *Cost: 3 chi*  
@@ -318,6 +383,11 @@ The damage increases by 1d6 with each additional chi spent.
 You create violent gusts of air in a circle centered on you with radius equal to your normal bending range. Each creature in the area must make a Dexterity saving throw or be knocked prone and any non-spiritual clouds are dispelled. 
 
 Non-airbenders in the area, regardless of whether they succeeded on the saving throw or not, have disadvantage of Dexterity saving throws until the start of your next turn, at which point the gust ends.
+
+<!--#### Air punch/kick
+*Cost: 2 chi*  
+Rapid succession-->
+<!--#### Air sphere-->
 
 #### Vortex
 *Cost: 5 chi*  
@@ -345,5 +415,8 @@ Pick a target within range. The target must make a Constitution saving throw. On
 At the end of each of its turns, the target can make a Constitution saving throw. On a success, it stops suffocating.
 
 The effect also ends if you lose concentration.
+
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 2 | CLASSES</div>
 
 <img src='https://nglaeser.keybase.pub/Other/air.png' style='position:absolute;bottom:70px;right:30px;width:280px;opacity:0.4'>

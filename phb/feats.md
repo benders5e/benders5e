@@ -5,6 +5,8 @@ permalink: /phb/feats/
 nav-hide: true
 ---
 
+<!-- Homebrewery Link: https://homebrewery.naturalcrit.com/edit/vP9MXg6ODF -->
+
 <h1 id="feats" class="center-title">
 Feats
 </h1>
@@ -12,8 +14,8 @@ Feats
 ### D&D 5e Feats
 *Source: Player's Handbook*  
 You can choose any feat(s) from the Player's Handbook that do not relate to magic (listed below for convenience).
-
 <div style='column-count:3'>
+<!--div style='column-count:2'-->
 <ul>
     <li>Actor</li>
     <li>Alert</li>
@@ -63,7 +65,7 @@ You've become adept at fighting benders of a particular element of your choice. 
 <div style="margin-left: 1.5em;">
     <ul style="list-style-type: none;">
     <li>
-    <strong><emph>Parry.</emph></strong> When a bender of your chosen element damages you with a melee attack that is not the result of a bending specialization, you can use your reaction and expend one superiority die to increase your AC by the number you roll on your superiority die.
+    <strong><span style="font-style: italic;">Parry.</span></strong> When a bender of your chosen element damages you with a melee attack that is not the result of a bending specialization, you can use your reaction and expend one superiority die to increase your AC by the number you roll on your superiority die.
     </li>
     <li>
     <strong><emph>Defusion.</emph></strong> When a bender of your chosen element damages you with a ranged attack that is not the result of a bending specialization, you can use your reaction and expend one superiority die to defuse the attack, reducing the damage by the number you roll on your superiority die + your Dexterity modifier.
@@ -86,6 +88,8 @@ You've become adept at fighting benders of a particular element of your choice. 
 ### Resourceful Bender
 *Prerequisite: the ability to bend an element*  
 
+<div class="HBonly" style="height:0em;"></div>
+
 Your ingenuity and experience with a variety of adversaries have allowed you to adapt another element's fightning style and make it your own. Pick one form from another element-bender's form list (not one that requires a bending specialization). You can add this form to your list of known forms, and it doesn't count against the total number of forms you know (as indicated by the "Forms Known" column of the Bender Table).
 
 When you use this form, you adapt it to use your element instead of the original element, causing it do deal your element's damage type instead of the original damage type. You also use your bending modifiers and DCs.
@@ -93,4 +97,13 @@ When you use this form, you adapt it to use your element instead of the original
 ### Martial Bender
 *Prerequisite: the ability to bend an element*   
 
-You've learned to use your bending in conjunction with weapons when you fight. When you use the Attack action with a melee weapon on your turn, you can make basic bending attack as part of the same attack.
+<div class="HBonly" style="height:0em;"></div>
+
+You've learned to use your bending in conjunction with weapons when you fight. 
+- You can bend even when your hands are occupied by melee weapons
+- When you use the Attack action with a melee weapon on your turn, you can make basic bending attack as part of the same attack.
+
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 3 | FEATS</div>
+
+\page

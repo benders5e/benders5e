@@ -5,6 +5,8 @@ permalink: /phb/appendix/
 nav-hide: true
 ---
 
+<!-- Homebrewery Link: https://homebrewery.naturalcrit.com/edit/vP9MXg6ODF -->
+
 <h1 id="appendix" class="center-title">
 Appendix
 </h1>
@@ -19,6 +21,9 @@ A custom character sheet that reflects the modifications made to regular 5e abil
 
 ### Credits
 - Made by Noemi Glaeser with [The Homebrewery](https://homebrewery.naturalcrit.com).
-- Thank you to Kevin Gagnon, Adam Groth, Jamie Mayson, and Trevor Schachner for feedback, suggestions, ideas, and help with playtesting.
+- Thank you to Marie and Abi Anderson, Kevin Gagnon, Adam Groth, Jamie Mayson, and Trevor Schachner for feedback, suggestions, ideas, and playtesting.
 - [Avatar Wiki](https://avatar.fandom.com/wiki/Bending_arts) quoted and used for reference.
 - Some inspiration for abilities and forms was drawn <a href="https://www.dandwiki.com/wiki/5e_Classes_(Avatar_Supplement)">this Avatar Supplement</a> on the D&D Wiki.
+
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 5 | APPENDIX</div>
