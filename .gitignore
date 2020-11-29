@@ -11,3 +11,14 @@ Gemfile.lock
 # Other
 *.swp
 .DS_Store
+*.pages
+
+# old drafts
+draft1*pdf
+draft2*pdf
+draft3*pdf
+draft4*pdf
+draft5*pdf
+draft6*pdf
+draft7*pdf
+draft8-0*pdf
