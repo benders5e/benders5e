@@ -101,7 +101,7 @@ At 1st level, you realize that you have an innate ability to manipulate the air 
 
 <!--/div-->
 
-<div style="margin-left: 1.5em;">
+<div class="formCard air">
     <h4>Gust</h4>
     <p style="font-style: italic;">Source: Elemental Evil Player's Companion</p>
     <p><strong>Range:</strong> Normal bending range</p>
@@ -305,10 +305,13 @@ Unless otherwise specified, anytime a target is required to make a saving throw,
 
 All bonuses are defined at the beginning of the class description (see "Air Punch").
 
-#### Air Shield
-*Cost: varies*  
+<div class="formCard air">
+<h4>Air Shield</h4>
+<p style="font-style: italic;">Cost: varies</p>
+
 When you take this form, gain the ability to use your reaction to raise your AC. You must have at least one hand free or be holding your glider. When you use this reaction, you spend chi from your next turn, increasing your AC by a number equal to the chi spent.
 <!-- Could be regarded as an air cocoon when a lot of chi is spent -->
+</div>
 
 <!--#### Swipe
 *Cost: 1 chi*   
@@ -316,22 +319,29 @@ When you take this form, gain the ability to use your reaction to defuse ranged 
 
 If you reduce the damage to 0, you can completely defuse the attack, provided you have at least one hand free or are holding your glider.-->
 
-#### Nimble action
-*Cost: 1 chi*  
+<div class="formCard air">
+<h4>Nimble action</h4>
+<p style="font-style: italic;">Cost: 1 chi</p>
+
 You spend 1 chi to take the Dodge, Disengage, or Dash action as a bonus action on this turn.
+</div>
 
 <!--#### Shunt (rename this)
 *Cost: 1 chi*  
 This turn, you can use your Be The Leaf reaction to shunt another creature out of the way of an impending attack, giving them the benefits of that ability.-->
 
-#### Air scooter
-*Cost: 1 chi (2 chi)*  
+<div class="formCard air">
+<h4>Air scooter</h4>
+<p style="font-style: italic;">Cost: 1 chi (2 chi)</p>
+
 You form a ball our of air which you can ride up walls and vertical surfaces, but you must end your turn on a flat surface. You can immediately move 80 feet when you activate the air scooter, and you gain a ground speed of 80 feet. The scooter is treated as a mount and disappears at the end of your next turn.
 
 You can choose to spend 1 extra chi (for a total of 2 chi) to create an air wheel instead, which also increases your AC by 1.
+</div>
 
-#### Air ball
-*Cost: 2 chi*  
+<div class="formCard air">
+<h4>Air ball</h4>
+<p style="font-style: italic;">Cost: 2 chi</p>
 Choose a creature or object (medium or smaller) within your normal bending range. The target must make a Dexterity saving throw against your bending DC (objects automatically fail). On a failure, the creature or object is surrounded by a compressed ball of air. 
 
 You can move this ball with a speed equal to your own, including raising it up into the air. A creature in the ball is Restrained.  
@@ -339,82 +349,103 @@ You can move this ball with a speed equal to your own, including raising it up i
 You can also use this technique to create a smaller ball (up to 5 feet in diameter) which can be thrown or tossed around, in the same way as a regular ball, while you maintain concentration.
 
 With each additional chi you spend, the size of the creature you can trap increases by one category.
+</div>
 
-#### Blast
-*Cost: 2 chi*  
+<div class="formCard air">
+<h4>Blast</h4>
+<p style="font-style: italic;">Cost: 2 chi</p>
 When you use this form, you send a pressurized blast of air at a creature within range. On a hit, you deal an amount of damage equal to twice your bending die. 
 
 Instead of dealing damage, you can attempt to push the target away. Roll an airbending check (using your waterbending modifier) opposed by the target's Strength (Athletics) or Dexterity (Acrobatics). If the target fails, it is pushed up to 15 feet away from you.
 
 Just like your regular bending attack, this form clears any clouds not caused by spirit magic.
+</div>
 
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 2 | CLASSES</div>
 
 \page
 
-#### Funnel
-*Cost: 2 chi*  
+<div class="formCard air">
+<h4>Funnel</h4>
+<p style="font-style: italic;">Cost: 2 chi</p>
 You create a small funnel out of air of up to 1 foot in diameter. The funnel is held between your hands. Any small objects that are dropped into the funnel shoot out the other side, causing the funnel to essentially act like a sling (see the Sling entry in the Weapon Table for damage and range). 
 <!--ex: you could make a funnel, then pick up rocks with air ball and put them in your funnel-->
+</div>
 
-#### Wake
-*Cost: 2 chi*  
+<div class="formCard air">
+<h4>Wake</h4>
+<p style="font-style: italic;">Cost: 2 chi</p>
 You use your airbending to augment the momentum of a moving object. Until the beginning of your next turn, a moving object of your choice gets a +10 bonus to speed. If the object is a projectile, it deals additional damage equal to your bending die.  
+</div>
 
-#### Air Spout
-*Cost: 3 chi*  
+<div class="formCard air">
+<h4>Air Spout</h4>
+<p style="font-style: italic;">Cost: 3 chi</p>
 You control the air currents around you to create an air spout, raising yourself up to 60 feet in the air. You gain a flying speed equal to your ground speed.
+</div>
 
-#### Air Blade
-*Cost: 3 chi*  
+<div class="formCard air">
+<h4>Air Blade</h4>
+<p style="font-style: italic;">Cost: 3 chi</p>
 You channel your inner chi to create a streamlined, slicing current of air. On a hit, the attack deals an additional bending die of slashing damage on top of your usual bending damage. If you have your staff in hand while making this attack, you can use its narrow profile to assist you, gaining advantage on the attack.   
+</div>
 
-#### Air Bomb
-*Cost: 3 chi*  
+<div class="formCard air">
+<h4>Air Bomb</h4>
+<p style="font-style: italic;">Cost: 3 chi</p>
 You slam your hands or staff to the ground, creating a powerful, outward-moving air current that moves outward in a circle. This current dispels any non-spiritual clouds of fog, dust, or other physical cloud effects.
 
 Targets in your bending radius must make a Dexterity saving throw. On a failure, they take take 2d6 force damage and are stunned until the beginning of their next turn. On a success, they take half damage. 
 
 The damage increases by 1d6 with each additional chi spent.
+</div>
 
-#### Gust
-*Cost: 3 chi*  
+<div class="formCard air">
+<h4>Gust</h4>
+<p style="font-style: italic;">Cost: 3 chi</p>
 You create violent gusts of air in a circle centered on you with radius equal to your normal bending range. Each creature in the area must make a Dexterity saving throw or be knocked prone and any non-spiritual clouds are dispelled. 
 
 Non-airbenders in the area, regardless of whether they succeeded on the saving throw or not, have disadvantage of Dexterity saving throws until the start of your next turn, at which point the gust ends.
+</div>
 
 <!--#### Air punch/kick
 *Cost: 2 chi*  
 Rapid succession-->
 <!--#### Air sphere-->
 
-#### Vortex
-*Cost: 5 chi*  
+<div class="formCard air">
+<h4>Vortex</h4>
+<p style="font-style: italic;">Cost: 5 chi</p>
 In a larger version of the funnel, you direct the air in the space around you in currents to create a large vortex centered on a point within range. The vortex is a cylinder with a 5-foot diameter and height up to your normal bending range. 
 
 A creature inside the vortex must succeed on a Dexterity saving throw or be trapped. At the beginning of each of its turns, it can attempt to pass through the vortex by making Strength (Athletics) check. On a success, it can move out of the vortex's space.
 
 Any ranged attacks that pass within 5 feet of the vortex wrap around it and are redirected to their source. On each of your turns, you can spend 1 chi to move the vortex up to 30 feet.
+</div>
 
 ### Martial Forms
 Only airbenders of the Offense specialization have access to these forms.
 
-#### Wind Sword
-*Cost: 1 chi (+2 chi)*  
+<div class="formCard air">
+<h4>Wind Sword</h4>
+<p style="font-style: italic;">Cost: 1 chi (+2 chi)</p>
 You channel a contained stream of air into a blade shape. While you maintain concentration, this blade maintains its form and can be used as a weapon. It has the statistics of a longsword, but deals an additional 1d8 force damage on a hit.
 
 You can also use this ability to create two shorter streams of air in each hand, each with the statistics of a shortsword with an additional 1d6 of force damage. Attacking with both weapons is subject to the rules of two-weapon fighting.
 
 You must spend 2 chi to make an attack with the weapon(s).
+</div>
 
-#### Asphyxiation
-*Cost: 4 chi*  
+<div class="formCard air">
+<h4>Asphyxiation</h4>
+<p style="font-style: italic;">Cost: 4 chi</p>
 Pick a target within range. The target must make a Constitution saving throw. On a failure, you succeed in bending the air out of the target's lungs and the creature begins suffocating. While suffocating, the target puts all its energy and focus into getting air and is treated as Paralyzed. 
 
 At the end of each of its turns, the target can make a Constitution saving throw. On a success, it stops suffocating.
 
 The effect also ends if you lose concentration.
+</div>
 
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 2 | CLASSES</div>

@@ -72,6 +72,12 @@ h1, h2, h3, h4 {
   font-family: 'Averia Libre', cursive;
   text-transform: uppercase;
 }
+h5 {
+  font-size: 16px;
+  text-transform: uppercase;
+  font-family: 'Averia Libre', cursive;
+  text-align: center;
+}
 
 blockquote {
   font-style: normal;
@@ -79,7 +85,6 @@ blockquote {
   color: black;
   background-color: $inset-blue;
   letter-spacing: normal;
-
   margin-left: 1.5em;
   margin-right: 1.5em;
   padding: 15px;
@@ -88,4 +93,16 @@ blockquote h5 {
   font-size: large;
   text-transform: uppercase;
   font-family: 'Averia Libre', cursive;
+  text-align: left;
+}
+
+.formCard p, .formCard h4 {
+  margin-bottom: 5px;
+}
+.formCard {
+  margin: 1em 1.5em;
+  padding: 15px;
+}
+.formCard, .air {
+  background-color: $air-blue;
 }
