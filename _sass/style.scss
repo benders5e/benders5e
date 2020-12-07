@@ -67,12 +67,12 @@ details {
   z-index: 1;
 }
 
-h1, h2, h3, h4 {
+h1, h2, h3, h4, h5 {
   //font-family: 'Syne Tactile', cursive;
   font-family: 'Averia Libre', cursive;
   text-transform: uppercase;
 }
-h5 {
+.tableHeader {
   font-size: 16px;
   text-transform: uppercase;
   font-family: 'Averia Libre', cursive;
@@ -83,17 +83,17 @@ blockquote {
   font-style: normal;
   font-size: 16px;
   color: black;
-  background-color: $inset-blue;
+  background-color: $inset-grey;
   letter-spacing: normal;
   margin-left: 1.5em;
   margin-right: 1.5em;
   padding: 15px;
 }
 blockquote h5 {
-  font-size: large;
+  font-size: 16px;
   text-transform: uppercase;
   font-family: 'Averia Libre', cursive;
-  text-align: left;
+  //text-align: center;
 }
 
 .formCard p, .formCard h4 {
@@ -103,6 +103,9 @@ blockquote h5 {
   margin: 1em 1.5em;
   padding: 15px;
 }
-.formCard, .air {
+.formCard.air {
   background-color: $air-blue;
+}
+.formCard.earth {
+  background-color: $earth-green;
 }

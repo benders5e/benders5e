@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tools
+title: Celestial Tracker 
 permalink: /tools/celestial-tracking/
 nav-hide: true
 ---

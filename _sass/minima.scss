@@ -21,7 +21,9 @@ $grey-color-hover:  #bbb !default;
 
 $inset-green:       #c5dead !default;
 $inset-blue:        #adc5de !default;
+$inset-grey:        lighten($grey-color, 30%);
 $air-blue:          #d8e7ef;
+$earth-green:       $inset-green;
 
 $table-text-align: left !default;
 
