@@ -12,6 +12,7 @@ Player's Handbook: Introduction
 </h1>
 
 ### About the Player's Handbook
+Changes to the classic D&D 5e rules are marked with the <span class="change"></span> badge, while completely new rules are indicated by the <span class="new"></span> badge.
 
 <div class="HBonly">
 # Bender Campaign Setting
@@ -27,7 +28,7 @@ In his absence, chaos reigns, kept at bay only by brave benders who have taken i
 </div>
 
 ### Skills
-This class uses, for the most part, the same skills as regular 5th edition D&D. These are the exceptions:
+This setting uses, for the most part, the same skills as regular 5th edition D&D. These are the exceptions:
 - No Arcana
 - Replace Religion (Int) with Spirituality (Wis) *[not propagated through classes yet]*
 

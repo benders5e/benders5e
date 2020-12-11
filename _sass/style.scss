@@ -130,3 +130,32 @@ blockquote h5 {
   font-size: 16px;
   border-radius: .5em;
 }
+
+.new::after {
+  content: "new";
+  color: white;
+  font-size: 12px;
+  font-family: $base-font-family;
+  text-transform: lowercase;
+  vertical-align: middle;
+
+  border-radius: .5em;
+  padding: 1px 10px;
+  text-align: center;
+  background-color: $brand-color;
+}
+
+.change::after {
+  content: "change";
+  color: black;
+
+  font-size: 12px;
+  font-family: $base-font-family;
+  text-transform: lowercase;
+  vertical-align: middle;
+
+  border-radius: .5em;
+  padding: 1px 10px;
+  text-align: center;
+  background-color: orange;
+}

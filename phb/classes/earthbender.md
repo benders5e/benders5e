@@ -7,7 +7,7 @@ nav-hide: true
 
 <!-- Homebrewery Link: https://homebrewery.naturalcrit.com/edit/grt0crs-z_ -->
 
-<h1 id="classes">
+<h1 id="classes" class="new">
     Earthbender
 </h1>
 

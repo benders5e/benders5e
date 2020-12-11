@@ -5,7 +5,7 @@ permalink: /phb/classes/monk/
 nav-hide: true
 ---
 
-<h1 id="classes">
+<h1 id="classes" class="change">
     Monk
 </h1>
 
@@ -155,7 +155,9 @@ Starting at 7th level, you can use your action to end one effect on yourself tha
 ### Purity of Body
 At 10th level, your mastery of the chi flowing through you makes you immune to disease and poison.
 
-### Bridge of Chi
+<h3 class="new">
+Bridge of Chi
+</h3>
 Starting at 13th level, you learn to touch the chi of other minds. You can use an action to read the surface-level thoughts and emotions of a creature you can see within 30 feet of you. If the creature you choose has an Intelligence of 3 or lower or doesn't speak any language, you only learn its general emotional state. This effect lasts for 1 minute. The creature does not know that you probed its mind.
 
 You can use another action to attempt to calm the emotions of a creature you have touched with your mind. The creature must make a Charisma saving throw; it can choose to fail this saving throw if it wishes. If it fails, choose one of the following two effects.
@@ -203,7 +205,9 @@ At 17th level, you gain the ability to set up lethal vibrations in someone’s b
 
 You can have only one creature under the effect of this feature at a time. You can choose to end the vibrations harmlessly without using an action.
 
-### Way of Chi
+<h3 class="new">
+Way of Chi
+</h3>
 Monks of the Way of Chi possess a deep understanding of the flow of chi in the body and learn to interfere with it in their enemies. They learn to identify pressure points and techniques to block chi in their targets, dealing light but deadly strikes, weakening their opponents, and even causing them to temporarily lose their bending. 
 
 #### Precise Strike

@@ -7,7 +7,7 @@ nav-hide: true
 
 <!-- Homebrewery Link: https://homebrewery.naturalcrit.com/edit/3y6o6KPWIM -->
 
-<h1 id="classes">
+<h1 id="classes" class="new">
     Airbender
 </h1>
 
