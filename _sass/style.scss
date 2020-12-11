@@ -110,6 +110,10 @@ blockquote h5 {
   background-color: $earth-green;
 }
 
+.subtitle {
+  font-size: 20px;
+}
+
 .banner {
   //background-image: url("./path.jpg");
   background-color: $air-blue;
@@ -117,6 +121,10 @@ blockquote h5 {
   padding-top: 3em;
   padding-bottom: 3em;
   margin-bottom: 1em;
+}
+
+.banner h1 {
+  font-size: 64px;
 }
 
 .banner .button {
