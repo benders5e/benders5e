@@ -67,7 +67,7 @@ details {
   z-index: 1;
 }
 
-h1, h2, h3, h4, h5 {
+h1, h2:not(.post-list-heading), h3:not(.post-title), h4, h5 {
   //font-family: 'Syne Tactile', cursive;
   font-family: 'Averia Libre', cursive;
   text-transform: uppercase;
@@ -108,4 +108,25 @@ blockquote h5 {
 }
 .formCard.earth {
   background-color: $earth-green;
+}
+
+.banner {
+  //background-image: url("./path.jpg");
+  background-color: $air-blue;
+  text-align: center;
+  padding-top: 3em;
+  padding-bottom: 3em;
+  margin-bottom: 1em;
+}
+
+.banner .button {
+  background-color: $brand-color;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: .5em;
 }
