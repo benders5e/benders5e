@@ -13,54 +13,71 @@ Backgrounds
 
 <p></p>
 
-Some backgrounds are nation-specific. Backgrounds that can only be taken by Benders (of the corresponding element) are marked with an asterisk.
+Some backgrounds are nation-specific. These are listed under the corresponding header at the end of this section.
 
-## All Classes
-These backgrounds can be taken by any class.
+## All Nations
+These backgrounds can be taken by characters of any nation.
 
-### Regular D&D 5e Backgrounds
-*Source: Player's Handbook*  
+### Charlatan
+**Skill Proficiencies:** Deception, Sleight of Hand  
+**Tool Proficiencies:** Disguise kit, Forgery kit  
+**Equipment:** A set of fine clothes, a disguise kit, tools of the con of your choice (ten stoppered bottles filled with colored liquid, a set of weighted dice, a deck of marked cards, or a signet ring of an imaginary duke), and a belt pouch containing 15 gp
 
-<div style='column-count:3'>
-<!--div style='column-count:2'-->
-<ul>
-    <li>Charlatan</li>
-    <li>Criminal</li>
-    <li>Entertainer</li>
-    <li>Folk Hero</li>
-    <li>Guild Artisan</li>
-    <li>Hermit</li>
-    <li>Noble</li>
-    <li>Outlander</li>
-    <li>Sage</li>
-    <li>Sailor</li>
-    <li>Soldier</li>
-    <li>Urchin</li>
-</ul>
-</div>
+#### Feature: False Identity
+You have created a second identity that includes documentation, established acquaintances, and disguises that allow you to assume that persona. Additionally, you can forge documents including official papers and personal letters, as long as you have seen an example of the kind of document or the handwriting you are trying to copy.
 
-### Faction Agent
-*Source: Sword Coast Adventurer's Guide*  
+#### Favorite Schemes
+Every charlatan has an angle he or she uses in preference to other schemes. Choose a favorite scam or roll on the table below.
 
-<div class="HBonly" style="height:0em;"></div>
-You are a member of a secret order, such as the Order of the White Lotus or the Order of the red Lotus.
-
-<div class="HBonly" style="height:0em;"></div>
-**Skill Proficiencies:** Insight and one Intelligence, Wisdom, or Charisma skill of your choice, appropriate to your faction  
-**Tool Proficiencies:** Pai sho set, disguise kit  
-**Equipment:** Badge or emblem of your faction (for example a white lotus pai sho tile), a copy of a seminal faction text (or code-book for a covert faction), a set of common clothes, and a pouch containing 15 gp
-
-<div class="HBonly" style="height:0em;"></div>
-#### Feature: Safe Haven
-As a faction agent, you have access to a secret network of supporters and operatives who can provide assistance on your adventures. You know a set of secret signs and passwords you can use to identify such operatives, who can provide you with access to a hidden safe house, free room and board, or assistance in finding information. These agents never risk their lives for you or risk revealing their true identities.
+| d6 | Scam
+|:---|:--------------------------
+| 1  | I cheat at games of chance.
+| 2  | I shave coins or forge documents.
+| 3  | I insinuate myself into people's lives to prey on their weakness and secure their fortunes.
+| 4  | I put on new identities like clothes.
+| 5  | I run sleight-of-hand cons on street corners.
+| 6  | I convince people that worthless junk is worth their hard-earned money.
 
 #### Suggested Characteristics
-Use the tables for the acolyte background in the Player's Handbook as the basis for your traits and motivations, modifying the entries when appropriate to suit your identity as a faction agent. (For instance, consider the words "faith" and "faction" to be interchangeable.)
+Charlatans are colorful characters who conceal their true selves behind the masks they construct. They reflect what people want to see, what they want to believe, and how they see the world. But their true selves are sometimes plagued by an uneasy conscience, an old enemy, or deep-seated trust issues.
 
-Your bond might be associated with other members of your faction, or a location or an object that is important to your faction. The ideal you strive for is probably in keeping with the tenets and principles of your faction, but might be more personal in nature.
+| d8 | Personality Trait
+|:---|:----------------------------
+| 1  | I fall in and out of love easily, and am always pursuing someone.
+| 2  | I have a joke for every occasion, especially occasions where humor is inappropriate.
+| 3  | Flattery is my preferred trick for getting what I want.
+| 4  | I'm a born gambler who can't resist taking a risk for a potential payoff.
+| 5  | I lie about almost everything, even when there's no reason to.
+| 6  | Sarcasm and insults are my weapons of choice.
+| 7  | I keep multiple holy symbols on me and invoke whatever deity might come in useful at any given moment.
+| 8  | I pocket anything I see that might have some value.
 
-<div class="HBspacing" style="height: 8em;">
-</div>
+| d6 | Ideal
+|:---|:----------------------------
+| 1  | Independence. I am a free spirit—no one tells me what to do. (Chaotic)
+| 2  | Fairness. I never target people who can't afford to lose a few coins. (Lawful)
+| 3  | Charity. I distribute the money I acquire to the people who really need it. (Good)
+| 4  | Creativity. I never run the same con twice. (Chaotic)
+| 5  | Friendship. Material goods come and go. Bonds of friendship last forever. (Good)
+| 6  | Aspiration. I'm determined to make something of myself. (Any)
+
+| d6 | Bond
+|:---|:----------------------------
+| 1  | I fleeced the wrong person and must work to ensure that this individual never crosses paths with me or those I care about.
+| 2  | I owe everything to my mentor—a horrible person who's probably rotting in jail somewhere.
+| 3  | Somewhere out there, I have a child who doesn't know me. I'm making the world better for him or her.
+| 4  | I come from a noble family, and one day I'll reclaim my lands and title from those who stole them from me.
+| 5  | A powerful person killed someone I love. Some day soon, I'll have my revenge.
+| 6  | I swindled and ruined a person who didn't deserve it. I seek to atone for my misdeeds but might never be able to forgive myself.
+
+| d6 | Flaw
+|:---|:----------------------------
+| 1  | I can't resist a pretty face.
+| 2  | I'm always in debt. I spend my ill-gotten gains on decadent luxuries faster than I bring them in.
+| 3  | I'm convinced that no one could ever fool me the way I fool others.
+| 4  | I'm too greedy for my own good. I can't resist taking a risk if there's money involved.
+| 5  | I can't resist swindling people who are more powerful than me.
+| 6  | I hate to admit it and will hate myself for it, but I'll run and preserve my own hide if the going gets tough.
 
 ### Cloistered Scholar  
 *Source: Sword Coast Adventurer's Guide*  
@@ -83,6 +100,34 @@ Use the tables for the sage background in the Player's Handbook as the basis for
 
 Your bond is almost certainly associated either with the place where you grew up or with the knowledge you hope to acquire through adventuring. Your ideal is no doubt related to how you view the quest for knowledge and truth --- perhaps as a worthy goal in itself, or maybe as a means to a desirable end.
 
+### Criminal
+
+### Entertainer
+
+<h3 class="change">Faction Agent</h3>
+*Source: Sword Coast Adventurer's Guide*  
+
+<div class="HBonly" style="height:0em;"></div>
+You are a member of a secret order, such as the Order of the White Lotus or the Order of the red Lotus.
+
+<div class="HBonly" style="height:0em;"></div>
+**Skill Proficiencies:** Insight and one Intelligence, Wisdom, or Charisma skill of your choice, appropriate to your faction  
+**Tool Proficiencies:** Pai sho set, disguise kit  
+**Equipment:** Badge or emblem of your faction (for example a white lotus pai sho tile), a copy of a seminal faction text (or code-book for a covert faction), a set of common clothes, and a pouch containing 15 gp
+
+<div class="HBonly" style="height:0em;"></div>
+
+#### Feature: Safe Haven
+As a faction agent, you have access to a secret network of supporters and operatives who can provide assistance on your adventures. You know a set of secret signs and passwords you can use to identify such operatives, who can provide you with access to a hidden safe house, free room and board, or assistance in finding information. These agents never risk their lives for you or risk revealing their true identities.
+
+#### Suggested Characteristics
+Use the tables for the acolyte background in the Player's Handbook as the basis for your traits and motivations, modifying the entries when appropriate to suit your identity as a faction agent. (For instance, consider the words "faith" and "faction" to be interchangeable.)
+
+Your bond might be associated with other members of your faction, or a location or an object that is important to your faction. The ideal you strive for is probably in keeping with the tenets and principles of your faction, but might be more personal in nature.
+
+<div class="HBspacing" style="height: 8em;">
+</div>
+
 ### Fisher
 *Source: Ghosts of Saltmarsh*  
 <!--https://ghostsofsaltmarsh-9.obsidianportal.com/wiki_pages/saltmarsh-backgrounds -->
@@ -99,8 +144,7 @@ You gain advantage on ability checks made using fishing tackle. If you have acce
 
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 4 | BACKGROUNDS</div>
-
-\page
+<div class="HBonly">\page</div>
 
 #### Fishing Tale
 You can tell a compelling tale, whether tall or true, to impress and entertain others. Once a day, you can tell your story to willing listeners. At the DM's discretion, a number of those listeners become friendly toward you; this is not a magical effect, and continued amicability on their part depends on your actions. You can roll on the following table to help determine the theme of your tale or choose one that best fits your character. Alternatively, work with your DM to create your own fishing tale.
@@ -119,8 +163,6 @@ You can tell a compelling tale, whether tall or true, to impress and entertain o
 #### Suggested Characteristics
 Fishers succeed only if they spend time at their jobs. As such, most fishers have a strong work ethic, and they admire others who earn their living honestly. Fishers tend to be superstitious, forming attachments to particular fishing lures or special fishing spots. They have a connection to the bodies of water in which they fish, and they think poorly of those whose actions adversely affect their livelihood.
 
-##### Fisher Personality Traits
-
 | d8 | Personality Trait
 |:---|:-----------------------------------
 | 1  | I am unmoved by the wrath of nature.
@@ -135,8 +177,6 @@ Fishers succeed only if they spend time at their jobs. As such, most fishers hav
 <div class="HBspacing" style="height: 9em;">
 </div>
 
-##### Fisher Ideals
-
 | d6 | Ideal
 |:---|:-----------------------------------
 | 1  | **Camaraderie.** Good people make even the longest voyage bearable. (Good)
@@ -145,8 +185,6 @@ Fishers succeed only if they spend time at their jobs. As such, most fishers hav
 | 4  | **Plunder.** Take all that you can and leave nothing for the scavengers. (Evil)
 | 5  | **Balance.** Do not fish the same spot twice in a row; suppress your greed, and nature will reward you. (Neutral)
 | 6  | **Hard Work.** No wave can move a soul hard at work. (Any)
-
-##### Fisher Bonds
 
 | d6 | Bond
 |:---|:-----------------------------------
@@ -157,8 +195,6 @@ Fishers succeed only if they spend time at their jobs. As such, most fishers hav
 | 5  | My destiny awaits me at the bottom of a particular pond in the Spiritwilds.
 | 6  | I must repay my village's debt.
 
-##### Fisher Flaws
-
 | d6 | Flaw
 |:---|:-----------------------------------
 | 1  | I am judgmental, especially of those I deem homebodies or otherwise lazy.
@@ -168,21 +204,29 @@ Fishers succeed only if they spend time at their jobs. As such, most fishers hav
 | 5  | I work hard, but I play harder.
 | 6  | I am obsessed with catching an elusive aquatic beast, often to the detriment of other pursuits.
 
+### Folk Hero
+
+### Guild Artisan
+
+### Hermit
+
 ### Marine
 *Source: Ghosts of Saltmarsh*  
 <!--https://ghostsofsaltmarsh-9.obsidianportal.com/wiki_pages/saltmarsh-backgrounds -->
 
 <div class="HBonly" style="height:0em;"></div>
+
 **Skill Proficiencies:** Athletics, Survival  
 **Tool Proficiencies:** Vehicles (water, land)   
 **Equipment:** A dagger that belonged to a fallen comrade, a folded flag emblazoned with the symbol of your ship or company, a set of traveler's clothes, and a belt pouch containing 10 gp
+
 <div class="HBonly" style="height:0em;"></div>
+
 **Other Proficiencies:** Swim speed 30 feet  
 
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 4 | BACKGROUNDS</div>
-
-\page
+<div class="HBonly">\page</div>
 
 #### Feature: Steady
 You can move twice the normal amount of time (up to 16 hours) each day before being subject to the effect of a forced march (see "Travel Pace" in chapter 8 of the Player's Handbook). Additionally, you can automatically find a safe route to land a boat on shore, provided such a route exists.
@@ -202,8 +246,6 @@ Hardship in your past has forged you into an unstoppable living weapon. This har
 #### Suggested Characteristics
 Marines are looked up to by other soldiers and respected by their superiors. They are veteran warriors who rarely lose composure on the battlefield. Marines who leave the service tend to work as mercenaries, but their combat experience also makes them excellent adventurers. Though they are self-reliant, marines tend to operate best in groups, valuing camaraderie and the companionship of like-minded individuals.
 
-##### Marine Personality Traits
-
 | d8 | Personality Trait
 |:---|:-----------------------------------
 | 1  | I speak rarely but mean every word I say.
@@ -215,8 +257,6 @@ Marines are looked up to by other soldiers and respected by their superiors. The
 | 7  | I become cantankerous and quiet in the rain.
 | 8  | When the sea is within my sight, my mood is jovial and optimistic.
 
-##### Marine Ideals
-
 | d6 | Ideal
 |:---|:-----------------------------------
 | 1  | **Teamwork.** Success depends on cooperation and communication. (Good)
@@ -225,8 +265,6 @@ Marines are looked up to by other soldiers and respected by their superiors. The
 | 4  | **Might.** The strong train so that they might rule those who are weak. (Evil)
 | 5  | **Bravery.** To act when others quake in fear—this is the essence of the warrior. (Any)
 | 6  | **Perseverance.** No injury or obstacle can turn me from my goal. (Any)
-
-##### Marine Bonds
 
 | d6 | Bond
 |:---|:-----------------------------------
@@ -237,8 +275,6 @@ Marines are looked up to by other soldiers and respected by their superiors. The
 | 5  | Fear leads to tyranny, and both must be eradicated.
 | 6  | My commander betrayed my unit, and I will have revenge.
 
-##### Marine Flaws
-
 | d6 | Flaw
 |:---|:-----------------------------------
 | 1  | I grow combative and unpredictable when I drink.
@@ -247,6 +283,14 @@ Marines are looked up to by other soldiers and respected by their superiors. The
 | 4  | I hold grudges and have difficulty forgiving others.
 | 5  | I become irrational when innocent people are hurt.
 | 6  | I sometimes stay up all night listening to the ghosts of my fallen enemies.
+
+### Noble
+
+### Outlander
+
+### Sage
+
+### Sailor
 
 ### Shipwright
 *Source: Ghosts of Saltmarsh*  
@@ -263,8 +307,7 @@ Provided you have carpenter's tools and wood, you can perform repairs on a water
 
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 4 | BACKGROUNDS</div>
-
-\page
+<div class="HBonly">\page</div>
 
 #### Life at Sea
 Your life at sea and in port has shaped you; you can roll on the following table to determine its impact or choose an element that best fits your character.
@@ -281,8 +324,6 @@ Your life at sea and in port has shaped you; you can roll on the following table
 #### Suggested Characteristics
 Shipwrights are resourceful carpenters and designers. They often have a dedicated spot at the local tavern, since shipwrights are invaluable to coastal communities. Some travel with naval fleets and might serve as officers if their temperament suits it. Shipwrights have an affinity for working with their hands and often perform feats of carpentry that others might deem miraculous.
 
-##### Shipwright Personality Traits
-
 | d8 | Personality Trait
 |:---|:-----------------------------------
 | 1  | I love talking and being heard more than I like to listen.
@@ -297,8 +338,6 @@ Shipwrights are resourceful carpenters and designers. They often have a dedicate
 <div class="HBspacing" style="height: 13em;">
 </div>
 
-##### Shipwright Ideals
-
 | d6 | Ideal
 |:---|:-----------------------------------
 | 1  | **Crew.** If everyone on deck pitches in, we'll never sink. (Good)
@@ -308,8 +347,6 @@ Shipwrights are resourceful carpenters and designers. They often have a dedicate
 | 5  | **Reflection.** Muddied water always clears in time. (Any)
 | 6  | **Hope.** The horizon at sea holds the greatest promise. (Any)
 
-##### Shipwright Bonds
-
 | d6 | Bond
 |:---|:-----------------------------------
 | 1  | I must visit all the oceans of the world and behold the ships that sail there.
@@ -318,8 +355,6 @@ Shipwrights are resourceful carpenters and designers. They often have a dedicate
 | 4  | I repair broken things to redeem what's broken in myself.
 | 5  | I will craft a boat capable of sailing through the most dangerous of storms.
 | 6  | A kraken destroyed my masterpiece; its teeth shall adorn my hearth.
-
-##### Shipwright Flaws
 
 | d6 | Flaw
 |:---|:-----------------------------------
@@ -332,10 +367,13 @@ Shipwrights are resourceful carpenters and designers. They often have a dedicate
 
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 4 | BACKGROUNDS</div>
+<div class="HBonly">\page</div>
 
-\page
+### Soldier
 
-## Water
+### Urchin
+
+<h2 id="water" class="new">Water</h2>
 
 ### Arctic Dweller
 
@@ -351,7 +389,8 @@ Use the tables for the guild artisan or sailor background in the Player's Handbo
 
 Your bond might be associated with other members of your tribe, or a location or an object that is important to your tribe. The ideal you strive for is probably in keeping with the tenets and principles of your tribe, but might be more personal in nature.
 
-### \*Swampbender
+### Swampbender
+*Prerequisite: Waterbender*  
 
 You hail from the swamps in the Earth Kingdom.  
 
@@ -372,9 +411,10 @@ While you are wearing no armor and not wielding a shield, your AC equals 13 + yo
 #### Suggested Characteristics
 Use the tables for the outlander background in the Player's Handbook as the basis for your traits and motivations, modifying the entries when appropriate to suit your identity as a one hailing from the swamps. Your bond is almost certainly associated with the place you grew up.
 
-## Earth
+<h2 id="earth" class="new">Earth</h2>
 
-### \*Sandbender
+### Sandbender
+*Prerequisite: Earthbender*  
 
 You hail from the Si Wong Desert. Your time in this arid biome has forced you to master a special form of earthbending known as sandbending.  
 
@@ -388,25 +428,24 @@ You are accustomed to traveling in the desert, so sand is not difficult terrain 
 
 The following earthbending forms are available to you in addition to the forms listed in the Earthbender class description. Futhermore, when you reach 6th level, you learn to bend glass in addition to the other earth-based materials described in "Expansion and Compaction".
 
-##### Quick Conversions
+<h5 class="tableHeader">Quick Conversions</h5>
 
 | Material          | Pounds in 1 cubic ft | AC |
 |:------------------|:---------------------|----|
 | Glass             | 155 lbs              | 13 |
 
-<div style="margin-left: 1.5em; margin-bottom: 1em;">
-
-<h5>Earth to Sand</h5>
-*Cost: 1 chi*  
-You turn a 30-foot square area of earth in your bending range into sand. This area becomes difficult terrain.
+<div class="formCard earth">
+    <h5>Earth to Sand</h5>
+    <p style="font-style: italic;">Cost: 1 chi</p>
+    You turn a 30-foot square area of earth in your bending range into sand. This area becomes difficult terrain.
+</div>
   
-<h5>Sandstorm</h5>
-*Cost: 4 chi*  
-You raise the sand around you and launch it into the air, creating a sandstorm that fills a cylinder centered on you with diameter and height equal to your bending range. Creatures in the area are Blinded.
-
-Each target must make a DC 10 Constitution saving throw. On a failure, sand enters its lungs and it suffers 1 level of exhaustion (to a maximum of level 1).
-
-The sandstorm lasts until the start of your next turn.
+<div class="formCard earth">
+    <h5>Sandstorm</h5>
+    <p style="font-style: italic;">Cost: 4 chi</p>
+    <p>You raise the sand around you and launch it into the air, creating a sandstorm that fills a cylinder centered on you with diameter and height equal to your bending range. Creatures in the area are Blinded.</p>
+    <p>Each target must make a DC 10 Constitution saving throw. On a failure, sand enters its lungs and it suffers 1 level of exhaustion (to a maximum of level 1).</p>
+    <p>The sandstorm lasts until the start of your next turn.</p>
 </div>
 
 #### Suggested Characteristics
@@ -414,10 +453,12 @@ Use the tables for the outlander background in the Player's Handbook as the basi
 
 Your bond is likely associated with other members of your clan, or a location or an object that is important to your people.
 
-<!-- ## Fire -->
+<!--h2 id="fire" class="new">Fire</h2-->
 
-## Air
-### \*Air Nomad
+<h2 id="air" class="new">Air</h2>
+
+### Air Nomad
+*Prerequisite: Airbender*  
 
 Air Nomad children are raised in Air Nomad temples from a young age, developing parental bonds with the nomad assigned to their training. A large part of this training is spiritual, which leads to all Air Nomads realizing their connection to their inner chi and unlocking the ability to airbend.
 
@@ -428,8 +469,7 @@ Air Nomad children are raised in Air Nomad temples from a young age, developing 
 
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 4 | BACKGROUNDS</div>
-
-\page
+<div class="HBonly">\page</div>
 
 #### Feature: Meditation
 Air Nomads don't need to sleep. Instead, they meditate deeply, remaining semiconscious, for 4 hours a day. While meditating, you can dream after a fashion; such dreams are actually mental exercises that have become reflexive through years of practice. After resting in this way, you gain the same benefit that others do from 8 hours of sleep.
@@ -441,5 +481,4 @@ When choosing your ideal, keep in mind that the Air Nomads are a peaceful people
 
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 4 | BACKGROUNDS</div>
-
-\page
+<div class="HBonly">\page</div>

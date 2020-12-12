@@ -42,6 +42,8 @@ if(currSection.id == "classes") {
 } else if(currSection.id == "feats") {
     // don't show all feats in nav
     // TODO: jump to letter
+} else if(currSection.id == "backgrounds") {
+    navSubsectionTitles = document.querySelectorAll("main h2");
 } else {
     navSubsectionTitles = document.querySelectorAll("h3");
 }
