@@ -83,7 +83,7 @@ These rules are optional.
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 1 | INTRODUCTION</div>
 
-\page
+<div class="HBonly">\page</div>
 
 - **General simplifications.** For simplicity of calculations, many numbers have been rounded. A year consists of 12 30-day months or 360 days.
 
@@ -129,4 +129,4 @@ Firebenders lose their bending during a solar eclipse, and waterbenders lose the
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 1 | INTRODUCTION</div>
 
-\page
+<div class="HBonly">\page</div>
