@@ -5,6 +5,8 @@ permalink: /phb/classes/monk/
 nav-hide: true
 ---
 
+<!-- Homebrewery Link: https://homebrewery.naturalcrit.com/edit/PZMEFOb7Xg -->
+
 <h1 id="classes" class="change">
     Monk
 </h1>
@@ -47,6 +49,8 @@ As a monk, you gain the following class features.
 **Weapons:** Simple weapons, shortswords  
 **Tools:** Choose one type of artisan’s tools or one musical instrument
 
+<div style="height: 0em;"></div>
+
 **Saving Throws:** Strength, Dexterity  
 **Skills:** Choose two from Acrobatics, Athletics, History, Insight, Religion, and Stealth
 
@@ -59,17 +63,17 @@ You start with the following equipment, in addition to the equipment granted by 
 - 10 darts
 
 ### Unarmored Defense
+<!--*[also Airbender]*  -->
 Beginning at 1st level, while you are wearing no armor and not wielding a shield, your AC equals 10 + your Dexterity modifier + your Wisdom modifier.
 
 ### Martial Arts
 At 1st level, your practice of martial arts gives you mastery of combat styles that use unarmed strikes and monk weapons, which are shortswords and any simple melee weapons that don’t have the two-handed or heavy property.
 
-You gain the following benefits while you are unarmed or wielding only monk weapons and you aren’t wearing armor or wielding a shield:
-- You can use Dexterity instead of Strength for the attack and damage rolls of your unarmed strikes and monk weapons.
-- You can roll a d4 in place of the normal damage of your unarmed strike or monk weapon. This die changes as you gain monk levels, as shown in the Martial Arts column of the Monk table.
-- When you use the Attack action with an unarmed strike or a monk weapon on your turn, you can make one unarmed strike as a bonus action. For example, if you take the Attack action and attack with a quarterstaff, you can also make an unarmed strike as a bonus action, assuming you haven’t already taken a bonus action this turn.
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 2 | CLASSES</div>
+\page
 
-Certain monasteries use specialized forms of the monk weapons. For example, you might use a club that is two lengths of wood connected by a short chain (called a nunchaku) or a sickle with a shorter, straighter blade (called a kama). Whatever name you use for a monk weapon, you can use the game statistics provided for the weapon in the Weapons section.
+<!--div class='classTable wide'-->
 
 ##### The Monk
   
@@ -96,6 +100,19 @@ Certain monasteries use specialized forms of the monk weapons. For example, you 
 |19th | +5 | 1d10 | 5 | +30 ft.  | Ability Score Improvement
 |20th | +5 | 1d10 | 6 | +30 ft.  | Perfect Self
 
+<!--/div-->
+
+You gain the following benefits while you are unarmed or wielding only monk weapons and you aren’t wearing armor or wielding a shield:
+
+- You can use Dexterity instead of Strength for the attack and damage rolls of your unarmed strikes and monk weapons.
+- You can roll a d4 in place of the normal damage of your unarmed strike or monk weapon. This die changes as you gain monk levels, as shown in the Martial Arts column of the Monk table.
+- When you use the Attack action with an unarmed strike or a monk weapon on your turn, you can make one unarmed strike as a bonus action. For example, if you take the Attack action and attack with a quarterstaff, you can also make an unarmed strike as a bonus action, assuming you haven’t already taken a bonus action this turn.
+
+Certain monasteries use specialized forms of the monk weapons. For example, you might use a club that is two lengths of wood connected by a short chain (called a nunchaku) or a sickle with a shorter, straighter blade (called a kama). Whatever name you use for a monk weapon, you can use the game statistics provided for the weapon in the Weapons section.
+
+<div class="HBspacing" style="height:6em;">
+</div>
+
 ### Chi
 Starting at 2nd level, your training allows you to harness the mystic energy of chi. Your access to this energy is represented by a number of chi points. Your monk level determines the number of points you have, as shown in the Chi Points column of the Monk table.
 
@@ -109,6 +126,10 @@ Some of your chi features require your target to make a saving throw to resist t
     <p><strong>Chi save DC</strong> = 8 + your proficiency bonus + your Wisdom modifier</p>
 </div>
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 2 | CLASSES</div>
+\page
+
 #### Flurry of Blows
 Immediately after you take the Attack action on your turn, you can spend 1 chi point to make two unarmed strikes as a bonus action.
 
@@ -119,12 +140,14 @@ You can spend 1 chi point to take the Dodge action as a bonus action on your tur
 You can spend 1 chi point to take the Disengage or Dash action as a bonus action on your turn, and your jump distance is doubled for the turn.
 
 ### Unarmored Movement
+<!--*[also Airbender]*  -->
 Starting at 2nd level, your speed increases by 10 feet while you are not wearing armor or wielding a shield. This bonus increases when you reach certain monk levels, as shown in the Monk table.
 
 ### Monastic Tradition
 When you reach 3rd level, you commit yourself to a monastic tradition: the Way of the Open Hand, the Way of Chi, or the Way of Shadow, all detailed at the end of the class description. Your tradition grants you features at 3rd level and again at 6th, 11th, and 17th level.
 
 ### Deflect Missiles
+<!--*[also Airbender (as form, no re-throwing)]*  -->
 Starting at 3rd level, you can use your reaction to deflect or catch the missile when you are hit by a ranged weapon attack. When you do so, the damage you take from the attack is reduced by 1d10 + your Dexterity modifier + your monk level.
 
 If you reduce the damage to 0, you can catch the missile if it is small enough for you to hold in one hand and you have at least one hand free. If you catch a missile in this way, you can spend 1 chi point to make a ranged attack with the weapon or piece of ammunition you just caught, as part of the same reaction. You make this attack with proficiency, regardless of your weapon proficiencies, and the missile counts as a monk weapon for the attack, which has a normal range of 20 feet and a long range of 60 feet. 
@@ -135,7 +158,11 @@ When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can 
 Using the optional feats rule, you can forgo taking this feature to take a feat of your choice instead.
 
 ### Slow Fall
+<!--*[also Airbender (slightly modified, "Air Cushion")]*  -->
 Beginning at 4th level, you can use your reaction when you fall to reduce any falling damage you take by an amount equal to five times your monk level.
+
+<div class="HBspacing" style="height:3em;">
+</div>
 
 ### Extra Attack
 Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
@@ -147,9 +174,11 @@ Starting at 5th level, you can interfere with the flow of chi in an opponent’s
 Starting at 6th level, your unarmed strikes count as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.
 
 ### Evasion
+<!--*[also Airbender (9th level)]*  -->
 At 7th level, your instinctive agility lets you dodge out of the way of certain area effects, such as a blue dragon’s lightning breath or a fireball spell. When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
 
 ### Stillness of Mind
+<!--*[also Airbender (Advanced Specialization, 5th level)]*  -->
 Starting at 7th level, you can use your action to end one effect on yourself that is causing you to be charmed or frightened.
 
 ### Purity of Body
@@ -158,6 +187,7 @@ At 10th level, your mastery of the chi flowing through you makes you immune to d
 <h3 class="new">
 Bridge of Chi
 </h3>
+<!-- based on Detect Thoughts and ... -->
 Starting at 13th level, you learn to touch the chi of other minds. You can use an action to read the surface-level thoughts and emotions of a creature you can see within 30 feet of you. If the creature you choose has an Intelligence of 3 or lower or doesn't speak any language, you only learn its general emotional state. This effect lasts for 1 minute. The creature does not know that you probed its mind.
 
 You can use another action to attempt to calm the emotions of a creature you have touched with your mind. The creature must make a Charisma saving throw; it can choose to fail this saving throw if it wishes. If it fails, choose one of the following two effects.
@@ -165,12 +195,27 @@ You can use another action to attempt to calm the emotions of a creature you hav
 - You can suppress any effect causing a target to be charmed or frightened. When this spell ends, any suppressed effect resumes, provided that its duration has not expired in the meantime.
 - You can make the target indifferent about creatures of your choice that it is hostile toward. This indifference ends if the target is attacked or harmed by a spell or if it witnesses any of its friends being harmed. When the spell ends, the creature becomes hostile again, unless the DM rules otherwise.
 
+<!-- Potential spell basis:
+- Animal Friendship
+- Antipathy/Sympathy?
+- Calm Emotions
+- Charm Person
+- Detect Thoughts
+-->
+
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 2 | CLASSES</div>
+
+\page
+
 ### Diamond Soul
+<!--*[also Airbender (13th level)]*  -->
 Beginning at 14th level, your mastery of chi grants you proficiency in all saving throws.
 
 Additionally, whenever you make a saving throw and fail, you can spend 1 chi point to reroll it and take the second result.
 
 ### Timeless Body
+<!--*[also Airbender (14th level)]*  -->
 At 15th level, your chi sustains you so that you suffer none of the frailty of old age, and you can’t be aged magically. You can still die of old age, however. In addition, you no longer need food or water.
 
 #### Spiritual Projection
@@ -193,6 +238,9 @@ Starting when you choose this tradition at 3rd level, you can manipulate your en
 - It must succeed on a Dexterity saving throw or be knocked prone.
 - It must make a Strength saving throw. If it fails, you can push it up to 15 feet away from you.
 - It can’t take reactions until the end of your next turn.
+
+<div class="HBspacing" style="height:4em;">
+</div>
 
 #### Wholeness of Body
 At 6th level, you gain the ability to heal yourself. As an action, you can regain hit points equal to three times your monk level. You must finish a long rest before you can use this feature again.
@@ -219,13 +267,20 @@ Starting when you choose this tradition at 3rd level, you learn to use your know
 
 At 6th level, you learn to use pressure points to disrupt the flow of chi and, consequently, certain bodily functions. Whenever you make an unarmed strike, you can spend 1 chi point to cause one of the following effects:
 
+<!--If the part of the body you target does not exist on a certain creature or cannot be reached, the attempt fails.-->
+
 <div style="margin-left: 1em;">
-    <strong>Head:</strong> On a hit, the creature must make a Constitution saving throw or be stunned until the end of their next turn.
+    <p><strong>Head:</strong> On a hit, the creature must make a Constitution saving throw or be stunned until the end of their next turn.</p>
     <p><strong>Neck:</strong> On a hit, the creature must make a Constitution saving throw or suffer disadvantage on all attacks until the end of their next turn.</p>
     <p><strong>Arm:</strong> On a hit, the creature must make a Strength saving throw or drop 1 held item of your choice.</p>
     <p><strong>Chest:</strong> On a hit, the creature suffers disadvantage on their next saving throw.</p>
     <p><strong>Leg:</strong> On a hit, the creature must make a Strength saving throw or fall prone.</p>
 </div>
+
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 2 | CLASSES</div>
+
+\page 
 
 #### Chi Blocking
 Beginning at 11th level, you learn to use your strikes to completely block the flow of chi in your opponents for a short period of time. Whenever you hit a target with an unarmed strike, you can spend 3 chi points to impose one of the following effects on your target:
@@ -235,6 +290,8 @@ Beginning at 11th level, you learn to use your strikes to completely block the f
 
 #### Energybending
 At 17th level, you gain energybending. It is a highly dangerous technique; if one's own energy is impure and therefore bendable, the practitioner will be consequently destroyed. Energybending allows the user to remove other people's bending abilities or restore them after a bender had their abilities blocked by bloodbending.
+
+<!--(Needs more description of mechanics; high stakes if you fail a wisdom saving throw or something.) This could be 20th level for the chi blocker.-->
 
 ##### Removing Bending Abilities
 Once per long rest, if a bender is Restrained or Incapacitated, you can touch them on the center of the forehead and attempt to remove their bending permanently. 
@@ -250,6 +307,9 @@ The number of both is reset to zero when you succeed or fail to remove a target'
 ##### Restoring Bending Abilities
 Once per long rest, you can use your action to end a temporary bending block (e.g. one caused by bloodbending or chi blocking).
 
+<div class="HBspacing" style="height:7em;">
+</div>
+
 ### Way of Shadow
 Monks of the Way of Shadow follow a tradition that values stealth and subterfuge. These monks might be called ninjas or shadowdancers, and they serve as spies and assassins. Sometimes the members of a ninja monastery are family members, forming a clan sworn to secrecy about their arts and missions. Other monasteries are more like thieves' guilds, hiring out their services to nobles, rich merchants, or anyone else who can pay their fees. Regardless of their methods, the heads of these monasteries expect the unquestioning obedience of their students.
 
@@ -264,3 +324,6 @@ By 11th level, you have learned to become one with the shadows. When you are in 
 
 #### Opportunist
 At 17th level, you can exploit a creature's momentary distraction when it is hit by an attack. Whenever a creature within 5 feet of you is hit by an attack made by a creature other than you, you can use your reaction to make a melee attack against that creature.
+
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 2 | CLASSES</div>

@@ -5,6 +5,8 @@ permalink: /phb/classes/waterbender/
 nav-hide: true
 ---
 
+<!-- Homebrewery Link: https://homebrewery.naturalcrit.com/edit/nv_PIRHWxL -->
+
 <h1 id="classes">
     Waterbender
 </h1>
@@ -46,6 +48,8 @@ As a waterbender, you gain the following class features.
 **Weapons:** Simple weapons  
 **Tools:** Your choice of navigator's tools or water vehicles.
 
+<div style="height: 0em;"></div>
+
 **Saving Throws:** Intelligence, Dexterity  
 **Skills:** Choose two from Animal Handling, Athletics, Insight, Nature, Survival, and Stealth
 
@@ -57,8 +61,14 @@ You start with the following equipment, in addition to the equipment granted by 
 - 10 darts
 - A pouch of water
 
+<div class="HBspacing" style="height: 2em;">
+</div>
+
 > ##### Seeing Underwater
 > You can see underwater just as well as above water. Areas above water viewed from underwater are considered lightly obscured.
+
+<div class="HBspacing" style="height: 2em;">
+</div>
 
 ### Waterbending
 At 1st level, you realize that you have an innate ability to control water. You can move small volumes of *liquid* water at will by spending 1 chi of your Attack action to cause the effects of the *Shape Water* cantrip (excluding changing the water's color or opacity). (See "Bending Attack" for a description of the role chi points play in attacks and the rules for bending attacks.) You must draw your bending material from a source within your normal bending range, which increases with your level according to the "Range" column of the Waterbender table.  
@@ -78,6 +88,12 @@ At 1st level, you realize that you have an innate ability to control water. You 
 
     <p>You can dismiss a non-instantaneous effect as an action.</p>
 </div>
+
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 2 | CLASSES</div>
+\page
+
+<!--div class='classTable wide'-->
 
 ##### The Waterbender
   
@@ -104,6 +120,8 @@ At 1st level, you realize that you have an innate ability to control water. You 
 |19th | +6 | 1d12    | 20 ft. |200/400| 10| 6     |Ability Score Improvement|
 |20th | +6 | 1d12    | 20 ft. |200/400| 10| 6     |Element of Change|
 
+<!--/div--> 
+
 You are capable of converting water into ice or snow and back, but without fine-grained control over the shape of the ice or snow. You can cause the effects of the *Grease* spell at will by freezing a thin sheet of water in an area of your choice. Your range for this spell equals your normal bending range.  
 
 When using either *Grease* or changing the state of water from liquid to solid or vice versa in combat, you spend 1 chi of your Attack action (see "Bending Attack" for a description of the role chi points play in attacks).  
@@ -124,6 +142,10 @@ At 1st level, you must choose which of your modifiers to use for attacks: Intell
 </div>
 
 The attack bonus is hereafter referred to as your waterbending modifier. 
+
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 2 | CLASSES</div>
+\page
 
 Some of your abilities will require targets to make saving throws against your bending. The DC for these saving throws is your bending DC:
 
@@ -155,8 +177,7 @@ Starting at 2nd level, your connection to chi and practice of bending allows you
 
 You learn one form from the list at the end of this class description. The number of forms you know increases with level and is shown in the Waterbender Table. Each time you learn a new form you may also replace one form you already know with another one.  
 
-
-Every time you take the Attack action on your turn, you have a certain amount of *chi* at your disposal (indicated by the "Chi per Attack" column of the class table). You can distribute your chi among basic bending attacks or regular bending (*cost: 1 chi*) and any forms you know (whose costs are indicated with their descriptions). Forms use your bending attack and damage bonuses.
+Every time you take the Attack action on your turn, you have a certain amount of *chi* at your disposal (indicated by the "Chi per Attack" column of the class table). You can distribute your chi among basic bending attacks or regular bending (*cost: 1 chi*) and any forms you know (whose costs are indicated with their descriptions). When you use a form, you add your bending attack bonus to the attack roll but you do not add your bending damage bonus to the resulting damage.
 
 You can use each form a maximum of once per turn.
 
@@ -177,6 +198,9 @@ You must have at least one hand free to use this ability. When you do so, the da
 
 You can use this ability a number of times equal to your bending modifier per long rest.
 
+<div class="HBspacing" style="height:0em;">
+</div>
+
 ### Ability Score Improvement
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
@@ -189,6 +213,11 @@ Additionally, you can bend even water you cannot see, such as an underground res
 
 ### Waterbending specialization
 At 5th level, you specialize in one of the following types of waterbending: advanced waterbending, healing, bloodbending, or plantbending. Your abilities are described in the specialization section at the end of this class description.
+
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 2 | CLASSES</div>
+
+\page
 
 ### Water Movement
 At 6th level, you learn to synchronize your control of water with your movement. You gain the ability to move across liquids. 
@@ -205,6 +234,9 @@ Also at 6th level, you learn to bend liquids even if they are not pure water, as
     <p><emph>Cost: 1 chi</emph></p>
 
     You gain the abilities granted by the spell *Purify Food and Drink*, but only for liquids. You can also use this ability to filter any other particles (e.g., earth) out of the water.
+</div>
+
+<div class="HBspacing" style="height:1em;">
 </div>
 
 ### Versatile Reaction
@@ -224,6 +256,9 @@ Beginning at 10th level, your ingenuity and experience with a variety of adversa
 
 When you use this form, you adapt it to use water (in some state) instead of the original element, causing it do deal bludgeoning damage instead of the original damage type. You also use your waterbending modifiers and DCs.
 
+<div class="HBspacing" style="height:3em;">
+</div>
+
 ### Water Spout
 At 13th level, you learn to use your control of water to raise yourself into the air. When you are near a body of water that is at least 30 feet square and 25 feet deep, you can use your action to collect enough water to create a funnel that raises you up to 60 feet in the air. You gain a "flying" speed equal to your ground speed.
 
@@ -237,6 +272,11 @@ At 15th level, ... [flavor]
 
 ### Element of Change
 At 20th level, ...
+
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 2 | CLASSES</div>
+
+\page 
 
 ## Waterbending specializations
 
@@ -275,16 +315,25 @@ You can also use this ability to reduce the target's exhaustion level by one, en
 #### New Beginnings
 At 17th level, you learn to heal even the oldest and deepest wounds. You can use your healing to cause the effects of the *Regenerate* spell.
 
+<!--Spiritbending: https://avatar.fandom.com/wiki/Healing#Spiritbending -->
+
 ### Bloodbending
 *Prerequisite: Find a bloodbending master.*
+<!-- also... have an evil or at best neutral alignment? -->
 
 #### Paralysis
 Beginning when you choose this specialization at 5th level, you learn to control the water inside others' bodies. You can use your action to attempt to stop one creature at a time in its tracks, provided it is within your range. You can use this ability a number of times equal to your bending modifier per long rest.   
+
+<div class="HBspacing" style="height: 2em;">
+</div>
 
 > ##### Phases of the Moon
 > If you are using the *Celestial Tracking* variant of the Bender expansion (see Part 1), your DM will keep track of the current position of the celestial bodies, including the phases of the moon.  
 > 
 > If you are not using the variant, roll a 1d8 when you wish to use your bloodbending abilities to determine the phase of the moon. An 8 indicates a full moon, whereas rolls of 1-7 correspond to the other phases and lead to diminished bloodbending powers.
+
+<div class="HBspacing" style="height: 2em;">
+</div>
 
 The creature makes a Charisma saving throw against your bending DC. If the moon is full (see the "Phases of the Moon" inset to learn how to determine the phase of the moon), the creature becomes Paralyzed on a failure and Restrained on a success. If the moon is not full, the creature becomes Restrained on a failure and nothing happens on a success.
 
@@ -297,6 +346,11 @@ The creature makes a saving throw as before. During a full moon, a failure leads
 
 If the moon is not full, on a failure you can only force the target to use half its movement and take one Action at disadvantage (that is, attacks and ability checks you force it to take are made at disadvantage). You cannot make the creature use its Reaction. With a successful saving throw, the target is only Paralyzed and you have no further control over its actions.
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 2 | CLASSES</div>
+
+\page   
+
 These effects persist while you maintain concentration. At the end of each of its turns, the target can make another Charisma saving throw. On a success, your control ends and the creature is immune to your bloodbending until it has taken a long rest. 
 
 The number of creatures you can control increases with your bloodbender level (waterbender level minus 5); at each level, you can control a number of creatures equal to half your bloodbender level, rounded down (minimum of 1).
@@ -306,6 +360,9 @@ At 11th level, your bloodbending control increases. Instead of Paralyzing them, 
 
 #### Bending Block
 At 17th level, you learn to use bloodbending to temporarily block another bender's abilities. Once per long rest, if the other bender is Restrained or Incapacitated, you can touch them on the center of the forehead and use an action to remove their bending. They regain their bending after 1d100 hours.
+
+<!--#### Bloodbending Anytime
+At 19th level, you are able to bloodbend even on nights without a full moon, excluding those with a new moon.-->
 
 ### Plantbending
 
@@ -326,6 +383,9 @@ While traveling for an hour or more in your favored terrain, you gain the follow
 #### Greater Plantbending
 Your experience bending the water in plants has made you a resourceful fighter. Starting at 7th level, basic waterbending attacks made with plants have a reach of 10 feet. When you hit with such an attack, you can spend another chi to attempt to grapple your target in addition to dealing your normal damage. 
 
+<div class="HBspacing" style="height: 2em;">
+</div>
+
 #### Plant Armor
 At 11th level, you can summon plants to create a sort of biological armor. You spend one action gathering enough plants to surround you, transforming you into a Large creature. The plant armor gives you temporary hit points equal to your bender level.
 
@@ -334,14 +394,26 @@ At 17th level, you are able to read the spiritual energy in the connected plant 
 
 You can also choose to use this ability to gain the benefits of the spell *Commune with Nature* instead.
 
+<!--Lifting things/pushing things-->
+
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 2 | CLASSES</div>
+\page
+
 ## Waterbending Forms
-Unless otherwise specified, anytime a target is required to make a saving throw, it makes it against your bending DC (see "Bending Attack").
+Most forms require you to roll to attack, adding your bending attack bonus. You do *not* add a bonus to the damage caused by forms.
+
+Unless otherwise specified, anytime a target is required to make a saving throw, it makes it against your bending DC.
+
+All bonuses are defined at the beginning of the class description (see "Bending Attack").
 
 You start out knowing forms marked with an asterisk.
 
 #### State Change\*
 *Cost: 1 chi*  
 Each state of water (solid – liquid – gas) can be converted to a state adjacent to it. For example, ice or snow can be turned into liquid water, liquid water can be turned into either solid or gaseous water, but you cannot convert directly between, e.g., snow and water vapor.  
+<!--##### Breath of Ice
+Convert liquid water to ice.-->
 
 To convert to and from gaseous water you must be at least a level 4 waterbender.
 
@@ -377,6 +449,9 @@ You send a ray of ice across the ground streaking towards a target of your choic
 
 At the end of each of its turns, a the target must succeed on a DC 13 Strength check to break free.
 
+<div class="HBspacing" style="height: 1em;">
+</div>
+
 #### Water Wall
 *Cost: 1+ chi*  
 <!-- Source: Wall of Water spell from Elemental Evil Player's Companion-->
@@ -388,10 +463,10 @@ Any ranged weapon attack that enters the wall’s space has disadvantage on the 
 
 #### Water Blade
 *Cost: 2 chi*  
-You make a waterbending attack, channeling your inner chi to rapidly shape water into a sharp point or edge for a split second when you make contact with the target. On a hit, the attack deals an additional 1d4 slashing damage.   
+You make a waterbending attack, channeling your inner chi to rapidly shape water into a sharp point or edge for a split second when you make contact with the target. On a hit, the attack deals 1d4 slashing damage.   
 
 
-If the target is wearing armor and you roll a natural 15 or higher to hit, this gash weakens the armor sufficiently to cause the target's AC to decrease by 1 until they repair the damage done to their armor. You cannot use this ability to decrease a creature's AC below what its armor class would be without the armor.
+If the target is wearing armor and you roll a natural 15 or higher to hit, this gash weakens the armor sufficiently to cause the target's AC to decrease by 1 until they repair the damage done to their armor. You cannot use this ability to decrease a creature's AC below its natural armor class (its AC without armor).
 
 #### Jet
 *Cost: 2 chi*  
@@ -411,6 +486,11 @@ You gain an additional dagger for each extra chi you spend.
 You cause ice shards to rain down on creatures in a 10-foot diameter sphere centered on a point within your normal bending range. Each creature in this area must succeed on a Dexterity saving throw or take 1d8 piercing damage.
 
 For each additional chi you spend, the sphere's diameter increases by 5 feet.
+
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 2 | CLASSES</div>
+
+\page
 
 #### Fists of Ice
 *Cost: 2 chi*  
@@ -438,9 +518,9 @@ You can attempt to grapple a Large or smaller creature within the tendril's rang
 
 #### Water Dome
 *Cost: 3 chi*  
-You create a protective dome (half-sphere) of water around you. Its radius is equal to your normal bending range. The dome lasts 24 hours unless you dismiss it as a free action.
+You create a protective dome (half-sphere) of water above you. Its radius is equal to your normal bending range. The dome lasts 24 hours unless you dismiss it as a free action.
 
-You control the weather inside the dome. You must be outdoors to use this form. Moving to a place where you don’t have a clear path to the sky causes the dome to break apart.
+You must be outdoors to use this form. Once you create the dome, you control the weather inside it. Moving to a place where you don’t have a clear path to the sky causes the dome to break apart.
 
 Within the dome, you are protected from wind outside the dome and you can change the precipitation. It takes 6 seconds for the new conditions to take effect. Once they do so, you can change the conditions again without expending any chi. When the dome disappears, the weather gradually returns to normal.
 
@@ -454,6 +534,10 @@ When you change the precipitation, find its current condition on the following t
 | 2     | Light rain
 | 3     | Rain, hail, or snow
 | 4     | Torrential rain, driving hail, or blizzard
+
+<!--#### Razor Rings
+*Cost: 4 chi*  
+*[todo]*-->
 
 #### Ice Storm
 *Cost: 5 chi*  
@@ -491,6 +575,11 @@ The effect also ends if you lose concentration.
 *Cost: 4 chi (+1 chi)*  
 This form requires a body of water at least 50 feet square and 25 feet deep. You cause a whirlpool to form in the center of the area. The whirlpool forms a vortex that is 5 feet wide at the base, up to 50 feet wide at the top, and 25 feet tall. Any creature or object in the water and within 25 feet of the vortex is pulled 10 feet toward it. A creature can swim away from the vortex by making a Strength (Athletics) check against your DC.
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 2 | CLASSES</div>
+
+\page
+
 When a creature enters the vortex for the first time on a turn or starts its turn there, it must make a Strength saving throw. On a failed save, the creature takes 2d8 bludgeoning damage and is caught in the vortex until the spell ends. On a successful save, the creature takes half damage, and isn't caught in the vortex. A creature caught in the vortex can use its action to try to swim away from the vortex as described above, but has disadvantage on the Strength (Athletics) check to do so.
 
 The first time each turn that an object enters the vortex, the object takes 2d8 bludgeoning damage; this damage occurs each round it remains in the vortex.
@@ -501,5 +590,14 @@ Unless you spend 1 chi on each subsequent round, the whirlpool disappears at the
 #### Tsunami
 *Cost: 5 chi*  
 You cause the effects of the spell *Tsunami* with a range equal to your normal bending range.
+
+<!-- #### Water Ball
+*Cost: 5 chi*  
+You surround a Medium or smaller target with a large mass of water, trapping it. 
+
+How is this different from ice creeper and/or ice prison? -->
+ 
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 2 | CLASSES</div>
 
 <img src='https://nglaeser.keybase.pub/Other/water.png' style='position:absolute;bottom:70px;right:30px;width:280px;opacity:0.4'>

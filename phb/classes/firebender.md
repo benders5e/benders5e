@@ -5,6 +5,8 @@ permalink: /phb/classes/firebender/
 nav-hide: true
 ---
 
+<!-- Homebrewery Link: https://homebrewery.naturalcrit.com/edit/24oFxIIOYo -->
+
 <h1 id="classes">
     Firebender
 </h1>
@@ -46,6 +48,8 @@ As a firebender, you gain the following class features.
 **Weapons:** Simple weapons, shortswords, scimitars  
 **Tools:** Your choice of herbalism kit or one musical instrument.
 
+<div style="height: 0em;"></div>
+
 **Saving Throws:** Charisma, Constitution  
 **Skills:** Choose two from Acrobatics, Deception, History, Insight, Intimidation, and Performance
 
@@ -71,11 +75,16 @@ When you take a basic bending attack, you spend 1 point of chi and deal 1d6 fire
 
 As a firebender, Charisma is your primary attack ability:  
 
-
 <div style="margin-left: 1em;">
     <strong>Attack Bonus</strong> = Cha modifier + proficiency bonus
-    <p><strong>Damage Bonus</strong></p> = Cha modifier  
+    <p><strong>Damage Bonus</strong> = Cha modifier</p>
 </div>
+
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 2 | CLASSES</div>
+\page
+
+<!--div class='classTable wide'-->
 
 ##### The Firebender
   
@@ -102,6 +111,8 @@ As a firebender, Charisma is your primary attack ability:
 |19th | +6 | 1d12  |200/400| 10| 6 | Ability Score Improvement
 |20th | +6 | 1d12  |200/400| 10| 6 | Element of Power
 
+<!--/div--> 
+
 The attack bonus is hereafter referred to as your firebending modifier.
 
 Some of your abilities will require targets to make saving throws against your bending. The DC for these saving throws is your bending DC:
@@ -126,18 +137,28 @@ You also have the ability to redirect ranged firebending attacks instead of defu
 #### Agni Kai
 You are skilled at duels and excel at focusing your power on one opponent. If you attack the same target as your previous attack, you gain a +2 to your attack roll.
 
+<!--#### Shaolin
+You are used to fighting in close ranges, utilizing strong kicks and quick punches
+Aspects of the firebending combat style can be seen through a similar emphasis on highly technical kicking strikes, fundamentally strong movements, and the usage of swift, direct maneuvers. Northern Shaolin is an external style that uses long, aggressive techniques that explode and drive through the opponent.
+
+The Northern Shaolin style emphasizes "kicking over hand fighting", or prioritizing one's legwork as opposed to the arms. Kicks are meant to "extend as far as possible without compromising balance-->
+
 #### Chaquan
 You are an expert in acrobatics and agile, graceful movements. You gain proficiency in Acrobatics and +5 to your speed. If you already have proficiency, you gain expertise.
 
 #### Seven Stars
 You favor a style that utilizes momentary bursts of extreme power at the expense of your defense. At the beginning of your turn, you can choose to decrease your AC for the next turn by 2 to add +2 to the damage dealt by all your attacks that hit.  
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 2 | CLASSES</div>
+\page 
+ 
 ### Firebending Forms
 Starting at 2nd level, your connection to chi and practice of bending allows you to weave your bending into your combat style. With training, you are able to learn particular forms that combine martial arts and firebending to carry out more sophisticated attacks.  
 
 You learn one form from the list at the end of this class description. The number of forms you know increases with level and is shown in the Firebender Table. Each time you learn a new form you may also replace one form you already know with another one. 
 
-Every time you take the Attack action on your turn, you have a certain amount of *chi* at your disposal (indicated by the "Chi per Attack" column of the class table). You can distribute your chi among basic bending attacks or regular bending (*cost: 1 chi*) and any forms you know (whose costs are indicated with their descriptions). Forms use your bending attack and damage bonuses.
+Every time you take the Attack action on your turn, you have a certain amount of *chi* at your disposal (indicated by the "Chi per Attack" column of the class table). You can distribute your chi among basic bending attacks or regular bending (*cost: 1 chi*) and any forms you know (whose costs are indicated with their descriptions). When you use a form, you add your bending attack bonus to the attack roll but you do not add your bending damage bonus to the resulting damage.
 
 You can use each form a maximum of once per turn.
 
@@ -159,6 +180,9 @@ When you reach 4th level, and again at 8th, 11th, 16th, and 19th level, you can 
 
 Using the optional feats rule, you can forgo taking this feature to take a feat of your choice instead.
 
+<div class="HBspacing" style="height: 3em;">
+</div>
+
 ### Inner Flame
 At 4th level, you gain the ability to reset your chi exhaustion die back to the maximum once per long rest.
 
@@ -177,8 +201,12 @@ Also at 6th level, you gain the ability to alter outside sources of fire. On you
 
 ### Lightning Redirection
 
+<div class="HBspacing" style="height: 1em;">
+</div>
+
 <div style="margin-left: 1.5em;">
-    <emph>If you let the energy in your own body flow, the lightning will follow it. You must create a pathway from your fingertips up your arm to the shoulder, then down into the stomach. The stomach is the source of energy in your body; it is called the sea of chi. From your stomach you direct it up again and out the other arm. The stomach detour is critical; you must not let the lightning pass through your heart, or the damage could be deadly.</emph>
+    <p style="font-style: italic;">
+    If you let the energy in your own body flow, the lightning will follow it. You must create a pathway from your fingertips up your arm to the shoulder, then down into the stomach. The stomach is the source of energy in your body; it is called the sea of chi. From your stomach you direct it up again and out the other arm. The stomach detour is critical; you must not let the lightning pass through your heart, or the damage could be deadly.</p>
     <p>–Iroh, inventor of lightning redirection</p>
 </div>
 
@@ -186,6 +214,11 @@ Starting at 9nd level, when you are hit by lightning or electricity (natural or 
 
 ### Fierce Fighter
 Beginning at 10th level, when you roll a 1 or 2 on a damage die for a basic firebending attack, you can reroll the damage. You must use the new roll. This ability does not apply to additional damage dice (e.g., the Colorful Flame damage) beyond the "bending" die listed in the table.
+
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 2 | CLASSES</div>
+
+\page
 
 ### Fire Rockets
 At 13th level, the power of your Firestepping increases. You gain a flying speed of 60 feet and can end your turn in the air without falling.
@@ -205,7 +238,7 @@ At 20th level, the power of your inner flame grows, increasing your stamina. You
 
 #### Colorful Flame 
 
-Beginning when you choose this specialization at 5th level, your fire begins to develop a character of its own. It takes on one of the colors below and the corresponding type of damage. At 5th level, bending attacks that are not the result of a form deal an additional 1d4 of the damage type determined by your fire's color. This includes your bonus attack.
+Beginning when you choose this specialization at 5th level, your fire begins to develop a character of its own. When you gain this ability, choose one of the colors below. Bending attacks that are not the result of a form deal an additional 1d4 of the damage type determined by your fire's color. This includes your bonus attack.
 
 At 11th level this damage increases to 1d6, and again to 1d8 at 17th level.
 
@@ -213,7 +246,7 @@ At 11th level this damage increases to 1d6, and again to 1d8 at 17th level.
 |:----------|:--------------|
 | Blue      | Lightning     |
 | Red-orange| Fire          |
-| Green     | Poison or acid|
+| Green     | Acid          |
 | Yellow    | Radiant       |
 | Black     | Necrotic      |
 | White     | Cold          |
@@ -261,6 +294,11 @@ At 11th level, your lightning attacks have the potential to arc from one target 
 #### ?
 At 17th level, ...
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 2 | CLASSES</div>
+
+\page 
+
 ### Energy Reading
 
 #### Chi Sensing
@@ -295,6 +333,9 @@ Level ideas: silent, multiple simultaneous projectiles, increasing power/range/r
 
 Combustionbenders possess the rare ability to firebend with their minds. Instead of using movement to focus their chi, they gather chi from their stomachs – the "sea of chi" – and carefully direct this energy through the Light Chakra in the forehead. To help channel the energy, their foreheads are often marked by an intricate third-eye tattoo.
 
+<div class="HBspacing" style="height: 6em;">
+</div>
+
 #### Uncanny Focus
 Beginning when you choose this specialization at 5th level, you learn to channel your chi with great precision and focus, allowing you to use your bending over incredible distances. By spending 1 chi, you can use your long bending range instead of the normal range for any form or attack without incurring disadvantage. This precision and power also allows you to deal double damage on your first turn of combat.
 
@@ -318,8 +359,17 @@ At 17th level, you learn an additional form of your choice from the following li
     [stealthy, cone AOE]
 </div>
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 2 | CLASSES</div>
+
+\page
+
 ## Firebending Forms
-Unless otherwise specified, anytime a target is required to make a saving throw, it makes it against your bending DC (see "Fire Jab").
+Most forms require you to roll to attack, adding your bending attack bonus. You do *not* add a bonus to the damage caused by forms.
+
+Unless otherwise specified, anytime a target is required to make a saving throw, it makes it against your bending DC.
+
+All bonuses are defined at the beginning of the class description (see "Fire Jab").
 
 #### Flashbang
 *Cost: 1 chi*  
@@ -355,6 +405,9 @@ The daggers remain as long as you maintain concentration. You can continue to at
 
 Despite their slashing capabilities, these daggers lack the ability to block physical objects.
 
+<div class="HBspacing" style="height:4em;">
+</div>
+
 #### Shield of Fire
 *Cost: 2 chi*  
 When you take this form, gain the ability to use your reaction to raise your AC by 2. When you use this reaction, you spend 2 chi of your next Attack action. 
@@ -369,7 +422,7 @@ For each additional chi point you spend, you create and attack with another fire
 
 #### Projectiles
 *Cost: 2 chi*  
-You create and launch 4 miniature fireballs at any combination of targets within your long range (the second number in the "Range" column). These attacks are made without disadvantage. Each fireball deals 1d4 fire damage.   
+You create and launch 3 miniature fireballs at any combination of targets within your long range (the second number in the "Range" column). These attacks are made without disadvantage. Each fireball deals 1d4 fire damage.   
 
 
 You gain an additional fireball for each extra chi you spend.
@@ -390,10 +443,29 @@ You cast the *Lightning Bolt* spell with a range equal to your normal bending ra
 *Cost: 4 chi*  
 You cast the *Wall of Fire* spell with a range equal to your normal bending range.
 
+<!--#### Blocking Fire
+#### Blazing Rings and Arcs
+#### Fire Circle
+#### Fire jabs
+This is the regular attack? Or should this be like Flurry of Blows?
+-->
+
 #### Heat Wave
 *Cost: 6 chi*  
 You cause the ambient temperature to raise to an uncomfortable level within your normal bending range. Each creature in the area must make a Constitution saving throw. All targets who fail suffer one of the following (your choice):
 - 1 level of exhaustion (to maximum of level 3)
 - Loss of 1 chi exhaustion point
+
+<!-- #### Fire Missiles
+*Cost: 5 chi*  
+Fire streams that follow the target. [I don't think they make sense for D&D attacks though.] -->
+
+<!--#### Fire Comet
+#### Fire Pinwheel
+Not sure what these are
+-->
+
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 2 | CLASSES</div>
 
 <img src='https://nglaeser.keybase.pub/Other/fire.png' style='position:absolute;bottom:70px;right:30px;width:280px;opacity:0.4'>
