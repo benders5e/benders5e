@@ -71,11 +71,11 @@ At 1st level, your practice of martial arts gives you mastery of combat styles t
 
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 2 | CLASSES</div>
-\page
+<div class="HBonly">\page</div>
 
 <!--div class='classTable wide'-->
 
-##### The Monk
+<h5 class="tableHeader">The Monk</h5>
   
 |Level|Proficiency Bonus|Martial Arts|Chi Points|Unarmored Movement| Features |
 |:---:|:---------------:|:----------:|:--------:|:----------------:|:---------|
@@ -128,7 +128,7 @@ Some of your chi features require your target to make a saving throw to resist t
 
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 2 | CLASSES</div>
-\page
+<div class="HBonly">\page</div>
 
 #### Flurry of Blows
 Immediately after you take the Attack action on your turn, you can spend 1 chi point to make two unarmed strikes as a bonus action.
@@ -206,7 +206,7 @@ You can use another action to attempt to calm the emotions of a creature you hav
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 2 | CLASSES</div>
 
-\page
+<div class="HBonly">\page</div>
 
 ### Diamond Soul
 <!--*[also Airbender (13th level)]*  -->
@@ -280,7 +280,7 @@ At 6th level, you learn to use pressure points to disrupt the flow of chi and, c
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 2 | CLASSES</div>
 
-\page 
+<div class="HBonly">\page</div> 
 
 #### Chi Blocking
 Beginning at 11th level, you learn to use your strikes to completely block the flow of chi in your opponents for a short period of time. Whenever you hit a target with an unarmed strike, you can spend 3 chi points to impose one of the following effects on your target:

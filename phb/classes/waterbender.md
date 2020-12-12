@@ -91,11 +91,11 @@ At 1st level, you realize that you have an innate ability to control water. You 
 
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 2 | CLASSES</div>
-\page
+<div class="HBonly">\page</div>
 
 <!--div class='classTable wide'-->
 
-##### The Waterbender
+<h5 class="tableHeader">The Waterbender</h5>
   
 |Level| Proficiency Bonus | Bending | Volume (sphere diameter) | Range | Forms Known | Chi per Attack | Features |
 |:---:|:-----------------:|:-------:|:------:|:-----:|:-:|:-----:|:---------|
@@ -145,7 +145,7 @@ The attack bonus is hereafter referred to as your waterbending modifier.
 
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 2 | CLASSES</div>
-\page
+<div class="HBonly">\page</div>
 
 Some of your abilities will require targets to make saving throws against your bending. The DC for these saving throws is your bending DC:
 
@@ -217,7 +217,7 @@ At 5th level, you specialize in one of the following types of waterbending: adva
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 2 | CLASSES</div>
 
-\page
+<div class="HBonly">\page</div>
 
 ### Water Movement
 At 6th level, you learn to synchronize your control of water with your movement. You gain the ability to move across liquids. 
@@ -276,7 +276,7 @@ At 20th level, ...
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 2 | CLASSES</div>
 
-\page 
+<div class="HBonly">\page</div> 
 
 ## Waterbending specializations
 
@@ -349,7 +349,7 @@ If the moon is not full, on a failure you can only force the target to use half 
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 2 | CLASSES</div>
 
-\page   
+<div class="HBonly">\page</div>   
 
 These effects persist while you maintain concentration. At the end of each of its turns, the target can make another Charisma saving throw. On a success, your control ends and the creature is immune to your bloodbending until it has taken a long rest. 
 
@@ -398,7 +398,7 @@ You can also choose to use this ability to gain the benefits of the spell *Commu
 
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 2 | CLASSES</div>
-\page
+<div class="HBonly">\page</div>
 
 ## Waterbending Forms
 Most forms require you to roll to attack, adding your bending attack bonus. You do *not* add a bonus to the damage caused by forms.
@@ -490,7 +490,7 @@ For each additional chi you spend, the sphere's diameter increases by 5 feet.
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 2 | CLASSES</div>
 
-\page
+<div class="HBonly">\page</div>
 
 #### Fists of Ice
 *Cost: 2 chi*  
@@ -526,7 +526,7 @@ Within the dome, you are protected from wind outside the dome and you can change
 
 When you change the precipitation, find its current condition on the following table and change its stage by one, up or down.
 
-##### Precipitation
+<h5 class="tableHeader">Precipitation</h5>
 
 | Stage | Condition
 |:-----:|:-----------
@@ -578,7 +578,7 @@ This form requires a body of water at least 50 feet square and 25 feet deep. You
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 2 | CLASSES</div>
 
-\page
+<div class="HBonly">\page</div>
 
 When a creature enters the vortex for the first time on a turn or starts its turn there, it must make a Strength saving throw. On a failed save, the creature takes 2d8 bludgeoning damage and is caught in the vortex until the spell ends. On a successful save, the creature takes half damage, and isn't caught in the vortex. A creature caught in the vortex can use its action to try to swim away from the vortex as described above, but has disadvantage on the Strength (Athletics) check to do so.
 

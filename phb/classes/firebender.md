@@ -82,11 +82,11 @@ As a firebender, Charisma is your primary attack ability:
 
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 2 | CLASSES</div>
-\page
+<div class="HBonly">\page</div>
 
 <!--div class='classTable wide'-->
 
-##### The Firebender
+<h5 class="tableHeader">The Firebender</h5>
   
 |Level| Proficiency Bonus | Bending | Range | Forms Known | Chi per Attack | Features |
 |:---:|:--:|:-----:|:-----:|:-:|:-:|:-----------------------------
@@ -151,7 +151,7 @@ You favor a style that utilizes momentary bursts of extreme power at the expense
 
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 2 | CLASSES</div>
-\page 
+<div class="HBonly">\page</div> 
  
 ### Firebending Forms
 Starting at 2nd level, your connection to chi and practice of bending allows you to weave your bending into your combat style. With training, you are able to learn particular forms that combine martial arts and firebending to carry out more sophisticated attacks.  
@@ -218,7 +218,7 @@ Beginning at 10th level, when you roll a 1 or 2 on a damage die for a basic fire
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 2 | CLASSES</div>
 
-\page
+<div class="HBonly">\page</div>
 
 ### Fire Rockets
 At 13th level, the power of your Firestepping increases. You gain a flying speed of 60 feet and can end your turn in the air without falling.
@@ -261,7 +261,7 @@ You can also have the opposite effect: if you have hands or nose or mouth free, 
 
 This ability gives you resistance to cold damage.
 
-##### Cooling Time
+<h5 class="tableHeader">Cooling Time</h5>
 
 | Material | Minutes              |
 |:---------|:---------------------|
@@ -297,7 +297,7 @@ At 17th level, ...
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 2 | CLASSES</div>
 
-\page 
+<div class="HBonly">\page</div> 
 
 ### Energy Reading
 
@@ -362,7 +362,7 @@ At 17th level, you learn an additional form of your choice from the following li
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 2 | CLASSES</div>
 
-\page
+<div class="HBonly">\page</div>
 
 ## Firebending Forms
 Most forms require you to roll to attack, adding your bending attack bonus. You do *not* add a bonus to the damage caused by forms.

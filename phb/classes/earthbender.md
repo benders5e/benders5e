@@ -97,7 +97,7 @@ At 1st level, you realize that you have an innate ability to control earth. You 
 
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 2 | CLASSES</div>
-\page
+<div class="HBonly">\page</div>
 
 <!--div class='classTable wide'-->
 
@@ -161,7 +161,7 @@ As an earthbender, rocks that are not worn, equipped, or carried have 0 AC for t
 
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 2 | CLASSES</div>
-\page
+<div class="HBonly">\page</div>
 
 ### Stance
 Beginning at 2nd level, you adopt a particular stance as your specialty. Choose one of the following options:
@@ -227,7 +227,7 @@ When you reach 6th level, you learn to synchronize your control of earth with yo
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 2 | CLASSES</div>
 
-\page  
+<div class="HBonly">\page</div>  
 
 ### Expansion and Compaction
 At 6th level, your control increases. You are now able to compact or expand earth of the weight and range that you can bend as a bonus action. Each compaction increases the material's AC by 1 (to a maximum of 19), while each expansion decreases the AC by 1 (see the Quick Conversions table on pg. 1). As a consequence, you can now tunnel underground without having to deposit the removed earth elsewhere.
@@ -305,7 +305,7 @@ Whenever such a creature makes such an attack, it does so at disadvantage. If th
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 2 | CLASSES</div>
 
-\page
+<div class="HBonly">\page</div>
 
 Once per long rest, you can use your reaction to completely neutralize such an attack, causing it to miss you.
 
@@ -405,7 +405,7 @@ At 17th level, you learn an additional form of your choice from the following li
 
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 2 | CLASSES</div>
-\page
+<div class="HBonly">\page</div>
 
 <div class="formCard earth">
 <h5>Flaming Shuriken</h5>
@@ -493,7 +493,7 @@ The glove crumbles to the ground if it is ever out of your normal earthbending r
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 2 | CLASSES</div>
 
-\page
+<div class="HBonly">\page</div>
 
 <div class="formCard earth">
 <h4>Earth Boots</h4>
@@ -603,7 +603,7 @@ To break out, the restrained target can use its action to make a Strength check 
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 2 | CLASSES</div>
 
-\page
+<div class="HBonly">\page</div>
 
 <div class="formCard earth">
 <h4>Dust Cloud</h4>

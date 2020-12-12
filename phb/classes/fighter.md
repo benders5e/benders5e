@@ -65,7 +65,7 @@ You start with the following equipment, in addition to the equipment granted by 
 
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 2 | CLASSES</div>
-\page
+<div class="HBonly">\page</div>
 
 <!--div class='classTable'-->
 
@@ -145,7 +145,7 @@ You can use this feature twice between long rests starting at 13th level and thr
 
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 2 | CLASSES</div>
-\page
+<div class="HBonly">\page</div>
 
 ### Extra Attack (2)
 Beginning at 11th level, you can attack three times, instead of twice, whenever you take the Attack action on your turn.
@@ -229,7 +229,7 @@ The maneuvers are presented in alphabetical order.
 
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 2 | CLASSES</div>
-\page
+<div class="HBonly">\page</div>
 
 **_Disarming Attack._** When you hit a creature with a weapon attack, you can expend one superiority die to attempt to disarm the target, forcing it to drop one item of your choice that it's holding. You add the superiority die to the attack's damage roll, and the target must make a Strength saving throw. On a failed save, it drops the object you choose. The object lands at its feet.
 
@@ -278,7 +278,7 @@ Upon choosing this archetype at 3rd level, you gain proficiency with Tinker’s 
 
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 2 | CLASSES</div>
-\page
+<div class="HBonly">\page</div>
 
 <!--div class='classTable wide'-->
 
@@ -345,7 +345,7 @@ These trick shots are presented in alphabetical order.
 
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 2 | CLASSES</div>
-\page
+<div class="HBonly">\page</div>
 
 ##### Bullying Shot
 You can use the powerful blast and thundering sound of your firearm to shake the resolve of a creature. You can expend one grit point while making a Charisma (Intimidation) check to gain advantage on the roll.

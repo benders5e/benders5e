@@ -71,10 +71,11 @@ At 1st level, you realize that you have an innate ability to manipulate the air 
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 2 | CLASSES</div>
 
-\page
+<div class="HBonly">\page</div>
 
 <!--div class='classTable wide'-->
-<h5> The Airbender</h5>
+
+<h5 class="tableHeader"> The Airbender</h5>
   
 |Level| Proficiency Bonus | Bending | Range | Forms Known | Chi per Attack |Unarmored Movement| Features |
 |:---:|:--:|:--------:|:----:|:-----:|:-:|:-:|:-----------|
@@ -139,7 +140,7 @@ Some of your abilities will require targets to make saving throws against your b
 
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 2 | CLASSES</div>
-\page
+<div class="HBonly">\page</div>
 
 Unless otherwise specified, anytime a target is required to make a saving throw, it makes it against your bending DC.
 
@@ -203,7 +204,7 @@ At 10th level, you become capable of displaying formidable breath control. You l
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 2 | CLASSES</div>
 
-\page
+<div class="HBonly">\page</div>
 
 You are also able to hold your breath for an unusual amount of time; instead of the normal amount (a number of minutes equal to 1 + your Constitution modifier), you can hold your breath for a number of minutes equal to 1 + your proficiency bonus + your airbending modifier.
 
@@ -290,7 +291,7 @@ At 11th level, you gain access to an extended list of more aggressive forms. Fro
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 2 | CLASSES</div>
 
-\page
+<div class="HBonly">\page</div>
 
 #### ?
 At 17th level, ...
@@ -364,7 +365,7 @@ Just like your regular bending attack, this form clears any clouds not caused by
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 2 | CLASSES</div>
 
-\page
+<div class="HBonly">\page</div>
 
 <div class="formCard air">
 <h4>Funnel</h4>
