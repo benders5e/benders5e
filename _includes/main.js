@@ -39,6 +39,9 @@ for(let i = 0; i < navSectionTitles.length; i++) {
 let navSubsectionTitles;
 if(currSection.id == "classes") {
     navSubsectionTitles = classes;
+} else if(currSection.id == "feats") {
+    // don't show all feats in nav
+    // TODO: jump to letter
 } else {
     navSubsectionTitles = document.querySelectorAll("h3");
 }
