@@ -83,7 +83,7 @@ blockquote {
   font-style: normal;
   font-size: 16px;
   color: black;
-  background-color: $inset-grey;
+  background-color: $info-yellow;
   letter-spacing: normal;
   margin-left: 1.5em;
   margin-right: 1.5em;
@@ -109,11 +109,19 @@ blockquote h5 {
 .formCard.earth {
   background-color: $earth-green;
 }
-
-.subtitle {
-  font-size: 20px;
+.formCard.fire {
+  background-color: $fire-red;
+}
+.formCard.water {
+  background-color: $water-blue;
+}
+.formCard table th, .formCard table tr {
+  background-color: transparent;
 }
 
+.subtitle { font-size: 20px;
+ } 
+ 
 .banner {
   //background-image: url("./path.jpg");
   background-color: $air-blue;
@@ -142,10 +150,12 @@ blockquote h5 {
 .new::after {
   content: "new";
   color: white;
+
   font-size: 12px;
   font-family: $base-font-family;
   text-transform: lowercase;
   vertical-align: middle;
+  margin-left: .5em;
 
   border-radius: .5em;
   padding: 1px 10px;
@@ -161,6 +171,7 @@ blockquote h5 {
   font-family: $base-font-family;
   text-transform: lowercase;
   vertical-align: middle;
+  margin-left: .5em;
 
   border-radius: .5em;
   padding: 1px 10px;

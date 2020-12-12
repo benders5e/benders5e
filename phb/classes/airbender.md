@@ -33,8 +33,8 @@ As you make your airbender character, think about ...
 
 Because of the air's untethered nature, airbenders tend towards chaotic (or at most neutral) alignments.
 
-#### Quick Build
-You can make an airbender quickly by following these suggestions. First, pick Wisdom as your highest score, followed by Dexterity. Second, choose the Hermit background. 
+> #### Quick Build
+> You can make an airbender quickly by following these suggestions. First, pick Wisdom as your highest score, followed by Dexterity. Second, choose the Hermit background. 
 
 ## Class Features
 As an airbender, you gain the following class features.

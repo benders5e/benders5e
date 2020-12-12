@@ -7,9 +7,7 @@ nav-hide: true
 
 <!-- Homebrewery Link: https://homebrewery.naturalcrit.com/edit/24oFxIIOYo -->
 
-<h1 id="classes">
-    Firebender
-</h1>
+<h1 class="new" id="classes" >Firebender</h1>
 
 Fire is the element of power. Firebenders must be able to maintain a constant source of energy and balance in battle and direct it through unflinching conviction. This energy comes from within, but is strengthened by the sun and some other natural phenomena. 
 
@@ -31,8 +29,8 @@ As you make your firebender character, think about ...
 
 Because of the passionate nature of fire, firebenders tend towards extreme alignments and are rarely neutral.
 
-#### Quick Build
-You can make a firebender quickly by following these suggestions. First, pick Charisma as your highest score, followed by Constitution. Second, choose the Soldier background. 
+> #### Quick Build
+> You can make a firebender quickly by following these suggestions. First, pick Charisma as your highest score, followed by Constitution. Second, choose the Soldier background. 
 
 ## Class Features
 
@@ -348,14 +346,16 @@ At 11th level, you can cause explosions with your basic bending attack. Instead 
 #### Advanced Forms
 At 17th level, you learn an additional form of your choice from the following list:  
 
-<div style="margin-left: 1.5em;">
-    <h5>Charged Attack</h5>
-    <emph>Prerequisite: Combustionbending specialization</emph>
-    <emph>Cost: X chi</emph>
+<div class="formCard fire">
+    <h4>Charged Attack</h4>
+    <p style="font-style: italic;">Prerequisite: Combustionbending specialization</p>
+    <p style="font-style: italic;">Cost: X chi</p>
+</div>
 
-    <h5>Firebreathing</h5>
-    <emph>Prerequisite: Combustionbending specialization</emph>
-    <emph>Cost: X chi</emph>
+<div class="formCard fire">
+    <h4>Firebreathing</h4>
+    <p style="font-style: italic;">Prerequisite: Combustionbending specialization</p>
+    <p style="font-style: italic;">Cost: X chi</p>
     [stealthy, cone AOE]
 </div>
 
@@ -371,77 +371,101 @@ Unless otherwise specified, anytime a target is required to make a saving throw,
 
 All bonuses are defined at the beginning of the class description (see "Fire Jab").
 
-#### Flashbang
-*Cost: 1 chi*  
-You cause a bright flash, blinding a target within 5 feet of your choice. The target makes a Constitution saving throw. On a failure, it is blinded until the end of its next turn.
+<div class="formCard fire">
+    <h4>Flashbang</h4>
+    <p style="font-style: italic;">Cost: 1 chi</p>
+    You cause a bright flash, blinding a target within 5 feet of your choice. The target makes a Constitution saving throw. On a failure, it is blinded until the end of its next turn.
+</div>
 
-#### Flaming Armor
-*Cost: 2 chi*  
-You cause flames to spring up around you. They follow you around as you move and last for 1 minute. During this time, whenever a creature hits you with a melee attack, it takes 5 fire damage. 
+<div class="formCard fire">
+    <h4>Flaming Armor</h4>
+    <p style="font-style: italic;">Cost: 2 chi</p>
+    You cause flames to spring up around you. They follow you around as you move and last for 1 minute. During this time, whenever a creature hits you with a melee attack, it takes 5 fire damage. 
 
-This damage increases by 5 for each additional chi spent.
+    This damage increases by 5 for each additional chi spent.
+</div>
 
-#### Fire Blade
-*Cost: 2 chi*  
-You narrow and condense your flame projection, creating a thin blade of fire to slice at a target, dealing 1d8 slashing damage + 1d8 fire damage.
+<div class="formCard fire">
+    <h4>Fire Blade</h4>
+    <p style="font-style: italic;">Cost: 2 chi</p>
+    You narrow and condense your flame projection, creating a thin blade of fire to slice at a target, dealing 1d8 slashing damage + 1d8 fire damage.
+</div>
 
-#### Sweeping Fire
-*Cost: 2 chi*  
-You sweep your legs in an arc around you, causing fire to spread out in a 20-foot radius circle with you at the center. Each creature in the area must make a Dexterity saving throw. A target takes 4d6 fire damage on a failed save and half as much on a successful save. 
+<div class="formCard fire">
+    <h4>Sweeping Fire</h4>
+    <p style="font-style: italic;">Cost: 2 chi</p>
+    You sweep your legs in an arc around you, causing fire to spread out in a 20-foot radius circle with you at the center. Each creature in the area must make a Dexterity saving throw. A target takes 4d6 fire damage on a failed save and half as much on a successful save. 
 
-The radius increases by 10 feet with each additional chi you spend.
+    The radius increases by 10 feet with each additional chi you spend.
+</div>
 
-#### Fire Bomb
-*Cost: 2 chi*  
-You create a flame at the end of one of your limb and thrust it onto the ground in an explosive burst at a point within range. Targets in a 10-foot radius of the burst must make a Dexterity saving throw. On a failure, they take 2d6 force damage and are stunned until the beginning of their next turn. On a success, they take half damage. 
+<div class="formCard fire">
+    <h4>Fire Bomb</h4>
+    <p style="font-style: italic;">Cost: 2 chi</p>
+    You create a flame at the end of one of your limb and thrust it onto the ground in an explosive burst at a point within range. Targets in a 10-foot radius of the burst must make a Dexterity saving throw. On a failure, they take 2d6 force damage and are stunned until the beginning of their next turn. On a success, they take half damage. 
 
-The radius increases by 5 feet with each additional chi spent.
+    The radius increases by 5 feet with each additional chi spent.
+</div>
 
-#### Fire Daggers
-*Cost: 2 chi*  
-You create two blowtorch-like jets from your fists or fingertips to use as close range melee attacks. As part of the same motion used to create them, you can make two attacks dealing 1d4 slashing damage + 1d4 fire  damage.  
+<div class="formCard fire">
+    <h4>Fire Daggers</h4>
+    <p style="font-style: italic;">Cost: 2 chi</p>
+    You create two blowtorch-like jets from your fists or fingertips to use as close range melee attacks. As part of the same motion used to create them, you can make two attacks dealing 1d4 slashing damage + 1d4 fire  damage.  
 
-The daggers remain as long as you maintain concentration. You can continue to attack with them, each time spending 2 chi to make two hits. You add your damage bonus to the damage of both attacks.  
+    The daggers remain as long as you maintain concentration. You can continue to attack with them, each time spending 2 chi to make two hits. You add your damage bonus to the damage of both attacks.  
 
-Despite their slashing capabilities, these daggers lack the ability to block physical objects.
+    Despite their slashing capabilities, these daggers lack the ability to block physical objects.
+</div>
 
 <div class="HBspacing" style="height:4em;">
 </div>
 
-#### Shield of Fire
-*Cost: 2 chi*  
-When you take this form, gain the ability to use your reaction to raise your AC by 2. When you use this reaction, you spend 2 chi of your next Attack action. 
+<div class="formCard fire">
+    <h4>Shield of Fire</h4>
+    <p style="font-style: italic;">Cost: 2 chi</p>
+    When you take this form, gain the ability to use your reaction to raise your AC by 2. When you use this reaction, you spend 2 chi of your next Attack action. 
 
-If the shield causes the attack to miss, the shield disintegrates; otherwise, it remains for a maximum of 1 minute.
+    If the shield causes the attack to miss, the shield disintegrates; otherwise, it remains for a maximum of 1 minute.
+</div>
 
-#### Lashing Flames
-*Cost: 2 chi*  
-You shape your flame into a lashing tendril and swipe at a target within range, dealing 1d10 bludgeoning damage. 
+<div class="formCard fire">
+    <h4>Lashing Flames</h4>
+    <p style="font-style: italic;">Cost: 2 chi</p>
+    You shape your flame into a lashing tendril and swipe at a target within range, dealing 1d10 bludgeoning damage. 
 
-For each additional chi point you spend, you create and attack with another fire lash, dealing an additional die of damage.
+    For each additional chi point you spend, you create and attack with another fire lash, dealing an additional die of damage.
+</div>
 
-#### Projectiles
-*Cost: 2 chi*  
-You create and launch 3 miniature fireballs at any combination of targets within your long range (the second number in the "Range" column). These attacks are made without disadvantage. Each fireball deals 1d4 fire damage.   
-
-
-You gain an additional fireball for each extra chi you spend.
-
-#### Fire Stream
-*Cost: 2 chi*  
-You shoot a continuous stream of fire from their fingertips, fists, palms, or legs, forming a line 5 feet wide and as long as your bending range. Each creature in the line must make a Dexterity saving throw. A creature takes 4d6 fire damage on a failed save, or half as much damage on a successful one.   
+<div class="formCard fire">
+    <h4>Projectiles</h4>
+    <p style="font-style: italic;">Cost: 2 chi</p>
+    You create and launch 3 miniature fireballs at any combination of targets within your long range (the second number in the "Range" column). These attacks are made without disadvantage. Each fireball deals 1d4 fire damage.   
 
 
-The stream widens by 5 feet for each additional chi you spend.
+    You gain an additional fireball for each extra chi you spend.
+</div>
 
-#### Lightning
-*Prerequisite: Lightningbending, 7th level*  
-*Cost: 3 chi*  
-You cast the *Lightning Bolt* spell with a range equal to your normal bending range.
+<div class="formCard fire">
+    <h4>Fire Stream</h4>
+    <p style="font-style: italic;">Cost: 2 chi</p>
+    You shoot a continuous stream of fire from their fingertips, fists, palms, or legs, forming a line 5 feet wide and as long as your bending range. Each creature in the line must make a Dexterity saving throw. A creature takes 4d6 fire damage on a failed save, or half as much damage on a successful one.   
 
-#### Wall of Flames
-*Cost: 4 chi*  
-You cast the *Wall of Fire* spell with a range equal to your normal bending range.
+
+    The stream widens by 5 feet for each additional chi you spend.
+</div>
+
+<div class="formCard fire">
+    <h4>Lightning</h4>
+    <p style="font-style: italic;">Prerequisite: Lightningbending, 7th level</p>
+    <p style="font-style: italic;">Cost: 3 chi</p>
+    You cast the <span style="font-style: italic;">Lightning Bolt</span> spell with a range equal to your normal bending range.
+</div>
+
+<div class="formCard fire">
+    <h4>Wall of Flames</h4>
+    <p style="font-style: italic;">Cost: 4 chi</p>
+    You cast the <span style="font-style: italic;">Wall of Fire</span> spell with a range equal to your normal bending range.
+</div>
 
 <!--#### Blocking Fire
 #### Blazing Rings and Arcs
@@ -450,11 +474,15 @@ You cast the *Wall of Fire* spell with a range equal to your normal bending rang
 This is the regular attack? Or should this be like Flurry of Blows?
 -->
 
-#### Heat Wave
-*Cost: 6 chi*  
-You cause the ambient temperature to raise to an uncomfortable level within your normal bending range. Each creature in the area must make a Constitution saving throw. All targets who fail suffer one of the following (your choice):
-- 1 level of exhaustion (to maximum of level 3)
-- Loss of 1 chi exhaustion point
+<div class="formCard fire">
+    <h4>Heat Wave</h4>
+    <p style="font-style: italic;">Cost: 6 chi</p>
+    You cause the ambient temperature to raise to an uncomfortable level within your normal bending range. Each creature in the area must make a Constitution saving throw. All targets who fail suffer one of the following (your choice):
+    <ul>
+        <li>1 level of exhaustion (to maximum of level 3)</li>
+        <li>Loss of 1 chi exhaustion point</li>
+    </ul>
+</div>
 
 <!-- #### Fire Missiles
 *Cost: 5 chi*  

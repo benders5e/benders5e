@@ -51,8 +51,8 @@ Earthbenders tend towards a Neutral alignment because of the strong role neutral
 
 <!--/div--> 
 
-#### Quick Build
-You can make an earthbender quickly by following these suggestions. First, pick Strength as your highest score, followed by Charisma. Second, choose the Artisan background.  
+> #### Quick Build
+> You can make an earthbender quickly by following these suggestions. First, pick Strength as your highest score, followed by Charisma. Second, choose the Artisan background.  
 
 ## Class Features
 
@@ -602,7 +602,6 @@ To break out, the restrained target can use its action to make a Strength check 
 
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 2 | CLASSES</div>
-
 <div class="HBonly">\page</div>
 
 <div class="formCard earth">

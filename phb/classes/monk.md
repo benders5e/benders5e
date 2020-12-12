@@ -7,9 +7,7 @@ nav-hide: true
 
 <!-- Homebrewery Link: https://homebrewery.naturalcrit.com/edit/PZMEFOb7Xg -->
 
-<h1 id="classes" class="change">
-    Monk
-</h1>
+<h1 id="classes" class="change">Monk</h1>
 
 Whatever their discipline, monks are united in their ability to magically harness the energy that flows in their bodies. Whether channeled as a striking display of combat prowess or a subtler focus of defensive ability and speed, this energy infuses all that a monk does.
 
@@ -32,8 +30,8 @@ Consider why you left. Did the head of your monastery choose you for a particula
 
 As a result of the structured life of a monastic community and the discipline required to harness ki, monks are almost always lawful in alignment.
 
-#### Quick Build
-You can make a monk quickly by following these suggestions. First, make Dexterity your highest ability score, followed by Wisdom. Second, choose the hermit background.  
+> #### Quick Build
+> You can make a monk quickly by following these suggestions. First, make Dexterity your highest ability score, followed by Wisdom. Second, choose the hermit background.  
 
 ## Class Features
 
@@ -181,12 +179,13 @@ At 7th level, your instinctive agility lets you dodge out of the way of certain 
 <!--*[also Airbender (Advanced Specialization, 5th level)]*  -->
 Starting at 7th level, you can use your action to end one effect on yourself that is causing you to be charmed or frightened.
 
+### Unarmored Movement Improvement
+At 9th level, you gain the ability to move along vertical surfaces and across liquids on your turn without falling during the move.
+
 ### Purity of Body
 At 10th level, your mastery of the chi flowing through you makes you immune to disease and poison.
 
-<h3 class="new">
-Bridge of Chi
-</h3>
+<h3 class="new">Bridge of Chi</h3>
 <!-- based on Detect Thoughts and ... -->
 Starting at 13th level, you learn to touch the chi of other minds. You can use an action to read the surface-level thoughts and emotions of a creature you can see within 30 feet of you. If the creature you choose has an Intelligence of 3 or lower or doesn't speak any language, you only learn its general emotional state. This effect lasts for 1 minute. The creature does not know that you probed its mind.
 
@@ -218,7 +217,7 @@ Additionally, whenever you make a saving throw and fail, you can spend 1 chi poi
 <!--*[also Airbender (14th level)]*  -->
 At 15th level, your chi sustains you so that you suffer none of the frailty of old age, and you can’t be aged magically. You can still die of old age, however. In addition, you no longer need food or water.
 
-#### Spiritual Projection
+<h3 class="change">Spiritual Projection</h3>
 Beginning at 18th level, you can spend 8 chi points to attempt to enter the Spirit World. You must spend 1 minute meditating and make a DC 15 Wisdom Saving Throw. On a success, your spirit is projected into the Spirit World according to the spell *Astral Projection*. You can’t take any other creatures with you.  
 
 The spell ends only when you, in your spiritual form, return to your material body.

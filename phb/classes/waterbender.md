@@ -7,9 +7,7 @@ nav-hide: true
 
 <!-- Homebrewery Link: https://homebrewery.naturalcrit.com/edit/nv_PIRHWxL -->
 
-<h1 id="classes">
-    Waterbender
-</h1>
+<h1 class="new" id="classes">Waterbender</h1>
 
 Water is the element of change, and just like their namesake, waterbenders are extremely adaptable and versatile. Waterbending concentrates on the flow of energy, focusing less on strength and more on turning the opponent's own energy against them. A bender's victory in battle depends on their skill or ingenuity. 
 
@@ -31,8 +29,8 @@ As you make your waterbender character, think about ...
 
 Waterbenders tend towards a Lawful alignment because of their strong sense of community.
 
-#### Quick Build
-You can make a waterbender quickly by following these suggestions. First, pick Intelligence as your highest score, followed by Dexterity. Second, choose the Sailor background.  
+> #### Quick Build
+> You can make a waterbender quickly by following these suggestions. First, pick Intelligence as your highest score, followed by Dexterity. Second, choose the Sailor background.  
 
 ## Class Features
 
@@ -74,9 +72,9 @@ You start with the following equipment, in addition to the equipment granted by 
 At 1st level, you realize that you have an innate ability to control water. You can move small volumes of *liquid* water at will by spending 1 chi of your Attack action to cause the effects of the *Shape Water* cantrip (excluding changing the water's color or opacity). (See "Bending Attack" for a description of the role chi points play in attacks and the rules for bending attacks.) You must draw your bending material from a source within your normal bending range, which increases with your level according to the "Range" column of the Waterbender table.  
 
 
-<div style="margin-left: 1.5em;">
+<div class="formCard water">
     <h4>Shape Water</h4>
-    <emph>Source: Elemental Evil Player's Companion</emph>
+    <p style="font-style: italic;">Source: Elemental Evil Player's Companion</p>
     <p><strong>Range:</strong> Normal bending range</p>
 
     You choose an area of water that you can see within range and that fits within a 5-foot cube. You manipulate it in one of the following ways:
@@ -228,12 +226,12 @@ Your control over solid water also grants you the ability to move easily over ic
 ### Mudbending
 Also at 6th level, you learn to bend liquids even if they are not pure water, as long as they consist mostly of water. You learn the following form, which does not count against the total number of forms you know:
 
-<div style="margin-left: 1.5em;">
+<div class="formCard water">
     <h4>Purify Drink</h4>
-    <emph>Prerequisite: 6th level</emph>
-    <p><emph>Cost: 1 chi</emph></p>
+    <p style="font-style: italic;">Prerequisite: 6th level</p>
+    <p style="font-style: italic;">Cost: 1 chi</p>
 
-    You gain the abilities granted by the spell *Purify Food and Drink*, but only for liquids. You can also use this ability to filter any other particles (e.g., earth) out of the water.
+    You gain the abilities granted by the spell <span style="font-style: italic;">Purify Food and Drink</span>, but only for liquids. You can also use this ability to filter any other particles (e.g., earth) out of the water.
 </div>
 
 <div class="HBspacing" style="height:1em;">
@@ -409,187 +407,222 @@ All bonuses are defined at the beginning of the class description (see "Bending 
 
 You start out knowing forms marked with an asterisk.
 
-#### State Change\*
-*Cost: 1 chi*  
-Each state of water (solid – liquid – gas) can be converted to a state adjacent to it. For example, ice or snow can be turned into liquid water, liquid water can be turned into either solid or gaseous water, but you cannot convert directly between, e.g., snow and water vapor.  
-<!--##### Breath of Ice
-Convert liquid water to ice.-->
+<div class="formCard water">
+    <h4>State Change\*</h4>
+    <p style="font-style: italic;">Cost: 1 chi</p>
+    <p>Each state of water (solid – liquid – gas) can be converted to a state adjacent to it. For example, ice or snow can be turned into liquid water, liquid water can be turned into either solid or gaseous water, but you cannot convert directly between, e.g., snow and water vapor.</p>
+    <!--##### Breath of Ice
+    Convert liquid water to ice.-->
+    <p>To convert to and from gaseous water you must be at least a level 4 waterbender.</p>
+</div>
 
-To convert to and from gaseous water you must be at least a level 4 waterbender.
+<div class="formCard water">
+    <h4>Floor of Ice\*</h4>
+    <p style="font-style: italic;">Cost: 1 chi</p>
+    You cause the effects of the <span style="font-style: italic;">Grease</span> spell.
+</div>
 
-#### Floor of Ice\*
-*Cost: 1 chi*  
-You cause the effects of the *Grease* spell.
+<div class="formCard water">
+    <h4>Ice Shield</h4>
+    <p style="font-style: italic;">Cost: 1 chi</p>
+    <p>You shape water into a swirling disk by your arm and freeze it. Your AC increases by 2. If an attack that would have hit you without the shield misses because of it (hitting the shield), it deals damage to the shield instead. The Shield has 15 HP and shatters when it drops to 0.</p>
+    <p>Each additional chi point your spend increases the HP of the shield by 10.</p>
+</div>
 
-#### Ice Shield
-*Cost: 1 chi*  
-You shape water into a swirling disk by your arm and freeze it. Your AC increases by 2. If an attack that would have hit you without the shield misses because of it (hitting the shield), it deals damage to the shield instead. The Shield has 15 HP and shatters when it drops to 0.
+<div class="formCard water">
+    <h4>Ice Sword</h4>
+    <p style="font-style: italic;">Prerequisite: 4th level</p>
+    <p style="font-style: italic;">Cost: 1 chi (+2 chi)</p>
+    <p>You form water into a blade shape and freeze it. While you maintain concentration, this blade maintains its form and can be used as a weapon. It has the stats of a longsword, but deals an additional 1d4 cold damage on a hit.</p>
+    <p>You can also use this ability to create two shorter blades of ice in each hand, each with the statistics of a shortsword with an additional 1d4 of cold damage. Attacking with both weapons is subject to the rules of two-weapon fighting.</p>
+    <p>You must spend 2 chi to make an attack with the weapon(s).</p>
+</div>
 
-Each additional chi point your spend increases the HP of the shield by 10.
+<div class="formCard water">
+    <h4>Bubble</h4>
+    <p style="font-style: italic;">Cost: 1 chi</p>
+    <p>You reshape water around you while submerged to maintain a supply of breathable air, causing the effects of the spell <span style="font-style: italic;">Water Breathing</span>.</p>
+    <p>With each additional chi spent, you can provide air for another creature.</p>
+</div>
 
-#### Ice Sword
-*Prerequisite: 4th level*  
-*Cost: 1 chi (+2 chi)*  
-You form water into a blade shape and freeze it. While you maintain concentration, this blade maintains its form and can be used as a weapon. It has the stats of a longsword, but deals an additional 1d4 cold damage on a hit.
-
-You can also use this ability to create two shorter blades of ice in each hand, each with the statistics of a shortsword with an additional 1d4 of cold damage. Attacking with both weapons is subject to the rules of two-weapon fighting.
-
-You must spend 2 chi to make an attack with the weapon(s).
-
-#### Bubble
-*Cost: 1 chi*  
-You reshape water around you while submerged to maintain a supply of breathable air, causing the effects of the spell *Water Breathing*.
-
-With each additional chi spent, you can provide air for another creature.
-
-#### Ice Creeper
-*Cost: 1 chi*   
-You send a ray of ice across the ground streaking towards a target of your choice within range. The target must succeed on a Dexterity saving throw or have its speed reduced to 0 as its feet are frozen in place.  
-
-
-At the end of each of its turns, a the target must succeed on a DC 13 Strength check to break free.
+<div class="formCard water">
+    <h4>Ice Creeper</h4>
+    <p style="font-style: italic;">Cost: 1 chi</p>
+    <p>You send a ray of ice across the ground streaking towards a target of your choice within range. The target must succeed on a Dexterity saving throw or have its speed reduced to 0 as its feet are frozen in place.  </p>
+    <p>At the end of each of its turns, a the target must succeed on a DC 13 Strength check to break free.</p>
+</div>
 
 <div class="HBspacing" style="height: 1em;">
 </div>
 
-#### Water Wall
-*Cost: 1+ chi*  
-<!-- Source: Wall of Water spell from Elemental Evil Player's Companion-->
-You create a wall of water on the ground at a point you can see within range. You can make the wall up to 30 feet long, 10 feet high, and 1 foot thick, or you can make a ringed wall up to 20 feet in diameter, 20 feet high, and 1 foot thick. The wall vanishes when the spell ends. The wall’s space is difficult terrain.
+<div class="formCard water">
+    <h4>Water Wall</h4>
+    <p style="font-style: italic;">Cost: 1+ chi</p>
+    <!-- Source: Wall of Water spell from Elemental Evil Player's Companion-->
+    <p>You create a wall of water on the ground at a point you can see within range. You can make the wall up to 30 feet long, 10 feet high, and 1 foot thick, or you can make a ringed wall up to 20 feet in diameter, 20 feet high, and 1 foot thick. The wall vanishes when the spell ends. The wall’s space is difficult terrain.</p>
+    <p>When you create the wall, you choose any area(s) of 5 square feet of the wall that are ice instead of water. You spend 1 additional chi point per 5-square-foot area.</p>
+    <p>Any ranged weapon attack that enters the wall’s space has disadvantage on the attack roll, and fire damage is halved if the fire effect passes through the wall to reach its target. Spells that deal cold damage that pass through the wall cause the area of the wall they pass through to freeze solid (at least a 5-foot-square section is frozen). Each 5-foot-square frozen section has AC 5 and 15 hit points. Reducing a frozen section to 0 hit points destroys it. When a section is destroyed, the wall’s water doesn’t fill it.</p>
+</div>
 
-When you create the wall, you choose any area(s) of 5 square feet of the wall that are ice instead of water. You spend 1 additional chi point per 5-square-foot area.
+<div class="formCard water">
+    <h4>Water Blade</h4>
+    <p style="font-style: italic;">Cost: 2 chi</p>
+    <p>You make a waterbending attack, channeling your inner chi to rapidly shape water into a sharp point or edge for a split second when you make contact with the target. On a hit, the attack deals 1d4 slashing damage.   </p>
+    <p>If the target is wearing armor and you roll a natural 15 or higher to hit, this gash weakens the armor sufficiently to cause the target's AC to decrease by 1 until they repair the damage done to their armor. You cannot use this ability to decrease a creature's AC below its natural armor class (its AC without armor).</p>
+</div>
 
-Any ranged weapon attack that enters the wall’s space has disadvantage on the attack roll, and fire damage is halved if the fire effect passes through the wall to reach its target. Spells that deal cold damage that pass through the wall cause the area of the wall they pass through to freeze solid (at least a 5-foot-square section is frozen). Each 5-foot-square frozen section has AC 5 and 15 hit points. Reducing a frozen section to 0 hit points destroys it. When a section is destroyed, the wall’s water doesn’t fill it.
+<div class="formCard water">
+    <h4>Jet</h4>
+    <p style="font-style: italic;">Cost: 2 chi</p>
+    <p>When you use this form, you send a pressurized jet of water at a creature within range. On a hit, you deal an amount of damage equal to twice your bending die. You also roll a waterbending check (using your waterbending modifier) opposed by the target's Strength (Athletics) or Dexterity (Acrobatics). If the target fails, it is knocked prone.</p>
+    <p>The damage increases by an additional die for each extra chi you spend.</p>
+</div>
 
-#### Water Blade
-*Cost: 2 chi*  
-You make a waterbending attack, channeling your inner chi to rapidly shape water into a sharp point or edge for a split second when you make contact with the target. On a hit, the attack deals 1d4 slashing damage.   
+<div class="formCard water">
+    <h4>Ice Daggers</h4>
+    <p style="font-style: italic;">Cost: 2 chi</p>
+    <p>You create and launch 2 ice daggers at any combination of targets within your long range (the second number in the "Range" column). These attacks are made without disadvantage. Each dagger deals 1d4 percing damage.   </p>
+    <p>You gain an additional dagger for each extra chi you spend.</p>
+</div>
 
-
-If the target is wearing armor and you roll a natural 15 or higher to hit, this gash weakens the armor sufficiently to cause the target's AC to decrease by 1 until they repair the damage done to their armor. You cannot use this ability to decrease a creature's AC below its natural armor class (its AC without armor).
-
-#### Jet
-*Cost: 2 chi*  
-When you use this form, you send a pressurized jet of water at a creature within range. On a hit, you deal an amount of damage equal to twice your bending die. You also roll a waterbending check (using your waterbending modifier) opposed by the target's Strength (Athletics) or Dexterity (Acrobatics). If the target fails, it is knocked prone.
-
-The damage increases by an additional die for each extra chi you spend.
-
-#### Ice Daggers
-*Cost: 2 chi*  
-You create and launch 2 ice daggers at any combination of targets within your long range (the second number in the "Range" column). These attacks are made without disadvantage. Each dagger deals 1d4 percing damage.   
-
-
-You gain an additional dagger for each extra chi you spend.
-
-#### Shards
-*Cost: 2 chi*  
-You cause ice shards to rain down on creatures in a 10-foot diameter sphere centered on a point within your normal bending range. Each creature in this area must succeed on a Dexterity saving throw or take 1d8 piercing damage.
-
-For each additional chi you spend, the sphere's diameter increases by 5 feet.
+<div class="formCard water">
+    <h4>Shards</h4>
+    <p style="font-style: italic;">Cost: 2 chi</p>
+    <p>You cause ice shards to rain down on creatures in a 10-foot diameter sphere centered on a point within your normal bending range. Each creature in this area must succeed on a Dexterity saving throw or take 1d8 piercing damage.</p>
+    <p>For each additional chi you spend, the sphere's diameter increases by 5 feet.</p>
+</div>
 
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 2 | CLASSES</div>
 
 <div class="HBonly">\page</div>
 
-#### Fists of Ice
-*Cost: 2 chi*  
-You cover your fists with a layer of ice. For the next minute, you add an additional 1d4 to damage dealt by your unarmed strikes.
+<div class="formCard water">
+    <h4>Fists of Ice</h4>
+    <p style="font-style: italic;">Cost: 2 chi</p>
+    You cover your fists with a layer of ice. For the next minute, you add an additional 1d4 to damage dealt by your unarmed strikes.
+</div>
 
-#### Ice Encasing
-*Cost: 3 chi*  
-You make a ranged attack to hurl a sphere of water at a target. The sphere must be 1 foot in diameter for a Medium or smaller creature and an an additional foot in diameter for each size above Medium. 
+<div class="formCard water">
+    <h4>Ice Encasing</h4>
+    <p style="font-style: italic;">Cost: 3 chi</p>
+    <p>You make a ranged attack to hurl a sphere of water at a target. The sphere must be 1 foot in diameter for a Medium or smaller creature and an an additional foot in diameter for each size above Medium. </p>
+    <p>On a hit, the target's head is encased in ice and it starts suffocating. Each turn the creature ends with its head still encased in ice, it takes 2d6 cold damage.</p>
+    <p>On each of its turns, the target can spend its action making a Strength saving throw against your DC to break free.</p>
+</div>
 
-On a hit, the target's head is encased in ice and it starts suffocating. Each turn the creature ends with its head still encased in ice, it takes 2d6 cold damage.
+<div class="formCard water">
+    <h4>Water Tendril</h4>
+    <p style="font-style: italic;">Cost: 3 chi</p>
+    You create a tendril of water with a 15-foot reach at a point within range. When you create the tendril, you can cause it to take one of the actions described below. As a bonus action on subsequent turns until the tendril disappears, you can move it a distance equal to your normal bending range and take one of the actions again.  
 
-On each of its turns, the target can spend its action making a Strength saving throw against your DC to break free.
+    The tendril disappears after one minute.
 
-#### Water Tendril
-*Cost: 3 chi*  
-You create a tendril of water with a 15-foot reach at a point within range. When you create the tendril, you can cause it to take one of the actions described below. As a bonus action on subsequent turns until the tendril disappears, you can move it a distance equal to your normal bending range and take one of the actions again.  
+    <h5>Water Whip</h5>
+    The tendril lashes at a target within 15 feet. It has the statistics of a whip, dealing 1d4 bludgeoning damage on a hit.
 
-The tendril disappears after one minute.
+    <h5>Grapple</h5>
+    You can attempt to grapple a Large or smaller creature within the tendril's range. The tendril's Strength modifier is equal to your waterbending modifier.
+</div>
 
-##### Water Whip
-The tendril lashes at a target within 15 feet. It has the statistics of a whip, dealing 1d4 bludgeoning damage on a hit.
+<div class="formCard water">
+    <h4>Water Dome</h4>
+    <p style="font-style: italic;">Cost: 3 chi</p>
+    <p>You create a protective dome (half-sphere) of water above you. Its radius is equal to your normal bending range. The dome lasts 24 hours unless you dismiss it as a free action.</p>
 
-##### Grapple
-You can attempt to grapple a Large or smaller creature within the tendril's range. The tendril's Strength modifier is equal to your waterbending modifier.
+    <p>You must be outdoors to use this form. Once you create the dome, you control the weather inside it. Moving to a place where you don’t have a clear path to the sky causes the dome to break apart.</p>
 
-#### Water Dome
-*Cost: 3 chi*  
-You create a protective dome (half-sphere) of water above you. Its radius is equal to your normal bending range. The dome lasts 24 hours unless you dismiss it as a free action.
+    <p>Within the dome, you are protected from wind outside the dome and you can change the precipitation. It takes 6 seconds for the new conditions to take effect. Once they do so, you can change the conditions again without expending any chi. When the dome disappears, the weather gradually returns to normal.</p>
 
-You must be outdoors to use this form. Once you create the dome, you control the weather inside it. Moving to a place where you don’t have a clear path to the sky causes the dome to break apart.
+    <p>When you change the precipitation, find its current condition on the following table and change its stage by one, up or down.</p>
 
-Within the dome, you are protected from wind outside the dome and you can change the precipitation. It takes 6 seconds for the new conditions to take effect. Once they do so, you can change the conditions again without expending any chi. When the dome disappears, the weather gradually returns to normal.
+    <h5 class="tableHeader">Precipitation</h5>
 
-When you change the precipitation, find its current condition on the following table and change its stage by one, up or down.
-
-<h5 class="tableHeader">Precipitation</h5>
-
-| Stage | Condition
-|:-----:|:-----------
-| 1     | Clear
-| 2     | Light rain
-| 3     | Rain, hail, or snow
-| 4     | Torrential rain, driving hail, or blizzard
+        <table>
+        <thead>
+            <tr><th style="text-align:center">Stage</th>
+            <th style="text-align:left">Condition</th></tr>
+        </thead><tbody>
+            <tr><td style="text-align:center">1</td>
+            <td style="text-align:left">Clear</td></tr>
+            <tr><td style="text-align:center">2</td>
+            <td style="text-align:left">Light rain</td></tr>
+            <tr><td style="text-align:center">3</td>
+            <td style="text-align:left">Rain, hail, or snow</td></tr>
+            <tr><td style="text-align:center">4</td>
+            <td style="text-align:left">Torrential rain, driving hail, or blizzard</td></tr>
+        </tbody></table>
+<!--
+    | Stage | Condition
+    |:-----:|:-----------
+    | 1     | Clear
+    | 2     | Light rain
+    | 3     | Rain, hail, or snow
+    | 4     | Torrential rain, driving hail, or blizzard
+-->
+</div>
 
 <!--#### Razor Rings
 *Cost: 4 chi*  
 *[todo]*-->
 
-#### Ice Storm
-*Cost: 5 chi*  
-You cause the effects of the *Ice Storm* spell with a range equal to your normal bending range.
+<div class="formCard water">
+    <h4>Ice Storm</h4>
+    <p style="font-style: italic;">Cost: 5 chi</p>
+    You cause the effects of the *Ice Storm* spell with a range equal to your normal bending range.
+</div>
 
 ### Advanced Forms
 Only waterbenders of the Advanced Waterbending specialization have access to these forms.
 
-#### Water is Everywhere\*
-*Cost: –*  
-You learn to draw water from your environment. From now on, you don't need a water source within 30 feet – instead, you can spend 6 seconds (1 round of combat) concentrating to draw water from plants within 30 feet of you. If you are not in an arid environment, you can spend 1 minute drawing water from the air. In both cases, you are able to obtain a water sphere 1 foot in diameter.  
+<div class="formCard water">
+    <h4>Water is Everywhere*</h4>
+    <p style="font-style: italic;">Cost: –</p>
+    You learn to draw water from your environment. From now on, you don't need a water source within 30 feet – instead, you can spend 6 seconds (1 round of combat) concentrating to draw water from plants within 30 feet of you. If you are not in an arid environment, you can spend 1 minute drawing water from the air. In both cases, you are able to obtain a water sphere 1 foot in diameter.  
+</div>
 
-#### Flood
-*Cost: 2 chi*  
-You cause the water level of all standing water in an sphere with radius up to your bending range to rise by as much as 20 feet. If the area includes a shore, the flooding water spills over onto dry land.
-<!-- Modified from _Control Water_ -->
+<div class="formCard water">
+    <h4>Flood</h4>
+    <p style="font-style: italic;">Cost: 2 chi</p>
+    You cause the water level of all standing water in an sphere with radius up to your bending range to rise by as much as 20 feet. If the area includes a shore, the flooding water spills over onto dry land.
+    <!-- Modified from _Control Water_ -->
+</div>
 
-#### Ice Prison 
-*Cost: 2 chi*  
-You cause water to stream along the ground towards a target and erupt upwards into long pillars of ice around it. The target must make a Dexterity saving throw. On a failure, the target is trapped in an icy cage and is considered Restrained.
+<div class="formCard water">
+    <h4>Ice Prison </h4>
+    <p style="font-style: italic;">Cost: 2 chi</p>
+    <p>You cause water to stream along the ground towards a target and erupt upwards into long pillars of ice around it. The target must make a Dexterity saving throw. On a failure, the target is trapped in an icy cage and is considered Restrained.</p>
+    <p>At the beginning of each of its subsequent turns, it can make a DC 13 Strength check to attempt to escape. On a success, the creature is no longer Restrained.</p>
+    <!-- DC 13 Strength check to break free is based on ice AC -->
+</div>
 
-At the beginning of each of its subsequent turns, it can make a DC 13 Strength check to attempt to escape. On a success, the creature is no longer Restrained. 
-<!-- DC 13 Strength check to break free is based on ice AC -->
+<div class="formCard water">
+    <h4>Drowning</h4>
+    <p style="font-style: italic;">Cost: 4 chi</p>
+    <p>Pick a target within range. The target must make a Constitution saving throw. On a failure, you succeed in bending water into the target's lungs and the creature begins drowning (suffocating). While drowning, the target puts all its energy and focus into getting air and is treated as Paralyzed.</p>
+    <p>At the end of each of its turns, the target can make a Constitution saving throw. On a success, it coughs up the water and stops drowning.</p>
+    <p>The effect also ends if you lose concentration.</p>
+    <!-- I kind of want using this to have a chance of making a character shift towards an evil alignment -->
+</div>
 
-#### Drowning
-*Cost: 4 chi*  
-Pick a target within range. The target must make a Constitution saving throw. On a failure, you succeed in bending water into the target's lungs and the creature begins drowning (suffocating). While drowning, the target puts all its energy and focus into getting air and is treated as Paralyzed. 
+<div class="formCard water">
+    <h4>Whirlpool</h4>
+    <p style="font-style: italic;">Cost: 4 chi (+1 chi)</p>
+    <p>This form requires a body of water at least 50 feet square and 25 feet deep. You cause a whirlpool to form in the center of the area. The whirlpool forms a vortex that is 5 feet wide at the base, up to 50 feet wide at the top, and 25 feet tall. Any creature or object in the water and within 25 feet of the vortex is pulled 10 feet toward it. A creature can swim away from the vortex by making a Strength (Athletics) check against your DC.</p>
+    <div class='pageNumber auto'></div>
+    <div class='footnote'>PART 2 | CLASSES</div>
+    <div class="HBonly">\page</div>
+    <p>When a creature enters the vortex for the first time on a turn or starts its turn there, it must make a Strength saving throw. On a failed save, the creature takes 2d8 bludgeoning damage and is caught in the vortex until the spell ends. On a successful save, the creature takes half damage, and isn't caught in the vortex. A creature caught in the vortex can use its action to try to swim away from the vortex as described above, but has disadvantage on the Strength (Athletics) check to do so.</p>
+    <p>The first time each turn that an object enters the vortex, the object takes 2d8 bludgeoning damage; this damage occurs each round it remains in the vortex.</p>
+    <!-- From _Control Water_ -->
+    <p>Unless you spend 1 chi on each subsequent round, the whirlpool disappears at the beginning of your next turn.</p>
+</div>
 
-At the end of each of its turns, the target can make a Constitution saving throw. On a success, it coughs up the water and stops drowning.
-
-The effect also ends if you lose concentration.
-<!-- I kind of want using this to have a chance of making a character shift towards an evil alignment -->
-
-#### Whirlpool
-*Cost: 4 chi (+1 chi)*  
-This form requires a body of water at least 50 feet square and 25 feet deep. You cause a whirlpool to form in the center of the area. The whirlpool forms a vortex that is 5 feet wide at the base, up to 50 feet wide at the top, and 25 feet tall. Any creature or object in the water and within 25 feet of the vortex is pulled 10 feet toward it. A creature can swim away from the vortex by making a Strength (Athletics) check against your DC.
-
-<div class='pageNumber auto'></div>
-<div class='footnote'>PART 2 | CLASSES</div>
-
-<div class="HBonly">\page</div>
-
-When a creature enters the vortex for the first time on a turn or starts its turn there, it must make a Strength saving throw. On a failed save, the creature takes 2d8 bludgeoning damage and is caught in the vortex until the spell ends. On a successful save, the creature takes half damage, and isn't caught in the vortex. A creature caught in the vortex can use its action to try to swim away from the vortex as described above, but has disadvantage on the Strength (Athletics) check to do so.
-
-The first time each turn that an object enters the vortex, the object takes 2d8 bludgeoning damage; this damage occurs each round it remains in the vortex.
-<!-- From _Control Water_ -->
-
-Unless you spend 1 chi on each subsequent round, the whirlpool disappears at the beginning of your next turn.
-
-#### Tsunami
-*Cost: 5 chi*  
-You cause the effects of the spell *Tsunami* with a range equal to your normal bending range.
+<div class="formCard water">
+    <h4>Tsunami</h4>
+    <p style="font-style: italic;">Cost: 5 chi</p>
+    You cause the effects of the spell <span style="font-style: italic;">Tsunami</span> with a range equal to your normal bending range.
+</div>
 
 <!-- #### Water Ball
 *Cost: 5 chi*  
