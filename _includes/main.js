@@ -1,6 +1,7 @@
-
-const navSectionTitles = [
-    "Introduction", 
+const navSectionTitlesDMG = [
+]
+const navSectionTitlesPHB = [
+    "General", 
     "Classes",
     "Equipment",
     "Feats",
@@ -22,7 +23,12 @@ const classes = [
 // add section titles
 const navMenu = document.querySelector(".pagenav ul");
 let currSection = document.querySelector("h1");
-let currSectionNav;
+let currSectionNav, navSectionTitles;
+if(window.location.pathname.includes("phb")) {
+    navSectionTitles = navSectionTitlesPHB;
+} else if(window.location.pathname.includes("dmg")) {
+    navSectionTitles = navSectionTitlesDMG;
+}
 for(let i = 0; i < navSectionTitles.length; i++) {
     let sectionLink = document.createElement("a");
     sectionLink.textContent = navSectionTitles[i] + "\n"
@@ -57,5 +63,6 @@ for(let i = 0; i < navSubsectionTitles.length; i++) {
     let navItem = document.createElement("li");
     navItem.appendChild(navLink);
     subsectionSublist.appendChild(navItem);
-    currSectionNav.append(subsectionSublist);
+    if(typeof currSectionNav !== 'undefined')
+        currSectionNav.append(subsectionSublist);
 }
