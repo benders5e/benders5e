@@ -185,3 +185,8 @@ h3:not(.post-title) {
   border-color: $grey-color;
   border-bottom-style: solid;
 }
+h4 {
+  margin-bottom: 0em;
+  //font-size: 16px; // default
+  font-size: 18px;
+}

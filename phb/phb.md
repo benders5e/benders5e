@@ -2,5 +2,5 @@
 layout: pagenav
 title: Player's Handbook
 permalink: /phb/
-redirect_to: /phb/introduction
+redirect_to: /phb/general
 ---

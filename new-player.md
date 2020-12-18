@@ -1,6 +1,6 @@
 ---
 layout: page
-title: New Player Guide
+title: New to D&D?
 permalink: /new-player
 ---
 
