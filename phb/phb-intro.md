@@ -29,8 +29,8 @@ In his absence, chaos reigns, kept at bay only by brave benders who have taken i
 
 ### Skills
 This setting uses, for the most part, the same skills as regular 5th edition D&D. These are the exceptions:
-- No Arcana
-- Replace Religion (Int) with Spirituality (Wis) *[not propagated through classes yet]*
+- Arcana has been removed
+- Religion (Int) has been replaced by Spirituality (Wis)
 
 ### Languages
 Common is the only language in this setting. Thus, whenever a background allows you to learn an additional lanauge, you can instead gain proficiency in a new tool, gaming set, or musical instrument.

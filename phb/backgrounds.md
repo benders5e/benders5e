@@ -85,7 +85,7 @@ Charlatans are colorful characters who conceal their true selves behind the mask
 
 <div class="HBonly" style="height:0em;"></div>
 
-**Skill Proficiencies:**  History, plus your choice of one from among Arcana, Nature, and Religion  
+**Skill Proficiencies:**  History and your choice of Nature or Spirituality  
 **Tool Proficiencies:** Any two of your choice  
 **Equipment:** The scholar's robes of your cloister, a writing kit (small pouch with a quill, ink, folded parchment, and a small penknife), a borrowed book on the subject of your current study, and a pouch containing 10 gp
 
@@ -475,7 +475,7 @@ Guild artisans are among the most ordinary people in the world—until they set 
 | 6  | I'm horribly jealous of anyone who can outshine my handiwork. Everywhere I go, I'm surrounded by rivals.
 
 ### Hermit
-**Skill Proficiencies:** Medicine, Religion  
+**Skill Proficiencies:** Medicine, Spirituality  
 **Tool Proficiencies:** Herbalism kit  
 **Languages:** One of your choice  
 **Equipment:** A scroll case stuffed full of notes from your studies or prayers, a winter blanket, a set of common clothes, an herbalism kit, and 5 gp
@@ -731,7 +731,7 @@ Often considered rude and uncouth among civilized folk, outlanders have little r
 | 6  | Don't expect me to save those who can't save themselves. It is nature's way that the strong thrive and the weak perish.
 
 ### Sage
-**Skill Proficiencies:** Arcana, History  
+**Skill Proficiencies:** History, Spirituality  
 **Languages:** Two of your choice  
 **Equipment:** A bottle of black ink, a quill, a small knife, a letter from a dead colleague posing a question you have not yet been able to answer, a set of common clothes, and a belt pouch containing 10 gp
 
@@ -1121,7 +1121,7 @@ Your bond is likely associated with other members of your clan, or a location or
 Air Nomad children are raised in Air Nomad temples from a young age, developing parental bonds with the nomad assigned to their training. A large part of this training is spiritual, which leads to all Air Nomads realizing their connection to their inner chi and unlocking the ability to airbend.
 
 <div class="HBonly" style="height:0em;"></div>
-**Skill Proficiencies:** Arcana (Spirituality) and your choice of Animal Handling or History  
+**Skill Proficiencies:** Spirituality and your choice of Animal Handling or History  
 **Tool Proficiencies:** One type of artisan's tools, pai sho set  
 **Equipment:** A set of robes, 5 sticks of incense, and a pouch containing 5 gp 
 
