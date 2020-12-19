@@ -45,7 +45,7 @@ Classes
 </div>
 
 <div class="classtile">
-    Modified Monk
+    Monk
     <a href="./monk">
         <span class="classLink"></span>
     </a>

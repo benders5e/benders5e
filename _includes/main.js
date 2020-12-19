@@ -10,14 +10,14 @@ const navSectionTitlesPHB = [
 ]
 
 const classes = [
-    {textContent: "Airbender", id: "airbender"},
-    {textContent: "Barbarian", id: "barbarian"},
-    {textContent: "Earthbender", id: "earthbender"},
-    {textContent: "Fighter", id: "fighter"},
-    {textContent: "Firebender", id: "firebender"},
-    {textContent: "Modified Monk", id: "monk"},
-    {textContent: "Rogue", id: "rogue"},
-    {textContent: "Waterbender", id: "waterbender"},
+    {textContent: "Airbender", id: "airbender", class: "new"},
+    {textContent: "Barbarian", id: "barbarian", class: ""},
+    {textContent: "Earthbender", id: "earthbender", class: "new"},
+    {textContent: "Fighter", id: "fighter", class: ""},
+    {textContent: "Firebender", id: "firebender", class: "new"},
+    {textContent: "Monk", id: "monk", class: "change"},
+    {textContent: "Rogue", id: "rogue", class: ""},
+    {textContent: "Waterbender", id: "waterbender", class: "new"},
 ]
 
 // add section titles
@@ -57,11 +57,14 @@ let subsectionSublist = document.createElement("ul");
 subsectionSublist.id = "subnav";
 for(let i = 0; i < navSubsectionTitles.length; i++) {
     let navLink = document.createElement("a");
-    navLink.textContent = navSubsectionTitles[i].textContent + "\n";
+    navLink.textContent = navSubsectionTitles[i].textContent;
     navLink.href = `/phb/${currSection.id}/${currSection.id == "classes" ? "" : "#"}${navSubsectionTitles[i].id}`;
 
     let navItem = document.createElement("li");
     navItem.appendChild(navLink);
+    if(currSection.id == "classes" && navSubsectionTitles[i].class !== "") {
+        navItem.classList.add(navSubsectionTitles[i].class);
+    }
     subsectionSublist.appendChild(navItem);
     if(typeof currSectionNav !== 'undefined')
         currSectionNav.append(subsectionSublist);
