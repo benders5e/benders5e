@@ -25,8 +25,10 @@ let moonPhaseText = document.querySelector("#moonPhaseText");
 let lunarDay = 0;
 let monthValue = 0;
 let dayValue = 0;
-months = ["\u966C", "\u674F", "\u6843", "\u6885", "\u69B4", "\u8377",
-"\u862D", "\u6842", "\u83CA", "\u9732", "\u846D", "\u51B0"];
+months = [{name: "Corner month", char: "\u966C"}, {name: "Apricot month", char: "\u674F"}, {name: "Peach month", char: "\u6843"},
+    {name: "Plum flower month", char: "\u6885"}, {name: "Pomegranate month", char: "\u69B4"}, {name: "Lotus month", char: "\u8377"},
+    {name: "Orchid month", char: "\u862D"}, {name: "Osmanthus month", char: "\u6842"}, {name: "Chrysanthemum month", char: "\u83CA"}, 
+    {name: "Dew month", char: "\u9732"}, {name: "Reed month", char: "\u846D"}, {name: "Ice month", char: "\u51B0"}];
 days0 = ["\u521D", "\u5341", "\u5EFF", "\u4E09"]
 days1 = ["\u5341", "\u4E00", "\u4E8C", "\u4E09", "\u56DB", "\u4E94", "\u516D", "\u4E03", "\u516B", "\u4E5D"]
 let eclipseSeason = true;
@@ -66,17 +68,22 @@ plusBtn.addEventListener('click', nextDay);
 
 function updateCelestialBodies() {
     /*** Month & Day ***/
-    monthText.textContent = `${months[monthValue]}\u6708 (${monthValue+1})`;
-    dayText.textContent = `${days0[Math.floor(dayValue/10)]}${days1[(dayValue+1)%10]} (${dayValue+1})`;
+    monthText.textContent = `${months[monthValue].char}\u6708 ${months[monthValue].name}`;
+    dayText.textContent = `${days0[Math.floor(dayValue/10)]}${days1[(dayValue+1)%10]}   ${dayValue+1}`;
     if (dayValue+1 == 20) {
-        dayText.textContent = `${days1[2]}${days1[0]} (${dayValue+1})`;
+        dayText.textContent = `${days1[2]}${days1[0]}   ${dayValue+1}`;
     }
     if (dayValue+1 == 30) {
-        dayText.textContent = `${days1[3]}${days1[0]} (${dayValue+1})`;
+        dayText.textContent = `${days1[3]}${days1[0]}   ${dayValue+1}`;
     }
 
     /*** Moon phase ***/
-    moonPhaseText.textContent = getMoonPhase(lunarDay);
+    let moonPhaseDict = getMoonPhase(lunarDay);
+    moonPhaseText.textContent = moonPhaseDict.text + " ";
+    let moonPhaseImg = document.createElement("img");
+    moonPhaseImg.setAttribute("src", `../../assets/${moonPhaseDict.filename}.svg`);
+    moonPhaseImg.style = "height: 1em;"
+    moonPhaseText.append(moonPhaseImg);
 
     /*** Eclipses ***/
     // eclipse season is 35 days long
@@ -104,9 +111,9 @@ function updateCelestialBodies() {
     }
 
     /*** Solstices ***/
-    if (monthText.textContent == "6" && dayText.textContent == "16")
+    if (monthText.textContent.includes("lotus") && dayText.textContent.includes("16"))
         summerSolstice.hidden = false;
-    else if (monthText.textContent == "12" && dayText.textContent == "16")
+    else if (monthText.textContent.includes("ice") && dayText.textContent.includes("16"))
         winterSolstice.hidden = false;
     else {
         summerSolstice.hidden = true;
@@ -118,7 +125,8 @@ function getMoonPhase(day) {
     switch(day) {
         case 0:
             moonPhase = "new";
-            return '\u25CF (new)';
+            //return '\u25CF (new)';
+            return {text: "new", filename: "new"};
         case 1:
         case 2:
         case 3:
@@ -127,10 +135,12 @@ function getMoonPhase(day) {
         case 6:
         case 7:
             moonPhase = "waxing crescent";
-            return '\u263D (waxing crescent)';
+            //return '\u263D (waxing crescent)';
+            return {text: "waxing crescent", filename: "waxing-crescent"};
         case 8:
             moonPhase = "first quarter";
-            return '\u25D0 (first quarter)';
+            //return '\u25D0 (first quarter)';
+            return {text: "first quarter", filename: "first-quarter"};
         case 9:
         case 10:
         case 11:
@@ -138,10 +148,12 @@ function getMoonPhase(day) {
         case 13:
         case 14:
             moonPhase = "waxing gibbous";
-            return ' (waxing gibbous)';
+            //return ' (waxing gibbous)';
+            return {text: "waxing gibbous", filename: "waxing-gibbous"};
         case 15:
             moonPhase = "full";
-            return '\u25CB (full)';
+            //return '\u25CB (full)';
+            return {text: "full", filename: "full"};
         case 16:
         case 17:
         case 18:
@@ -149,10 +161,12 @@ function getMoonPhase(day) {
         case 20:
         case 21:
             moonPhase = "waning gibbous";
-            return ' (waning gibbous)';
+            //return ' (waning gibbous)';
+            return {text: "waning gibbous", filename: "waning-gibbous"};
         case 22:
             moonPhase = "last quarter";
-            return '\u25D1 (last quarter)';
+            //return '\u25D1 (last quarter)';
+            return {text: "last quarter", filename: "third-quarter"};
         case 23:
         case 24:
         case 25:
@@ -161,6 +175,7 @@ function getMoonPhase(day) {
         case 28:
         case 29:
             moonPhase = "waning crescent";
-            return '\u263E (waning crescent)';
+            //return '\u263E (waning crescent)';
+            return {text: "waning crescent", filename: "waning-crescent"};
     }
 }
