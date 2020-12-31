@@ -58,7 +58,8 @@ $on-laptop:        800px !default;
 @import
   "minima/base",
   "minima/layout",
-  "style",
-  "homebrewery",
-  "minima/syntax-highlighting"
+  "custom/style",
+  "custom/homebrewery",
+  "minima/syntax-highlighting",
+  "bootstrap/bootstrap"
 ;
