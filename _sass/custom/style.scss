@@ -1,3 +1,16 @@
+.site-nav #dropdownMenuButton:hover {
+  text-decoration: none;
+  cursor: pointer;
+}
+.dropdown-menu .dropdown-item {
+  width: initial !important;
+  line-height: 2em;
+}
+.dropdown-menu .dropdown-item:visited, .dropdown-item:active {
+  color: initial !important;
+  background-color: initial !important;
+}
+
 .center-title {
   text-align: center;
 }

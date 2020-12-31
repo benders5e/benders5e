@@ -1,4 +1,5 @@
 ---
+parent: Rules
 layout: pagenav
 title: DM's Guide
 permalink: /dmg

@@ -1,4 +1,5 @@
 ---
+parent: Rules
 layout: pagenav
 title: Player's Handbook
 permalink: /phb/
