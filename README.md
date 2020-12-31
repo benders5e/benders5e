@@ -6,7 +6,15 @@ Site layout influenced by the [Mass Effect 5e site](http://n7.world) (the code f
 
 ### Branches
 `master`: site  
-`class-drafts`: incremental homebrew updates
+`class-drafts`: incremental homebrew updates  
+`bootstrap`: work in progress adding bootstrap to the project
 
 ### Dependencies
 - Jekyll (theme: minima)
+- Bootstrap (I'm using v5.0.0-beta1)
+    - Download the **source files** [here](https://getbootstrap.com/docs/5.0/getting-started/download/)
+    ```
+    mkdir _sass/bootstrap
+    cp ~/Downloads/bootstrap-5.0.0-beta1/scss/ _sass/bootstrap
+    ```
+    - overwire `_sass/bootstrap/bootstrap.scss` with the file of the same name in this repo

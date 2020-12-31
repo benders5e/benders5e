@@ -8,6 +8,11 @@ vendor
 # Ruby
 Gemfile.lock
 
+# Bootstrap
+_sass/bootstrap
+# except...
+!_sass/bootstrap/bootstrap.scss
+
 # Other
 *.swp
 .DS_Store
