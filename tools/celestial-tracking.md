@@ -2,7 +2,7 @@
 layout: page
 title: Celestial Tracker 
 permalink: /tools/celestial-tracking/
-nav-hide: true
+parent: Tools
 ---
 
 <style>

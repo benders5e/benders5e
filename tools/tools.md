@@ -2,9 +2,11 @@
 layout: page
 title: Tools
 permalink: /tools/
+parent: Tools
 ---
 
 [Celestial Tracking widget](/tools/celestial-tracking/) (in progress)  
+[Encounter Builder](/tools/encounter-builder/) (in progress)
 
 <div style="height: 1em;"></div>
 
@@ -12,4 +14,3 @@ permalink: /tools/
 Dice Roller  
 Character Sheet  
 Starter Characters  
-Encounter Builder
