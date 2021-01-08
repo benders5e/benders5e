@@ -1,3 +1,16 @@
+.site-nav #dropdownMenuButton:hover {
+  text-decoration: none;
+  cursor: pointer;
+}
+.dropdown-menu .dropdown-item {
+  width: initial !important;
+  line-height: 2em;
+}
+.dropdown-menu .dropdown-item:visited, .dropdown-item:active {
+  color: initial !important;
+  background-color: initial !important;
+}
+
 .center-title {
   text-align: center;
 }
@@ -78,6 +91,12 @@ h1, h2:not(.post-list-heading), h3:not(.post-title), h4, h5 {
   font-family: 'Averia Libre', cursive;
   text-align: center;
 }
+.default-header {
+  font-family: $base-font-family !important;
+  text-transform: initial !important;
+  border: 0px !important;
+}
+
 
 blockquote {
   font-style: normal;
@@ -184,4 +203,18 @@ h3:not(.post-title) {
   border-bottom-width: 1px;
   border-color: $grey-color;
   border-bottom-style: solid;
+}
+h4 {
+  margin-bottom: 0em;
+  //font-size: 16px; // default
+  font-size: 18px;
+}
+h5 {
+  margin-bottom: 0em;
+  font-size: 14px;
+}
+
+footer {
+  z-index: 10;
+  background-color: white;
 }

@@ -52,7 +52,7 @@ As an airbender, you gain the following class features.
 <div style="height: 0em;"></div>
 
 **Saving Throws:** Intelligence, Dexterity  
-**Skills:** Choose two from Acrobatics, History, Religion, Persuasion, Sleight of Hand, and Stealth
+**Skills:** Choose two from Acrobatics, History, Spirituality, Persuasion, Sleight of Hand, and Stealth
 
 #### Equipment
 
