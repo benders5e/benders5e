@@ -10,3 +10,7 @@ Site layout influenced by the [Mass Effect 5e site](http://n7.world) (the code f
 
 ### Dependencies
 - Jekyll (theme: minima)
+
+### Changelog
+
+The changelog for the homebrew is available on the repo's wiki [here](https://github.com/nglaeser/benders5e/wiki/Changelog).
