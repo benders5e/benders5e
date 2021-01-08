@@ -408,7 +408,7 @@ All bonuses are defined at the beginning of the class description (see "Bending 
 You start out knowing forms marked with an asterisk.
 
 <div class="formCard water">
-    <h4>State Change\*</h4>
+    <h4>State Change*</h4>
     <p style="font-style: italic;">Cost: 1 chi</p>
     <p>Each state of water (solid – liquid – gas) can be converted to a state adjacent to it. For example, ice or snow can be turned into liquid water, liquid water can be turned into either solid or gaseous water, but you cannot convert directly between, e.g., snow and water vapor.</p>
     <!--##### Breath of Ice
@@ -417,7 +417,7 @@ You start out knowing forms marked with an asterisk.
 </div>
 
 <div class="formCard water">
-    <h4>Floor of Ice\*</h4>
+    <h4>Floor of Ice*</h4>
     <p style="font-style: italic;">Cost: 1 chi</p>
     You cause the effects of the <span style="font-style: italic;">Grease</span> spell.
 </div>
