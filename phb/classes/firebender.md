@@ -71,7 +71,7 @@ During combat, you can channel your chi to use your bending as a rudimentary att
 When you take a basic bending attack, you spend 1 point of chi and deal 1d6 fire damage. This damage increases with your firebender level and is shown in the "Bending" column of the Firebender Table. The range of your attacks is the same as your bending range ("Range" column).     
 
 
-As a firebender, Charisma is your primary attack ability:  
+As a firebender, your attacks must be backed by conviction. Charisma is your primary attack ability:  
 
 <div style="margin-left: 1em;">
     <strong>Attack Bonus</strong> = Cha modifier + proficiency bonus
@@ -146,6 +146,8 @@ You are an expert in acrobatics and agile, graceful movements. You gain proficie
 
 #### Seven Stars
 You favor a style that utilizes momentary bursts of extreme power at the expense of your defense. At the beginning of your turn, you can choose to decrease your AC for the next turn by 2 to add +2 to the damage dealt by all your attacks that hit.  
+
+<!-- Balance: basically "in the zone" between defense and offense, can take advantage of drops in others' guard -->
 
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 2 | CLASSES</div>
@@ -288,6 +290,7 @@ You learn the *Lightning* form described in the "Forms" section at the end of th
 
 #### Lightning Arcs
 At 11th level, your lightning attacks have the potential to arc from one target to the next. Whenever you use the *Lightning* form, any creatures within 5 feet of the initial target also become targets, any creatures within 5 feet of them become targets, and so on. Each target gets to make a Dexterity saving throw as described by the *Lightning* form.
+<!-- could be revisited to model it more on the Chain Lightning spell (depending on how over-/underpowered it is in its current form) -->
 
 #### ?
 At 17th level, ...

@@ -123,7 +123,7 @@ When you take a basic bending attack, you spend 1 point of chi and deal 1d6 forc
 
 The damage caused by your attack increases with your airbender level and is shown in the "Bending" column of the Airbender Table. The range of your attacks is the same as your bending range ("Range" column).      
 
-As an airbender, Wisdom is your primary attack ability:
+As an airbender, your attacks rely on understanding and effectively channeling the energy within you. Wisdom is your primary attack ability:
 
 <div style="margin-left: 1em;">
     <strong>Attack Bonus</strong> = Wis modifier + proficiency bonus

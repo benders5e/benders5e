@@ -132,7 +132,7 @@ During combat, you can channel your chi to use your bending as a rudimentary att
 
 When you take a basic bending attack, you spend 1 point of chi and deal 1d6 bludgeoning damage. This damage increases with your waterbender level and is shown in the "Bending" column of the Waterbender Table. The range of your attacks is the same as your bending range ("Range" column).  
 
-At 1st level, you must choose which of your modifiers to use for attacks: Intelligence or Dexterity. This cannot be changed later.  
+At 1st level, you must choose which of your modifiers to use for attacks: Intelligence or Dexterity. This cannot be changed later. Intelligence-based waterbenders are clever and quick thinkers, analyzing their opponents on the fly and using the environment and materials around them in unprecendented ways to gain an edge. Dexterity-based waterbenders are nimble and fast, keeping their opponents off-balance and on their toes.
 
 <div style="margin-left: 1em;">
 <strong>Attack Bonus</strong> = [Int OR Dex modifier] + proficiency bonus
