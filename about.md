@@ -4,6 +4,11 @@ title: About
 permalink: /about/
 ---
 
-There will be stuff about people here later.
+I'm an avid D&D player and an ATLA fan. About a year ago, I found myself wanting to run a campaign in the ATLA universe, but none of the D&D rulesets I found online appealed to me: they ruined the flavor by adding magic or out-of-universe classes, felt unprofessional and hastily put together, were too minimal, or seemed unbalanced. Plus, none really seemed to have gained traction among D&D players, unlike other homebrews I'd played, which made me suspicious. As I read, I found myself making mental notes of the parts I would change, until I realized that I might as well put together my ideal homebrew, which you see on this site!
+These rules and the site are completely free and open-source, and I'm hoping they can be a community effort. If you have ideas for abilities, feats, backgrounds, items, or anything else, please reach out! The best ways to contribute are listed below.
 
-If you have feedback, please let me know using <a href='https://forms.gle/H2VMopAN7gtaRrG5A' target="_blank">this form</a>!
+### Contributing
+
+<a href='https://forms.gle/H2VMopAN7gtaRrG5A' target="_blank">Feedback form</a>
+
+[GitHub repository](https://github.com/nglaeser/benders5e/)
