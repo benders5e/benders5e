@@ -140,7 +140,7 @@ During combat, you can channel your chi to use your bending as a rudimentary att
 When you take a basic bending attack, you spend 1 point of chi and deal 1d6 bludgeoning damage. This damage increases with your earthbender level and is shown in the "Bending" column of the Earthbender Table. The range of your attacks is the same as your bending range ("Range" column).
 
 
-At 1st level, you must choose which of your modifiers to use for attacks: Charisma or Strength. This cannot be changed later.
+At 1st level, you must choose which of your modifiers to use for attacks: Charisma or Strength. This cannot be changed later. Charisma-based earthbenders exert their sheer force of will on matter, while strength-based earthbenders value physical prowess and channel their physical strength through their chi into the environment around them.
 
 <div style="margin-left: 1em;">
     <strong>Attack Bonus</strong> = [Cha OR Str modifier] + proficiency
@@ -223,6 +223,7 @@ At 5th level, you specialize in one of the following types of earthbending: adva
 
 ### Rolling Earth
 When you reach 6th level, you learn to synchronize your control of earth with your movement. As a bonus action while you are moving over earth, you can concentrate on traveling quickly, doubling your speed. 
+<!-- Possible nerf to Rolling Earth: make it instead more like ranger ability of “When traveling you can travel at a normal pace without disadvantage on Stealth” (i.e. turn it into a ribbon) -->
 
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 2 | CLASSES</div>

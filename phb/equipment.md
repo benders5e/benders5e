@@ -40,7 +40,6 @@ This large-brimmed hat from the Earth Kingdom is flat and shield-like, allowing 
 | *Simple Melee Weapons*|||||
 | &emsp;Glider       | 5 gp |1d4 bludgeoning|2 lb.     |Versatile, special
 | *Simple Ranged Weapons*|||||
-| &emsp;Boomerang    | 1sp |1d6 bludgeoning |1/2 lb    |Finesse, special, thrown (range30/120)
 | &emsp;Dart         | 5 cp |1d4 piercing   |1/4 lb    |Finesse, thrown (range 20/60)
 | *Martial Melee Weapons*|||||
 | &emsp;Fan (closed) | 5 gp |1d6 bludgeoning|1 lb.     |Finesse, light
@@ -49,6 +48,8 @@ This large-brimmed hat from the Earth Kingdom is flat and shield-like, allowing 
 | &emsp;Longsword    |15 gp |1d8 slashing   |3 lb.     |Versatile (1d10)
 | &emsp;Scimitar     |25 gp |1d6 slashing   |3 lb.     |Finesse, light
 | &emsp;Shortsword   |10 gp |1d6 piercing   |2 lb.     |Finesse, light
+| *Martial Ranged Weapons*|||||
+| &emsp;Boomerang    | 1sp |1d6 bludgeoning |1/2 lb    |Finesse, special, thrown (range30/120)
 
 <!--/div-->
 
@@ -56,7 +57,7 @@ This large-brimmed hat from the Earth Kingdom is flat and shield-like, allowing 
 Weapons with special rules are described here.
 
 <span class="new">**_Boomerang._**</span>
-You can make both melee and ranged attacks with a boomerang. When thrown for a ranged attack, on a miss, the boomerang returns to your hand unscathed at the beginning of your next turn.
+You can make both melee and ranged attacks with a boomerang. When thrown for a ranged attack, on a miss, the boomerang returns to your hand unscathed at the beginning of your next turn. On a hit, it falls to the ground at the target's feet.
 
 <span class="new">**_Fans._**</span>
 Fans are usually found in pairs, but can still be wielded individually. Taking your fans out or putting them away takes a bonus action. Opening or closing them does as well. You can still earthbend while holding the fans; they augment your bending, increasing your range by 10 feet.
