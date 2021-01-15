@@ -6,11 +6,6 @@ Site layout influenced by the [Mass Effect 5e site](http://n7.world) (whose code
 
 *Note: site is not yet live.*
 
-## Branches
-`master`: site  
-`class-drafts`: incremental homebrew updates  
-`bootstrap`: work in progress adding bootstrap to the project
-
 ## Contributing
 
 If you have feature suggestions or requests, open an issue so that they can be discussed. Be sure to check if a similar issue already exists before opening a new one. 
@@ -18,6 +13,11 @@ If you have feature suggestions or requests, open an issue so that they can be d
 If you have code to contribute, open a pull request.
 
 ## Technical Stuff
+
+### Branches
+`master`: site  
+`class-drafts`: incremental homebrew updates  
+`bootstrap`: work in progress adding bootstrap to the project
 
 ### Dependencies
 - **Jekyll** (theme: minima)
@@ -30,7 +30,7 @@ If you have code to contribute, open a pull request.
     ```
     bundle exec jekyll serve --host 0.0.0.0
     ```
-    and others on the LAN can access it at `http://[your IP]:4000`, where `[your IP]` is your computer's IP address.
+    and others on the LAN can access it at `http://[your IP]:4000`, where `[your IP]` is your machine's private IP address (interface `en0` for me).
 
 - **Bootstrap** (I'm using `v5.0.0-beta1`)
     - Download the source files [here](https://getbootstrap.com/docs/5.0/getting-started/download/). Then
