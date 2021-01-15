@@ -11,6 +11,9 @@ permalink: /pro-bending
 
 The rules of pro bending are pretty simple. Take control over the area in a specified amount of time until you either defeat your opponents or win. 
 
+> #### Bending X Leagues
+> Leagues with more lax rules exist. In these matches, which are far more dangerous, any manifestation of the elements is allowed, including ice, lightning, magma, plants, and more.
+
 ## Rules
 *The rules are based off of the rules listed [here](https://avatar.fandom.com/wiki/Pro-bending).*
 
@@ -43,3 +46,11 @@ Each "round" of the game consists of 4 rounds of combat and there are 12 rounds 
 - At the end, the team who has the crowd the most will split the vote in case of a tie (?)
 - **Teamwork:**
     - If your team lands three attacks in one round, you gain advantage on your roll to impress the crowd.
+
+> #### Fouls
+> If you commit a foul, you move back one zone. Examples of fouls includes:
+> - Hosing
+> - Bending an earth disk outside your zone
+> - Creating ice
+> - Headshots
+> - Mixing water and rocks
