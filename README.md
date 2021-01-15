@@ -30,7 +30,7 @@ If you have code to contribute, open a pull request.
     ```
     bundle exec jekyll serve --host 0.0.0.0
     ```
-    and others on the LAN can access it at `http://[your IP]:4000`, where `[your IP]` is your machine's private IP address (interface `en0` for me).
+    and others on the LAN can access it at `http://[your IP]:4000`, where `[your IP]` is your machine's private IPv4 address (interface `en0` for me).
 
 - **Bootstrap** (I'm using `v5.0.0-beta1`)
     - Download the source files [here](https://getbootstrap.com/docs/5.0/getting-started/download/). Then
@@ -47,4 +47,4 @@ If you have code to contribute, open a pull request.
 
 ### Analytics
 
-This project uses [GoatCounter](https://www.goatcounter.com/) for analytics. As much as I would prefer not to track anyone at all, I do need to get a sense of whether people are visiting this site and *roughly* where they are from. I chose GoatCounter because I wanted a privacy-focused, open-source, and relatively inexpensive (this is a personal project, after all) alternative to the extremely invasive and unfortunately also pervasive Google Analytics. GoatCounter counter meets these criteria and does not track users with unique identifiers. Read more about GoatCounter's goals [here](https://www.goatcounter.com/why#what-are-goatcounters-goals).
+This project uses [GoatCounter](https://www.goatcounter.com/) for analytics. As much as I would prefer not to track anyone at all, I do need to get a sense of whether people are visiting this site and *roughly* where they are from. I chose GoatCounter because I wanted a privacy-focused, open-source, and relatively inexpensive (this is a personal project, after all) alternative to the extremely invasive and unfortunately also pervasive Google Analytics. GoatCounter meets these criteria and does not track users with unique identifiers. Read more about GoatCounter's goals [here](https://www.goatcounter.com/why#what-are-goatcounters-goals).
