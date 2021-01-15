@@ -68,7 +68,6 @@ details {
 .classtile:hover {
   background-color: $grey-color-hover;
 }
-
 // make the tile a link
 .classLink {
   position: absolute;
@@ -85,6 +84,22 @@ h1, h2:not(.post-list-heading), h3:not(.post-title), h4, h5 {
   font-family: 'Averia Libre', cursive;
   text-transform: uppercase;
 }
+h3:not(.post-title) {
+  margin-bottom: .5em;
+  border-bottom-width: 1px;
+  border-color: $grey-color;
+  border-bottom-style: solid;
+}
+h4 {
+  margin-bottom: 0em;
+  //font-size: 16px; // default
+  font-size: 18px;
+}
+h5 {
+  margin-bottom: 0em;
+  font-size: 14px;
+}
+
 .tableHeader {
   font-size: 16px;
   text-transform: uppercase;
@@ -149,11 +164,9 @@ blockquote h5 {
   padding-bottom: 3em;
   margin-bottom: 1em;
 }
-
 .banner h1 {
   font-size: 64px;
 }
-
 .banner .button {
   background-color: $brand-color;
   border: none;
@@ -181,7 +194,6 @@ blockquote h5 {
   text-align: center;
   background-color: $brand-color;
 }
-
 .change::after {
   content: "change";
   color: black;
@@ -198,23 +210,12 @@ blockquote h5 {
   background-color: orange;
 }
 
-h3:not(.post-title) {
-  margin-bottom: .5em;
-  border-bottom-width: 1px;
-  border-color: $grey-color;
-  border-bottom-style: solid;
-}
-h4 {
-  margin-bottom: 0em;
-  //font-size: 16px; // default
-  font-size: 18px;
-}
-h5 {
-  margin-bottom: 0em;
-  font-size: 14px;
+footer {
+  z-index: 2;
+  background-color: white;
 }
 
-footer {
-  z-index: 10;
-  background-color: white;
+img {
+  display: block;
+  margin: auto auto;
 }
