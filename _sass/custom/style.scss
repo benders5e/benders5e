@@ -142,18 +142,54 @@ blockquote h5 {
  } 
  
 .banner {
-  //background-image: url("./path.jpg");
-  background-color: $air-blue;
   text-align: center;
   padding-top: 3em;
   padding-bottom: 3em;
   margin-bottom: 1em;
+  position: relative;
 }
+.banner-img {
+  content: ' ';
+  display: block;
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+  opacity: 0.3;
 
+  background-image: url("../../assets/Banner.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+// mobile version
+@media only screen and (min-width : 320px) and (max-width : 480px) {
+  .banner-img {
+    content: ' ';
+    display: block;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    opacity: 0.3;
+
+    background: url("../../assets/Banner_mobile.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+}
 .banner h1 {
   font-size: 64px;
 }
-
+.banner h1, .banner p, .banner a {
+  position: relative;
+  z-index: 2;
+}
 .banner .button {
   background-color: $brand-color;
   border: none;

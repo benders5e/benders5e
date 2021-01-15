@@ -8,6 +8,7 @@ banner: true
 ---
 
 <div class="banner">
+    <div class="banner-img"></div>
     <h1>Benders <span style="text-transform: initial;">5e</span></h1>
     <p class="subtitle">Elemental benders in D&D 5th edition</p>
     <p>An unofficial <span style="font-style: italic;">Avatar: The Last Airbender</span> homebrew</p>
