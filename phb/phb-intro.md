@@ -11,9 +11,6 @@ nav-hide: true
 Player's Handbook
 </h1>
 
-### About the Player's Handbook
-Changes to the classic D&D 5e rules are marked with the<span class="change"></span> badge, while completely new rules are indicated by the<span class="new"></span> badge.
-
 <div class="HBonly">
 # Bender Campaign Setting
 W*ater – Earth – Fire – Air. Long ago, the nations lived together in harmony. Then, everything changed when the Fire Nation attacked. Only the Avatar, master of all four elements, could stop them, but when the world needed him most, he vanished.* 
@@ -25,38 +22,6 @@ In his absence, chaos reigns, kept at bay only by brave benders who have taken i
 - The four types of Benders (Water, Earth, Fire, Air)
 - Modified Monk (with new Chi Blocker monastic tradition)
 - Barbarian, Fighter, and Rogue as in the Player's Handbook
-</div>
-
-### Skills
-This setting uses, for the most part, the same skills as regular 5th edition D&D. These are the exceptions:
-- Arcana has been removed
-- Religion (Int) has been replaced by Spirituality (Wis)
-
-### Languages
-Common is the only language in this setting. Thus, whenever a background allows you to learn an additional lanauge, you can instead gain proficiency in a new tool, gaming set, or musical instrument.
-
-### Opportunity Attacks
-Benders can spend a maximum of 1 chi on their opportunity attacks.
-
-<div class="HBspacing" style="height:2em;">
-</div>
-
-> ##### Underwater Combat
-> The usual [D&D 5e underwater combat rules](https://dnd5e.info/combat/underwater-combat/) apply. More specifically, for bending attacks and forms, the following rules apply:  
-> - **Waterbending:** Advantage on attack rolls; normal damage.  
-> - **Firebending:** Disadvantage on ranged attacks, regular roll for touch range. In each case, the attack does half damage if it is dealt underwater (since fully immersed creatures have resistance against fire damage).  
-> - **Earth- & Airbending:** Disadvantage on melee and ranged attacks within normal range (automatic miss beyond normal range); half damage.
-
-<div class="HBspacing" style="height: 4em;">
-</div>
-
-> ##### Nonlethal Damage
-> - For **melee attacks**, only slashing, piercing, and bludgeoning damage can be dealt in a nonlethal manner.
-> - For **ranged attacks**, only bludgeoning damage can be dealt in a nonlethal manner.  
-> 
-> (Thus, for the most part, firebenders are unable to deliver nonlethal attacks.)
-
-<div class="HBspacing" style="height: 2em;">
 </div>
 
 ### Planes of Existence
@@ -72,6 +37,28 @@ The Spirit World is a plane of existence that lies parallel to the physical worl
 In some cases, the landscape of the Spirit World mirrors that of the physical world; in other cases it is completely unrelated. It can be a very fickle place: the environment can change based on one's emotions, since the spirits are sensitive to changes in their world and any negative energy brought into it.
 
 The simplest way to enter the Spirit World is to physically cross into it through a spirit portal. The two main portals are found at the North and South Pole. Spiritual humans can also pass into the Spirit World through meditation. This difficult process can be aided by attempting passage from very spiritual places in the physical world, or by taking advantage of the proximity of the two worlds during the solstices.
+
+### Opportunity Attacks
+Benders can spend a maximum of 1 chi on their opportunity attacks. (See the bending class descriptions for an explanation of the chi mechanic.)
+
+<div class="HBspacing" style="height:2em;">
+</div>
+
+### Underwater Combat
+The usual [D&D 5e underwater combat rules](https://dnd5e.info/combat/underwater-combat/) apply. More specifically, for bending attacks and forms, the following rules apply:  
+- **Waterbending:** Advantage on all attack rolls; normal damage.  
+- **Firebending:** Disadvantage on ranged attacks within normal range (automatic miss beyond normal range), normal roll for touch range attacks. In each case, the attack does half damage if it is dealt underwater (since fully immersed creatures have resistance against fire damage).  
+- **Earth- & Airbending:** Disadvantage on melee and ranged attacks within normal range (automatic miss beyond normal range); half damage.
+
+<div class="HBspacing" style="height: 4em;">
+</div>
+
+### Nonlethal Damage
+- For **melee attacks**, only slashing, piercing, and bludgeoning damage can be dealt in a nonlethal manner.
+- For **ranged attacks**, only bludgeoning damage can be dealt in a nonlethal manner.  
+ 
+<div class="HBspacing" style="height: 2em;">
+</div>
 
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 1 | INTRODUCTION</div>

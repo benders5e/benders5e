@@ -1,12 +1,12 @@
 ---
 parent: Rules
 layout: pagenav
-title: DM's Guide
-permalink: /dmg
+title: GM's Guide
+permalink: /gmg
 ---
 
 <h1 id="dmg" class="center-title">
-Dungeon Master's Guide
+Game Master's Guide
 </h1>
 
 <h3 class="change">Tracking Time</h3>
