@@ -1,8 +1,8 @@
 ---
+parent: Rules
 layout: pagenav
 title: Player's Handbook
 permalink: /phb/general
-nav-hide: true
 ---
 
 <!-- Homebrewery Link: https://homebrewery.naturalcrit.com/edit/vP9MXg6ODF -->
