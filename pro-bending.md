@@ -55,17 +55,15 @@ Each "round" of the game consists of 4 rounds of combat and there are 12 rounds 
 > - Grappling
 
 ### Crowd Mechanic
-- You can flavor your attacks to try to gain the crowd's favor. Roll a ...
+- Each round, one player on each time can flavor an attack to try to gain the crowd's favor. The players roll contesting Charisma (Performance) check.
 
 - The crowd can be in a neutral state, a negative state, or a positive state, depending on your team's amount of "crowd points". A team can have at most +3 and at minimum -3 crowd points. (If you have +3 points and gain a point, you stay at +3, and vice versa: if you are at -3 and lose a point, you stay at -3.)
-    - If you are the first to impress the crowd, you gain a positive point. 
-    - If the other team impresses the crowd, you lose a point. 
-    - If you try to impress the crowd and fail, you lose a point, and the opposite team gains a point.
+    - The team with the winner of the contested Performance check gains a crowd point, and the other team loses a point.
     - Because one team's loss is the other team's gain, the two teams' crowd points always sum to 0.
 
 > For example, the firebender Jian-Yang uses the *Projectiles* form three quick attacks at an opponent. He wants to make it look very impressive, so he decides to launch them in midair as he performs a forward flip, launching the first two from each of his feet as he flips and the last one with his right fist as he lands.   
 > 
-> To complete this feat, he rolls a DC ? Performance (?) check. On a success, the crowd is impressed and his team gains a crowd point. On a failure, the performance is lackluster (maybe he stumbles on the landing) and the crowd is disappointed. His team loses a crowd point.
+> To complete this feat, he rolls a Performance check contested by a player on the opposite team. On a success, the crowd is impressed and his team gains a crowd point. On a failure, the performance is lackluster (maybe he stumbles on the landing) and the crowd is disappointed. His team loses a crowd point.
 
 - Having the crowd on your side gives your team one inspiration point for the round, to give to one player on the team as you see fit.
 - At the end, the team who has the crowd the most will split the vote in case of a tie (?)
