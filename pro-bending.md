@@ -14,7 +14,7 @@ The rules of pro bending are pretty simple. Take control over the area in a spec
 ## Rules
 *The rules are based off of the rules listed [here](https://avatar.fandom.com/wiki/Pro-bending).*
 
-![Pro Bending ring](assets/Pro_Bending_Arena.jpg)
+![Pro bending ring](assets/Pro_Bending_Arena.jpg)
 
 The ring is divided into two halves, each of which is further divided into three sections, and a central circle to be used in tie-breakers. Each section is 30 feet wide. Teams begin the match facing each other in the two sections closest to the center. The goal is to knock the other team back and off the platform.
 
@@ -45,7 +45,7 @@ Each "round" of the game consists of 4 rounds of combat and there are 12 rounds 
 - **Other:** Other D&D actions, such as Dodge, Hide, Help, etc. are also allowed at the GM's discretion.
 
 > #### Fouls
-> If you commit a foul, you move back one zone. Examples of fouls in pro-bending include:
+> If you commit a foul, you move back one zone. Examples of fouls in pro bending include:
 > - Hosing (bending a water stream at an opponent for an excessively long time)
 > - Bending an earth disk outside your zone
 > - Creating ice
