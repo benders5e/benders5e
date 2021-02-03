@@ -233,7 +233,7 @@ Successful entertainers have to be able to capture and hold an audience's attent
 *Source: Sword Coast Adventurer's Guide*  
 
 <div class="HBonly" style="height:0em;"></div>
-You are a member of a secret order, such as the Order of the White Lotus or the Order of the red Lotus.
+You are a member of a secret order, such as the Order of the White Lotus or the Order of the Red Lotus.
 
 <div class="HBonly" style="height:0em;"></div>
 **Skill Proficiencies:** Insight and one Intelligence, Wisdom, or Charisma skill of your choice, appropriate to your faction  
@@ -1050,7 +1050,7 @@ Your bond might be associated with other members of your tribe, or a location or
 <h3 class="new">Swampbender</h3>
 *Prerequisite: Waterbender*  
 
-You hail from the swamps in the Earth Kingdom.  
+You hail from the swamps in the earth nation.  
 
 <div class="HBonly" style="height:0em;"></div>
 **Skill Proficiencies:** Nature, Survival  
@@ -1074,7 +1074,7 @@ Use the tables for the outlander background in the Player's Handbook as the basi
 <h3 class="new">Sandbender</h3>
 *Prerequisite: Earthbender*  
 
-You hail from the Si Wong Desert. Your time in this arid biome has forced you to master a special form of earthbending known as sandbending.  
+You hail from the desert. Your time in this arid biome has forced you to master a special form of earthbending known as sandbending.  
 
 <div class="HBonly" style="height:0em;"></div>
 **Skill Proficiencies:** Animal Handling, Intimidation  
@@ -1115,10 +1115,10 @@ Your bond is likely associated with other members of your clan, or a location or
 
 <h2 id="air">Air</h2>
 
-<h3 class="new">Air Nomad</h3>
+<h3 class="new">Air Acolyte</h3>
 *Prerequisite: Airbender*  
 
-Air Nomad children are raised in Air Nomad temples from a young age, developing parental bonds with the nomad assigned to their training. A large part of this training is spiritual, which leads to all Air Nomads realizing their connection to their inner chi and unlocking the ability to airbend.
+Air nation children are raised in air temples from a young age, developing parental bonds with the monk assigned to their training. A large part of this training is spiritual, which leads to all air nation children realizing their connection to their inner chi and unlocking the ability to airbend.
 
 <div class="HBonly" style="height:0em;"></div>
 **Skill Proficiencies:** Spirituality and your choice of Animal Handling or History  
@@ -1130,12 +1130,12 @@ Air Nomad children are raised in Air Nomad temples from a young age, developing 
 <div class="HBonly">\page</div>
 
 #### Feature: Meditation
-Air Nomads don't need to sleep. Instead, they meditate deeply, remaining semiconscious, for 4 hours a day. While meditating, you can dream after a fashion; such dreams are actually mental exercises that have become reflexive through years of practice. After resting in this way, you gain the same benefit that others do from 8 hours of sleep.
+Air Acolytes don't need to sleep. Instead, they meditate deeply, remaining semiconscious, for 4 hours a day. While meditating, you can dream after a fashion; such dreams are actually mental exercises that have become reflexive through years of practice. After resting in this way, you gain the same benefit that others do from 8 hours of sleep.
 
 #### Suggested Characteristics
 Use the tables for the hermit background in the Player's Handbook as the basis for your traits and motivations, modifying the entries when appropriate.
 
-When choosing your ideal, keep in mind that the Air Nomads are a peaceful people who eschew violence of all sorts and thus tend to a neutral or good alignment.
+When choosing your ideal, keep in mind that the Air Acolytes are a peaceful people who eschew violence of all sorts and thus tend to a neutral or good alignment.
 
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 4 | BACKGROUNDS</div>

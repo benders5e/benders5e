@@ -28,7 +28,7 @@ Equipment
 | &emsp;Guanmao      |10 gp | +1               | --       | --      | 2 lb.  |
 
 <span class="new">**_Guanmao._**</span>
-This large-brimmed hat from the Earth Kingdom is flat and shield-like, allowing the wearer to defuse various attacks by lowering their head. You can benefit from only one guanmao at a time.
+This large-brimmed hat from the earth nation is flat and shield-like, allowing the wearer to defuse various attacks by lowering their head. You can benefit from only one guanmao at a time.
 
 
 ## Weapons

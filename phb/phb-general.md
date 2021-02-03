@@ -12,10 +12,7 @@ Player's Handbook
 </h1>
 
 <div class="HBonly">
-# Bender Campaign Setting
-W*ater – Earth – Fire – Air. Long ago, the nations lived together in harmony. Then, everything changed when the Fire Nation attacked. Only the Avatar, master of all four elements, could stop them, but when the world needed him most, he vanished.* 
-
-In his absence, chaos reigns, kept at bay only by brave benders who have taken it upon themselves to fill the void he left...
+# Benders
 
 ### Classes
 
@@ -27,9 +24,9 @@ In his absence, chaos reigns, kept at bay only by brave benders who have taken i
 ### Planes of Existence
 <h4 class="change">Physical World</h4>
 
-The physical world, sometimes also called the material world, is the plane of existence on which humans live. It is divided into the four nations of the elements: the Water Tribe, Earth Kingdom, Fire Nation, and the Air Nomads. Benders (and non-benders) of each element usually live in the corresponding nation, with some exceptions. Other groups exist outside of these nations as well, such as the waterbending Foggy Swamp Tribe, the sandbending Si Wong tribes, and the firebending Sun Warriors.
+The physical world, sometimes also called the material world, is the plane of existence on which humans live. It is divided into four nations corresponding to the elements: water, earth, fire, and air. Benders (and non-benders) of each element usually live in the corresponding nation, with some exceptions. Other groups exist outside of these nations as well, such as the waterbending swamp tribes and the sandbending desert tribes.
 
-The political landscape has varied over time; depending on which period your campaign is set in, areas may fall under different jurisdictions or there may even be new or altogether different entities at play (e.g., the United Republic, the Fire Nation colonies, or the isolated lion-turtle cities of Avatar Wan's time, scattered through the Spirit Wilds).
+The political landscape has varied over time; depending on which period your campaign is set in, areas may fall under different jurisdictions or there may even be new or altogether different entities at play.
 
 <h4 class="new">Spirit World</h4>
 The Spirit World is a plane of existence that lies parallel to the physical world and is home to spirits. These supernatural and immortal entities span a wide range of forms and often represent some aspect of life or nature. 
