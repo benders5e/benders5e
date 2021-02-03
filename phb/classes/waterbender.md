@@ -23,7 +23,7 @@ Because of these tight community bonds, waterbenders rarely leave their homes un
 
 ### Creating a Waterbender
 As you make your waterbender character, think about ...
-- **The culture of your tribe.** Did you grow up in the small Southern Water Tribe? The larger and tradition-steeped Northern Water Tribe? In the swamp? Or somewhere else entirely? This background will likely influence your bending style and your preferred state of water to bend.
+- **The culture of your tribe.** Did you grow up in a small tribe? A larger and more tradition-steeped tribe? At the poles or in the swamp? Or somewhere else entirely? This background will likely influence your bending style and your preferred state of water to bend.
 - **How you began training in waterbending.** Were your parents waterbenders? Your siblings? When did you first learn of your abilities? Who became your bending master?
 - **Why you left home.** Most waterbenders spend their whole lives in their home town or village. Did something happen to your home that forced you to move? Are you leaving to find a way to save it from some threat? Or did the outside world pull you away for some great mission?
 
@@ -266,7 +266,7 @@ When falling into a body of water, you can also use this ability to catch yourse
 Beginning at 14th level, you learn to bend with minimal motion. Your use of bending becomes nearly imperceptible, and you do not suffer disadvantage on bending attacks when restrained as long as you can see your target.
 
 ### ?
-At 15th level, ... [flavor]
+At 15th level, ... [ribbon]
 
 ### Element of Change
 At 20th level, ...
@@ -326,9 +326,9 @@ Beginning when you choose this specialization at 5th level, you learn to control
 </div>
 
 > ##### Phases of the Moon
-> If you are using the *Celestial Tracking* variant of the Bender expansion (see Part 1), your DM will keep track of the current position of the celestial bodies, including the phases of the moon.  
+> If your GM is using the *Celestial Tracking* variant, the GM will keep track of the current position of the celestial bodies, including the phases of the moon.  
 > 
-> If you are not using the variant, roll a 1d8 when you wish to use your bloodbending abilities to determine the phase of the moon. An 8 indicates a full moon, whereas rolls of 1-7 correspond to the other phases and lead to diminished bloodbending powers.
+> If you are not using the variant, roll a 1d8 when you wish to use your bloodbending abilities to determine the phase of the moon (at the GM's discretion). An 8 indicates a full moon, whereas rolls of 1-7 correspond to the other phases and lead to diminished bloodbending powers.
 
 <div class="HBspacing" style="height: 2em;">
 </div>
@@ -569,7 +569,7 @@ You start out knowing forms marked with an asterisk.
 <div class="formCard water">
     <h4>Ice Storm</h4>
     <p style="font-style: italic;">Cost: 5 chi</p>
-    You cause the effects of the *Ice Storm* spell with a range equal to your normal bending range.
+    You cause the effects of the <span style="font-style: italic;">Ice Storm</span> spell with a range equal to your normal bending range.
 </div>
 
 ### Advanced Forms

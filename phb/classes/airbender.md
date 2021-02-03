@@ -14,22 +14,18 @@ nav-hide: true
 Air is the element of freedom. Airbending concentrates on speed and evasion, forgoing a strong offense for a greater defense. Though apparently lacking fatal finishing moves, it is the most dynamic of all the bending arts. As the element of freedom, airbenders use their capability to bend unencumbered by the ground or any other environmental factors and use their own momentum as a weapon, evading attacks with astounding agility to tire out their opponents or to build up massive inertia for explosive gusts of wind and make their counterattacks finishing moves.
 
 ### Chi
-Benders make careful study of a magical energy called chi that flows through living bodies. Airbenders have mastered control of the chi within themselves and are able to extend its influence beyond their body, using the energy to manipulate the air around them. Airbenders learned airbending from the flying bison, the original earthbenders.
+Benders make careful study of a magical energy called chi that flows through living bodies. Airbenders have mastered control of the chi within themselves and are able to extend its influence beyond their body, using the energy to manipulate the air around them.
 
 ### Community and Training
-Airbenders are raised by airbending masters in one of the four Air Temples from a young age. Unlike the other nations, Air Nomads continually strive for spiritual englightenment, so all members of the Air Nation are also airbenders.
-
-The Air Nomads reside in four Air Temples, named after the cardinal directions: the Western and Eastern Air Temples were home to female airbenders, and the Northern and Southern to male airbenders.
-
-During the Hundred Year War, almost all airbenders were wiped out by the Fire Nation, with some surviving the initial attack and fleeing to the Earth Kingdom to spend the rest of their days in hiding. After Harmonic Convergence, the world miraculously saw new airbenders, now with very diverse backgrounds.
+Airbenders are raised by airbending masters from a young age. Unlike the other nations, airbenders continually strive for spiritual englightenment, so all members of the air nation are airbenders.
 
 Although airbenders often lead secluded lives as part of their quest for spiritual enlightenment, they hold great respect for all life, stepping in to prevent harm to people, animals, nature, and spirits. This conviction can lead some airbenders to leave behind their structured lifestyle to become noble adventurers driven by a deeper mission than greed and glory.
 
 ### Creating an Airbender
 As you make your airbender character, think about ...
-- **Where you are from.** Which Air Temple you are from? Did you hide out in the Earth Kingdom after the Hundred Year War? Were you one of the many non-benders who miraculously discovered airbending after Harmonic Convergence? In the latter case, your temperament is likely very different from that of an Air Nomad (Zaheer is a good example).
+- **Where you are from.** What temple you are from? Did you hide out in another nation instead? Were you raised as a bender, or did you discover your abilities later in life? In the latter case, your temperament is likely very different from that of an airbender raised with the principles of airbending.
 - **How you began your training in airbending.** Where you raised by monks and trained in both the physical and spiritual aspects of airbending? Are you self-taught?
-- **Why you left home.** Did you flee from the Fire Nation? Set out to right some wrong? Did you go in search of a master after you discovered your power?
+- **Why you left home.** Did you flee from oppression? Set out to right some wrong? Did you go in search of a master after you discovered your power?
 
 Because of the air's untethered nature, airbenders tend towards chaotic (or at most neutral) alignments.
 
@@ -195,7 +191,7 @@ At 5th level, you specialize in one of the following aspects of airbending: adva
 ### Cloudbending
 At 6th level, you gain the ability to bend clouds. Once per long rest, you can concentrate on reshaping clouds for a period of time up to 1 hour. During this time, you spend your Action on every turn cloudbending and cannot use it to attack or take any other actions.
 
-### Shunt (this needs a new name)
+### Shunt
 At 9th level, you can use your reaction to push your allies out of harm's way. You use your Be the Leaf ability for this, and it counts as one of your uses per long rest.
 
 ### Breath of Wind
@@ -215,7 +211,7 @@ At 13th level, you are aware of every motion in the air surrounding you. Every t
 Beginning at 14th level, you learn to bend with minimal motion. Your use of bending becomes nearly imperceptible, and you do not suffer disadvantage on bending attacks when restrained as long as you can see your target.
 
 ### ?
-At 15th level, ... [flavor]
+At 15th level, ... [ribbon]
 
 <div class="HBspacing" style="height: 0em;">
 </div>
@@ -224,12 +220,7 @@ At 15th level, ... [flavor]
 <div class="HBspacing" style="height: 1em;">
 </div>
 
-<div style="margin-left: 1.5em;">
-    <p style="font-style: italic;">Let go your earthly tether. Enter the void. Empty, and become wind.</p>
-    <p>–Guru Laghima</p>
-</div>
-
-Like the Guru Laghima and the airbender Zaheer, you learn to levitate without using bending or any other means to propel yourself. You move naturally and without having to think about it through the air, as easily and naturally as if you were walking. You gain a flying speed of 60 feet.
+You learn to levitate without using bending or any other means to propel yourself. You move naturally and without having to think about it through the air, as easily and naturally as if you were walking. You gain a flying speed of 60 feet.
 
 ## Airbending Specializations
 

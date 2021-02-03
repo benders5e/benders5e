@@ -14,17 +14,17 @@ nav-hide: true
 Earth is the element of substance. Earthbenders have a special connection with the earth that is characterized by *neutral jing*: listening and waiting for the right moment to strike. Because of their element's stability and its stress on neutral jing, earthbenders stand their ground, absorbing or intercepting attacks until they completely overwhelm their opponents. Like waterbending, earthbending's strength lies equally in offense and defense.
 
 ### Chi
-Benders make careful study of a magical energy called chi that flows through living bodies. Earthbenders have mastered control of the chi within themselves and are able to extend its influence beyond their body, using the energy to manipulate the earth around them. Earthbenders learned earthbending from the badgermoles, the original earthbenders.
+Benders make careful study of a magical energy called chi that flows through living bodies. Earthbenders have mastered control of the chi within themselves and are able to extend its influence beyond their body, using the energy to manipulate the earth around them.
 
 ### Community and Training
-Earthbending is a very diverse bending art and, by extension, so are earthbenders. The Earth Kingdom is the largest of the four nations, comprising both the greatest land mass and having the largest population. This means that an earthbender can come from one of many disparate communities and backgrounds: a city dweller, a country artisan, an outlander from one of the many biomes of the Kingdom... 
+Earthbending is a very diverse bending art and, by extension, so are earthbenders. They can come from one of many disparate communities and backgrounds: a city dweller, a country artisan, an outlander from one of the many biomes of their nation.
 
 One thing that all earthbenders have in common, however, is their toughness and directness. They tend to be patient, weighing their options and waiting the right opportunity.
 
 
 ### Creating an Earthbender
 As you make your earthbender character, think about ...
-- **Where you are from.** Where in the vast expanse and variety of the Earth Kingdom you are from? Are from another nation entirely? What is the culture like?
+- **Where you are from.** Where in the vast expanse and variety of your nation are you from? Are from another nation entirely? What is the culture like?
 - **How you began training in earthbending.** Were your parents earthbenders? Your siblings? When did you first learn of your abilities? Who became your bending master?
 - **Why you left home.** What drew you to a life of adventure? How does your family feel about your calling?
 
@@ -167,7 +167,7 @@ As an earthbender, rocks that are not worn, equipped, or carried have 0 AC for t
 Beginning at 2nd level, you adopt a particular stance as your specialty. Choose one of the following options:
 
 #### Praying Mantis
-This style is known for its speed and continuous attacks and was famously used by Toph Beifong. When you roll a 19 or a 20 on an attack roll, you can spend your bonus action to make an additional basic bending attack. Your speed also increases by 5.
+This style is known for its speed and continuous attacks. When you roll a 19 or a 20 on an attack roll, you can spend your bonus action to make an additional basic bending attack. Your speed also increases by 5.
 
 #### Hung Gar
 You favor a deep, low stance rooted in the earth beneath you. You gain advantage on Strength saving throws and expertise (also called "double proficiency") in Strength (Athletics) checks and cannot be knocked prone.   
@@ -215,7 +215,7 @@ When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can 
 Using the optional feats rule, you can forgo taking this feature to take a feat of your choice instead.
 
 ### Burrow
-At 4th level, you learn to tunnel like a badgermole. You can use your Action to choose a portion of dirt or stone that you can see within range, up to your bending capacity. You instantaneously excavate it, move it along the ground, and deposit it up to 5 feet away. This movement doesn’t have enough force to cause damage.
+At 4th level, you learn to tunnel underground. You can use your Action to choose a portion of dirt or stone that you can see within range, up to your bending capacity. You instantaneously excavate it, move it along the ground, and deposit it up to 5 feet away. This movement doesn’t have enough force to cause damage.
 <!--based on Mold Earth-->
 
 ### Earthbending specialization
@@ -233,7 +233,7 @@ When you reach 6th level, you learn to synchronize your control of earth with yo
 ### Expansion and Compaction
 At 6th level, your control increases. You are now able to compact or expand earth of the weight and range that you can bend as a bonus action. Each compaction increases the material's AC by 1 (to a maximum of 19), while each expansion decreases the AC by 1 (see the Quick Conversions table on pg. 1). As a consequence, you can now tunnel underground without having to deposit the removed earth elsewhere.
 
-You also learn to bend earth-based materials such as mud, coal, gems, crystals, meteorites, and jennamite ("creeping crystal").  
+You also learn to bend earth-based materials such as mud, coal, gems, crystals, and meteorites.  
 
 ### Chi-Empowered Reflex
 Starting at 9th level, you gain one of the following abilities of your choice:

@@ -20,10 +20,9 @@ If you want to include this class in a regular D&D 5e campaign, at 6th level ben
 A custom character sheet that reflects the modifications made to regular 5e abilities, skills, etc. can be found [here](/tools).
 
 ### Credits
-- Made by Noemi Glaeser with feedback, suggestions, ideas, and playtesting by Marie and Abi Anderson, Kevin Gagnon, Adam Groth, Jamie Mayson, and Trevor Schachner.
+- Made by nglaeser with feedback, suggestions, ideas, and playtesting by Marie and Abi A., Kevin G., Adam G., Jamie M., and Trevor S.
 - PDFs made with [The Homebrewery](https://homebrewery.naturalcrit.com).
-- [Avatar Wiki](https://avatar.fandom.com/wiki/Bending_arts) quoted and used for reference.
-- Some inspiration for abilities and forms was drawn <a href="https://www.dandwiki.com/wiki/5e_Classes_(Avatar_Supplement)">this Avatar Supplement</a> on the D&D Wiki.
+- Some inspiration for abilities and forms was drawn from the <a href="https://avatar.fandom.com/wiki/Bending_arts">Avatar Wiki</a> and <a href="https://www.dandwiki.com/wiki/5e_Classes_(Avatar_Supplement)">this Avatar Supplement</a> on the D&D Wiki.
 
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 5 | APPENDIX</div>

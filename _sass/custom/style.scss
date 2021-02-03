@@ -129,9 +129,18 @@ blockquote h5 {
   font-family: 'Averia Libre', cursive;
   //text-align: center;
 }
+blockquote h5, .formCard h5 {
+  // remove underline
+  margin-bottom: initial;
+  border-bottom-width: 0px;
+  border-bottom-style: initial;
+}
 
 .formCard p, .formCard h4 {
   margin-bottom: 5px;
+}
+.formCard h5 {
+  margin-top: 5px;
 }
 .formCard {
   margin: 1em 1.5em;
@@ -157,26 +166,68 @@ blockquote h5 {
  } 
  
 .banner {
-  //background-image: url("./path.jpg");
-  background-color: $air-blue;
   text-align: center;
   padding-top: 3em;
   padding-bottom: 3em;
   margin-bottom: 1em;
+  position: relative;
+}
+.banner-img {
+  content: ' ';
+  display: block;
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+  opacity: 0.3;
+
+  background-image: url("../../assets/Banner.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+// mobile version
+@media only screen and (min-width : 320px) and (max-width : 480px) {
+  .banner-img {
+    content: ' ';
+    display: block;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    opacity: 0.3;
+
+    background: url("../../assets/Banner_mobile.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
 }
 .banner h1 {
   font-size: 64px;
+}
+.banner h1, .banner p, .banner a {
+  position: relative;
+  z-index: 2;
 }
 .banner .button {
   background-color: $brand-color;
   border: none;
   color: white;
-  padding: 15px 32px;
+  padding: 15px 20px;
+  margin: 0px 10px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
   font-size: 16px;
   border-radius: .5em;
+}
+nav {
+  z-index: 3;
 }
 
 .new::after {
@@ -214,10 +265,22 @@ footer {
   z-index: 2;
   background-color: white;
 }
+<<<<<<< HEAD
 
 img {
   display: block;
   margin: auto auto;
+=======
+h5 {
+  margin-bottom: 0em;
+  font-size: 16px;
+
+  // underline
+  margin-bottom: .5em;
+  border-bottom-width: 1px;
+  border-color: $grey-color;
+  border-bottom-style: solid;
+>>>>>>> master
 }
 
 .footer-col-3 {

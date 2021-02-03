@@ -17,15 +17,13 @@ Firebenders are fierce fighters, unleashing volleys of direct, successive attack
 Benders make careful study of a magical energy called chi that flows through living bodies. Firebenders have mastered control of the chi within themselves and are able to extend its influence beyond their body. They are remarkable among benders in that their energy takes physical form as fire, though they can also control existing flames. Firebenders learned firebending from the dragons, the original firebenders.
 
 ### Community and Training
-Most firebenders live in the Fire Nation, though the Earth Kingdom also harbors a significant minority of firebenders. During the Hundred Year War, firebending was twisted into a tool for oppression and powered by hatred and anger through extreme militarism. During this period, the Fire Nation became an oppressive and imperialist society, enforcing strict laws and traditions that were perpetuated through propaganda and state-approved teachings. Many people of the Fire Nation never knew a different way of life and were unaware of the horrors perpetuated by their nation in other parts of the world. 
-
-Firebenders generally only ventured outside their homeland as part of the military and were trained to use their bending for these means. After the War, the nation was reborn, with emphasis placed on fire as a bringer of life instead of estruction.
+Most firebenders live in the fire nation, though the earth ningdom also harbors a significant minority of firebenders. Some use firebending as a tool for oppression, powered by hatred and anger, but a few have learned that fire is a bringer of life instead of destruction.
 
 ### Creating a Firebender
 As you make your firebender character, think about ...
-- **Where you are from.** Are from the Fire Nation? One of its colonies in the Earth Kingdom? Somewhere else entirely?
+- **Where you are from.** Are from the fire nation or the earth nation? Somewhere else entirely?
 - **How you began training in firebending.** Were your parents firebenders? Your siblings? When did you first learn of your abilities? Who became your bending master?
-- **Why you left home.** Did the Hundred Years War call you to fight or cause you to flee? Are you helping to rebuild the rest of the world after the war? Or are you simply satisfying a yearning for adventure?
+- **Why you left home.** Were you forced to flee? Set out to see or rebuild the rest of the world? Or are you simply satisfying a yearning for adventure?
 
 Because of the passionate nature of fire, firebenders tend towards extreme alignments and are rarely neutral.
 
@@ -204,13 +202,9 @@ Also at 6th level, you gain the ability to alter outside sources of fire. On you
 <div class="HBspacing" style="height: 1em;">
 </div>
 
-<div style="margin-left: 1.5em;">
-    <p style="font-style: italic;">
-    If you let the energy in your own body flow, the lightning will follow it. You must create a pathway from your fingertips up your arm to the shoulder, then down into the stomach. The stomach is the source of energy in your body; it is called the sea of chi. From your stomach you direct it up again and out the other arm. The stomach detour is critical; you must not let the lightning pass through your heart, or the damage could be deadly.</p>
-    <p>–Iroh, inventor of lightning redirection</p>
-</div>
+Starting at 9nd level, when you are hit by lightning or electricity (natural or created by a bender), you can use your reaction to attempt to redirect it. You must create a path for the energy to flow from your fingertips into your stomach -- the sea of chi -- and out your other arm. The lightning can be deadly if it passes through your heart. 
 
-Starting at 9nd level, when you are hit by lightning or electricity (natural or created by a bender), you can use your reaction to attempt to redirect it by making a Wisdom saving throw. If you roll a 10 or higher, you successfully redirect the lightning at an unoccupied space within range, taking no damage. On a 15 or higher, you can choose to redirect the lightning anywhere within range as if you were generating it yourself. If you roll below a 10, you take double the normal damage of the attack.
+Make a Wisdom saving throw. If you roll a 10 or higher, you successfully redirect the lightning at an unoccupied space within range, taking no damage. On a 15 or higher, you can choose to redirect the lightning anywhere within range as if you were generating it yourself. If you roll below a 10, you take double the normal damage of the attack.
 
 ### Fierce Fighter
 Beginning at 10th level, when you roll a 1 or 2 on a damage die for a basic firebending attack, you can reroll the damage. You must use the new roll. This ability does not apply to additional damage dice (e.g., the Colorful Flame damage) beyond the "bending" die listed in the table.
@@ -227,7 +221,7 @@ At 13th level, the power of your Firestepping increases. You gain a flying speed
 Beginning at 14th level, you learn to bend with minimal motion. Your use of bending becomes nearly imperceptible, and you do not suffer disadvantage on bending attacks when restrained as long as you can see your target.
 
 ### ?
-At 15th level, ... [flavor]
+At 15th level, ... [ribbon]
 
 ### Element of Power
 At 20th level, the power of your inner flame grows, increasing your stamina. You now have 6 chi exhaustion points at your disposal and thus you now use a 1d6 as your chi exhaustion die.

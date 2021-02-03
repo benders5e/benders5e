@@ -31,11 +31,11 @@ As you build your fighter, think about two related elements of your character’
 
 You might have enjoyed formal training in a noble’s army or in a local militia. Perhaps you trained in a war academy, learning strategy, tactics, and military history. Or you might be self-taught—unpolished but well tested. Did you take up the sword as a way to escape the limits of life on a farm, or are you following a proud family tradition? Where did you acquire your weapons and armor? They might have been military issue or family heirlooms, or perhaps you scrimped and saved for years to buy them. Your armaments are now among your most important possessions—the only things that stand between you and death’s embrace.
 
-> #### Quick Build
+> #### Quick Build 1
 > You can make a fighter quickly by following these suggestions. First, make Strength or Dexterity your highest ability score, depending on whether you want to focus on melee weapons or on archery (or finesse weapons). Second, choose the soldier background.
 > 
-> ##### Kyoshi Warrior
-> Choose Two-Weapon Fighting as your Fighting Style and two fans as your two starting martial weapons (see "Equipment").
+> #### Quick Build 2
+> Alternatively, make Strength your highest score, followed by Dexterity. Choose Two-Weapon Fighting as your Fighting Style and two fans as your two starting martial weapons (see "Equipment").
 
 ## Class Features
 As a fighter, you gain the following class features.
