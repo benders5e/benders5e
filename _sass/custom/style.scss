@@ -114,9 +114,18 @@ blockquote h5 {
   font-family: 'Averia Libre', cursive;
   //text-align: center;
 }
+blockquote h5, .formCard h5 {
+  // remove underline
+  margin-bottom: initial;
+  border-bottom-width: 0px;
+  border-bottom-style: initial;
+}
 
 .formCard p, .formCard h4 {
   margin-bottom: 5px;
+}
+.formCard h5 {
+  margin-top: 5px;
 }
 .formCard {
   margin: 1em 1.5em;
@@ -251,7 +260,13 @@ h4 {
 }
 h5 {
   margin-bottom: 0em;
-  font-size: 14px;
+  font-size: 16px;
+
+  // underline
+  margin-bottom: .5em;
+  border-bottom-width: 1px;
+  border-color: $grey-color;
+  border-bottom-style: solid;
 }
 
 footer {
