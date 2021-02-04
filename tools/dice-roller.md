@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Dice Roller
 permalink: /tools/dice/
 parent: Tools

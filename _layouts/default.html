@@ -12,6 +12,12 @@
     {%- else -%}
     <main class="page-content" aria-label="Content">
       <div class="wrapper">
+        {%- if page.title -%}
+        <header>
+          <h1>{{ page.title }}</h1>
+        </header>
+        {%- endif -%}
+
         {{ content }}
       </div>
     </main>
