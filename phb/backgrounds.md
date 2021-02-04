@@ -1,7 +1,7 @@
 ---
 layout: pagenav
 title: Backgrounds
-permalink: /phb/backgrounds/
+permalink: /phb/backgrounds
 nav-hide: true
 ---
 

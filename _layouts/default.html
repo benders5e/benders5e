@@ -12,6 +12,14 @@
     {%- else -%}
     <main class="page-content" aria-label="Content">
       <div class="wrapper">
+        {%- if page.title -%}
+        {%- unless page.layout == 'post' -%}
+        <header>
+          <h1>{{ page.title }}</h1>
+        </header>
+        {%- endunless -%}
+        {%- endif -%}
+
         {{ content }}
       </div>
     </main>

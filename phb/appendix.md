@@ -1,7 +1,7 @@
 ---
 layout: pagenav
 title: Appendix
-permalink: /phb/appendix/
+permalink: /phb/appendix
 nav-hide: true
 ---
 

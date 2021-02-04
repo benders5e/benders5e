@@ -1,12 +1,12 @@
 ---
-layout: page
+layout: default 
 title: New to D&D?
 permalink: /new-player
 ---
 
 The [Player's Handbook](./phb) on this site contains all the rules and mechanics you will need to play a bender! If you've played Dungeons & Dragons before, most of these will be familiar to you. If you're new to D&D, don't fret! Below is a quick-and-dirty guide to getting off the ground. We'll show you how to create a character and give you the basics of how to play the game.
 
-# The Basics
+## The Basics
 
 Dungeons & Dragons is role-playing game, which means players create characters and take on their role in the story. One player will serve as the Dungeon Master (DM), who tells the story and serves as a referee.
 
@@ -23,7 +23,7 @@ Dice-rolling usually proceeds as follows:
 1. Add bonuses or penalties, when applicable.
 1. Compare the result to a target value.
 
-# Creating a Character
+## Creating a Character
 
 1. **Choose a <a target="_blank" href="./phb/classes">class</a>.**
 1. **Determine your ability scores.** There are six ability scores, half termed "physical" and half "mental". The physical abilities are Strength, Dexterity, Constitution. The mental abilities are Intelligence, Wisdom, and Charisma. Your DM should let you know how to determine these scores.
@@ -32,7 +32,7 @@ Dice-rolling usually proceeds as follows:
     - Decide on other features: name, age, gender, appearance, personality traits...
 1. **Assemble your equipment.** Equipment you start with is listed in your class's description. At your DM's discretion, you may be allowed additional pieces of <a target="_blank" href="./phb/equipment">equipment</a>.
 
-# How to Play
+## How to Play
 
 Within the basic outline of gameplay described above, there are additional rules and philosophies for gameplay.
 

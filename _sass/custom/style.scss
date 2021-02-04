@@ -183,7 +183,7 @@ blockquote h5, .formCard h5 {
   z-index: 1;
   opacity: 0.3;
 
-  background-image: url("../../assets/Banner.jpg");
+  background-image: url("Banner.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -201,7 +201,7 @@ blockquote h5, .formCard h5 {
     z-index: 1;
     opacity: 0.3;
 
-    background: url("../../assets/Banner_mobile.jpg");
+    background: url("Banner_mobile.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -265,12 +265,10 @@ footer {
   z-index: 2;
   background-color: white;
 }
-<<<<<<< HEAD
 
 img {
   display: block;
   margin: auto auto;
-=======
 h5 {
   margin-bottom: 0em;
   font-size: 16px;
@@ -280,9 +278,26 @@ h5 {
   border-bottom-width: 1px;
   border-color: $grey-color;
   border-bottom-style: solid;
->>>>>>> master
 }
 
+footer {
+  z-index: 10;
+  background-color: white;
+}
 .footer-col-3 {
   text-align: right;
 }
+.footer-col-1 li {
+  padding-bottom: .5em;
+}
+footer i, footer .username {
+  color: $grey-color;
+}
+footer i {
+  padding-right: 5px;
+}
+/*.social-media-list li {
+  display: inline;
+  text-align: right;
+  padding-left: 7.5px;
+}*/

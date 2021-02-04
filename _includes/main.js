@@ -58,7 +58,7 @@ subsectionSublist.id = "subnav";
 for(let i = 0; i < navSubsectionTitles.length; i++) {
     let navLink = document.createElement("a");
     navLink.textContent = navSubsectionTitles[i].textContent;
-    navLink.href = `/phb/${currSection.id}/${currSection.id == "classes" ? "" : "#"}${navSubsectionTitles[i].id}`;
+    navLink.href = `/phb/${currSection.id}${currSection.id == "classes" ? "/" : "#"}${navSubsectionTitles[i].id}`;
 
     let navItem = document.createElement("li");
     navItem.appendChild(navLink);

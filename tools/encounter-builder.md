@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Encounter Builder
 permalink: /tools/encounter-builder/
 parent: Tools

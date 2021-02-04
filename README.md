@@ -2,13 +2,9 @@
 
 A homebrew _Avatar: The Last Airbender_-inspired D&D 5e campaign setting. Visit [the old repo's wiki](https://github.com/nglaeser/benders/wiki) for a comparison of this setting to other ATLA-inspired settings and other notes.
 
-Site layout influenced by the [Mass Effect 5e site](http://n7.world) (whose code is open-sourced on GitHub [here](https://github.com/queryluke/masseffect-5e)).
-
-*Note: site is not yet live.*
-
 ## Contributing
 
-If you have feature suggestions or requests, open an issue so that they can be discussed. Be sure to check if a similar issue already exists before opening a new one. 
+If you have feature suggestions or requests, open an issue so that they can be discussed. Please check if a similar issue already exists before opening a new one. 
 
 If you have code to contribute, open a pull request.
 

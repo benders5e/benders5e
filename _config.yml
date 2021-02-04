@@ -23,13 +23,13 @@ email:
 description: >- # this means to ignore newlines until "baseurl:"
   Elemental benders in D&D 5e
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "benders5e.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: benders5e
-subreddit: 
-instagram_username: 
-patreon_username: 
-twitch_username: 
-# github_username: 
+github_repo: nglaeser/benders5e
+patreon_username: benders5e
+#subreddit: 
+#instagram_username: 
+#twitch_username: 
 show_excerpts: true
 
 # Build settings
