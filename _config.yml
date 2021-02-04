@@ -26,7 +26,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "benders5e.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: benders5e
 #github_username:
-github_repo: nglaeser/benders5e
+github_repo: benders5e/benders5e
 patreon_username: benders5e
 show_excerpts: true
 
