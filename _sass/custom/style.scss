@@ -162,8 +162,9 @@ blockquote h5, .formCard h5 {
   background-color: transparent;
 }
 
-.subtitle { font-size: 20px;
- } 
+.subtitle { 
+  font-size: 20px;
+} 
  
 .banner {
   text-align: center;
@@ -261,14 +262,11 @@ nav {
   background-color: orange;
 }
 
-footer {
-  z-index: 2;
-  background-color: white;
-}
-
 img {
   display: block;
   margin: auto auto;
+}
+
 h5 {
   margin-bottom: 0em;
   font-size: 16px;
@@ -296,8 +294,9 @@ footer i, footer .username {
 footer i {
   padding-right: 5px;
 }
-/*.social-media-list li {
+/* .social-media-list li {
   display: inline;
   text-align: right;
   padding-left: 7.5px;
-}*/
+}
+*/
