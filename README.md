@@ -1,6 +1,6 @@
 # Benders 5e
 
-A homebrew _Avatar: The Last Airbender_-inspired D&D 5e campaign setting. Visit [the old repo's wiki](https://github.com/nglaeser/benders/wiki) for a comparison of this setting to other ATLA-inspired settings and other notes.
+A homebrew _Avatar: The Last Airbender_-inspired D&D 5e campaign setting. Visit [the old repo's wiki](https://github.com/nglaeser/benders/wiki) (private repo) for a comparison of this setting to other ATLA-inspired settings and other notes.
 
 ## Contributing
 
