@@ -14,5 +14,5 @@ This content has been in the works for almost 9 months, and although there have 
 - some kinks in the mobile version of the site
 - balance of some classes (Monk Way of Chi in particular)
 
-This is an open-source project, so I welcome any contributions and suggestions. More information about contributing can be found on the [About page](./about). I'm excited to [hear what you think](https://forms.gle/H2VMopAN7gtaRrG5A)!
+This is an open-source project, so I welcome any contributions and suggestions. More information about contributing can be found on the [About page](/about). I'm excited to [hear what you think](https://forms.gle/H2VMopAN7gtaRrG5A)!
 <!-- Support small creators, open-source! We want YOUR help (insert Aang pointing) -->
