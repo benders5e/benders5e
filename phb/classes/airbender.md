@@ -442,4 +442,7 @@ The effect also ends if you lose concentration.
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 2 | CLASSES</div>
 
+<img src='/assets/elements/air.png' style='position:absolute;top:20%;right:30px;width:280px;opacity:0.6'>
+<div class="HBonly">
 <img src='https://nglaeser.keybase.pub/Other/air.png' style='position:absolute;bottom:70px;right:30px;width:280px;opacity:0.4'>
+</div>

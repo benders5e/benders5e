@@ -493,4 +493,7 @@ Not sure what these are
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 2 | CLASSES</div>
 
+<img src='/assets/elements/fire.png' style='position:absolute;top:20%;right:30px;width:280px;opacity:0.6'>
+<div class="HBonly">
 <img src='https://nglaeser.keybase.pub/Other/fire.png' style='position:absolute;bottom:70px;right:30px;width:280px;opacity:0.4'>
+</div>
