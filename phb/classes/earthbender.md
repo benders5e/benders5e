@@ -7,6 +7,12 @@ nav-hide: true
 
 <!-- Homebrewery Link: https://homebrewery.naturalcrit.com/edit/grt0crs-z_ -->
 
+<div class="class-pdf">
+<a href="/assets/pdf/earth.pdf"><i class="far fa-file-pdf"></i>
+PDF version</a> 
+<br/>(out-of-date)
+</div>
+
 <h1 id="classes" class="new">
     Earthbender
 </h1>

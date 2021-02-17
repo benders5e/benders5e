@@ -7,6 +7,12 @@ nav-hide: true
 
 <!-- Homebrewery Link: https://homebrewery.naturalcrit.com/edit/24oFxIIOYo -->
 
+<div class="class-pdf">
+<a href="/assets/pdf/fire.pdf"><i class="far fa-file-pdf"></i>
+PDF version</a> 
+<br/>(out-of-date)
+</div>
+
 <h1 class="new" id="classes" >Firebender</h1>
 
 Fire is the element of power. Firebenders must be able to maintain a constant source of energy and balance in battle and direct it through unflinching conviction. This energy comes from within, but is strengthened by the sun and some other natural phenomena. 

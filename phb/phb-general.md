@@ -5,6 +5,12 @@ title: Player's Handbook
 permalink: /phb/general
 ---
 
+<div class="class-pdf">
+<a href="/assets/pdf/FULL.pdf"><i class="far fa-file-pdf"></i>
+Full rules PDF</a> 
+<br/>(out-of-date)
+</div>
+
 <!-- Homebrewery Link: https://homebrewery.naturalcrit.com/edit/vP9MXg6ODF -->
 
 <h1 id="general" class="center-title">

@@ -7,6 +7,13 @@ nav-hide: true
 
 <!-- Homebrewery Link: https://homebrewery.naturalcrit.com/edit/3y6o6KPWIM -->
 
+<div class="class-pdf">
+<a href="/assets/pdf/air.pdf"><i class="far fa-file-pdf"></i>
+PDF version</a> 
+<br/>(out-of-date)
+</div>
+<!-- TODO include draft number in the PDF -->
+
 <h1 id="classes" class="new">
     Airbender
 </h1>

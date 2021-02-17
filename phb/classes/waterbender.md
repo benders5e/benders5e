@@ -7,6 +7,12 @@ nav-hide: true
 
 <!-- Homebrewery Link: https://homebrewery.naturalcrit.com/edit/nv_PIRHWxL -->
 
+<div class="class-pdf">
+<a href="/assets/pdf/water.pdf"><i class="far fa-file-pdf"></i>
+PDF version</a> 
+<br/>(out-of-date)
+</div>
+
 <h1 class="new" id="classes">Waterbender</h1>
 
 Water is the element of change, and just like their namesake, waterbenders are extremely adaptable and versatile. Waterbending concentrates on the flow of energy, focusing less on strength and more on turning the opponent's own energy against them. A bender's victory in battle depends on their skill or ingenuity. 
