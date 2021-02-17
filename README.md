@@ -1,19 +1,23 @@
 # Benders 5e
 
-A homebrew _Avatar: The Last Airbender_-inspired D&D 5e campaign setting. Visit [the old repo's wiki](https://github.com/nglaeser/benders/wiki) (private repo) for a comparison of this setting to other ATLA-inspired settings and other notes.
+A homebrew _Avatar: The Last Airbender_-inspired D&D 5e campaign setting. 
+
+Visit [the old repo's wiki](https://github.com/nglaeser/benders/wiki) (private repo) for a comparison of this setting to other ATLA-inspired settings and other notes. This repo's wiki has the [changelog](https://github.com/benders5e/benders5e/wiki/changelog) and a [class progression table](https://github.com/benders5e/benders5e/wiki/class-progression-table) that gives an overview of the abilities gained by each bending class for each level.
+
+## Analytics
+
+This project uses [GoatCounter](https://www.goatcounter.com/) for analytics. As much as I would prefer not to track anyone at all, I do need to get a sense of whether people are visiting this site and *roughly* where they are from. I chose GoatCounter because I wanted a privacy-focused, open-source, and relatively inexpensive (this is a personal project, after all) alternative to the extremely invasive and unfortunately also pervasive Google Analytics. GoatCounter meets these criteria and does not track users with unique identifiers. Read more about GoatCounter's goals [here](https://www.goatcounter.com/why#what-are-goatcounters-goals).
 
 ## Contributing
 
-If you have feature suggestions or requests, open an issue so that they can be discussed. Please check if a similar issue already exists before opening a new one. 
+If you have feature suggestions or requests, you can 
+- use our [feedback form](https://forms.gle/H2VMopAN7gtaRrG5A)
+- email us at benders5e@gmail.com
+- open an issue (please check if a similar issue already exists before opening a new one)
 
-If you have code to contribute, open a pull request.
+If you have code to contribute, please open a pull request.
 
 ## Technical Stuff
-
-### Branches
-`master`: site  
-`class-drafts`: incremental homebrew updates  
-`bootstrap`: work in progress adding bootstrap to the project
 
 ### Dependencies
 - **Jekyll** (theme: minima)
@@ -41,6 +45,11 @@ If you have code to contribute, open a pull request.
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-ygbV9kiqUc6oa4msXn9868pTtWMgiQaeYH7/t7LECLbyPA2x65Kgf80OJFdroafW" crossorigin="anonymous"></script>
     ```
 
-### Analytics
+### Branches
+`master`: site  
+`class-drafts`: incremental homebrew updates  
+`bootstrap`: work in progress adding bootstrap to the project
 
-This project uses [GoatCounter](https://www.goatcounter.com/) for analytics. As much as I would prefer not to track anyone at all, I do need to get a sense of whether people are visiting this site and *roughly* where they are from. I chose GoatCounter because I wanted a privacy-focused, open-source, and relatively inexpensive (this is a personal project, after all) alternative to the extremely invasive and unfortunately also pervasive Google Analytics. GoatCounter meets these criteria and does not track users with unique identifiers. Read more about GoatCounter's goals [here](https://www.goatcounter.com/why#what-are-goatcounters-goals).
+## License
+
+This project is licensed under the [GNU General Public Licence v3.0](./LICENSE) (GPLv3). This means you can do almost anything you want with this code except close-source it.
