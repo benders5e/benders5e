@@ -4,9 +4,11 @@ A homebrew _Avatar: The Last Airbender_-inspired D&D 5e campaign setting.
 
 Visit [the old repo's wiki](https://github.com/nglaeser/benders/wiki) (private repo) for a comparison of this setting to other ATLA-inspired settings and other notes. This repo's wiki has the [changelog](https://github.com/benders5e/benders5e/wiki/changelog) and a [class progression table](https://github.com/benders5e/benders5e/wiki/class-progression-table) that gives an overview of the abilities gained by each bending class for each level.
 
+[Visit the site](https://benders5e.com)
+
 ## Analytics
 
-This project uses [GoatCounter](https://www.goatcounter.com/) for analytics. As much as I would prefer not to track anyone at all, I do need to get a sense of whether people are visiting this site and *roughly* where they are from. I chose GoatCounter because I wanted a privacy-focused, open-source, and relatively inexpensive (this is a personal project, after all) alternative to the extremely invasive and unfortunately also pervasive Google Analytics. GoatCounter meets these criteria and does not track users with unique identifiers. Read more about GoatCounter's goals [here](https://www.goatcounter.com/why#what-are-goatcounters-goals).
+This site uses [GoatCounter](https://www.goatcounter.com/) for analytics. As much as I would prefer not to track anyone at all, I do need to get a sense of whether people are visiting this site and *roughly* where they are from. I chose GoatCounter because I wanted a privacy-focused, open-source, and relatively inexpensive (this is a personal project, after all) alternative to the extremely invasive and unfortunately also pervasive Google Analytics. GoatCounter meets these criteria and does not track users with unique identifiers. Read more about GoatCounter's goals [here](https://www.goatcounter.com/why#what-are-goatcounters-goals).
 
 ## Contributing
 
