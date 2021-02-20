@@ -68,7 +68,6 @@ details {
 .classtile:hover {
   background-color: $grey-color-hover;
 }
-
 // make the tile a link
 .classLink {
   position: absolute;
@@ -85,6 +84,22 @@ h1, h2:not(.post-list-heading), h3:not(.post-title), h4, h5 {
   font-family: 'Averia Libre', cursive;
   text-transform: uppercase;
 }
+h3:not(.post-title) {
+  margin-bottom: .5em;
+  border-bottom-width: 1px;
+  border-color: $grey-color;
+  border-bottom-style: solid;
+}
+h4 {
+  margin-bottom: 0em;
+  //font-size: 16px; // default
+  font-size: 18px;
+}
+h5 {
+  margin-bottom: 0em;
+  font-size: 14px;
+}
+
 .tableHeader {
   font-size: 16px;
   text-transform: uppercase;
@@ -147,8 +162,9 @@ blockquote h5, .formCard h5 {
   background-color: transparent;
 }
 
-.subtitle { font-size: 20px;
- } 
+.subtitle { 
+  font-size: 20px;
+} 
  
 .banner {
   text-align: center;
@@ -230,7 +246,6 @@ nav {
   text-align: center;
   background-color: $brand-color;
 }
-
 .change::after {
   content: "change";
   color: black;
@@ -247,17 +262,11 @@ nav {
   background-color: orange;
 }
 
-h3:not(.post-title) {
-  margin-bottom: .5em;
-  border-bottom-width: 1px;
-  border-color: $grey-color;
-  border-bottom-style: solid;
+img {
+  display: block;
+  margin: auto auto;
 }
-h4 {
-  margin-bottom: 0em;
-  //font-size: 16px; // default
-  font-size: 18px;
-}
+
 h5 {
   margin-bottom: 0em;
   font-size: 16px;
@@ -285,8 +294,9 @@ footer i, footer .username {
 footer i {
   padding-right: 5px;
 }
-/*.social-media-list li {
+/* .social-media-list li {
   display: inline;
   text-align: right;
   padding-left: 7.5px;
-}*/
+}
+*/

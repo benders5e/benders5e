@@ -55,3 +55,7 @@ If you have code to contribute, please open a pull request.
 ## License
 
 This project is licensed under the [GNU General Public Licence v3.0](./LICENSE) (GPLv3). This means you can do almost anything you want with this code except close-source it.
+
+## Changelog
+
+The changelog for the homebrew is available on the repo's wiki [here](https://github.com/nglaeser/benders5e/wiki/Changelog).
