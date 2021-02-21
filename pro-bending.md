@@ -5,8 +5,6 @@ title: PRO BENDING
 permalink: /pro-bending
 ---
 
-![Pro bending](https://static.wikia.nocookie.net/avatar/images/0/0a/Pro-bending_Arena_interior.png)
-
 # Pro Bending
 
 The rules of pro bending are pretty simple. Take control over the area in a specified amount of time until you either defeat your opponents or win. 
@@ -14,7 +12,7 @@ The rules of pro bending are pretty simple. Take control over the area in a spec
 ## Rules
 *The rules are based off of the rules listed [here](https://avatar.fandom.com/wiki/Pro-bending).*
 
-![Pro bending ring](assets/Pro_Bending_Arena.jpg)
+![Bending ring](assets/Bending_Arena.jpg)
 
 The ring is divided into two halves, each of which is further divided into three sections, and a central circle to be used in tie-breakers. Each section is 30 feet wide. Teams begin the match facing each other in the two sections closest to the center. The goal is to knock the other team back and off the platform.
 
@@ -26,8 +24,6 @@ Each "round" of the game consists of 4 rounds of combat and there are 12 rounds 
 - When the time expires, whichever team has advanced into the opposite side of the ring wins the round.
 - If a round is tied, the tie is resolved by a 1-on-1 face-off. A coin toss is performed, and the team that wins the coin toss chooses an element for the 1-on-1, which takes place entirely in the central circle of the ring. 
 - If all players on a team are KO'd (knocked completely off the back of the platform), the other team wins the entire match.
-
-<img style="width: 50%" src="https://static.wikia.nocookie.net/avatar/images/3/3b/Pro-bending.png" alt="Pro benders fight"/>
 
 ### Actions
 - **Attack:**
