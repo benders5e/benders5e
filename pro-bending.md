@@ -64,7 +64,6 @@ In case of a tie, the round is resolved by a 1-on-1 fight. In this face-off, pla
 > To complete this feat, he rolls a Performance check contested by a player on the opposite team. On a success, the crowd is impressed and his team gains a crowd point. On a failure, the performance is lackluster (maybe he stumbles on the landing) and the crowd is disappointed. His team loses a crowd point.
 
 - Having the crowd on your side gives your team one inspiration point for the round, to give to one player on the team as you see fit.
-- At the end, the team who has the crowd the most will split the vote in case of a tie (?)
 - **Teamwork:**
     - If your team lands three attacks in one round, you gain advantage on your roll to impress the crowd.
 
