@@ -112,7 +112,9 @@ h5 {
   border: 0px !important;
 }
 
-
+span.ital {
+  font-style: italic;
+}
 blockquote {
   font-style: normal;
   font-size: 16px;
@@ -122,6 +124,9 @@ blockquote {
   margin-left: 1.5em;
   margin-right: 1.5em;
   padding: 15px;
+}
+blockquote.example {
+  background-color: $grey-color-medium;
 }
 blockquote h5 {
   font-size: 16px;
