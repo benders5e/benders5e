@@ -12,12 +12,7 @@ This site uses [GoatCounter](https://www.goatcounter.com/) for analytics. As muc
 
 ## Contributing
 
-If you have feature suggestions or requests, you can 
-- use our [feedback form](https://forms.gle/H2VMopAN7gtaRrG5A)
-- email us at benders5e@gmail.com
-- open an issue (please check if a similar issue already exists before opening a new one)
-
-If you have code to contribute, please open a pull request.
+These rules and the site are completely open-source, and we hope they’ll be a community effort! If you would like to contribute abilities, feats, backgrounds, items, or anything else, please take a look at the [contributing guidelines](CONTRIBUTING.markdown).
 
 ## Technical Stuff
 
