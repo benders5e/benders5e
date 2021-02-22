@@ -8,4 +8,4 @@ These rules and the site are completely open-source, and we hope they'll be a co
 
 - <a href='https://forms.gle/H2VMopAN7gtaRrG5A' target="_blank">Feedback form</a>
 - Email: benders5e AT gmail DOT com
-- <a href='https://github.com/nglaeser/benders5e/' target="_blank">Source code on GitHub</a>
+- <a href='https://github.com/nglaeser/benders5e#contributing' target="_blank">Source code on GitHub</a>
