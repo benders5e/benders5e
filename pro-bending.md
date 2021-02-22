@@ -48,7 +48,6 @@ Each set of the game consists of 3 rounds of combat. There are 9 rounds total (3
 > - Headshots
 > - Mixing water and rocks
 > - Grappling
-> - Obstructing the ref's view
 
 ### Face-off
 In case of a tie, the round is resolved by a 1-on-1 fight. In this face-off, players can switch sides and grapple each other, and whoever knocks the other player out of the central zone first wins the tie-breaker. Players can take the same actions (described above) as in the regular setting. A player is knocked out of the central circle, giving the opposite team the win, if they are pushed out of the zone by the effects of an attack or if their HP is reduced by 1/3 of their total HP or to 0 HP, whichever comes first.
