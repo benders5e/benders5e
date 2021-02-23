@@ -77,4 +77,4 @@ Furthermore, none of the fouls in regular Pro Bending are against the rules in B
 
 <br/>
 
-*The rules were based off the rules listed [here](https://avatar.fandom.com/wiki/Pro-bending). Huge thanks to Kevin for developing this system!*
+*The rules were based off the rules listed [here](https://avatar.fandom.com/wiki/Pro-bending). Huge thanks to KG for developing this system!*
