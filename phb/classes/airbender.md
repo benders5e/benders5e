@@ -69,7 +69,9 @@ You start with the following equipment, in addition to the equipment granted by 
 Beginning at 1st level, while you are wearing no armor and not wielding a shield, your AC equals 10 + your Wisdom and Dexterity modifiers.
 
 ### Airbending
-At 1st level, you realize that you have an innate ability to manipulate the air around you. You can spend 1 chi of your Attack action to cause the effects of the *Gust* cantrip described below the class table. (See "Air Punch" for a description of the role chi points play in attacks and the rules for bending attacks.) Your range increases with your level according to the "Range" column of the Airbender table.  
+At 1st level, you realize that you have an innate ability to manipulate the air around you. You can spend 1 chi of your Attack action to cause the effects of the *Gust* cantrip described below the class table. (See "Air Punch" for a description of the role chi points play in attacks and the rules for bending attacks.) 
+
+Your range increases with your level according to the "Range" column of the Airbender table. The first number is your normal range in feet, and the second indicates your long range. When bending a material at a distance, you can only bend within your normal range.
 
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 2 | CLASSES</div>
@@ -122,9 +124,10 @@ In addition, your jump distance is permanently tripled and you only spend 5 feet
 ### Air Punch
 During combat, you can channel your chi to use your bending as a rudimentary attack by hitting other creatures. Every time you take the Attack action, you draw on your inner pool of energy, or *chi*. The class table shows how much chi you have available every time you take the Attack action ("Chi per Attack"). This amount resets every round. As your bending grows more powerful and your connection to your inner chi grows, this number increases.
 
-When you take a basic bending attack, you spend 1 point of chi and deal 1d6 force damage. You also clear any non-spiritual fog, dust, or other type of cloud effect in a 5-foot-wide line from you to the target (not including your position but including the target's position). 
+When you take a basic bending attack, you bend the air around you towards your opponent by spending 1 point of chi and deal 1d6 force damage. You also clear any non-spiritual fog, dust, or other type of cloud effect in a 5-foot-wide line from you to the target (not including your position but including the target's position). 
 
-The damage caused by your attack increases with your airbender level and is shown in the "Bending" column of the Airbender Table. The range of your attacks is the same as your bending range ("Range" column).      
+The damage caused by your attack increases with your airbender level and is shown in the "Bending" column of the Airbender Table. The range of your attacks is the same as your bending range ("Range" column). When you launch air in an attack beyond your normal bending range but within your long range, you have disadvantage on the attack roll. You can't attack a target beyond your long range. 
+
 
 As an airbender, your attacks rely on understanding and effectively channeling the energy within you. Wisdom is your primary attack ability:
 

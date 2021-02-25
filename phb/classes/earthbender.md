@@ -136,14 +136,16 @@ At 1st level, you realize that you have an innate ability to control earth. You 
 
 When earthbending up to your earth capacity, you spend 1 chi of your Attack action (see "Bending Attack" for a description of the role chi points play in attacks).  
 
-You must draw your bending material from a source of earth within 30 feet. The mass of earth you can control and the range within which you can control it (including as a source) increase with your earthbender level. See the "Capacity" column of the Earthbender Table, which indicates how many times your carrying capacity you can bend (for instance, at 3rd level you gain the ability to bend double your carrying capacity in earth), and the "Range" column for your normal and long bending range. A quick reference for the weight of various earthen materials is given earlier in the class description.
+The mass of earth you can control and the range within which you can control it (including as a source) increase with your earthbender level. The "Capacity" column of the Earthbender Table indicates how many times your carrying capacity you can bend (for instance, at 3rd level you gain the ability to bend double your carrying capacity in earth). The "Range" column of the Earthbender table determines from what distance you can draw your bending material. The first number is your normal range in feet, and the second indicates your long range. You can only draw your bending material from a source within your normal range.
+
+A quick reference for the weight of various earthen materials is given earlier in the class description.
 
 The HP and AC of any structure you form with your bending can be determined by regular D&D 5e object rules. The table below provides a reference for the AC of various types of earth.
 
 ### Bending Attack
 During combat, you can channel your chi to use your bending as a rudimentary attack by hitting other creatures. Every time you take the Attack action, you draw on your inner pool of energy, or *chi*. The class table shows how much chi you have available every time you take the Attack action ("Chi per Attack"). This amount resets every round. As your bending grows more powerful and your connection to your inner chi grows, this number increases.  
 
-When you take a basic bending attack, you spend 1 point of chi and deal 1d6 bludgeoning damage. This damage increases with your earthbender level and is shown in the "Bending" column of the Earthbender Table. The range of your attacks is the same as your bending range ("Range" column).
+When you take a basic bending attack, you spend 1 point of chi and deal 1d6 bludgeoning damage. This damage increases with your earthbender level and is shown in the "Bending" column of the Earthbender Table. The range of your attacks is the same as your bending range ("Range" column). When you launch earth in an attack beyond your normal bending range but within your long range, you have disadvantage on the attack roll. You can't attack a target beyond your long range.
 
 
 At 1st level, you must choose which of your modifiers to use for attacks: Charisma or Strength. This cannot be changed later. Charisma-based earthbenders exert their sheer force of will on matter, while strength-based earthbenders value physical prowess and channel their physical strength through their chi into the environment around them.

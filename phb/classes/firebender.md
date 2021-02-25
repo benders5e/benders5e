@@ -72,7 +72,7 @@ As a firebender, you have resistance to fire damage.
 During combat, you can channel your chi to use your bending as a rudimentary attack by hitting other creatures. Every time you take the Attack action, you draw on your inner pool of energy, or *chi*. The class table shows how much chi you have available every time you take the Attack action ("Chi per Attack"). This amount resets every round. As your bending grows more powerful and your connection to your inner chi grows, this number increases.  
 
 
-When you take a basic bending attack, you spend 1 point of chi and deal 1d6 fire damage. This damage increases with your firebender level and is shown in the "Bending" column of the Firebender Table. The range of your attacks is the same as your bending range ("Range" column).     
+When you take a basic bending attack, you spend 1 point of chi and deal 1d6 fire damage. This damage increases with your firebender level and is shown in the "Bending" column of the Firebender Table. The range of your attacks is the same as your bending range ("Range" column). When you launch fire in an attack beyond your normal bending range but within your long range, you have disadvantage on the attack roll. You can't attack a target beyond your long range. 
 
 
 As a firebender, your attacks must be backed by conviction. Charisma is your primary attack ability:  

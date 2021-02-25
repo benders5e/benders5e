@@ -75,7 +75,9 @@ You start with the following equipment, in addition to the equipment granted by 
 </div>
 
 ### Waterbending
-At 1st level, you realize that you have an innate ability to control water. You can move small volumes of *liquid* water at will by spending 1 chi of your Attack action to cause the effects of the *Shape Water* cantrip (excluding changing the water's color or opacity). (See "Bending Attack" for a description of the role chi points play in attacks and the rules for bending attacks.) You must draw your bending material from a source within your normal bending range, which increases with your level according to the "Range" column of the Waterbender table.  
+At 1st level, you realize that you have an innate ability to control water. You can move small volumes of *liquid* water at will by spending 1 chi of your Attack action to cause the effects of the *Shape Water* cantrip (excluding changing the water's color or opacity). (See "Bending Attack" for a description of the role chi points play in attacks and the rules for bending attacks.) 
+
+The volume and range of water you can control increase with your waterbender level; see the "Volume" and "Range" columns of the Waterbender table. The "Range" column lists two numbers. The first number is your normal range in feet, and the second indicates your long range. You can only draw your bending material from a source within your normal range.
 
 
 <div class="formCard water">
@@ -131,12 +133,10 @@ You are capable of converting water into ice or snow and back, but without fine-
 When using either *Grease* or changing the state of water from liquid to solid or vice versa in combat, you spend 1 chi of your Attack action (see "Bending Attack" for a description of the role chi points play in attacks).  
 
 
-The volume of water you can control and the range within which you can control it (including as a source) increase with your waterbender level. See the "Volume" and "Range" columns of the Waterbender Table. 
-
 ### Bending Attack
 During combat, you can channel your chi to use your bending as a rudimentary attack by hitting other creatures. Every time you take the Attack action, you draw on your inner pool of energy, or *chi*. The class table shows how much chi you have available for each Attack action ("Chi per Attack"). As your bending grows more powerful and your connection to your inner chi grows, this amount increases.
 
-When you take a basic bending attack, you spend 1 point of chi and deal 1d6 bludgeoning damage. This damage increases with your waterbender level and is shown in the "Bending" column of the Waterbender Table. The range of your attacks is the same as your bending range ("Range" column).  
+When you take a basic bending attack, you spend 1 point of chi and deal 1d6 bludgeoning damage. This damage increases with your waterbender level and is shown in the "Bending" column of the Waterbender Table. The range of your attacks is the same as your bending range ("Range" column). When you launch water in an attack beyond your normal bending range but within your long range, you have disadvantage on the attack roll. You can't attack a target beyond your long range. 
 
 At 1st level, you must choose which of your modifiers to use for attacks: Intelligence or Dexterity. This cannot be changed later. Intelligence-based waterbenders are clever and quick thinkers, analyzing their opponents on the fly and using the environment and materials around them in unprecendented ways to gain an edge. Dexterity-based waterbenders are nimble and fast, keeping their opponents off-balance and on their toes.
 
