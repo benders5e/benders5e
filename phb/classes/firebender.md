@@ -318,14 +318,14 @@ Additionally, you can sense this energy and heat emanating from creatures even f
 You can use each of these features a number of times equal to your bending modifier. When you finish a long rest, you regain all expended uses.
 
 #### Healing
-At 7th level, you learn to clear blocked chi paths within creatures and redirect their energy towards wounds to speed up the healing process. By spending one minute concentrating on reading the chi paths in another person's body, you heal them by an amount of hit points equal to three times your firebender level.  
+At 7th level, you learn to clear blocked chi paths within creatures and redirect their energy towards wounds to speed up the healing process. When you spend one minute concentrating on reading the chi paths in another person's body, they immediately roll a number of hit dice equal to your bending bonus. They add their constitution modifier to each hit die. These hit dice don't decrease the number of remaining hit dice they have.
 
-You can use this ability a number of times equal to your bending modifier per long rest.
+You can use this ability a number of times equal to your twice your proficiency bonus per long rest.
 
 #### Mass Heal
-At 11th level, you can use your firebending to channel your healing abilities in combat. Anytime you make an attack, you can spend 1 additional chi to cause the attack to confer healing benefits instead of damage. The attack automatically "hits" any allies and heals them by an number of hit points equal to your firebender level.  
+At 11th level, you can use your firebending to channel your healing abilities in combat. Anytime you make an attack, you can spend 1 additional chi to cause the attack to confer healing benefits instead of damage. The attack automatically "hits" any allies, who each get one bonus hit die to roll immediately. They add their constitution modifiers to the dice roll.
 
-This counts as a use of your healing ability.
+You can use this ability a number of times equal to your twice your proficiency bonus per long rest.
 
 #### Minor Energybending
 At 17th level, you learn to bend the energy within people's bodies to a limited extent. Once per long rest, you may spend an action to do one of the following:
@@ -344,23 +344,19 @@ Combustionbenders possess the rare ability to firebend with their minds. Instead
 <div class="HBspacing" style="height: 6em;">
 </div>
 
-#### Uncanny Focus
-Beginning when you choose this specialization at 5th level, you learn to channel your chi with great precision and focus, allowing you to use your bending over incredible distances. By spending 1 chi, you can use your long bending range instead of the normal range for any form or attack without incurring disadvantage. You can also spend 1 chi to instead deliver a charged attack on your next turn: ...
-
-<div class="formCard fire">
-    <h4>Charged Attack</h4>
-    <p style="font-style: italic;">Prerequisite: Combustionbending specialization</p>
-    <p style="font-style: italic;">Cost: X chi</p>
-</div>
-
 #### Mind's Eye
-At 7th level, you learn to firebend without moving your limbs, channeling your bending through your forehead instead. Because your bending requires no movement, you have advantage on attacks against targets you have not yet attacked in the current combat, and these targets have make saving throws against your bending at disadvantage. You also gain advantage on initiative.
+Beginning when you choose this specialization at 5th level, you learn to firebend without moving your limbs, channeling your bending through your forehead instead. Because your bending requires no movement, you have advantage on attacks against targets you have not yet attacked in the current combat, and these targets have make saving throws against your bending at disadvantage. You also gain advantage on initiative.
 
 #### Combustion
-At 11th level, you can cause explosions with your basic bending attack. Instead of making a firebending attack, you can choose to make a combustion attack. Pick a point within range on which to center the explosion. Targets in a 5-foot radius must make a Dexterity saving throw against your bending DC. On a failure, they take your bending damage in thunder damage, and on a success they take half damage.
+When you reach 7th level, you can cause explosions with your basic bending attack. Instead of making a firebending attack, you can choose to make a combustion attack. Pick a point within range on which to center the explosion. Targets in a 5-foot radius must make a Dexterity saving throw against your bending DC. On a failure, they take your bending damage in thunder damage, and on a success they take half damage. Objects and structures take double damage.
+
+#### Uncanny Focus
+At 11th level, you learn to channel your chi with great precision and focus, allowing you to use your bending over incredible distances. By spending 1 chi, you can use your long bending range instead of the normal range for any form or attack without incurring disadvantage. 
+
+You can also focus your energy within your body, allowing it to build up before releasing it in a powerful charged attack. On a turn, you can save some or all of your chi until the next turn, amassing up to double your chi per turn. For example, at 11th level, you can decide not to attack on one of your turns, saving 4 chi points until until your next turn. The next round, you have 8 chi at your disposal -- so you could, for example, execute a form that costs 5 chi. Amassing chi this way still counts as expending the chi for the purposes of chi exhaustion.
 
 #### Advanced Forms
-At 17th level, your precision and power allow you to deal double damage when you make a combustion attack. You can use this ability a number of times equal to your bending modifier. You regain all expended uses when you finish a long rest.
+At 17th level, your precision and power allow you to deal double damage when you make a combustion attack. You can use this ability twice per long rest. 
 
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 2 | CLASSES</div>
