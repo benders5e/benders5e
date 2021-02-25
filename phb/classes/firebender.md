@@ -355,7 +355,8 @@ At 11th level, you learn to channel your chi with great precision and focus, all
 
 You can also focus your energy within your body, allowing it to build up before releasing it in a powerful charged attack. On a turn, you can save some or all of your chi until the next turn, amassing up to double your chi per turn. For example, at 11th level, you can decide not to attack on one of your turns, saving 4 chi points until until your next turn. The next round, you have 8 chi at your disposal -- so you could, for example, execute a form that costs 5 chi. Amassing chi this way still counts as expending the chi for the purposes of chi exhaustion.
 
-#### Advanced Forms
+#### Devastating Strike
+<!-- could rename to Deadly Strike, but Airbending (Offense) has this name already -->
 At 17th level, your precision and power allow you to deal double damage when you make a combustion attack. You can use this ability twice per long rest. 
 
 <div class='pageNumber auto'></div>
