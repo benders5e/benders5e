@@ -196,7 +196,7 @@ Beginning at 4th level, you can use your reaction when you fall to slow yourself
 At 5th level, you specialize in one of the following aspects of airbending: advanced airbending, spirituality, or offense. Your abilities are described in the specialization section at the end of this class description. <!--This specialization grants you a new feature at 5th level, and again at 8th, 12th, and 17th level.-->
 
 ### Cloudbending
-At 6th level, you gain the ability to bend clouds. Once per long rest, you can concentrate on reshaping clouds for a period of time up to 1 hour. During this time, you spend your Action on every turn cloudbending and cannot use it to attack or take any other actions.
+At 6th level, you gain the ability to bend clouds. While concentrating, you can reshape clouds within your normal range as you wish (for a period of time up to 1 hour). As soon as you break concentration, the cloud formations begin to drift apart and return to their natural shapes. While cloudbending, you spend your Action on every turn maintaining the clouds' shapes and cannot attack or take any other actions.
 
 ### Shunt
 At 9th level, you can use your reaction to push your allies out of harm's way. You use your Be the Leaf ability for this, and it counts as one of your uses per long rest.
@@ -245,7 +245,7 @@ You also automatically know the form *Tranquility* and it does not count against
 At 7th level, you learn to use your breath control to regulate your body temperature. You gain resistance to cold damage, and warm temperatures do not make you uncomfortable, making you immune to heat exhaustion (this includes e.g. a firebender's _Heat Wave_ form).
 
 #### Tranquility
-Beginning at 11th level, you can enter a special meditation that surrounds you with an aura of peace. At the end of a long rest, you gain the effect of the _Sanctuary_ spell that lasts until the start of your next long rest (the spell can end early as normal).
+Beginning at 11th level, you can enter a special meditation that surrounds you with an aura of peace. At the end of a long rest, you gain the effect of the _Sanctuary_ spell that lasts until the start of your next long rest (the spell can end early as normal). The saving throw DC for the spell equals your bending DC.
 
 #### ?
 At 17th level, ...

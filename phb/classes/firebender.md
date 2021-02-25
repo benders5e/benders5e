@@ -308,7 +308,7 @@ Beginning when you choose this specialization at 5th level, you learn to sense t
 
 Additionally, you can sense this energy and heat emanating from creatures even from afar. As a bonus action, you can open your awareness to detect life forms around you. Until the end of your next turn, you know the location of any warm-blooded life forms within your bending range that are not behind total cover. You know the type (human or beast) of any being whose presence you sense, but not its identity.
 
-You can use each of these features a number of times equal to your bending modifier. When you finish a Long Rest, you regain all expended uses.
+You can use each of these features a number of times equal to your bending modifier. When you finish a long rest, you regain all expended uses.
 
 #### Healing
 At 7th level, you learn to clear blocked chi paths within creatures and redirect their energy towards wounds to speed up the healing process. By spending one minute concentrating on reading the chi paths in another person's body, you heal them by an amount of hit points equal to three times your firebender level.  
