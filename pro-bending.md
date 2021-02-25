@@ -13,13 +13,13 @@ The rules of pro bending are pretty simple: take control over the area in a spec
 
 ## Rules
 
-The ring is divided into two halves, each of which is further divided into three zones. A central circle is used only for tie-breakers. Each zone is 30 feet wide. Teams begin the match facing each other in the two zones closest to the center (starting positions are marked with an X in the corresponding element's color). The goal is to knock the other team back and off the platform. ([Link to map with 5-foot grid](assets/Bending_Arena_grid.jpg).)
+The ring is divided into two halves, each of which is further divided into three zones. A central circle is used only for tie-breakers. Each zone is 30 feet wide. Teams begin the match facing each other in the two zones closest to the center (starting positions are marked with red X's; the teams each choose the order of their members). The goal is to knock the other team back and off the platform. ([Link to map with 5-foot grid](assets/Bending_Arena_grid.jpg).)
 
 The ring is lined with trenches of water between the zones and around the ring, which provide enough material for waterbenders. Additionally, it is dotted with earthen disks (in yellow) for the earthbenders.
 
 ### Game Structure
 
-Each set of the game consists of 3 rounds of combat. There are 9 rounds total (3 sets of 3).
+Each set (referred to as a "round") of the game consists of 3 rounds of combat. There are 9 rounds total (3 sets of 3).
 - Players take their places in the starting positions. The match proceeds in initiative order.
 - When the time expires, whichever team has advanced into the opposite side of the ring wins the set.
 - If a round is tied, the tie is resolved by a 1-on-1 face-off. A coin toss is performed, and the team that wins the coin toss chooses an element for the 1-on-1, which takes place entirely in the central circle of the ring. 
