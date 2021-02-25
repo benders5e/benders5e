@@ -275,6 +275,13 @@ With this knowledge, your fire becomes an extension of your body rather than mer
 
 The damage of your basic attacks also increases to 2d8.
 
+<!-- add this form here maybe?
+<div class="formCard fire">
+    <h4>Firebreathing</h4>
+    <p style="font-style: italic;">Prerequisite: Combustionbending specialization</p>
+    <p style="font-style: italic;">Cost: X chi</p>
+    [stealthy, cone AOE]
+</div-->
 
 ### Lightningbending
 
@@ -338,16 +345,7 @@ Combustionbenders possess the rare ability to firebend with their minds. Instead
 </div>
 
 #### Uncanny Focus
-Beginning when you choose this specialization at 5th level, you learn to channel your chi with great precision and focus, allowing you to use your bending over incredible distances. By spending 1 chi, you can use your long bending range instead of the normal range for any form or attack without incurring disadvantage. This precision and power also allows you to deal double damage on your first turn of combat.
-
-#### Mind's Eye
-At 7th level, you learn to firebend without moving your limbs, channeling your bending through your forehead instead. Because your bending requires no movement, you have advantage on attacks against targets you have not yet attacked in the current combat. You also gain advantage on initiative.
-
-#### Combustion
-At 11th level, you can cause explosions with your basic bending attack. Instead of making a firebending attack, you can choose to make a combustion attack. Pick a point within range on which to center the explosion. Targets in a 5-foot radius must make a Dexterity saving throw against your bending DC. On a failure, they take your bending damage in force damage, and on a success they take half damage.
-
-#### Advanced Forms
-At 17th level, you learn an additional form of your choice from the following list:  
+Beginning when you choose this specialization at 5th level, you learn to channel your chi with great precision and focus, allowing you to use your bending over incredible distances. By spending 1 chi, you can use your long bending range instead of the normal range for any form or attack without incurring disadvantage. You can also spend 1 chi to instead deliver a charged attack on your next turn: ...
 
 <div class="formCard fire">
     <h4>Charged Attack</h4>
@@ -355,12 +353,14 @@ At 17th level, you learn an additional form of your choice from the following li
     <p style="font-style: italic;">Cost: X chi</p>
 </div>
 
-<div class="formCard fire">
-    <h4>Firebreathing</h4>
-    <p style="font-style: italic;">Prerequisite: Combustionbending specialization</p>
-    <p style="font-style: italic;">Cost: X chi</p>
-    [stealthy, cone AOE]
-</div>
+#### Mind's Eye
+At 7th level, you learn to firebend without moving your limbs, channeling your bending through your forehead instead. Because your bending requires no movement, you have advantage on attacks against targets you have not yet attacked in the current combat, and these targets have make saving throws against your bending at disadvantage. You also gain advantage on initiative.
+
+#### Combustion
+At 11th level, you can cause explosions with your basic bending attack. Instead of making a firebending attack, you can choose to make a combustion attack. Pick a point within range on which to center the explosion. Targets in a 5-foot radius must make a Dexterity saving throw against your bending DC. On a failure, they take your bending damage in thunder damage, and on a success they take half damage.
+
+#### Advanced Forms
+At 17th level, your precision and power allow you to deal double damage when you make a combustion attack. You can use this ability a number of times equal to your bending modifier. You regain all expended uses when you finish a long rest.
 
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 2 | CLASSES</div>
@@ -405,7 +405,7 @@ All bonuses are defined at the beginning of the class description (see "Fire Jab
 <div class="formCard fire">
     <h4>Fire Bomb</h4>
     <p style="font-style: italic;">Cost: 2 chi</p>
-    You create a flame at the end of one of your limb and thrust it onto the ground in an explosive burst at a point within range. Targets in a 10-foot radius of the burst must make a Dexterity saving throw. On a failure, they take 2d6 force damage and are stunned until the beginning of their next turn. On a success, they take half damage. 
+    You create a flame at the end of one of your limb and thrust it onto the ground in an explosive burst at a point within range. Targets in a 10-foot radius of the burst must make a Dexterity saving throw. On a failure, they take 2d6 thunder damage and are stunned until the beginning of their next turn. On a success, they take half damage. 
 
     The radius increases by 5 feet with each additional chi spent.
 </div>
