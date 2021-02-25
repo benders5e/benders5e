@@ -455,7 +455,7 @@ You start out knowing forms marked with an asterisk.
     <h4>Ice Creeper</h4>
     <p style="font-style: italic;">Cost: 1 chi</p>
     <p>You send a ray of ice across the ground streaking towards a target of your choice within range. The target must succeed on a Dexterity saving throw or have its speed reduced to 0 as its feet are frozen in place.  </p>
-    <p>At the end of each of its turns, a the target must succeed on a DC 13 Strength check to break free.</p>
+    <p>At the end of each of its turns, a the target must succeed on a Strength saving throw to break free.</p>
 </div>
 
 <div class="HBspacing" style="height: 1em;">
@@ -598,7 +598,7 @@ Only waterbenders of the Advanced Waterbending specialization have access to the
     <h4>Ice Prison </h4>
     <p style="font-style: italic;">Cost: 2 chi</p>
     <p>You cause water to stream along the ground towards a target and erupt upwards into long pillars of ice around it. The target must make a Dexterity saving throw. On a failure, the target is trapped in an icy cage and is considered Restrained.</p>
-    <p>At the beginning of each of its subsequent turns, it can make a DC 13 Strength check to attempt to escape. On a success, the creature is no longer Restrained.</p>
+    <p>At the beginning of each of its subsequent turns, it can make a Strength saving throw to attempt to escape. On a success, the creature is no longer Restrained.</p>
     <!-- DC 13 Strength check to break free is based on ice AC -->
 </div>
 
