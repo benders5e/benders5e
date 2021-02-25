@@ -377,7 +377,7 @@ All bonuses are defined at the beginning of the class description (see "Fire Jab
 <div class="formCard fire">
     <h4>Flashbang</h4>
     <p style="font-style: italic;">Cost: 1 chi</p>
-    You cause a bright flash, blinding a target within 5 feet of your choice. The target makes a Constitution saving throw. On a failure, it is blinded until the end of its next turn.
+    You cause a bright flash, blinding a target within 5 feet of your choice. The target must make a Constitution saving throw. On a failure, it is blinded until the end of its next turn.
 </div>
 
 <div class="formCard fire">
