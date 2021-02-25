@@ -48,9 +48,11 @@ Each set (referred to as a "round") of the game consists of 3 rounds of combat. 
 > - Headshots
 > - Mixing water and rocks
 > - Grappling
+> 
+> Extreme conduct may lead to a yellow fan as a warning, or even a red fan and expulsion.
 
 ### Face-off
-In case of a tie, the round is resolved by a 1-on-1 fight. In this face-off, players can switch sides and grapple each other, and whoever knocks the other player out of the central zone first wins the tie-breaker. Players can take the same actions (described above) as in the regular setting. A player is knocked out of the central circle, giving the opposite team the win, if they are pushed out of the zone by the effects of an attack or if their HP is reduced by 1/3 of their total HP or to 0 HP, whichever comes first.
+In case of a tie, the round is resolved by a 1-on-1 fight. In addition to the actions above, the two players in this face-off can switch sides and grapple each other. Whoever knocks the other player out of the central zone first wins the tie-breaker. A player is knocked out of the central circle, giving the opposite team the win, if they are pushed out of the zone by the effects of an attack or if their HP is reduced by 1/3 of their total HP or to 0 HP, whichever comes first.
 
 ### Crowd Mechanic
 - Each round, one player on each team can flavor an attack to try to gain the crowd's favor. The players roll contesting Charisma (Performance) checks.
