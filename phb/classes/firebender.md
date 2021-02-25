@@ -42,7 +42,7 @@ As a firebender, you gain the following class features.
 
 #### Hit Points
 **Hit Dice:** 1d10 per firebender level   
-**Hit Points at 1st Level:** 10 + your Constitution modifier   
+**Hit Points at 1st Level:** 10 + your Constitution modifier  
 **Hit Points at Higher Levels:** 1d10 (or 6) + your Constitution modifier per firebender level after 1st
 
 #### Proficiencies
@@ -79,7 +79,7 @@ As a firebender, your attacks must be backed by conviction. Charisma is your pri
 
 <div style="margin-left: 1em;">
     <strong>Attack Bonus</strong> = Cha modifier + proficiency bonus
-    <p><strong>Damage Bonus</strong> = Cha modifier</p>
+    <p><strong>Damage Bonus/Bending Modifier</strong> = Cha modifier</p>
 </div>
 
 <div class='pageNumber auto'></div>
@@ -281,7 +281,7 @@ The damage of your basic attacks also increases to 2d8.
 #### Shocking Strike
 Beginning when you choose this specialization at 5th level, you learn to distinguish the yin and yang of energy, allowing you to conduct currents and amass small charges of electricity to release at will.
 
-Once per short rest, you can use your basic firebending attack to attempt to stun a target. On a hit, instead of taking damage, the target makes a Constitution saving throw against your bending DC. On a failure, it is stunned. At the beginning of each of its turns, the target can attempt another save to recover. 
+When you hit with a basic firebending attack, you can choose to try to stun your target instead of dealing damage. On a hit, instead of taking damage, the target makes a Constitution saving throw against your bending DC. On a failure, it is stunned until the end of your next turn. You can use this feature a number of times equal to your bending modifier (a minimum of once). You regain expended uses when you finish a short or long rest.
 
 #### Create Lightning
 At 7th level, you learn to distinguish the yin and yang of energy and separate the positive from the negative energy. This creates an imbalance, and when the energies attempts to restore balance by crashing back together, you provide release and guidance, creating lightning.  
