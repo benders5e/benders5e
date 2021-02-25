@@ -169,7 +169,7 @@ You can use each form a maximum of once per turn.
 #### Chi Exhaustion
 Channeling chi into attacks is a physically and mentally draining endeavor.  
 
-You have 4 exhaustion points at your disposal. (Use a d4 to keep track.) The d4 starts with the "4" pointing up. Every turn you use all of your chi, you decrement this counter. When the counter indicates a "1", you need to take a break from bending and cannot spend any chi or take bending reactions that turn. Any bending concentration is also broken. Every turn that you do *not* use all your chi, the counter increments by 1. This counter resets every long rest.  
+You have 3 exhaustion points at your disposal. You can use a d4 to keep track: start the d4 with the "4" pointing up. Every turn you use all of your chi, you decrement this counter. When the counter reaches 1, you need to take a break from bending and cannot spend any chi or take bending reactions that turn. Any bending concentration is also broken. Every turn that you do *not* use all your chi, the counter increments by 1. This counter resets every long rest.  
 
 For example, say the counter is set at 2. That turn, you spend all your chi points attacking and turn the counter to 1. The next turn, you have 0 chi to spend, and you can either use your Attack action to make a melee, non-bending attack or forfeit it. The next turn, your counter is back up to 2. If you spend all your chi once again, it decreases back to 1 again, but if you spend anything less than the maximum (e.g. all but one chi) the counter once again increases to 3.
 
@@ -230,7 +230,7 @@ Beginning at 14th level, you learn to bend with minimal motion. Your use of bend
 At 15th level, ... [ribbon]
 
 ### Element of Power
-At 20th level, the power of your inner flame grows, increasing your stamina. You now have 6 chi exhaustion points at your disposal and thus you now use a 1d6 as your chi exhaustion die.
+At 20th level, the power of your inner flame grows, increasing your stamina. You now have 5 chi exhaustion points at your disposal and thus you now use a 1d6 as your chi exhaustion die.
 
 ## Firebending Specializations
 
