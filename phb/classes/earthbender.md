@@ -556,7 +556,7 @@ With each additional chi spent, the diameter of the area increases by 5 feet and
 <h4>Earth Projectiles</h4>
 <p style="font-style: italic;">Cost: 2 chi</p>
 
-You create and launch 3 fist-sized rocks at any combination of targets within your long range (the second number in the "Range" column). These attacks are made without disadvantage. Each rock deals 1d4 bludgeoning damage.   
+You create and launch 4 fist-sized rocks at any combination of targets within your long range (the second number in the "Range" column). These attacks are made without disadvantage. Each rock deals 1d4 bludgeoning damage.   
 
 You gain an additional rock for each extra chi you spend.
 

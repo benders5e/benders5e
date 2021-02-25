@@ -434,7 +434,7 @@ All bonuses are defined at the beginning of the class description (see "Fire Jab
 <div class="formCard fire">
     <h4>Lashing Flames</h4>
     <p style="font-style: italic;">Cost: 2 chi</p>
-    You shape your flame into a lashing tendril and swipe at a target within range, dealing 1d10 bludgeoning damage. 
+    You shape your flame into a lashing tendril and swipe at a target within range, dealing 2d8 bludgeoning damage. 
 
     For each additional chi point you spend, you create and attack with another fire lash, dealing an additional die of damage.
 </div>
@@ -442,7 +442,7 @@ All bonuses are defined at the beginning of the class description (see "Fire Jab
 <div class="formCard fire">
     <h4>Projectiles</h4>
     <p style="font-style: italic;">Cost: 2 chi</p>
-    You create and launch 3 miniature fireballs at any combination of targets within your long range (the second number in the "Range" column). These attacks are made without disadvantage. Each fireball deals 1d4 fire damage.   
+    You create and launch 4 miniature fireballs at any combination of targets within your long range (the second number in the "Range" column). These attacks are made without disadvantage. Each fireball deals 1d4 fire damage.   
 
 
     You gain an additional fireball for each extra chi you spend.
