@@ -288,7 +288,7 @@ The damage of your basic attacks also increases to 2d8.
 #### Shocking Strike
 Beginning when you choose this specialization at 5th level, you learn to distinguish the yin and yang of energy, allowing you to conduct currents and amass small charges of electricity to release at will.
 
-When you hit with a basic firebending attack, you can choose to try to stun your target instead of dealing damage. On a hit, instead of taking damage, the target makes a Constitution saving throw against your bending DC. On a failure, it is stunned until the end of your next turn. You can use this feature a number of times equal to your bending modifier (a minimum of once). You regain expended uses when you finish a short or long rest.
+When you hit another creature with a basic firebending attack, you can attempt a shocking strike. The target must succeed on a a Constitution saving throw against your bending DC or be stunned until the end of your next turn. You can use this feature a number of times equal to your bending modifier (a minimum of once). You regain expended uses when you finish a short or long rest.
 
 #### Create Lightning
 At 7th level, you learn to separate the positive from the negative energy. This creates an imbalance, and when the energies attempts to restore balance by crashing back together, you provide release and guidance, creating lightning.  
