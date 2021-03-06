@@ -335,7 +335,7 @@ Combustionbenders possess the rare ability to firebend with their minds. Instead
 Beginning when you choose this specialization at 5th level, you learn to channel your chi with great precision and focus, allowing you to use your bending over incredible distances. By spending 1 chi, you can use your long bending range instead of the normal range for any form or attack without incurring disadvantage. This precision and power also allows you to deal double damage on your first turn of combat.
 
 #### Mind's Eye
-At 7th level, you learn to firebend without moving your limbs, channeling your bending through your forehead instead. Because your bending requires no movement, you have advantage on attacks against targets you have not yet attacked in the current combat. You also gain advantage on initiative.
+Beginning when you choose this specialization at 5th level, you learn to firebend without moving your limbs, channeling your bending through your forehead instead. Because your bending requires no movement, you have advantage on attacks against targets you have not yet attacked in the current combat, and these targets make saving throws against your bending at disadvantage. You also gain advantage on initiative.
 
 #### Combustion
 At 11th level, you can cause explosions with your basic bending attack. Instead of making a firebending attack, you can choose to make a combustion attack. Pick a point within range on which to center the explosion. Targets in a 5-foot radius must make a Dexterity saving throw against your bending DC. On a failure, they take your bending damage in force damage, and on a success they take half damage.

@@ -1036,11 +1036,11 @@ Urchins are shaped by lives of desperate poverty, for good and for ill. They ten
 <h3 class="new">Arctic Dweller</h3>
 
 **Skill Proficiencies:** Survival, plus your choice of Animal Handling or Athletics  
-**Tool Proficiencies:** Two of your choice  
+**Tool Proficiencies:** Vehicles (water) or vehicles (land), one artisan's tool or musical instrument of your choice
 **Equipment:** a set of warm clothes, a token or keepsake to remind you of home, dried jerky to last for 5 days, and a pouch containing 10 gp 
 
-#### Feature: Cold Endurance
-Living in the brutal climate of the pole has made you hardy and resilient, granting you proficiency with Constitution saving throws.
+#### Feature: Snow and Ice Acclimation
+Living in the brutal climate of the pole has made you hardy and resilient. You do not suffer the effects of extreme cold as described in the DMG. Additionally, you excel at foraging and navigating the harsh arctic, even where others may fail.
 
 #### Suggested Characteristics
 Use the tables for the guild artisan or sailor background in the Player's Handbook as the basis for your traits and motivations, modifying the entries when appropriate to suit your role within your home tribe.  
@@ -1054,7 +1054,7 @@ You hail from the swamps in the earth nation.
 
 <div class="HBonly" style="height:0em;"></div>
 **Skill Proficiencies:** Nature, Survival  
-**Tool Proficiencies:** One type of artisan's tools, herbalism kit  
+**Tool Proficiencies:** One type of artisan's tools or musical instrument, herbalism kit  
 **Equipment:** A staff, a hunting trap, and a leaf loincloth and hat
 
 <div class="HBonly" style="height:0em;"></div>
@@ -1063,8 +1063,8 @@ You hail from the swamps in the earth nation.
 #### Feature: Not Clever, but Wise
 You use Wisdom as your waterbending ability. 
 
-#### Feature: Naked Defense
-While you are wearing no armor and not wielding a shield, your AC equals 13 + your Dexterity modifier.
+#### Feature: Everything is Connected
+living in the swamps has helped you feel the connection all living creatures share, and the connections the living world shares with the spirit world. You excel at recognizing evidence of spirits, and you can also find bridges to the spirit world more easily than others (though this gives you no special ability to find them). At your DM's discretion, you may have had a spiritual contact within the swamp, or a premonition of something to come.
 
 #### Suggested Characteristics
 Use the tables for the outlander background in the Player's Handbook as the basis for your traits and motivations, modifying the entries when appropriate to suit your identity as a one hailing from the swamps. Your bond is almost certainly associated with the place you grew up.
