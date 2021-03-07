@@ -32,6 +32,7 @@ Each set (referred to as a "round") of the game consists of 3 rounds of combat. 
     - When everyone on one team is knocked out of a zone, each player on the other team advances one zone.
     - If a player is knocked to 0 HP, they are knocked back 3 zones (knocking them off the map unless ground was taken).
     - Regaining an area does not restore the corresponding HP.
+    - [Here's a tool](./tools/pro-bending) to keep track of when players get knocked back.
 - **Move:**
     - You can use your movement to reposition yourself within your zone.
     - If you step over the back of your zone, you forfeit the ground and must move back to that zone. This doesn't apply to the last zone, and you must be knocked off the back edge to be knocked out of the last zone.

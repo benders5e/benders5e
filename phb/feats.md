@@ -201,7 +201,7 @@ Choose one ability score. You gain the following benefits:
 
 Your ingenuity and experience with a variety of adversaries have allowed you to adapt another element's fightning style and make it your own. Pick one form from another element-bender's form list (not one that requires a bending specialization). You can add this form to your list of known forms, and it doesn't count against the total number of forms you know (as indicated by the "Forms Known" column of the Bender Table).
 
-When you use this form, you adapt it to use your element instead of the original element, causing it do deal your element's damage type instead of the original damage type. You also use your bending modifiers and DCs.
+When you use this form, you adapt it to use your element instead of the original element, causing it to deal your element's damage type instead of the original damage type. You also use your bending modifiers and DCs.
 
 ### Savage Attacker
 Once per turn when you roll damage for a melee weapon attack, you can reroll the weapon’s damage dice and use either total. 
