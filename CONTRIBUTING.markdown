@@ -9,14 +9,17 @@ If you have feature suggestions or requests, you can
 ## Opening an Issue
 
 - Before opening an issue, make sure a similar issue doesn't already exist.
-- Use a descriptive title. If your issue falls into one of the following categories, please add the correct prefix to the title:
+- Use a descriptive title. If your issue falls into one of the following categories, please add the correct prefix to the title.  
+**Problem type:**
   - `[MISSING]` - some ability/rule is missing from the site
   - `[INCOMPLETE]` - the ability/rule is there, but its description is incomplete
-  - `[BALANCE]` - class balance issues (damage output, etc.)
+  - `[BALANCE]` - class balance issues (damage output, etc.)  
+**Idea:**  
+  - `[ABILITY]` - idea for an ability
+  - `[BACKGROUND]` - idea for a background
+  - `[FEAT]` - idea for a feat
   - `[FORM]` - idea for a form
   - `[ITEM]` - idea for an item
-  - `[FEAT]` - idea for a feat
-  - `[ABILITY]` - idea for an ability
   - `[MECHANIC]` - idea for some other mechanic
 
 ## Submitting a Pull Request
