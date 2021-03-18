@@ -348,7 +348,7 @@ Combustionbenders possess the rare ability to firebend with their minds. Instead
 Beginning when you choose this specialization at 5th level, you learn to firebend without moving your limbs, channeling your bending through your forehead instead. Because your bending requires no movement, you have advantage on initiative rolls. Additionally, you roll with advantage when attacking creatures that haven't taken a turn in combat yet. At level 7, such creatures also have disadvantage on saving throws against your combustion attacks.
 
 #### Combustion
-When you reach 7th level, you can cause explosions with your basic bending attack. Instead of making a firebending attack, you can choose to make a combustion attack. Pick a point within range on which to center the explosion. Targets in a 5-foot radius must make a Dexterity saving throw against your bending DC. On a failure, they take your bending damage in thunder damage, and on a success they take half damage. Objects and structures take double damage.
+When you reach 7th level, you can cause explosions with your basic bending attack. Instead of making a firebending attack, you can choose to make a combustion attack. Pick a point in range on which to center the explosion. Targets in a 5-foot radius must make a Dexterity saving throw against your bending DC. (If you are attacking at long range, the targets have advantage on the saving throw.) On a failure, they take your bending damage in thunder damage, and on a success they take half damage. Objects and structures take double damage.
 
 Additionally, your first attacks now pack an extra punch. When you hit a creature that hasn't taken a turn in combat yet with a basic attack or a form, or when such a creature fails a saving throw against your combustion attack or a form, you add your proficiency bonus to the damage. <!-- ALTERNATE (weaker) version: max damage on first combustion hit -->
 
@@ -376,7 +376,7 @@ All bonuses are defined at the beginning of the class description (see "Fire Jab
 <div class="formCard fire">
     <h4>Flashbang</h4>
     <p style="font-style: italic;">Cost: 1 chi</p>
-    You cause a bright flash, blinding a target within 5 feet of your choice. The target must make a Constitution saving throw. On a failure, it is blinded until the end of its next turn.
+    You choose a point within normal bending range and cause a bright flash, blinding one target of your choice within a 5-foot radius. The target must make a Constitution saving throw. On a failure, it is blinded until the end of its next turn.
 </div>
 
 <div class="formCard fire">
