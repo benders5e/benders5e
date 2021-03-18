@@ -7,6 +7,12 @@ nav-hide: true
 
 <!-- Homebrewery Link: https://homebrewery.naturalcrit.com/edit/24oFxIIOYo -->
 
+<div class="class-pdf">
+<a href="/assets/pdf/fire.pdf"><i class="far fa-file-pdf"></i>
+PDF version</a> 
+<br/>(out-of-date)
+</div>
+
 <h1 class="new" id="classes" >Firebender</h1>
 
 Fire is the element of power. Firebenders must be able to maintain a constant source of energy and balance in battle and direct it through unflinching conviction. This energy comes from within, but is strengthened by the sun and some other natural phenomena. 
@@ -36,7 +42,7 @@ As a firebender, you gain the following class features.
 
 #### Hit Points
 **Hit Dice:** 1d10 per firebender level   
-**Hit Points at 1st Level:** 10 + your Constitution modifier   
+**Hit Points at 1st Level:** 10 + your Constitution modifier  
 **Hit Points at Higher Levels:** 1d10 (or 6) + your Constitution modifier per firebender level after 1st
 
 #### Proficiencies
@@ -66,14 +72,14 @@ As a firebender, you have resistance to fire damage.
 During combat, you can channel your chi to use your bending as a rudimentary attack by hitting other creatures. Every time you take the Attack action, you draw on your inner pool of energy, or *chi*. The class table shows how much chi you have available every time you take the Attack action ("Chi per Attack"). This amount resets every round. As your bending grows more powerful and your connection to your inner chi grows, this number increases.  
 
 
-When you take a basic bending attack, you spend 1 point of chi and deal 1d6 fire damage. This damage increases with your firebender level and is shown in the "Bending" column of the Firebender Table. The range of your attacks is the same as your bending range ("Range" column).     
+When you take a basic bending attack, you spend 1 point of chi and deal 1d6 fire damage. This damage increases with your firebender level and is shown in the "Bending" column of the Firebender Table. The range of your attacks is the same as your bending range ("Range" column). When you launch fire in an attack beyond your normal bending range but within your long range, you have disadvantage on the attack roll. You can't attack a target beyond your long range. 
 
 
 As a firebender, your attacks must be backed by conviction. Charisma is your primary attack ability:  
 
 <div style="margin-left: 1em;">
     <strong>Attack Bonus</strong> = Cha modifier + proficiency bonus
-    <p><strong>Damage Bonus</strong> = Cha modifier</p>
+    <p><strong>Damage Bonus/Bending Modifier</strong> = Cha modifier</p>
 </div>
 
 <div class='pageNumber auto'></div>
@@ -158,14 +164,14 @@ You learn one form from the list at the end of this class description. The numbe
 
 Every time you take the Attack action on your turn, you have a certain amount of *chi* at your disposal (indicated by the "Chi per Attack" column of the class table). You can distribute your chi among basic bending attacks or regular bending (*cost: 1 chi*) and any forms you know (whose costs are indicated with their descriptions). When you use a form, you add your bending attack bonus to the attack roll but you do not add your bending damage bonus to the resulting damage.
 
-You can use each form a maximum of once per turn.
+You can use each form a maximum of once per turn. You regain all expended chi at the end of your turn.
 
 #### Chi Exhaustion
 Channeling chi into attacks is a physically and mentally draining endeavor.  
 
-You have 4 exhaustion points at your disposal. (Use a d4 to keep track.) The d4 starts with the "4" pointing up. Every turn you use all of your chi, you decrement this counter. When the counter indicates a "1", you need to take a break from bending and cannot spend any chi or take bending reactions that turn. Any bending concentration is also broken. Every turn that you do *not* use all your chi, the counter increments by 1. This counter resets every long rest.  
+You have 3 exhaustion points at your disposal. You can use a d4 to keep track: start the d4 with the "4" pointing up. At the end of each turn in which you use all of your chi, decrement this counter. While the counter is set at 1, you must take a break from bending and cannot spend any chi or take bending reactions. Any bending concentration is also broken. At the end of each turn that you do *not* use all your chi, the counter increments by 1.
 
-For example, say the counter is set at 2. That turn, you spend all your chi points attacking and turn the counter to 1. The next turn, you have 0 chi to spend, and you can either use your Attack action to make a melee, non-bending attack or forfeit it. The next turn, your counter is back up to 2. If you spend all your chi once again, it decreases back to 1 again, but if you spend anything less than the maximum (e.g. all but one chi) the counter once again increases to 3.
+For example, say the counter is set at 2. That turn, you spend all your chi points attacking and turn the counter to 1. The next turn, you have 0 chi to spend, and you can either use your Attack action to make a non-bending attack or forfeit it. The next turn, your counter is back up to 2. If you spend all your chi once again, it decreases back to 1 again, but if you spend anything less than the maximum (e.g. all but one chi) the counter once again increases to 3.
 
 ### Defusion
 At 3rd level, you can use your reaction to defuse an attack when you are hit by a ranged non-bending attack or a basic ranged bending attack (not one that is the result of a form or specialized bending). When you do so, the damage you take from the attack is reduced by half. <!--Any fire damage is reduced to 0.-->  
@@ -224,7 +230,7 @@ Beginning at 14th level, you learn to bend with minimal motion. Your use of bend
 At 15th level, ... [ribbon]
 
 ### Element of Power
-At 20th level, the power of your inner flame grows, increasing your stamina. You now have 6 chi exhaustion points at your disposal and thus you now use a 1d6 as your chi exhaustion die.
+At 20th level, the power of your inner flame grows, increasing your stamina. You now have 5 chi exhaustion points at your disposal and thus you now use a 1d6 as your chi exhaustion die.
 
 ## Firebending Specializations
 
@@ -269,16 +275,23 @@ With this knowledge, your fire becomes an extension of your body rather than mer
 
 The damage of your basic attacks also increases to 2d8.
 
+<!-- add this form here maybe?
+<div class="formCard fire">
+    <h4>Firebreathing</h4>
+    <p style="font-style: italic;">Prerequisite: Combustionbending specialization</p>
+    <p style="font-style: italic;">Cost: X chi</p>
+    [stealthy, cone AOE]
+</div-->
 
 ### Lightningbending
 
 #### Shocking Strike
 Beginning when you choose this specialization at 5th level, you learn to distinguish the yin and yang of energy, allowing you to conduct currents and amass small charges of electricity to release at will.
 
-Once per short rest, you can use your basic firebending attack to attempt to stun a target. On a hit, instead of taking damage, the target makes a Constitution saving throw against your bending DC. On a failure, it is stunned. At the beginning of each of its turns, the target can attempt another save to recover. 
+When you hit another creature with a basic firebending attack, you can attempt a shocking strike. The target must succeed on a a Constitution saving throw against your bending DC or be stunned until the end of your next turn. You can use this feature a number of times equal to your bending modifier (a minimum of once). You regain expended uses when you finish a short or long rest.
 
 #### Create Lightning
-At 7th level, you learn to distinguish the yin and yang of energy and separate the positive from the negative energy. This creates an imbalance, and when the energies attempts to restore balance by crashing back together, you provide release and guidance, creating lightning.  
+At 7th level, you learn to separate the positive from the negative energy. This creates an imbalance, and when the energies attempts to restore balance by crashing back together, you provide release and guidance, creating lightning.  
 
 You learn the *Lightning* form described in the "Forms" section at the end of this class description.
 
@@ -302,17 +315,17 @@ Beginning when you choose this specialization at 5th level, you learn to sense t
 
 Additionally, you can sense this energy and heat emanating from creatures even from afar. As a bonus action, you can open your awareness to detect life forms around you. Until the end of your next turn, you know the location of any warm-blooded life forms within your bending range that are not behind total cover. You know the type (human or beast) of any being whose presence you sense, but not its identity.
 
-You can use each of these features a number of times equal to your bending modifier. When you finish a Long Rest, you regain all expended uses.
+You can use each of these features a number of times equal to your bending modifier. When you finish a long rest, you regain all expended uses.
 
 #### Healing
-At 7th level, you learn to clear blocked chi paths within creatures and redirect their energy towards wounds to speed up the healing process. By spending one minute concentrating on reading the chi paths in another person's body, you heal them by an amount of hit points equal to three times your firebender level.  
+At 7th level, you learn to clear blocked chi paths within creatures and redirect their energy towards wounds to speed up the healing process. When you spend one minute concentrating on reading the chi paths in another person's body, they immediately roll a number of hit dice equal to your bending bonus. They add their constitution modifier to each hit die. These hit dice don't decrease the number of remaining hit dice they have.
 
-You can use this ability a number of times equal to your bending modifier per long rest.
+You can use this ability a number of times equal to your twice your proficiency bonus per long rest.
 
 #### Mass Heal
-At 11th level, you can use your firebending to channel your healing abilities in combat. Anytime you make an attack, you can spend 1 additional chi to cause the attack to confer healing benefits instead of damage. The attack automatically "hits" any allies and heals them by an number of hit points equal to your firebender level.  
+At 11th level, you can use your firebending to channel your healing abilities in combat. Anytime you make an attack, you can spend 1 additional chi to cause the attack to confer healing benefits instead of damage. The attack automatically "hits" any allies, who each get one bonus hit die to roll immediately. They add their constitution modifiers to the dice roll.
 
-This counts as a use of your healing ability.
+You can use this ability a number of times equal to your twice your proficiency bonus per long rest.
 
 #### Minor Energybending
 At 17th level, you learn to bend the energy within people's bodies to a limited extent. Once per long rest, you may spend an action to do one of the following:
@@ -331,30 +344,22 @@ Combustionbenders possess the rare ability to firebend with their minds. Instead
 <div class="HBspacing" style="height: 6em;">
 </div>
 
-#### Uncanny Focus
-Beginning when you choose this specialization at 5th level, you learn to channel your chi with great precision and focus, allowing you to use your bending over incredible distances. By spending 1 chi, you can use your long bending range instead of the normal range for any form or attack without incurring disadvantage. This precision and power also allows you to deal double damage on your first turn of combat.
-
 #### Mind's Eye
-Beginning when you choose this specialization at 5th level, you learn to firebend without moving your limbs, channeling your bending through your forehead instead. Because your bending requires no movement, you have advantage on attacks against targets you have not yet attacked in the current combat, and these targets make saving throws against your bending at disadvantage. You also gain advantage on initiative.
+Beginning when you choose this specialization at 5th level, you learn to firebend without moving your limbs, channeling your bending through your forehead instead. Because your bending requires no movement, you have advantage on initiative rolls. Additionally, you roll with advantage when attacking creatures that haven't taken a turn in combat yet. At level 7, such creatures also have disadvantage on saving throws against your combustion attacks.
 
 #### Combustion
-At 11th level, you can cause explosions with your basic bending attack. Instead of making a firebending attack, you can choose to make a combustion attack. Pick a point within range on which to center the explosion. Targets in a 5-foot radius must make a Dexterity saving throw against your bending DC. On a failure, they take your bending damage in force damage, and on a success they take half damage.
+When you reach 7th level, you can cause explosions with your basic bending attack. Instead of making a firebending attack, you can choose to make a combustion attack. Pick a point in range on which to center the explosion. Targets in a 5-foot radius must make a Dexterity saving throw against your bending DC. (If you are attacking at long range, the targets have advantage on the saving throw.) On a failure, they take your bending damage in thunder damage, and on a success they take half damage. Objects and structures take double damage.
 
-#### Advanced Forms
-At 17th level, you learn an additional form of your choice from the following list:  
+Additionally, your first attacks now pack an extra punch. When you hit a creature that hasn't taken a turn in combat yet with a basic attack or a form, or when such a creature fails a saving throw against your combustion attack or a form, you add your proficiency bonus to the damage. <!-- ALTERNATE (weaker) version: max damage on first combustion hit -->
 
-<div class="formCard fire">
-    <h4>Charged Attack</h4>
-    <p style="font-style: italic;">Prerequisite: Combustionbending specialization</p>
-    <p style="font-style: italic;">Cost: X chi</p>
-</div>
+#### Uncanny Focus
+At 11th level, you learn to channel your chi with great precision and focus, allowing you to use your bending over incredible distances. By spending 1 chi, you can use your long bending range instead of the normal range for any form or attack without incurring disadvantage. 
 
-<div class="formCard fire">
-    <h4>Firebreathing</h4>
-    <p style="font-style: italic;">Prerequisite: Combustionbending specialization</p>
-    <p style="font-style: italic;">Cost: X chi</p>
-    [stealthy, cone AOE]
-</div>
+You can also focus your energy within your body, allowing it to build up before releasing it in a powerful charged attack. On a turn, you can save some or all of your chi until the next turn, amassing up to double your chi per turn. For example, at 11th level, you can decide not to attack on one of your turns, saving 4 chi points until until your next turn. The next round, you have 8 chi at your disposal -- so you could, for example, execute a form that costs 5 chi. Amassing chi this way still counts as expending the chi for the purposes of chi exhaustion.
+
+#### Devastating Strike
+<!-- could rename to Deadly Strike, but Airbending (Offense) has this name already -->
+At 17th level, your precision and power allow you to deal double damage when you make a combustion attack. You can use this ability twice per long rest. 
 
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 2 | CLASSES</div>
@@ -371,7 +376,7 @@ All bonuses are defined at the beginning of the class description (see "Fire Jab
 <div class="formCard fire">
     <h4>Flashbang</h4>
     <p style="font-style: italic;">Cost: 1 chi</p>
-    You cause a bright flash, blinding a target within 5 feet of your choice. The target makes a Constitution saving throw. On a failure, it is blinded until the end of its next turn.
+    You choose a point within normal bending range and cause a bright flash, blinding one target of your choice within a 5-foot radius. The target must make a Constitution saving throw. On a failure, it is blinded until the end of its next turn.
 </div>
 
 <div class="formCard fire">
@@ -399,7 +404,7 @@ All bonuses are defined at the beginning of the class description (see "Fire Jab
 <div class="formCard fire">
     <h4>Fire Bomb</h4>
     <p style="font-style: italic;">Cost: 2 chi</p>
-    You create a flame at the end of one of your limb and thrust it onto the ground in an explosive burst at a point within range. Targets in a 10-foot radius of the burst must make a Dexterity saving throw. On a failure, they take 2d6 force damage and are stunned until the beginning of their next turn. On a success, they take half damage. 
+    You create a flame at the end of one of your limb and thrust it onto the ground in an explosive burst at a point within range. Targets in a 10-foot radius of the burst must make a Dexterity saving throw. On a failure, they take 2d6 thunder damage and are stunned until the beginning of their next turn. On a success, they take half damage. 
 
     The radius increases by 5 feet with each additional chi spent.
 </div>
@@ -428,7 +433,7 @@ All bonuses are defined at the beginning of the class description (see "Fire Jab
 <div class="formCard fire">
     <h4>Lashing Flames</h4>
     <p style="font-style: italic;">Cost: 2 chi</p>
-    You shape your flame into a lashing tendril and swipe at a target within range, dealing 1d10 bludgeoning damage. 
+    You shape your flame into a lashing tendril and swipe at a target within range, dealing 2d8 bludgeoning damage. 
 
     For each additional chi point you spend, you create and attack with another fire lash, dealing an additional die of damage.
 </div>
@@ -436,7 +441,7 @@ All bonuses are defined at the beginning of the class description (see "Fire Jab
 <div class="formCard fire">
     <h4>Projectiles</h4>
     <p style="font-style: italic;">Cost: 2 chi</p>
-    You create and launch 3 miniature fireballs at any combination of targets within your long range (the second number in the "Range" column). These attacks are made without disadvantage. Each fireball deals 1d4 fire damage.   
+    You create and launch 4 miniature fireballs at any combination of targets within your long range (the second number in the "Range" column). These attacks are made without disadvantage. Each fireball deals 1d4 fire damage.   
 
 
     You gain an additional fireball for each extra chi you spend.
@@ -493,4 +498,7 @@ Not sure what these are
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 2 | CLASSES</div>
 
+<img src='/assets/elements/fire.png' style='position:absolute;top:20%;right:30px;width:280px;opacity:0.6'>
+<div class="HBonly">
 <img src='https://nglaeser.keybase.pub/Other/fire.png' style='position:absolute;bottom:70px;right:30px;width:280px;opacity:0.4'>
+</div>

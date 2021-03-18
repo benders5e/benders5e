@@ -7,6 +7,13 @@ nav-hide: true
 
 <!-- Homebrewery Link: https://homebrewery.naturalcrit.com/edit/3y6o6KPWIM -->
 
+<div class="class-pdf">
+<a href="/assets/pdf/air.pdf"><i class="far fa-file-pdf"></i>
+PDF version</a> 
+<br/>(out-of-date)
+</div>
+<!-- TODO include draft number in the PDF -->
+
 <h1 id="classes" class="new">
     Airbender
 </h1>
@@ -62,7 +69,9 @@ You start with the following equipment, in addition to the equipment granted by 
 Beginning at 1st level, while you are wearing no armor and not wielding a shield, your AC equals 10 + your Wisdom and Dexterity modifiers.
 
 ### Airbending
-At 1st level, you realize that you have an innate ability to manipulate the air around you. You can spend 1 chi of your Attack action to cause the effects of the *Gust* cantrip described below the class table. (See "Air Punch" for a description of the role chi points play in attacks and the rules for bending attacks.) Your range increases with your level according to the "Range" column of the Airbender table.  
+At 1st level, you realize that you have an innate ability to manipulate the air around you. You can spend 1 chi of your Attack action to cause the effects of the *Gust* cantrip described below the class table. (See "Air Punch" for a description of the role chi points play in attacks and the rules for bending attacks.) 
+
+Your range increases with your level according to the "Range" column of the Airbender table. The first number is your normal range in feet, and the second indicates your long range. When bending a material at a distance, you can only bend within your normal range.
 
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 2 | CLASSES</div>
@@ -115,9 +124,10 @@ In addition, your jump distance is permanently tripled and you only spend 5 feet
 ### Air Punch
 During combat, you can channel your chi to use your bending as a rudimentary attack by hitting other creatures. Every time you take the Attack action, you draw on your inner pool of energy, or *chi*. The class table shows how much chi you have available every time you take the Attack action ("Chi per Attack"). This amount resets every round. As your bending grows more powerful and your connection to your inner chi grows, this number increases.
 
-When you take a basic bending attack, you spend 1 point of chi and deal 1d6 force damage. You also clear any non-spiritual fog, dust, or other type of cloud effect in a 5-foot-wide line from you to the target (not including your position but including the target's position). 
+When you take a basic bending attack, you bend the air around you towards your opponent by spending 1 point of chi and deal 1d6 force damage. You also clear any non-spiritual fog, dust, or other type of cloud effect in a 5-foot-wide line from you to the target (not including your position but including the target's position). 
 
-The damage caused by your attack increases with your airbender level and is shown in the "Bending" column of the Airbender Table. The range of your attacks is the same as your bending range ("Range" column).      
+The damage caused by your attack increases with your airbender level and is shown in the "Bending" column of the Airbender Table. The range of your attacks is the same as your bending range ("Range" column). When you launch air in an attack beyond your normal bending range but within your long range, you have disadvantage on the attack roll. You can't attack a target beyond your long range. 
+
 
 As an airbender, your attacks rely on understanding and effectively channeling the energy within you. Wisdom is your primary attack ability:
 
@@ -163,7 +173,7 @@ You learn one form from the list at the end of this class description. The numbe
 
 Every time you take the Attack action on your turn, you have a certain amount of *chi* at your disposal (indicated by the "Chi per Attack" column of the class table). You can distribute your chi among basic bending attacks or regular bending (*cost: 1 chi*) and any forms you know (whose costs are indicated with their descriptions). When you use a form, you add your bending attack bonus to the attack roll but you do not add your bending damage bonus to the resulting damage.
 
-You can use each form a maximum of once per turn.
+You can use each form a maximum of once per turn. You regain all expended chi at the end of your turn.
 
 ### Be the Leaf
 At 3rd level, you become tuned in to the air around you. You learn to move like a leaf in the wind, allowing you to evade attacks more easily. You can choose to impose disadvantage on an attack against you as a reaction after the attack roll is made, but before the outcome is determined. You can use this ability a number of times equal to your bending modifier per long rest.
@@ -171,9 +181,9 @@ At 3rd level, you become tuned in to the air around you. You learn to move like 
 #### Chi Exhaustion
 Channeling chi into attacks is a physically and mentally draining endeavor.   
 
-You have 4 exhaustion points at your disposal. (Use a d4 to keep track.) The d4 starts with the "4" pointing up. Every turn you use all of your chi, you decrement this counter. When the counter indicates a "1", you need to take a break from bending and cannot spend any chi or take bending reactions that turn. Any bending concentration is also broken. Every turn that you do *not* use all your chi, the counter increments by 1. This counter resets every long rest.  
+You have 3 exhaustion points at your disposal. You can use a d4 to keep track: start the d4 with the "4" pointing up. At the end of each turn in which you use all of your chi, decrement this counter. While the counter is set at 1, you must take a break from bending and cannot spend any chi or take bending reactions. Any bending concentration is also broken. At the end of each turn that you do *not* use all your chi, the counter increments by 1.
 
-For example, say the counter is set at 2. That turn, you spend all your chi points attacking and turn the counter to 1. The next turn, you have 0 chi to spend, and you can either use your Attack action to make a melee, non-bending attack or forfeit it. The next turn, your counter is back up to 2. If you spend all your chi once again, it decreases back to 1 again, but if you spend anything less than the maximum (e.g. all but one chi) the counter once again increases to 3.
+For example, say the counter is set at 2. That turn, you spend all your chi points attacking and turn the counter to 1. The next turn, you have 0 chi to spend, and you can either use your Attack action to make a non-bending attack or forfeit it. The next turn, your counter is back up to 2. If you spend all your chi once again, it decreases back to 1 again, but if you spend anything less than the maximum (e.g. all but one chi) the counter once again increases to 3.
 
 ### Ability Score Improvement
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
@@ -189,7 +199,7 @@ Beginning at 4th level, you can use your reaction when you fall to slow yourself
 At 5th level, you specialize in one of the following aspects of airbending: advanced airbending, spirituality, or offense. Your abilities are described in the specialization section at the end of this class description. <!--This specialization grants you a new feature at 5th level, and again at 8th, 12th, and 17th level.-->
 
 ### Cloudbending
-At 6th level, you gain the ability to bend clouds. Once per long rest, you can concentrate on reshaping clouds for a period of time up to 1 hour. During this time, you spend your Action on every turn cloudbending and cannot use it to attack or take any other actions.
+At 6th level, you gain the ability to bend clouds. While concentrating, you can reshape clouds within your normal range as you wish (for a period of time up to 1 hour). As soon as you break concentration, the cloud formations begin to drift apart and return to their natural shapes. While cloudbending, you spend your Action on every turn maintaining the clouds' shapes and cannot attack or take any other actions.
 
 ### Shunt
 At 9th level, you can use your reaction to push your allies out of harm's way. You use your Be the Leaf ability for this, and it counts as one of your uses per long rest.
@@ -238,7 +248,7 @@ You also automatically know the form *Tranquility* and it does not count against
 At 7th level, you learn to use your breath control to regulate your body temperature. You gain resistance to cold damage, and warm temperatures do not make you uncomfortable, making you immune to heat exhaustion (this includes e.g. a firebender's _Heat Wave_ form).
 
 #### Tranquility
-Beginning at 11th level, you can enter a special meditation that surrounds you with an aura of peace. At the end of a long rest, you gain the effect of the _Sanctuary_ spell that lasts until the start of your next long rest (the spell can end early as normal).
+Beginning at 11th level, you can enter a special meditation that surrounds you with an aura of peace. At the end of a long rest, you gain the effect of the _Sanctuary_ spell that lasts until the start of your next long rest (the spell can end early as normal). The saving throw DC for the spell equals your bending DC.
 
 #### ?
 At 17th level, ...
@@ -313,9 +323,11 @@ If you reduce the damage to 0, you can completely defuse the attack, provided yo
 
 <div class="formCard air">
 <h4>Nimble action</h4>
-<p style="font-style: italic;">Cost: 1 chi</p>
+<p style="font-style: italic;">Cost: 1-2 chi</p>
 
-You spend 1 chi to take the Dodge, Disengage, or Dash action as a bonus action on this turn.
+You spend 1 chi to take the Dash or Disengage action as a bonus action on your turn.
+
+You can choose to spend 1 additional chi (for a total of 2 chi) to take the Dodge action as a bonus action instead.
 </div>
 
 <!--#### Shunt (rename this)
@@ -324,7 +336,7 @@ This turn, you can use your Be The Leaf reaction to shunt another creature out o
 
 <div class="formCard air">
 <h4>Air scooter</h4>
-<p style="font-style: italic;">Cost: 1 chi (2 chi)</p>
+<p style="font-style: italic;">Cost: 1-2 chi</p>
 
 You form a ball our of air which you can ride up walls and vertical surfaces, but you must end your turn on a flat surface. You can immediately move 80 feet when you activate the air scooter, and you gain a ground speed of 80 feet. The scooter is treated as a mount and disappears at the end of your next turn.
 
@@ -442,4 +454,7 @@ The effect also ends if you lose concentration.
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 2 | CLASSES</div>
 
+<img src='/assets/elements/air.png' style='position:absolute;top:20%;right:30px;width:280px;opacity:0.6'>
+<div class="HBonly">
 <img src='https://nglaeser.keybase.pub/Other/air.png' style='position:absolute;bottom:70px;right:30px;width:280px;opacity:0.4'>
+</div>

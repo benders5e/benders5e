@@ -7,6 +7,12 @@ nav-hide: true
 
 <!-- Homebrewery Link: https://homebrewery.naturalcrit.com/edit/PZMEFOb7Xg -->
 
+<div class="class-pdf">
+<a href="/assets/pdf/monk.pdf"><i class="far fa-file-pdf"></i>
+PDF version</a> 
+<br/>(out-of-date)
+</div>
+
 <h1 id="classes" class="change">Monk</h1>
 
 Whatever their discipline, monks are united in their ability to magically harness the energy that flows in their bodies. Whether channeled as a striking display of combat prowess or a subtler focus of defensive ability and speed, this energy infuses all that a monk does.

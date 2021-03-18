@@ -112,7 +112,9 @@ h5 {
   border: 0px !important;
 }
 
-
+span.ital {
+  font-style: italic;
+}
 blockquote {
   font-style: normal;
   font-size: 16px;
@@ -122,6 +124,9 @@ blockquote {
   margin-left: 1.5em;
   margin-right: 1.5em;
   padding: 15px;
+}
+blockquote.example {
+  background-color: $grey-color-medium;
 }
 blockquote h5 {
   font-size: 16px;
@@ -147,7 +152,7 @@ blockquote h5, .formCard h5 {
   padding: 15px;
 }
 .formCard.air {
-  background-color: $air-blue;
+  background-color: $air-orange;
 }
 .formCard.earth {
   background-color: $earth-green;
@@ -300,3 +305,38 @@ footer i {
   padding-left: 7.5px;
 }
 */
+
+/*** pro bending tracker ***/
+th {
+  text-align: center;
+}
+#player-table {
+  table-layout: fixed;
+  width: 100%;
+  min-width: 650px;
+}
+.name-col {
+  width: 30%;
+}
+.ac-col, .hp-col {
+  width: 10%;
+}
+.hpFull-col, .hp2-col, .hp1-col {
+  width: 10%;
+  text-align: center;
+}
+.zone-col, .dist-col {
+  width: 10%;
+}
+#player-table input {
+  width: 100%;
+}
+#add {
+  width: 50px !important;
+}
+.reset-btn {
+  width: 50px !important;
+  padding: 0 0;
+  text-align: center;
+  float: right;
+}

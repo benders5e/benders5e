@@ -48,21 +48,16 @@ function evalFormula(f) {
             }
             // reroll
             if(reroll !== undefined) {
-                // Check if formula is impossible (prevent infinite loop)
-                let rollRange = [...Array(dieType+1).keys()].slice(1);
-                if(rollRange.sort().toString() === reroll.sort().toString) {
-                    // check if they are equal
-                    return {rolls: [], result: errMsg};
-                }
-
+                // console.log(`rolls before rerolling ${rollsList}`);
                 for(i = 0; i < rollsList.length; i++) {
-                    let count = 0;
-                    while(reroll.indexOf(rollsList[i]) > -1 && count < 100) {
+                    // if the roll is in the list of numbers to reroll
+                    if(reroll.indexOf(rollsList[i]) > -1) {
+                        // console.log(`rerolling ${rollsList[i]}`);
+                        // reroll it
                         rollsList[i] = roll(dieType);
-                        count++;
                     }
                 }
-                //console.log(`rolls after rerolling ${rollsList}`);
+                // console.log(`rolls after rerolling ${rollsList}`);
             }
             // keep
             if(keep !== undefined) {

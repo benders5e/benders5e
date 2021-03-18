@@ -7,6 +7,12 @@ nav-hide: true
 
 <!-- Homebrewery Link: https://homebrewery.naturalcrit.com/edit/nv_PIRHWxL -->
 
+<div class="class-pdf">
+<a href="/assets/pdf/water.pdf"><i class="far fa-file-pdf"></i>
+PDF version</a> 
+<br/>(out-of-date)
+</div>
+
 <h1 class="new" id="classes">Waterbender</h1>
 
 Water is the element of change, and just like their namesake, waterbenders are extremely adaptable and versatile. Waterbending concentrates on the flow of energy, focusing less on strength and more on turning the opponent's own energy against them. A bender's victory in battle depends on their skill or ingenuity. 
@@ -69,7 +75,9 @@ You start with the following equipment, in addition to the equipment granted by 
 </div>
 
 ### Waterbending
-At 1st level, you realize that you have an innate ability to control water. You can move small volumes of *liquid* water at will by spending 1 chi of your Attack action to cause the effects of the *Shape Water* cantrip (excluding changing the water's color or opacity). (See "Bending Attack" for a description of the role chi points play in attacks and the rules for bending attacks.) You must draw your bending material from a source within your normal bending range, which increases with your level according to the "Range" column of the Waterbender table.  
+At 1st level, you realize that you have an innate ability to control water. You can move small volumes of *liquid* water at will by spending 1 chi of your Attack action to cause the effects of the *Shape Water* cantrip (excluding changing the water's color or opacity). (See "Bending Attack" for a description of the role chi points play in attacks and the rules for bending attacks.) 
+
+The volume and range of water you can control increase with your waterbender level; see the "Volume" and "Range" columns of the Waterbender table. The "Range" column lists two numbers. The first number is your normal range in feet, and the second indicates your long range. You can only draw your bending material from a source within your normal range.
 
 
 <div class="formCard water">
@@ -125,12 +133,10 @@ You are capable of converting water into ice or snow and back, but without fine-
 When using either *Grease* or changing the state of water from liquid to solid or vice versa in combat, you spend 1 chi of your Attack action (see "Bending Attack" for a description of the role chi points play in attacks).  
 
 
-The volume of water you can control and the range within which you can control it (including as a source) increase with your waterbender level. See the "Volume" and "Range" columns of the Waterbender Table. 
-
 ### Bending Attack
 During combat, you can channel your chi to use your bending as a rudimentary attack by hitting other creatures. Every time you take the Attack action, you draw on your inner pool of energy, or *chi*. The class table shows how much chi you have available for each Attack action ("Chi per Attack"). As your bending grows more powerful and your connection to your inner chi grows, this amount increases.
 
-When you take a basic bending attack, you spend 1 point of chi and deal 1d6 bludgeoning damage. This damage increases with your waterbender level and is shown in the "Bending" column of the Waterbender Table. The range of your attacks is the same as your bending range ("Range" column).  
+When you take a basic bending attack, you spend 1 point of chi and deal 1d6 bludgeoning damage. This damage increases with your waterbender level and is shown in the "Bending" column of the Waterbender Table. The range of your attacks is the same as your bending range ("Range" column). When you launch water in an attack beyond your normal bending range but within your long range, you have disadvantage on the attack roll. You can't attack a target beyond your long range. 
 
 At 1st level, you must choose which of your modifiers to use for attacks: Intelligence or Dexterity. This cannot be changed later. Intelligence-based waterbenders are clever and quick thinkers, analyzing their opponents on the fly and using the environment and materials around them in unprecendented ways to gain an edge. Dexterity-based waterbenders are nimble and fast, keeping their opponents off-balance and on their toes.
 
@@ -177,14 +183,14 @@ You learn one form from the list at the end of this class description. The numbe
 
 Every time you take the Attack action on your turn, you have a certain amount of *chi* at your disposal (indicated by the "Chi per Attack" column of the class table). You can distribute your chi among basic bending attacks or regular bending (*cost: 1 chi*) and any forms you know (whose costs are indicated with their descriptions). When you use a form, you add your bending attack bonus to the attack roll but you do not add your bending damage bonus to the resulting damage.
 
-You can use each form a maximum of once per turn.
+You can use each form a maximum of once per turn. You regain all expended chi at the end of your turn.
 
 #### Chi Exhaustion
 Channeling chi into attacks is a physically and mentally draining endeavor.   
 
-You have 4 exhaustion points at your disposal. (Use a d4 to keep track.) The d4 starts with the "4" pointing up. Every turn you use all of your chi, you decrement this counter. When the counter indicates a "1", you need to take a break from bending and cannot spend any chi or take bending reactions that turn. Any bending concentration is also broken. Every turn that you do *not* use all your chi, the counter increments by 1. This counter resets every long rest. 
+You have 3 exhaustion points at your disposal. You can use a d4 to keep track: start the d4 with the "4" pointing up. At the end of each turn in which you use all of your chi, decrement this counter. While the counter is set at 1, you must take a break from bending and cannot spend any chi or take bending reactions. Any bending concentration is also broken. At the end of each turn that you do *not* use all your chi, the counter increments by 1.
 
-For example, say the counter is set at 2. That turn, you spend all your chi points attacking and turn the counter to 1. The next turn, you have 0 chi to spend, and you can either use your Attack action to make a melee, non-bending attack or forfeit it. The next turn, your counter is back up to 2. If you spend all your chi once again, it decreases back to 1 again, but if you spend anything less than the maximum (e.g. all but one chi) the counter once again increases to 3.
+For example, say the counter is set at 2. That turn, you spend all your chi points attacking and turn the counter to 1. The next turn, you have 0 chi to spend, and you can either use your Attack action to make a non-bending attack or forfeit it. The next turn, your counter is back up to 2. If you spend all your chi once again, it decreases back to 1 again, but if you spend anything less than the maximum (e.g. all but one chi) the counter once again increases to 3.
 
 ### Redirection
 At 3rd level, you can use your reaction to attempt to redirect a ranged attack that hits you. This ability applies to
@@ -367,9 +373,9 @@ At 19th level, you are able to bloodbend even on nights without a full moon, exc
 #### Naturalist
 Beginning when you choose this specialization at 5th level, you learn to control the water in plants. You can use the stems of plants instead of water for your waterbending attacks. The stems' physical modifiers are equal to your bending modifier.
 
-Your familiarity with plants makes you adept at traveling and surviving in the regions in which they thrive. Choose one type of favored terrain: forest, grassland, or swamp. When you make an Intelligence or Wisdom check related to your favored terrain, your proficiency bonus is doubled if you are using a skill that you’re proficient in.
+Your familiarity with plants makes you adept at traveling and surviving in the regions in which they thrive. When you make an Intelligence or Wisdom check related to plant terrain, your proficiency bonus is doubled if you are using a skill that you’re proficient in.
 
-While traveling for an hour or more in your favored terrain, you gain the following benefits:
+While traveling for an hour or more in such terrain, you gain the following benefits:
 
 - Difficult terrain doesn't slow your group's travel.
 - Your group can’t become lost except by spirit magic.
@@ -425,7 +431,7 @@ You start out knowing forms marked with an asterisk.
 <div class="formCard water">
     <h4>Ice Shield</h4>
     <p style="font-style: italic;">Cost: 1 chi</p>
-    <p>You shape water into a swirling disk by your arm and freeze it. Your AC increases by 2. If an attack that would have hit you without the shield misses because of it (hitting the shield), it deals damage to the shield instead. The Shield has 15 HP and shatters when it drops to 0.</p>
+    <p>You shape water into a swirling disk by your arm and freeze it. Your AC increases by 2. If an attack that would have hit you without the shield misses because of it (hitting the shield), it deals damage to the shield instead. The Shield has 15 HP and shatters when it drops to 0 and lasts for a maximum of 1 minute.</p>
     <p>Each additional chi point your spend increases the HP of the shield by 10.</p>
 </div>
 
@@ -449,7 +455,7 @@ You start out knowing forms marked with an asterisk.
     <h4>Ice Creeper</h4>
     <p style="font-style: italic;">Cost: 1 chi</p>
     <p>You send a ray of ice across the ground streaking towards a target of your choice within range. The target must succeed on a Dexterity saving throw or have its speed reduced to 0 as its feet are frozen in place.  </p>
-    <p>At the end of each of its turns, a the target must succeed on a DC 13 Strength check to break free.</p>
+    <p>At the end of each of its turns, a the target must succeed on a Strength saving throw to break free.</p>
 </div>
 
 <div class="HBspacing" style="height: 1em;">
@@ -457,11 +463,11 @@ You start out knowing forms marked with an asterisk.
 
 <div class="formCard water">
     <h4>Water Wall</h4>
-    <p style="font-style: italic;">Cost: 1+ chi</p>
+    <p style="font-style: italic;">Cost: 3+ chi</p>
     <!-- Source: Wall of Water spell from Elemental Evil Player's Companion-->
-    <p>You create a wall of water on the ground at a point you can see within range. You can make the wall up to 30 feet long, 10 feet high, and 1 foot thick, or you can make a ringed wall up to 20 feet in diameter, 20 feet high, and 1 foot thick. The wall vanishes when the spell ends. The wall’s space is difficult terrain.</p>
-    <p>When you create the wall, you choose any area(s) of 5 square feet of the wall that are ice instead of water. You spend 1 additional chi point per 5-square-foot area.</p>
-    <p>Any ranged weapon attack that enters the wall’s space has disadvantage on the attack roll, and fire damage is halved if the fire effect passes through the wall to reach its target. Spells that deal cold damage that pass through the wall cause the area of the wall they pass through to freeze solid (at least a 5-foot-square section is frozen). Each 5-foot-square frozen section has AC 5 and 15 hit points. Reducing a frozen section to 0 hit points destroys it. When a section is destroyed, the wall’s water doesn’t fill it.</p>
+    <p>You create a wall of water on the ground at a point you can see within range. You can make the wall up to 30 feet long, 10 feet high, and 1 foot thick, or you can make a ringed wall up to 20 feet in diameter, 20 feet high, and 1 foot thick. The water falls to the ground after 10 minutes. The wall’s space is difficult terrain.</p>
+    <p>You can convert an area of square feet equal to your bending volume (see the "Volume" column of the class table) to ice by spending 1 chi.</p>
+    <p>Any ranged weapon attack that enters the wall’s space has disadvantage on the attack roll, and fire damage is halved if the fire effect passes through the wall to reach its target. Attacks dealing cold damage that pass through the wall cause the area of the wall they pass through to freeze solid (at least a 5-foot-square section is frozen). Each 5-foot-square frozen section has AC 5 and 15 hit points. Reducing a frozen section to 0 hit points destroys it. When a section is destroyed, the wall’s water doesn’t fill it.</p>
 </div>
 
 <div class="formCard water">
@@ -474,7 +480,7 @@ You start out knowing forms marked with an asterisk.
 <div class="formCard water">
     <h4>Jet</h4>
     <p style="font-style: italic;">Cost: 2 chi</p>
-    <p>When you use this form, you send a pressurized jet of water at a creature within range. On a hit, you deal an amount of damage equal to twice your bending die. You also roll a waterbending check (using your waterbending modifier) opposed by the target's Strength (Athletics) or Dexterity (Acrobatics). If the target fails, it is knocked prone.</p>
+    <p>When you use this form, you send a pressurized jet of water at a creature within range. On a hit, you roll your bending die twice for damage and can attempt to knock your target prone. Roll a waterbending check (using your waterbending modifier) opposed by the target's Strength (Athletics) or Dexterity (Acrobatics). If the target fails, it is knocked prone.</p>
     <p>The damage increases by an additional die for each extra chi you spend.</p>
 </div>
 
@@ -591,8 +597,8 @@ Only waterbenders of the Advanced Waterbending specialization have access to the
 <div class="formCard water">
     <h4>Ice Prison </h4>
     <p style="font-style: italic;">Cost: 2 chi</p>
-    <p>You cause water to stream along the ground towards a target and erupt upwards into long pillars of ice around it. The target must make a Dexterity saving throw. On a failure, the target is trapped in an icy cage and is considered Restrained.</p>
-    <p>At the beginning of each of its subsequent turns, it can make a DC 13 Strength check to attempt to escape. On a success, the creature is no longer Restrained.</p>
+    <p>You cause water to stream along the ground towards a target and erupt upwards into long pillars of ice around it. The target must succeed on a Dexterity saving throw or be restrained by this icy cage.</p>
+    <p><!-- While restrained by the ice prison, the target takes 1d6 cold damage at the start of each of its turns. (based on Ensnaring Strike) --> The target or a creature that can touch the target can use its action to make a Strength check against your bending DC. On a success, the target is freed.</p>
     <!-- DC 13 Strength check to break free is based on ice AC -->
 </div>
 
@@ -633,4 +639,7 @@ How is this different from ice creeper and/or ice prison? -->
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 2 | CLASSES</div>
 
+<img src='/assets/elements/water.png' style='position:absolute;top:20%;right:30px;width:280px;opacity:0.6'>
+<div class="HBonly">
 <img src='https://nglaeser.keybase.pub/Other/water.png' style='position:absolute;bottom:70px;right:30px;width:280px;opacity:0.4'>
+</div>

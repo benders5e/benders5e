@@ -7,6 +7,12 @@ nav-hide: true
 
 <!-- Homebrewery Link: https://homebrewery.naturalcrit.com/edit/grt0crs-z_ -->
 
+<div class="class-pdf">
+<a href="/assets/pdf/earth.pdf"><i class="far fa-file-pdf"></i>
+PDF version</a> 
+<br/>(out-of-date)
+</div>
+
 <h1 id="classes" class="new">
     Earthbender
 </h1>
@@ -130,14 +136,16 @@ At 1st level, you realize that you have an innate ability to control earth. You 
 
 When earthbending up to your earth capacity, you spend 1 chi of your Attack action (see "Bending Attack" for a description of the role chi points play in attacks).  
 
-You must draw your bending material from a source of earth within 30 feet. The mass of earth you can control and the range within which you can control it (including as a source) increase with your earthbender level. See the "Capacity" column of the Earthbender Table, which indicates how many times your carrying capacity you can bend (for instance, at 3rd level you gain the ability to bend double your carrying capacity in earth), and the "Range" column for your normal and long bending range. A quick reference for the weight of various earthen materials is given earlier in the class description.
+The mass of earth you can control and the range within which you can control it (including as a source) increase with your earthbender level. The "Capacity" column of the Earthbender Table indicates how many times your carrying capacity you can bend (for instance, at 3rd level you gain the ability to bend double your carrying capacity in earth). The "Range" column of the Earthbender table determines from what distance you can draw your bending material. The first number is your normal range in feet, and the second indicates your long range. You can only draw your bending material from a source within your normal range.
+
+A quick reference for the weight of various earthen materials is given earlier in the class description.
 
 The HP and AC of any structure you form with your bending can be determined by regular D&D 5e object rules. The table below provides a reference for the AC of various types of earth.
 
 ### Bending Attack
 During combat, you can channel your chi to use your bending as a rudimentary attack by hitting other creatures. Every time you take the Attack action, you draw on your inner pool of energy, or *chi*. The class table shows how much chi you have available every time you take the Attack action ("Chi per Attack"). This amount resets every round. As your bending grows more powerful and your connection to your inner chi grows, this number increases.  
 
-When you take a basic bending attack, you spend 1 point of chi and deal 1d6 bludgeoning damage. This damage increases with your earthbender level and is shown in the "Bending" column of the Earthbender Table. The range of your attacks is the same as your bending range ("Range" column).
+When you take a basic bending attack, you spend 1 point of chi and deal 1d6 bludgeoning damage. This damage increases with your earthbender level and is shown in the "Bending" column of the Earthbender Table. The range of your attacks is the same as your bending range ("Range" column). When you launch earth in an attack beyond your normal bending range but within your long range, you have disadvantage on the attack roll. You can't attack a target beyond your long range.
 
 
 At 1st level, you must choose which of your modifiers to use for attacks: Charisma or Strength. This cannot be changed later. Charisma-based earthbenders exert their sheer force of will on matter, while strength-based earthbenders value physical prowess and channel their physical strength through their chi into the environment around them.
@@ -189,14 +197,14 @@ You also learn to shape earth in a more fine-grained manner, including fashionin
 
 Every time you take the Attack action on your turn, you have a certain amount of *chi* at your disposal (indicated by the "Chi per Attack" column of the class table). You can distribute your chi among basic bending attacks or regular bending (*cost: 1 chi*) and any forms you know (whose costs are indicated with their descriptions). When you use a form, you add your bending attack bonus to the attack roll but you do not add your bending damage bonus to the resulting damage.
 
-You can use each form a maximum of once per turn.
+You can use each form a maximum of once per turn. You regain all expended chi at the end of your turn.
 
 #### Chi Exhaustion
 Channeling chi into attacks is a physically and mentally draining endeavor.  
 
-You have 4 exhaustion points at your disposal. (Use a d4 to keep track.) The d4 starts with the "4" pointing up. Every turn you use all of your chi, you decrement this counter. When the counter indicates a "1", you need to take a break from bending and cannot spend any chi or take bending reactions that turn. Any bending concentration is also broken. Every turn that you do *not* use all your chi, the counter increments by 1. This counter resets every long rest.  
+You have 3 exhaustion points at your disposal. You can use a d4 to keep track: start the d4 with the "4" pointing up. At the end of each turn in which you use all of your chi, decrement this counter. While the counter is set at 1, you must take a break from bending and cannot spend any chi or take bending reactions. Any bending concentration is also broken. At the end of each turn that you do *not* use all your chi, the counter increments by 1.
 
-For example, say the counter is set at 2. That turn, you spend all your chi points attacking and turn the counter to 1. The next turn, you have 0 chi to spend, and you can either use your Attack action to make a melee, non-bending attack or forfeit it. The next turn, your counter is back up to 2. If you spend all your chi once again, it decreases back to 1 again, but if you spend anything less than the maximum (e.g. all but one chi) the counter once again increases to 3.
+For example, say the counter is set at 2. That turn, you spend all your chi points attacking and turn the counter to 1. The next turn, you have 0 chi to spend, and you can either use your Attack action to make a non-bending attack or forfeit it. The next turn, your counter is back up to 2. If you spend all your chi once again, it decreases back to 1 again, but if you spend anything less than the maximum (e.g. all but one chi) the counter once again increases to 3.
 
 #### Opposing another bender's form
 You can attempt to reverse the effects caused by another bender of your same element on your turn. This only applies to forms that do not require concentration, e.g. Quicksand. To do this, you use your Action to roll earthbending against the other bender's bending DC; they can choose to fail the save if they wish. On a success, the effect of the form ends.
@@ -239,10 +247,10 @@ You also learn to bend earth-based materials such as mud, coal, gems, crystals, 
 Starting at 9th level, you gain one of the following abilities of your choice:
 
 ##### Improved Earthwall
-You can now choose to use your Earthwall as a reaction to an attack against a friendly creature besides yourself, creating a wall in front of it instead.
+You can now choose to use your Earthwall as a reaction to an attack against a creature besides yourself in your normal bending range, creating a wall in front of it instead.
 
 ##### Imbalance
-You learn to use your control over the earth to throw your opponents off-balance. Instead of raising an earthwall when an enemy attempts to make an attack against you, you can use your reaction to move the earth beneath their feet in an attempt to cause them to miss. 
+You learn to use your control over the earth to throw your opponents off-balance. Instead of raising an earthwall when an enemy attempts to make an attack against you, you can use your reaction to move the earth beneath their feet in an attempt to cause them to miss.  The opponent must be within your normal bending range.
 
 Your opponent must make a DC 15 Dexterity Saving Throw. On a success, they make their attack with disadvantage. On a failure, the attack misses. The opponent must be within your normal bending range.
 
@@ -509,7 +517,10 @@ You shape earth into boots around your feet. The boots give you advantage agains
 
 You use the earth beneath you to launch yourself and/or other creatures in a 10-foot-square in range into the air, traveling up to 20 feet vertically and 50 feet horizontally. (The maximum number of creatures you can launch is equal to half your earthbending level.)   
 
-This jump lasts the duration of your turn; you end the turn back on the ground.  
+Unwilling targets must make a Dexterity saving throw; on a success, a target moves to the nearest space outside the launched area and avoids being thrown.
+
+This jump lasts the duration of your turn. Launched creatures end their turn back on the ground.  
+<!-- maybe this should be until the start of your next turn, that way unwillingly launched creatures can attempt to slow their fall. -->
 
 You gain 10 additional feet of height and 20 feet of horizontal distance per additional chi expended.
 </div>
@@ -518,9 +529,11 @@ You gain 10 additional feet of height and 20 feet of horizontal distance per add
 <h4>Earth Smash</h4>
 <p style="font-style: italic;">Cost: 2 chi</p>
 
-When you take this form, gain the ability to use your reaction to defuse ranged attacks, neutralizing the incoming projectiles by either countering them with earth projectiles of your own or, in the case of a ranged earth attack, smashing them with your own bending. When you use this reaction, you spend 2 chi of your next Attack action. 
+When you take this form, gain the ability to use your reaction to defuse ranged attacks against you, neutralizing the incoming projectiles by either countering them with earth projectiles of your own or, in the case of a ranged earth attack, smashing them with your own bending. When you use this reaction, you spend 2 chi of your next Attack action. 
 
 For projectiles of another element, the damage of each projectile is reduced by 1d6 + your earthbending modifier + your earthbender level. For earth projectiles, the damage is reduced by 1d12 + your earthbending modifier + your earthbender level.  
+
+Once you reach 9th level, you can use this form to neutralize ranged attacks against creatures besides yourself within your normal bending range.
 </div>
 
 <div class="formCard earth">
@@ -550,7 +563,7 @@ With each additional chi spent, the diameter of the area increases by 5 feet and
 <h4>Earth Projectiles</h4>
 <p style="font-style: italic;">Cost: 2 chi</p>
 
-You create and launch 3 fist-sized rocks at any combination of targets within your long range (the second number in the "Range" column). These attacks are made without disadvantage. Each rock deals 1d4 bludgeoning damage.   
+You create and launch 4 fist-sized rocks at any combination of targets within your long range (the second number in the "Range" column). These attacks are made without disadvantage. Each rock deals 1d4 bludgeoning damage.   
 
 You gain an additional rock for each extra chi you spend.
 
@@ -639,4 +652,7 @@ You can cause a quake. Magnitude depends on level or chi spent.-->
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 2 | CLASSES</div>
 
+<img src='/assets/elements/earth.png' style='position:absolute;top:20%;right:30px;width:280px;opacity:0.6'>
+<div class="HBonly">
 <img src='https://nglaeser.keybase.pub/Other/earth.png' style='position:absolute;bottom:70px;right:30px;width:280px;opacity:0.4'>
+</div>
