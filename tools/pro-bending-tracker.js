@@ -180,7 +180,8 @@ function addChar() {
     appendRowPos++;
 }
 function resetChar(myRow) {
-    myRow.hpField.value = myRow.hp3.textContent;
+    myRow.currHP = myRow.hp3.textContent;
+    myRow.hpField.value = myRow.currHP;
     myRow.zoneField.value = 1;
     myRow.zone.textContent = "";
     myRow.zone.appendChild(myRow.zoneField);
