@@ -2,7 +2,7 @@
 
 A homebrew _Avatar: The Last Airbender_-inspired D&D 5e campaign setting. 
 
-Visit [the old repo's wiki](https://github.com/nglaeser/benders/wiki) (private repo) for a comparison of this setting to other ATLA-inspired settings and other notes. This repo's wiki has the [changelog](https://github.com/benders5e/benders5e/wiki/changelog) and a [class progression table](https://github.com/benders5e/benders5e/wiki/class-progression-table) that gives an overview of the abilities gained by each bending class for each level.
+Visit [the old repo's wiki](https://github.com/nglaeser/benders/wiki) (private repo) for a comparison of this setting to other ATLA-inspired settings and other notes. This repo's wiki has the [changelog](https://github.com/benders5e/benders5e/wiki/rules-changelog) and a [class progression table](https://github.com/benders5e/benders5e/wiki/class-progression-table) that gives an overview of the abilities gained by each bending class for each level.
 
 [Visit the site!](https://benders5e.com)
 
