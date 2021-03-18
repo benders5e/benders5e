@@ -173,7 +173,7 @@ You learn one form from the list at the end of this class description. The numbe
 
 Every time you take the Attack action on your turn, you have a certain amount of *chi* at your disposal (indicated by the "Chi per Attack" column of the class table). You can distribute your chi among basic bending attacks or regular bending (*cost: 1 chi*) and any forms you know (whose costs are indicated with their descriptions). When you use a form, you add your bending attack bonus to the attack roll but you do not add your bending damage bonus to the resulting damage.
 
-You can use each form a maximum of once per turn.
+You can use each form a maximum of once per turn. You regain all expended chi at the end of your turn.
 
 ### Be the Leaf
 At 3rd level, you become tuned in to the air around you. You learn to move like a leaf in the wind, allowing you to evade attacks more easily. You can choose to impose disadvantage on an attack against you as a reaction after the attack roll is made, but before the outcome is determined. You can use this ability a number of times equal to your bending modifier per long rest.
@@ -181,9 +181,9 @@ At 3rd level, you become tuned in to the air around you. You learn to move like 
 #### Chi Exhaustion
 Channeling chi into attacks is a physically and mentally draining endeavor.   
 
-You have 3 exhaustion points at your disposal. You can use a d4 to keep track: start the d4 with the "4" pointing up. Every turn you use all of your chi, you decrement this counter. When the counter reaches 1, you need to take a break from bending and cannot spend any chi or take bending reactions that turn. Any bending concentration is also broken. Every turn that you do *not* use all your chi, the counter increments by 1.
+You have 3 exhaustion points at your disposal. You can use a d4 to keep track: start the d4 with the "4" pointing up. At the end of each turn in which you use all of your chi, decrement this counter. While the counter is set at 1, you must take a break from bending and cannot spend any chi or take bending reactions. Any bending concentration is also broken. At the end of each turn that you do *not* use all your chi, the counter increments by 1.
 
-For example, say the counter is set at 2. That turn, you spend all your chi points attacking and turn the counter to 1. The next turn, you have 0 chi to spend, and you can either use your Attack action to make a melee, non-bending attack or forfeit it. The next turn, your counter is back up to 2. If you spend all your chi once again, it decreases back to 1 again, but if you spend anything less than the maximum (e.g. all but one chi) the counter once again increases to 3.
+For example, say the counter is set at 2. That turn, you spend all your chi points attacking and turn the counter to 1. The next turn, you have 0 chi to spend, and you can either use your Attack action to make a non-bending attack or forfeit it. The next turn, your counter is back up to 2. If you spend all your chi once again, it decreases back to 1 again, but if you spend anything less than the maximum (e.g. all but one chi) the counter once again increases to 3.
 
 ### Ability Score Improvement
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
