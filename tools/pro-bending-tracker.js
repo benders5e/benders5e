@@ -33,17 +33,7 @@ function updateHP(event, inputField, myRow) {
 
         /*** check for zone change ***/
         if(dmg > 0) {
-            // resolve damage distance first
-            // console.log(`damage = ${dmg}`);
-            let newDist = Number(myRow.dist.textContent) - dmg;
-            let oldZone = Number(myRow.zone.textContent)
-            let newZone = oldZone;
-            while(newDist <= 0) {
-                newZone = newZone+1;
-                newDist = Math.min(newDist + 30, 29); // can't be at exactly 30 because then you'd be on the line
-            }
-
-            // now HP checkpoints
+            // check if cross an HP checkpoint first
             // |hp3|=====3=====|hp2|=====2=====|hp1|=====1=====|0|=====KO=====
             let oldCheckpt = 0;
             if(oldHP > Number(myRow.hp2.textContent)) {
@@ -61,35 +51,52 @@ function updateHP(event, inputField, myRow) {
             } else if(myRow.currHP > 0) {
                 newCheckpt = 1;
             }
-
             let numHPBoundaryCrossings = oldCheckpt-newCheckpt;
-            newZone = newZone + numHPBoundaryCrossings;
 
-            // console.log(`old HP zone: ${oldCheckpt}\tnew HP zone: ${newCheckpt}`);
+            // if no crossing, use damage distance
+            let oldDist = Number(myRow.distField.value);
+            let newDist = oldDist;
+            if(numHPBoundaryCrossings == 0) {
+                newDist = oldDist - dmg;
+            }
+            let numDmgCrossings = 0;
+            while(newDist <= 0) {
+                numDmgCrossings = numDmgCrossings+1;
+                newDist = Math.min(newDist + 30, 29); // can't be at exactly 30 because then you'd be on the line
+            }
+
+            let oldZone = Number(myRow.zoneField.value)
+            let newZone = oldZone + numHPBoundaryCrossings + numDmgCrossings;
 
             // announce result
             if(newZone > 3 || newCheckpt == 0) { // knockout
-                console.log("KNOCKOUT!!!");
                 resultText.textContent = "KNOCKOUT!!!";
-                // myRow.currHP = 0;
-                // myRow.hpField.value = 0;
-                myRow.dist.textContent = "--";
+                setTimeout(function() {
+                    resultText.textContent = "";
+                }, 3000); // time in ms
                 myRow.zone.textContent = "KO";
-            } else if(newZone > oldZone) {
-                console.log(`BWEHHH! ${myRow.name.textContent} is knocked back ${newZone-oldZone} zone(s).`);
+                myRow.dist.textContent = "--";
+            } else if(numHPBoundaryCrossings > 0) {
                 resultText.textContent = `BWEHHH! ${myRow.name.textContent} is knocked back ${newZone-oldZone} zone(s).`;
-                myRow.zone.textContent = newZone;
-                myRow.dist.textContent = newDist; // for pure damage knockback
-                if(numHPBoundaryCrossings > 0)
-                    myRow.dist.textContent = 29; // HP boundary crossing happens after damage knockback
-            // } else if(newZone > oldZone) { // if cross a zone by pure damage
-            //     console.log(`BWEHHH! You are knocked back ${newZone - oldZone} zone(s).`);
-            //     myRow.zone.textContent = newZone;
-            //     myRow.dist.textContent = newDist;
+                setTimeout(function() {
+                    resultText.textContent = "";
+                }, 3000);
+                newDist = 29;
+                myRow.zoneField.value = newZone;
+                myRow.distField.value = newDist;
+            } else if(numDmgCrossings > 0) {
+                resultText.textContent = `BWEHHH! ${myRow.name.textContent} is knocked back ${Math.abs(dmg)} feet into zone ${newZone}.`;
+                setTimeout(function() {
+                    resultText.textContent = "";
+                }, 3000);
+                myRow.zoneField.value = newZone;
+                myRow.distField.value = newDist;
             } else { // only move within zone
-                console.log(`${myRow.name.textContent} is knocked back ${Math.abs(dmg)} feet.`);
                 resultText.textContent = `${myRow.name.textContent} is knocked back ${Math.abs(dmg)} feet.`;
-                myRow.dist.textContent = newDist;
+                setTimeout(function() {
+                    resultText.textContent = "";
+                }, 3000);
+                myRow.distField.value = newDist;
             }
         }
         // update row in rows array
@@ -111,13 +118,18 @@ function addChar() {
 
     /*** populate fields ***/
     nameCell.textContent = nameInput.value;
+    let resetBtn = document.createElement("input");
+    resetBtn.type = "submit";
+    resetBtn.value = "reset";
+    resetBtn.className = "reset-btn";
+    nameCell.appendChild(resetBtn);
 
     let newAC = document.createElement("input");
     newAC.type = "number";
     newAC.value = acInput.value;
     ACcell.appendChild(newAC);
 
-    var hp = hpInput.value;
+    let hp = hpInput.value;
     let newHP = document.createElement("input");
     newHP.type = "number";
     newHP.value = hp;
@@ -129,8 +141,17 @@ function addChar() {
     hp1.textContent = Math.floor(hp/3);
 
     // position
-    zone.textContent = "1";
-    dist.textContent = "25";
+    // zone.textContent = "1";
+    let zoneInput = document.createElement("input");
+    zoneInput.type = "number";
+    zoneInput.value = 1;
+    zone.appendChild(zoneInput);
+
+    // dist.textContent = "25";
+    let distInput = document.createElement("input");
+    distInput.type = "number";
+    distInput.value = 25;
+    dist.appendChild(distInput);
 
     /*** add row elements to array ***/
     myId = appendRowPos-2;
@@ -140,13 +161,15 @@ function addChar() {
         ac: newAC,
         currHP: hp, hpField: newHP,
         hp3: hpFull, hp2: hp2, hp1: hp1,
-        zone: zone, dist: dist
+        zone: zone, zoneField: zoneInput, 
+        dist: dist, distField: distInput,
+        reset: resetBtn
     });
-    // event listeners
-    // newHP.addEventListener('input', function(){ updateHP(newHP, rows[myId].currHP, myId); });
-    newHP.addEventListener('keyup', function(e){ updateHP(e, newHP, rows[myId]); });
-
-    // TODO try adding two rows and then changing HP of the older row
+    // add event listener for each row's HP field
+    for(let i = 0; i < rows.length; i++) {
+        rows[i].hpField.addEventListener('keyup', function(e) { updateHP(e, rows[i].hpField, rows[i]);});
+        rows[i].reset.addEventListener('click', function() { resetChar(rows[i]); });
+    }
 
     /*** clear input fields ***/
     nameInput.value = "";
@@ -155,6 +178,15 @@ function addChar() {
 
     // update position for next append
     appendRowPos++;
+}
+function resetChar(myRow) {
+    myRow.hpField.value = myRow.hp3.textContent;
+    myRow.zoneField.value = 1;
+    myRow.zone.textContent = "";
+    myRow.zone.appendChild(myRow.zoneField);
+    myRow.distField.value = 25;
+    myRow.dist.textContent = "";
+    myRow.dist.appendChild(myRow.distField);
 }
 
 addBtn.addEventListener('click', addChar);
