@@ -247,7 +247,7 @@ You also learn to bend earth-based materials such as mud, coal, gems, crystals, 
 Starting at 9th level, you gain one of the following abilities of your choice:
 
 ##### Improved Earthwall
-You can now choose to use your Earthwall as a reaction to an attack against a creatures besides yourself in your normal bending range, creating a wall in front of it instead.
+You can now choose to use your Earthwall as a reaction to an attack against a creature besides yourself in your normal bending range, creating a wall in front of it instead.
 
 ##### Imbalance
 You learn to use your control over the earth to throw your opponents off-balance. Instead of raising an earthwall when an enemy attempts to make an attack against you, you can use your reaction to move the earth beneath their feet in an attempt to cause them to miss.  The opponent must be within your normal bending range.
@@ -517,7 +517,10 @@ You shape earth into boots around your feet. The boots give you advantage agains
 
 You use the earth beneath you to launch yourself and/or other creatures in a 10-foot-square in range into the air, traveling up to 20 feet vertically and 50 feet horizontally. (The maximum number of creatures you can launch is equal to half your earthbending level.)   
 
-This jump lasts the duration of your turn; you end the turn back on the ground.  
+Unwilling targets must make a Dexterity saving throw; on a success, a target moves to the nearest space outside the launched area and avoids being thrown.
+
+This jump lasts the duration of your turn. Launched creatures end their turn back on the ground.  
+<!-- maybe this should be until the start of your next turn, that way unwillingly launched creatures can attempt to slow their fall. -->
 
 You gain 10 additional feet of height and 20 feet of horizontal distance per additional chi expended.
 </div>
