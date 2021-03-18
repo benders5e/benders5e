@@ -247,10 +247,10 @@ You also learn to bend earth-based materials such as mud, coal, gems, crystals, 
 Starting at 9th level, you gain one of the following abilities of your choice:
 
 ##### Improved Earthwall
-You can now choose to use your Earthwall as a reaction to an attack against a friendly creature besides yourself, creating a wall in front of it instead.
+You can now choose to use your Earthwall as a reaction to an attack against a creatures besides yourself in your normal bending range, creating a wall in front of it instead.
 
 ##### Imbalance
-You learn to use your control over the earth to throw your opponents off-balance. Instead of raising an earthwall when an enemy attempts to make an attack against you, you can use your reaction to move the earth beneath their feet in an attempt to cause them to miss. 
+You learn to use your control over the earth to throw your opponents off-balance. Instead of raising an earthwall when an enemy attempts to make an attack against you, you can use your reaction to move the earth beneath their feet in an attempt to cause them to miss.  The opponent must be within your normal bending range.
 
 Your opponent must make a DC 15 Dexterity Saving Throw. On a success, they make their attack with disadvantage. On a failure, the attack misses. The opponent must be within your normal bending range.
 
@@ -526,9 +526,11 @@ You gain 10 additional feet of height and 20 feet of horizontal distance per add
 <h4>Earth Smash</h4>
 <p style="font-style: italic;">Cost: 2 chi</p>
 
-When you take this form, gain the ability to use your reaction to defuse ranged attacks, neutralizing the incoming projectiles by either countering them with earth projectiles of your own or, in the case of a ranged earth attack, smashing them with your own bending. When you use this reaction, you spend 2 chi of your next Attack action. 
+When you take this form, gain the ability to use your reaction to defuse ranged attacks against you, neutralizing the incoming projectiles by either countering them with earth projectiles of your own or, in the case of a ranged earth attack, smashing them with your own bending. When you use this reaction, you spend 2 chi of your next Attack action. 
 
 For projectiles of another element, the damage of each projectile is reduced by 1d6 + your earthbending modifier + your earthbender level. For earth projectiles, the damage is reduced by 1d12 + your earthbending modifier + your earthbender level.  
+
+Once you reach 9th level, you can use this form to neutralize ranged attacks against creatures besides yourself within your normal bending range.
 </div>
 
 <div class="formCard earth">
