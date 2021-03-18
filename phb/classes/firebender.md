@@ -359,7 +359,7 @@ You can also focus your energy within your body, allowing it to build up before 
 
 #### Devastating Strike
 <!-- could rename to Deadly Strike, but Airbending (Offense) has this name already -->
-At 17th level, your precision and power allow you to deal double damage when you make a combustion attack. You can use this ability twice per long rest. 
+At 17th level, your precision and power allow you to deal devastating combustion attacks. On your turn, you can deal double damage on all combustion attacks or forms you make that turn. You can use this ability twice per long rest, but only once on the same turn. 
 
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 2 | CLASSES</div>
