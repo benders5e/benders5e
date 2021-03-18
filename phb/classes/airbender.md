@@ -323,9 +323,11 @@ If you reduce the damage to 0, you can completely defuse the attack, provided yo
 
 <div class="formCard air">
 <h4>Nimble action</h4>
-<p style="font-style: italic;">Cost: 1 chi</p>
+<p style="font-style: italic;">Cost: 1-2 chi</p>
 
-You spend 1 chi to take the Dodge, Disengage, or Dash action as a bonus action on this turn.
+You spend 1 chi to take the Dash or Disengage action as a bonus action on your turn.
+
+You can choose to spend 1 additional chi (for a total of 2 chi) to take the Dodge action as a bonus action instead.
 </div>
 
 <!--#### Shunt (rename this)
@@ -334,7 +336,7 @@ This turn, you can use your Be The Leaf reaction to shunt another creature out o
 
 <div class="formCard air">
 <h4>Air scooter</h4>
-<p style="font-style: italic;">Cost: 1 chi (2 chi)</p>
+<p style="font-style: italic;">Cost: 1-2 chi</p>
 
 You form a ball our of air which you can ride up walls and vertical surfaces, but you must end your turn on a flat surface. You can immediately move 80 feet when you activate the air scooter, and you gain a ground speed of 80 feet. The scooter is treated as a mount and disappears at the end of your next turn.
 
