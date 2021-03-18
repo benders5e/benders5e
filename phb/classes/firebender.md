@@ -345,10 +345,12 @@ Combustionbenders possess the rare ability to firebend with their minds. Instead
 </div>
 
 #### Mind's Eye
-Beginning when you choose this specialization at 5th level, you learn to firebend without moving your limbs, channeling your bending through your forehead instead. Because your bending requires no movement, you have advantage on attacks against targets you have not yet attacked in the current combat, and these targets have make saving throws against your bending at disadvantage. You also gain advantage on initiative.
+Beginning when you choose this specialization at 5th level, you learn to firebend without moving your limbs, channeling your bending through your forehead instead. Because your bending requires no movement, you have advantage on initiative rolls. Additionally, you roll with advantage when attacking creatures that haven't taken a turn in combat yet. At level 7, such creatures also have disadvantage on saving throws against your combustion attacks.
 
 #### Combustion
 When you reach 7th level, you can cause explosions with your basic bending attack. Instead of making a firebending attack, you can choose to make a combustion attack. Pick a point within range on which to center the explosion. Targets in a 5-foot radius must make a Dexterity saving throw against your bending DC. On a failure, they take your bending damage in thunder damage, and on a success they take half damage. Objects and structures take double damage.
+
+Additionally, your first attacks now pack an extra punch. When you hit a creature that hasn't taken a turn in combat yet with a basic attack or a form, or when such a creature fails a saving throw against your combustion attack or a form, you add your proficiency bonus to the damage. <!-- ALTERNATE (weaker) version: max damage on first combustion hit -->
 
 #### Uncanny Focus
 At 11th level, you learn to channel your chi with great precision and focus, allowing you to use your bending over incredible distances. By spending 1 chi, you can use your long bending range instead of the normal range for any form or attack without incurring disadvantage. 
