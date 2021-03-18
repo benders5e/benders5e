@@ -373,9 +373,9 @@ At 19th level, you are able to bloodbend even on nights without a full moon, exc
 #### Naturalist
 Beginning when you choose this specialization at 5th level, you learn to control the water in plants. You can use the stems of plants instead of water for your waterbending attacks. The stems' physical modifiers are equal to your bending modifier.
 
-Your familiarity with plants makes you adept at traveling and surviving in the regions in which they thrive. Choose one type of favored terrain: forest, grassland, or swamp. When you make an Intelligence or Wisdom check related to your favored terrain, your proficiency bonus is doubled if you are using a skill that you’re proficient in.
+Your familiarity with plants makes you adept at traveling and surviving in the regions in which they thrive. When you make an Intelligence or Wisdom check related to plant terrain, your proficiency bonus is doubled if you are using a skill that you’re proficient in.
 
-While traveling for an hour or more in your favored terrain, you gain the following benefits:
+While traveling for an hour or more in such terrain, you gain the following benefits:
 
 - Difficult terrain doesn't slow your group's travel.
 - Your group can’t become lost except by spirit magic.
@@ -431,7 +431,7 @@ You start out knowing forms marked with an asterisk.
 <div class="formCard water">
     <h4>Ice Shield</h4>
     <p style="font-style: italic;">Cost: 1 chi</p>
-    <p>You shape water into a swirling disk by your arm and freeze it. Your AC increases by 2. If an attack that would have hit you without the shield misses because of it (hitting the shield), it deals damage to the shield instead. The Shield has 15 HP and shatters when it drops to 0.</p>
+    <p>You shape water into a swirling disk by your arm and freeze it. Your AC increases by 2. If an attack that would have hit you without the shield misses because of it (hitting the shield), it deals damage to the shield instead. The Shield has 15 HP and shatters when it drops to 0 and lasts for a maximum of 1 minute.</p>
     <p>Each additional chi point your spend increases the HP of the shield by 10.</p>
 </div>
 
@@ -480,7 +480,7 @@ You start out knowing forms marked with an asterisk.
 <div class="formCard water">
     <h4>Jet</h4>
     <p style="font-style: italic;">Cost: 2 chi</p>
-    <p>When you use this form, you send a pressurized jet of water at a creature within range. On a hit, you deal an amount of damage equal to twice your bending die. You also roll a waterbending check (using your waterbending modifier) opposed by the target's Strength (Athletics) or Dexterity (Acrobatics). If the target fails, it is knocked prone.</p>
+    <p>When you use this form, you send a pressurized jet of water at a creature within range. On a hit, you roll your bending die twice for damage and can attempt to knock your target prone. Roll a waterbending check (using your waterbending modifier) opposed by the target's Strength (Athletics) or Dexterity (Acrobatics). If the target fails, it is knocked prone.</p>
     <p>The damage increases by an additional die for each extra chi you spend.</p>
 </div>
 
@@ -597,8 +597,8 @@ Only waterbenders of the Advanced Waterbending specialization have access to the
 <div class="formCard water">
     <h4>Ice Prison </h4>
     <p style="font-style: italic;">Cost: 2 chi</p>
-    <p>You cause water to stream along the ground towards a target and erupt upwards into long pillars of ice around it. The target must make a Dexterity saving throw. On a failure, the target is trapped in an icy cage and is considered Restrained.</p>
-    <p>At the beginning of each of its subsequent turns, it can make a Strength saving throw to attempt to escape. On a success, the creature is no longer Restrained.</p>
+    <p>You cause water to stream along the ground towards a target and erupt upwards into long pillars of ice around it. The target must succeed on a Dexterity saving throw or be restrained by this icy cage.</p>
+    <p><!-- While restrained by the ice prison, the target takes 1d6 cold damage at the start of each of its turns. (based on Ensnaring Strike) --> The target or a creature that can touch the target can use its action to make a Strength check against your bending DC. On a success, the target is freed.</p>
     <!-- DC 13 Strength check to break free is based on ice AC -->
 </div>
 
