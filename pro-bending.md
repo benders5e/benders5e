@@ -13,7 +13,9 @@ The rules of pro bending are pretty simple: take control over the area in a spec
 
 ## Rules
 
-The ring is divided into two halves, each of which is further divided into three zones. A central circle is used only for tie-breakers. Each zone is 30 feet wide. Teams begin the match facing each other in the two zones closest to the center (starting positions are marked with red X's; the teams each choose the order of their members). The goal is to knock the other team back and off the platform. ([Link to map with 5-foot grid](assets/Bending_Arena_grid.jpg).)
+The ring is divided into two halves, each of which is further divided into three zones. A central circle is used only for tie-breakers. Each zone is 30 feet wide. The sides of the ring are usually blocked with ropes, leaving only the back of each side (the left and right extremes in the picture above) open.
+
+Teams begin the match facing each other in the two zones closest to the center (starting positions are marked with red X's; the teams each choose the order of their members). The goal is to knock the other team back and off the platform. ([Link to map with 5-foot grid](assets/Bending_Arena_grid.jpg).)
 
 The ring is lined with trenches of water between the zones and around the ring, which provide enough material for waterbenders. Additionally, it is dotted with earthen disks (in yellow) for the earthbenders.
 
@@ -28,9 +30,9 @@ Each set (referred to as a "round") of the game consists of 3 rounds of combat. 
 ### Actions
 - **Attack:**
     - On a hit, the target takes damage and is knocked back a number of feet equal to the damage.
-    - Additionally, when you are reduced to 2/3 of your total HP you are moved back one zone, and again when you are reduced to 1/3. This movement is on top of the movement from damage.
+    - Additionally, when you are reduced to 2/3 of your total HP you are moved back one zone, and again when you are reduced to 1/3. This movement does _not_ stack with movement from damage. (For example, when a player with 60 HP takes 40 damage, the player is knocked back two zones only instead of two zones + 40 feet = 3 zones.)
     - When everyone on one team is knocked out of a zone, each player on the other team advances one zone.
-    - If a player is knocked to 0 HP, they are knocked back 3 zones (knocking them off the map unless ground was taken).
+    - If a player is knocked to 0 HP, they are knocked back 3 zones. If they remain remain in the ring, they are considered out of the fight until they are healed.
     - Regaining an area does not restore the corresponding HP.
     - [Here's a tool](./tools/pro-bending) to keep track of when players get knocked back.
 - **Move:**
@@ -49,6 +51,8 @@ Each set (referred to as a "round") of the game consists of 3 rounds of combat. 
 > - Headshots
 > - Mixing water and rocks
 > - Grappling
+> - Stepping outside your zone
+> - Knocking an opponent off the side of the ring (instead of the back)
 > 
 > Extreme conduct may lead to a yellow fan as a warning, or even a red fan and expulsion.
 
@@ -74,9 +78,13 @@ In case of a tie, the round is resolved by a 1-on-1 fight. In addition to the ac
     - If your team lands three attacks in one round, you gain advantage on your roll to impress the crowd.
 
 ## Bending X Leagues
-Leagues with more lax rules exist. In these far more dangerous matches, any manifestation of the elements is allowed, including ice, lightning, magma, plants, and more.
+Leagues with more lax rules exist. In these far more dangerous matches, any manifestation of the elements is allowed, including ice, lightning, magma, plants, and more. Raw materials the benders cannot create themselves, such as plants and metal, are provided.
 
-Furthermore, none of the fouls in regular Pro Bending are against the rules in Bending X.
+Furthermore, the list of fouls in Bending X is significantly shorter:
+
+> #### Bending X Fouls
+> - Stepping outside your zone
+> - Knocking an opponent off the side of the ring (instead of the back)
 
 <br/>
 
