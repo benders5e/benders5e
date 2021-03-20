@@ -1036,7 +1036,7 @@ Urchins are shaped by lives of desperate poverty, for good and for ill. They ten
 <h3 class="new">Arctic Dweller</h3>
 
 **Skill Proficiencies:** Survival, plus your choice of Animal Handling or Athletics  
-**Tool Proficiencies:** Vehicles (water) or vehicles (land), one artisan's tool or musical instrument of your choice
+**Tool Proficiencies:** Vehicles (water) or vehicles (land), one artisan's tool or musical instrument of your choice  
 **Equipment:** a set of warm clothes, a token or keepsake to remind you of home, dried jerky to last for 5 days, and a pouch containing 10 gp 
 
 #### Feature: Snow and Ice Acclimation
@@ -1053,12 +1053,10 @@ Your bond might be associated with other members of your tribe, or a location or
 You hail from the swamps in the earth nation.  
 
 <div class="HBonly" style="height:0em;"></div>
+
 **Skill Proficiencies:** Nature, Survival  
 **Tool Proficiencies:** One type of artisan's tools or musical instrument, herbalism kit  
 **Equipment:** A staff, a hunting trap, and a leaf loincloth and hat
-
-<div class="HBonly" style="height:0em;"></div>
-**Other Proficiencies:** Swim speed 30 feet  
 
 #### Feature: Not Clever, but Wise
 You use Wisdom as your waterbending ability. 
@@ -1107,9 +1105,7 @@ The following earthbending forms are available to you in addition to the forms l
 </div>
 
 #### Suggested Characteristics
-Use the tables for the outlander background in the Player's Handbook as the basis for your traits and motivations, modifying the entries when appropriate to suit your identity as a desert-dweller. 
-
-Your bond is likely associated with other members of your clan, or a location or an object that is important to your people.
+Use the tables for the outlander background in the Player's Handbook as the basis for your traits and motivations, modifying the entries when appropriate to suit your identity as a desert-dweller. Your bond is likely associated with other members of your clan, or a location or an object that is important to your people.
 
 <!--h2 id="fire">Fire</h2-->
 
@@ -1133,9 +1129,7 @@ Air nation children are raised in air temples from a young age, developing paren
 Air Acolytes don't need to sleep. Instead, they meditate deeply, remaining semiconscious, for 4 hours a day. While meditating, you can dream after a fashion; such dreams are actually mental exercises that have become reflexive through years of practice. After resting in this way, you gain the same benefit that others do from 8 hours of sleep.
 
 #### Suggested Characteristics
-Use the tables for the hermit background in the Player's Handbook as the basis for your traits and motivations, modifying the entries when appropriate.
-
-When choosing your ideal, keep in mind that the Air Acolytes are a peaceful people who eschew violence of all sorts and thus tend to a neutral or good alignment.
+Use the tables for the hermit background in the Player's Handbook as the basis for your traits and motivations, modifying the entries when appropriate. When choosing your ideal, keep in mind that the Air Acolytes are a peaceful people who eschew violence of all sorts and thus tend to a neutral or good alignment.
 
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 4 | BACKGROUNDS</div>
