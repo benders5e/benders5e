@@ -1,5 +1,5 @@
 ---
-layout: pagenav
+layout: scrollspy
 title: Fighter
 permalink: /phb/classes/fighter/
 nav-hide: true

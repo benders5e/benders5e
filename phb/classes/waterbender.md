@@ -1,5 +1,5 @@
 ---
-layout: pagenav
+layout: scrollspy
 title: Waterbender
 permalink: /phb/classes/waterbender/
 nav-hide: true

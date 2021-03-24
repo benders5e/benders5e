@@ -1,5 +1,5 @@
 ---
-layout: pagenav
+layout: scrollspy
 title: Equipment
 permalink: /phb/equipment/
 nav-hide: true

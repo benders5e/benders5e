@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {%- include head.html -%}
+
+  <body>
+
+    {%- include header.html -%}
+
+    <main id="main-scrollspy" class="page-content" aria-label="Content">
+      <div class="nav-area left">
+        <nav class="pagenav left navbar navbar-light">
+          <a class="navbar-brand" href="#">Player's Handbook</a>
+          <nav id="nav-sections" class="nav nav-pills flex-column">
+          </nav>
+        </nav>
+      </div>
+      <div class="wrapper">
+        <div class="scrollspy-content">  <!-- data-bs-spy="scroll" data-bs-target="#navbar-right" tabindex="0"-->
+        {{ content }}
+        </div>
+      </div>
+      <div class="nav-area right">
+        <nav id="navbar-right" class="pagenav right navbar navbar-light">
+          <nav id="nav-subsections" class="nav nav-pills">
+          </nav>
+        </nav>
+      </div>
+    </main>
+
+    {%- include footer.html -%}
+
+  </body>
+
+</html>
+
+<script>
+  {%- include scrollspy.js -%}
+</script>

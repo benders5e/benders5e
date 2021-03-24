@@ -1,6 +1,6 @@
 ---
 parent: Rules
-layout: pagenav
+layout: scrollspy
 title: Player's Handbook
 permalink: /phb/general
 ---

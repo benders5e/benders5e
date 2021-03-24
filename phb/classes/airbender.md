@@ -1,5 +1,5 @@
 ---
-layout: pagenav
+layout: scrollspy
 title: Airbender
 permalink: /phb/classes/airbender/
 nav-hide: true

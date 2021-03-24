@@ -1,5 +1,5 @@
 ---
-layout: pagenav
+layout: scrollspy
 title: Rogue
 permalink: /phb/classes/rogue/
 nav-hide: true

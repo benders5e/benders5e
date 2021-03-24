@@ -1,5 +1,5 @@
 ---
-layout: pagenav
+layout: scrollspy
 title: Barbarian
 permalink: /phb/classes/barbarian/
 nav-hide: true

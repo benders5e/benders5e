@@ -1,5 +1,5 @@
 ---
-layout: pagenav
+layout: scrollspy
 title: Firebender
 permalink: /phb/classes/firebender/
 nav-hide: true

@@ -1,5 +1,5 @@
 ---
-layout: pagenav
+layout: scrollspy 
 title: Classes
 permalink: /phb/classes/
 nav-hide: true

@@ -1,5 +1,5 @@
 ---
-layout: pagenav
+layout: scrollspy
 title: Earthbender
 permalink: /phb/classes/earthbender/
 nav-hide: true

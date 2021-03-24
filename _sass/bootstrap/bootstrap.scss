@@ -25,8 +25,8 @@
 // @import "transitions";
 @import "dropdown";
 // @import "button-group";
-// @import "nav";
-// @import "navbar";
+@import "nav";
+@import "navbar";
 // @import "card";
 // @import "accordion";
 // @import "breadcrumb";
@@ -47,5 +47,5 @@
 // @import "helpers";
 
 // Utilities
-// @import "utilities/api";
+@import "utilities/api";
 // scss-docs-end import-stack

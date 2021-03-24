@@ -1,5 +1,5 @@
 ---
-layout: pagenav
+layout: scrollspy
 title: Backgrounds
 permalink: /phb/backgrounds
 nav-hide: true

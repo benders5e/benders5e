@@ -1,5 +1,5 @@
 ---
-layout: pagenav
+layout: scrollspy
 title: Appendix
 permalink: /phb/appendix
 nav-hide: true
