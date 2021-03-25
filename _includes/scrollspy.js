@@ -9,10 +9,6 @@ const navSectionTitlesPHB = [
     "Appendix"
 ]
 
-// var scrollSpy = new bootstrap.ScrollSpy(document.body, {
-//     target: '#navbar'
-//   });
-
 const classes = [
     {textContent: "Airbender", id: "airbender", class: "new"},
     {textContent: "Barbarian", id: "barbarian", class: ""},
@@ -25,7 +21,7 @@ const classes = [
 ]
 
 // add section titles (left side)
-const navSections = document.querySelector("#nav-sections");
+const navSections = document.querySelector(".widescreen #nav-sections");
 let currSection = document.querySelector("h1");
 let currSectionNav, navSectionTitles;
 if(window.location.pathname.includes("phb")) {
@@ -39,15 +35,16 @@ for(let i = 0; i < navSectionTitles.length; i++) {
     sectionLink.href = "/phb/" + navSectionTitles[i].toLowerCase();
     sectionLink.className = "nav-link";
     if(navSectionTitles[i].toLowerCase() === currSection.id) {
-        sectionLink.classList.add("disabled");
+        sectionLink.classList.add("active");
         currSectionNav = sectionLink;
     }
-    // sectionItem.appendChild(sectionLink);
     navSections.appendChild(sectionLink);
 }
+let navSectionsMobile = document.querySelector(".mobile .navbar");
+let sectionsClone = navSections.cloneNode(true);
+sectionsClone.className = "nav nav-pills";
+navSectionsMobile.appendChild(sectionsClone);
 
-// add subsection titles (right side)
-const navSubsections = document.querySelector("#nav-subsections");
 let navSubsectionTitles;
 if(currSection.id == "classes") {
     // navSubsectionTitles = classes;
@@ -60,23 +57,46 @@ if(currSection.id == "classes") {
 } else {
     navSubsectionTitles = document.querySelectorAll("h3");
 }
-// let subsectionSublist = document.createElement("ul");
-// let subsectionSublist = document.createElement("nav");
-/* <nav class="nav nav-pills flex-column"></nav> */
-// subsectionSublist.id = "subnav";
-// subsectionSublist.className = "nav nav-pills flex-column";
+
+// add current subsection titles
+let subsectionNavbar = document.createElement("nav");
+subsectionNavbar.id = "navbar-subsections";
+subsectionNavbar.className = "pagenav section navbar navbar-light";
+let subsectionSublist = document.createElement("nav");
+subsectionSublist.id = "nav-subsections";
+subsectionSublist.className = "nav nav-pills flex-column";
 for(let i = 0; i < navSubsectionTitles.length; i++) {
     let navLink = document.createElement("a");
-    // <a class="nav-link ms-3 my-1" href="#planes-of-existence">Planes of Existence</a>
     navLink.textContent = navSubsectionTitles[i].textContent;
-    // navLink.href = `/phb/${currSection.id}${currSection.id == "classes" ? "/" : "#"}${navSubsectionTitles[i].id}`;
     navLink.href = `${currSection.id == "classes" ? "/phb/${currSection.id}/" : "#"}${navSubsectionTitles[i].id}`;
     navLink.className = "nav-link ms-3 my-1";
+    // add "new" or "change" pill to classes in menu
     if(currSection.id == "classes" && navSubsectionTitles[i].class !== "") {
         navLink.classList.add(navSubsectionTitles[i].class);
     }
-    navSubsections.appendChild(navLink);
+    subsectionSublist.appendChild(navLink);
 }
+subsectionNavbar.appendChild(subsectionSublist);
+if(currSection.id == "feats") {
+    const navRight = document.querySelector(".widescreen #navbar-right");
+    navRight.appendChild(subsectionNavbar);
+    console.log(subsectionNavbar);
+    console.log(navRight);
+} else {
+    currSectionNav.after(subsectionNavbar);
+}
+
+let navSubsectionsMobile = document.querySelector(".mobile #navbar-subsections-mobile");
+let subsectionsClone = subsectionSublist.cloneNode(true);
+subsectionsClone.className = "nav nav-pills";
+navSubsectionsMobile.appendChild(subsectionsClone);
+
+var scrollSpy = new bootstrap.ScrollSpy(document.body, {
+    target: '#navbar-subsections'
+  });
 var scrollSpy = new bootstrap.ScrollSpy(document.body, {
     target: '#navbar-right'
+  });
+var scrollSpy = new bootstrap.ScrollSpy(document.body, {
+    target: '#navbar-subsections-mobile'
   });

@@ -27,6 +27,9 @@
 .pagenav.right {
   margin-right: $spacing-unit * 3;
 }
+.pagenav nav {
+  flex-direction: column;
+}
 .subsection {
   visibility: hidden;
   height: 0px;
@@ -41,20 +44,77 @@
   min-width: 500px;
 }
 .nav-area {
-  margin-top: 50px;
+  margin-top: 100px;
   width: 15%;
   position: fixed;
+  overflow-y: scroll;
+  // height: 50vh;
+  height: 500px;
 }
-.nav-area.left {
+.nav-area.right {
+  overflow-y: initial;
+}
+
+@media only screen and (min-height : 320px) and (max-height : 1200px) {
+  .nav-area {
+    height: 75vh;
+  }
+}
+.nav-area.section {
   margin-left: $spacing-unit * 3;
   min-width: 200px;
-  // display: block;
-} // mobile version for vh < 900px
+}
+.right .nav-link {
+  padding: 0.5rem;
+}
 .nav-area.right {
   margin-right: $spacing-unit * 3;
   right: 0;
-} // mobile version for vh < 1260px
+}
 // mobile version
+.background.mobile {
+  position: sticky;
+  top: 0;
+  background-color: white;
+  z-index: 1;
+  width: 100%;
+}
+.wrapper.mobile {
+  width: initial;
+}
+.nav-area.mobile {
+  width: 100%;
+  margin: initial;
+  min-width: initial;
+  position: relative;
+
+  visibility: hidden;
+  height: 0;
+}
+@media only screen and (min-width : 320px) and (max-width : 1260px) {
+  .nav-area.subsection.mobile {
+    visibility: initial;
+    height: initial;
+  }
+  .nav-area.right.widescreen {
+    visibility: hidden;
+    height: 0;
+  }
+  .pagenav.right nav {
+    flex-direction: row;
+  }
+  .nav-area.section.mobile {
+    visibility: initial;
+    height: initial;
+  }
+  .nav-area.section.widescreen {
+    visibility: hidden;
+    height: 0;
+  }
+  .pagenav.section nav {
+    flex-direction: row;
+  }
+}
 .navbar-brand {
   font-family: 'Averia Libre', cursive;
   text-transform: uppercase;

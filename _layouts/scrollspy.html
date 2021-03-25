@@ -7,26 +7,39 @@
 
     {%- include header.html -%}
 
-    <main id="main-scrollspy" class="page-content" aria-label="Content">
-      <div class="nav-area left">
-        <nav class="pagenav left navbar navbar-light">
+    <div class="background mobile">
+    <div class="wrapper mobile">
+      <div class="nav-area section mobile">
+        <nav class="navbar navbar-light">
           <a class="navbar-brand" href="#">Player's Handbook</a>
-          <nav id="nav-sections" class="nav nav-pills flex-column">
-          </nav>
         </nav>
       </div>
+      <div class="nav-area section mobile">
+        <nav id="navbar-subsections-mobile" class="navbar navbar-light">
+        </nav>
+      </div>
+    </div></div>
+
+    <div class="nav-area section widescreen">
+      <nav id="navbar-left" class="pagenav section navbar navbar-light">
+        <a class="navbar-brand" href="#">Player's Handbook</a>
+        <nav id="nav-sections" class="nav nav-pills flex-column">
+        </nav>
+      </nav>
+    </div>
+    <main id="main-scrollspy" class="page-content" aria-label="Content">
       <div class="wrapper">
-        <div class="scrollspy-content">  <!-- data-bs-spy="scroll" data-bs-target="#navbar-right" tabindex="0"-->
+        <div class="scrollspy-content">
         {{ content }}
         </div>
       </div>
-      <div class="nav-area right">
-        <nav id="navbar-right" class="pagenav right navbar navbar-light">
-          <nav id="nav-subsections" class="nav nav-pills flex-column">
-          </nav>
-        </nav>
-      </div>
     </main>
+  <div class="nav-area right widescreen">
+    <nav id="navbar-right" class="pagenav right navbar navbar-light">
+      <nav id="nav-subsections" class="nav nav-pills">
+      </nav>
+    </nav>
+  </div>
 
     {%- include footer.html -%}
 
