@@ -77,6 +77,8 @@ for(let i = 0; i < navSubsectionTitles.length; i++) {
     subsectionSublist.appendChild(navLink);
 }
 subsectionNavbar.appendChild(subsectionSublist);
+if(currSection.id == "classes")
+    subsectionNavbar.style.cssText = "padding:0;"
 if(currSection.id == "feats") {
     const navRight = document.querySelector(".widescreen #navbar-right");
     navRight.appendChild(subsectionNavbar);
