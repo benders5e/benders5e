@@ -5,9 +5,7 @@ permalink: /tools/pro-bending/
 parent: Tools
 ---
 
-*Note: this widget is still in progress so it may have some bugs. Let us know if you find one through our <a target="_blank" href="https://forms.gle/H2VMopAN7gtaRrG5A">feedback form</a> or by <a target="_blank" href="https://github.com/benders5e/benders5e/issues/new">opening an issue on GitHub</a>!*
-
-This is a tool to help GMs keep track of players in a pro bending match. See the pro bending rules [here](../../pro-bending).
+This is a tool to help GMs keep track of players in a pro bending match. See the pro bending rules [here](/rules/pro-bending).
 
 <table id="player-table">
     <col class="name-col">

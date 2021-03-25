@@ -1,7 +1,7 @@
 ---
 layout: pagenav
 title: Barbarian
-permalink: /phb/classes/barbarian/
+permalink: /rules/phb/classes/barbarian/
 nav-hide: true
 ---
 

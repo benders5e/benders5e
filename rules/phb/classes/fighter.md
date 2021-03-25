@@ -1,7 +1,7 @@
 ---
 layout: pagenav
 title: Fighter
-permalink: /phb/classes/fighter/
+permalink: /rules/phb/classes/fighter/
 nav-hide: true
 ---
 

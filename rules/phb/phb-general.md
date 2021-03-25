@@ -2,7 +2,7 @@
 parent: Rules
 layout: pagenav
 title: Player's Handbook
-permalink: /phb/general
+permalink: /rules/phb/general
 ---
 
 <div class="class-pdf">

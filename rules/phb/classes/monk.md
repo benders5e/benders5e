@@ -1,7 +1,7 @@
 ---
 layout: pagenav
 title: Monk
-permalink: /phb/classes/monk/
+permalink: /rules/phb/classes/monk/
 nav-hide: true
 ---
 

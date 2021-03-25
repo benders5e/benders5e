@@ -1,7 +1,7 @@
 ---
 layout: pagenav
 title: Feats
-permalink: /phb/feats/
+permalink: /rules/phb/feats/
 nav-hide: true
 ---
 

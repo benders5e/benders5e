@@ -1,7 +1,7 @@
 ---
 layout: pagenav
 title: Rogue
-permalink: /phb/classes/rogue/
+permalink: /rules/phb/classes/rogue/
 nav-hide: true
 ---
 

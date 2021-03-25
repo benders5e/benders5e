@@ -1,7 +1,7 @@
 ---
 layout: pagenav
 title: Airbender
-permalink: /phb/classes/airbender/
+permalink: /rules/phb/classes/airbender/
 nav-hide: true
 ---
 

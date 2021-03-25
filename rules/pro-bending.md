@@ -2,20 +2,20 @@
 parent: Rules
 layout: pagenav
 title: PRO BENDING
-permalink: /pro-bending
+permalink: /rules/pro-bending
 ---
 
 # Pro Bending
 
 The rules of pro bending are pretty simple: take control over the area in a specified amount of time until you either defeat your opponents or win. 
 
-![Bending ring](assets/Bending_Arena.jpg)
+![Bending ring](/assets/Bending_Arena.jpg)
 
 ## Rules
 
 The ring is divided into two halves, each of which is further divided into three zones. A central circle is used only for tie-breakers. Each zone is 30 feet wide. The sides of the ring are usually blocked with ropes, leaving only the back of each side (the left and right extremes in the picture above) open.
 
-Teams begin the match facing each other in the two zones closest to the center (starting positions are marked with red X's; the teams each choose the order of their members). The goal is to knock the other team back and off the platform. ([Link to map with 5-foot grid](assets/Bending_Arena_grid.jpg).)
+Teams begin the match facing each other in the two zones closest to the center (starting positions are marked with red X's; the teams each choose the order of their members). The goal is to knock the other team back and off the platform. ([Link to map with 5-foot grid](/assets/Bending_Arena_grid.jpg).)
 
 The ring is lined with trenches of water between the zones and around the ring, which provide enough material for waterbenders. Additionally, it is dotted with earthen disks (in yellow) for the earthbenders.
 
@@ -34,7 +34,7 @@ Each set (referred to as a "round") of the game consists of 3 rounds of combat. 
     - When everyone on one team is knocked out of a zone, each player on the other team advances one zone.
     - If a player is knocked to 0 HP, they are knocked back 3 zones. If they remain remain in the ring, they are considered out of the fight until they are healed.
     - Regaining an area does not restore the corresponding HP.
-    - [Here's a tool](./tools/pro-bending) to keep track of when players get knocked back.
+    - [Here's a tool](/tools/pro-bending) to keep track of when players get knocked back.
 - **Move:**
     - You can use your movement to reposition yourself within your zone.
     - If you step over the back of your zone, you forfeit the ground and must move back to that zone. This doesn't apply to the last zone, and you must be knocked off the back edge to be knocked out of the last zone.
@@ -85,7 +85,3 @@ Furthermore, the list of fouls in Bending X is significantly shorter:
 > #### Bending X Fouls
 > - Stepping outside your zone
 > - Knocking an opponent off the side of the ring (instead of the back)
-
-<br/>
-
-*The rules were based off the rules listed [here](https://avatar.fandom.com/wiki/Pro-bending). Huge thanks to KG for developing this system!*

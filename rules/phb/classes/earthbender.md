@@ -1,7 +1,7 @@
 ---
 layout: pagenav
 title: Earthbender
-permalink: /phb/classes/earthbender/
+permalink: /rules/phb/classes/earthbender/
 nav-hide: true
 ---
 
