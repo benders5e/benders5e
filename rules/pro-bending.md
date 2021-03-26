@@ -2,6 +2,7 @@
 parent: Rules
 layout: pagenav
 title: PRO BENDING
+order: 5
 permalink: /rules/pro-bending
 ---
 

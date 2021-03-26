@@ -4,6 +4,7 @@ parent: Rules
 layout: pagenav
 title: About
 permalink: /rules/about
+order: 1
 ---
 
 # About this Setting

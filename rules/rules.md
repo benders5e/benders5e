@@ -3,6 +3,7 @@ parent: Rules
 # nav-hide: true
 layout: pagenav
 title: All
+order: 10
 permalink: /rules/
 ---
 

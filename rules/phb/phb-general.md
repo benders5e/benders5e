@@ -3,6 +3,7 @@ parent: Rules
 layout: pagenav
 title: Player's Handbook
 permalink: /rules/phb/general
+order: 2
 ---
 
 <div class="class-pdf">
