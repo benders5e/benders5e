@@ -5,8 +5,7 @@ const navSectionTitlesPHB = [
     "Classes",
     "Equipment",
     "Feats",
-    "Backgrounds",
-    "Appendix"
+    "Backgrounds"
 ]
 
 const classes = [
