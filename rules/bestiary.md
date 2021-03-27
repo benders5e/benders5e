@@ -15,12 +15,14 @@ PDF version</a>
 
 # Bestiary
 
-<!-- <style>
+<!-- 
+<style>
   .siteOnly, .siteOnly img {
     visibility: hidden;
     height: 0em !important;
   }
-</style> -->
+</style>
+-->
 
 <!--
 Based on Badger: https://www.dndbeyond.com/monsters/badger
@@ -762,6 +764,31 @@ The serpent inhavits the lakes surrounding the Serpent's Pass in the Earth Natio
 
 <div class="HBonly">\page</div>
 
+<details class="siteOnly">
+<summary><span class="credits">Credits</span></summary>
+This bestiary uses images from <a href="https://avatar.fandom.com/">Avatar Wiki</a> and is licensed under the <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-Share Alike License</a>. Please view the page source for image URLs. The article each image appears on, as well as the original uploader, is listed here:
+
+<ul>
+<li><a href="https://avatar.fandom.com/wiki/Badgermole">Badgermole</a> - Lady Lostris</li>
+<li><a href="https://avatar.fandom.com/wiki/Buzzard_wasp">Buzzard Wasp</a> - Lady Lostris</li>
+<li><a href="https://avatar.fandom.com/wiki/Canyon_crawler">Canyon Crawler</a> - Lady Lostris</li>
+<li><a href="https://avatar.fandom.com/wiki/Catgator">Catgator</a> - Lady Lostris</li>
+<li><a href="https://avatar.fandom.com/wiki/Elbow_leech">Elbow Leech</a> - Lady Lostris</li>
+<li><a href="https://avatar.fandom.com/wiki/Flying_bison">Flying Bison</a> - Lady Lostris</li>
+<li><a href="https://avatar.fandom.com/wiki/Giant_rhinoceros_beetle">Giant Rhinoceros Beetle</a> - Lady Lostris</li>
+<li><a href="https://avatar.fandom.com/wiki/Gilacorn">Gilacorn</a> - Lady Lostris</li>
+<li><a href="https://avatar.fandom.com/wiki/Hawky">Hawk (Messenger)</a> - Ruen</li>
+<li><a href="https://avatar.fandom.com/wiki/Lion_turtle">Lion Turtle</a> - Lady Lostris</li>
+<li><a href="https://avatar.fandom.com/wiki/Otter_penguin">Otter Penguin</a> - Lady Lostris</li>
+<li><a href="https://avatar.fandom.com/wiki/Platypus_bear">Platypus Bear</a> - Lady Lostris</li>
+<li><a href="https://avatar.fandom.com/wiki/Polar_bear_dog">Polar Bear Dog</a> - KettleMeetPot</li>
+<li><a href="https://avatar.fandom.com/wiki/Serpent">Serpent</a> - Lady Lostris</li>
+<li><a href="https://avatar.fandom.com/wiki/Turtle_duck">Turtle Duck</a> - Lady Lostris</li>
+<li><a href="https://avatar.fandom.com/wiki/Winged_lemur">Winged Lemur</a> - Lady Lostris</li>
+</ul>
+</details>
+
+<!--
 ## Credits
 
 This bestiary uses images from [Avatar Wiki](https://avatar.fandom.com/) and is licensed under the [Creative Commons Attribution-Share Alike License](http://creativecommons.org/licenses/by-sa/3.0/). Please view the page source for image URLs. The article each image appears on, as well as the original uploader, is listed here:
@@ -782,6 +809,8 @@ This bestiary uses images from [Avatar Wiki](https://avatar.fandom.com/) and is 
 - [Serpent](https://avatar.fandom.com/wiki/Serpent) - Lady Lostris
 - [Turtle Duck](https://avatar.fandom.com/wiki/Turtle_duck) - Lady Lostris
 - [Winged Lemur](https://avatar.fandom.com/wiki/Winged_lemur) - Lady Lostris
+
+-->
 
 <div class='pageNumber auto'></div>
 <div class='footnote'>Benders 5e | BESTIARY</div>
