@@ -9,7 +9,7 @@ order: 4
 
 <style>{%- include css/bestiary.css -%}</style>
 
-<a href="https://homebrewery.naturalcrit.com/share/ksPLgQJdQSvo">
+<a target="_blank" href="https://homebrewery.naturalcrit.com/share/ksPLgQJdQSvo">
 <i class="far fa-file-pdf"></i>
 PDF version</a> 
 
