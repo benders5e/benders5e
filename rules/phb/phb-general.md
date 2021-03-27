@@ -2,7 +2,8 @@
 parent: Rules
 layout: scrollspy
 title: Player's Handbook
-permalink: /phb/general
+permalink: /rules/phb/general
+order: 2
 ---
 
 <div class="class-pdf">

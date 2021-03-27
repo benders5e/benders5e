@@ -4,7 +4,7 @@ title: New to D&D?
 permalink: /new-player
 ---
 
-The [Player's Handbook](./phb) on this site contains all the rules and mechanics you will need to play a bender! If you've played Dungeons & Dragons before, most of these will be familiar to you. If you're new to D&D, don't fret! Below is a quick-and-dirty guide to getting off the ground. We'll show you how to create a character and give you the basics of how to play the game.
+The [Player's Handbook](./rules/phb/general) on this site contains all the rules and mechanics you will need to play a bender! If you've played Dungeons & Dragons before, most of these will be familiar to you. If you're new to D&D, don't fret! Below is a quick-and-dirty guide to getting off the ground. We'll show you how to create a character and give you the basics of how to play the game.
 
 ## The Basics
 
@@ -25,12 +25,12 @@ Dice-rolling usually proceeds as follows:
 
 ## Creating a Character
 
-1. **Choose a <a target="_blank" href="./phb/classes">class</a>.**
+1. **Choose a <a target="_blank" href="./rules/phb/classes">class</a>.**
 1. **Determine your ability scores.** There are six ability scores, half of which are "physical" and half of which are "mental". The physical abilities are Strength, Dexterity, Constitution. The mental abilities are Intelligence, Wisdom, and Charisma. Your GM should let you know how to determine these scores.
 1. **Flesh out your character.**
-    - Choose a <a target="_blank" href="./phb/backgrounds">background</a>.
+    - Choose a <a target="_blank" href="./rules/phb/backgrounds">background</a>.
     - Decide on other characteristics: name, age, gender, appearance, personality traits, etc.
-1. **Assemble your equipment.** Equipment you start with is listed in your class's description. At your GM's discretion, you may be allowed additional pieces of <a target="_blank" href="./phb/equipment">equipment</a>.
+1. **Assemble your equipment.** Equipment you start with is listed in your class's description. At your GM's discretion, you may be allowed additional pieces of <a target="_blank" href="./rules/phb/equipment">equipment</a>.
 
 ## How to Play
 

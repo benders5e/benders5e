@@ -1,7 +1,7 @@
 ---
 layout: scrollspy
 title: Firebender
-permalink: /phb/classes/firebender/
+permalink: /rules/phb/classes/firebender/
 nav-hide: true
 ---
 

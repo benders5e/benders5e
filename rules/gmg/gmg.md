@@ -2,7 +2,8 @@
 parent: Rules
 layout: pagenav
 title: GM's Guide
-permalink: /gmg
+permalink: /rules/gmg
+order: 3
 ---
 
 <h1 id="dmg" class="center-title">

@@ -5,8 +5,7 @@ const navSectionTitlesPHB = [
     "Classes",
     "Equipment",
     "Feats",
-    "Backgrounds",
-    "Appendix"
+    "Backgrounds"
 ]
 
 const classes = [
@@ -32,7 +31,7 @@ if(window.location.pathname.includes("phb")) {
 for(let i = 0; i < navSectionTitles.length; i++) {
     let sectionLink = document.createElement("a");
     sectionLink.textContent = navSectionTitles[i] + "\n"
-    sectionLink.href = "/phb/" + navSectionTitles[i].toLowerCase();
+    sectionLink.href = "/rules/phb/" + navSectionTitles[i].toLowerCase();
     let sectionItem = document.createElement("li");
     if(navSectionTitles[i].toLowerCase() === currSection.id) {
         currSectionNav = sectionItem;
@@ -58,7 +57,7 @@ subsectionSublist.id = "subnav";
 for(let i = 0; i < navSubsectionTitles.length; i++) {
     let navLink = document.createElement("a");
     navLink.textContent = navSubsectionTitles[i].textContent;
-    navLink.href = `/phb/${currSection.id}${currSection.id == "classes" ? "/" : "#"}${navSubsectionTitles[i].id}`;
+    navLink.href = `/rules/phb/${currSection.id}${currSection.id == "classes" ? "/" : "#"}${navSubsectionTitles[i].id}`;
 
     let navItem = document.createElement("li");
     navItem.appendChild(navLink);

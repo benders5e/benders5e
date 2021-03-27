@@ -12,6 +12,6 @@ banner: true
     <h1>Benders <span style="text-transform: initial;">5e</span></h1>
     <p class="subtitle">Elemental benders in D&D 5th edition</p>
     <br/>
-    <a class="button" href="./phb/general">Players</a>
-    <a class="button" href="./gmg">Game Masters</a>
+    <a class="button" href="./rules/phb/general">Players</a>
+    <a class="button" href="./rules/gmg">Game Masters</a>
 </div>

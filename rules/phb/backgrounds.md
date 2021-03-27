@@ -1,7 +1,7 @@
 ---
 layout: scrollspy
 title: Backgrounds
-permalink: /phb/backgrounds
+permalink: /rules/phb/backgrounds
 nav-hide: true
 ---
 

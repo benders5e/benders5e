@@ -1,7 +1,7 @@
 ---
 layout: scrollspy
 title: Equipment
-permalink: /phb/equipment/
+permalink: /rules/phb/equipment/
 nav-hide: true
 ---
 

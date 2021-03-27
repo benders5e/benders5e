@@ -5,9 +5,7 @@ permalink: /tools/pro-bending/
 parent: Tools
 ---
 
-*Note: this widget is still in progress so it may have some bugs. Let us know if you find one through our <a target="_blank" href="https://forms.gle/H2VMopAN7gtaRrG5A">feedback form</a> or by <a target="_blank" href="https://github.com/benders5e/benders5e/issues/new">opening an issue on GitHub</a>!*
-
-This is a tool to help GMs keep track of players in a pro bending match. See the pro bending rules [here](../../pro-bending).
+This is a tool to help GMs keep track of players in a pro bending match. See the pro bending rules [here](/rules/pro-bending).
 
 <table id="player-table">
     <col class="name-col">
@@ -47,8 +45,10 @@ This is a tool to help GMs keep track of players in a pro bending match. See the
 
 <p id="result" style="color: red;"></p>
 
+**Instructions:**  
 Enter a character's name, AC, and max HP, then click "add". The widget will automatically calculate that character's HP checkpoints and set it at the starting position. Update a character's AC anytime by modifying the AC field. You can update its HP similarly (make sure you hit enter!). Additionally, the HP field can handle math: if your input starts with `+` or `-`, the widget will add or subtract the number from the character's current HP when you hit enter. 
 
 If a character takes damage, update its HP by entering `-` followed by the damage it takes. When you hit enter, the table will automatically update the character's zone and its position within that zone.
 
-<script src="../pro-bending-tracker.js"></script>
+<script>{%- include js/pro-bending-tracker.js -%}</script>
+<style>{%- include css/pro-bending.css -%}</style>

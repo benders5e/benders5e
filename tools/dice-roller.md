@@ -27,4 +27,4 @@ Type your die formula in the text box below and click "Roll" to see the result.
 <input type="submit" id="submit" value="Roll">
 
 <p id="result"></p>
-<script src="../dice.js"></script>
+<script>{%- include js/dice.js -%}</script>

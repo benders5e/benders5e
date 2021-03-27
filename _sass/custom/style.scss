@@ -1,3 +1,20 @@
+/*******************
+* General
+*******************/
+span.ital {
+  font-style: italic;
+}
+details {
+  margin-bottom: $spacing-unit / 2;
+}
+img {
+  display: block;
+  margin: auto auto;
+}
+
+/*******************
+* Site Menu
+*******************/
 .site-nav #dropdownMenuButton:hover {
   text-decoration: none;
   cursor: pointer;
@@ -11,15 +28,9 @@
   background-color: initial !important;
 }
 
-.center-title {
-  text-align: center;
-}
-
-.post-title {
-  font-size: 28px;
-  line-height: $base-line-height;
-}
-
+/*******************
+* Sidebar navigation
+*******************/
 .pagenav {
   width: 100%;
   padding-top: 75px;
@@ -121,15 +132,19 @@
 #nav-subsections {
   max-height: 75vh;
 }
+// TODO not sure if belongs here or with site menu
+nav {
+  z-index: 3;
+}
 
+// TODO not sure where this is used
 .linkToTop {
   margin-top: 50px;
 }
 
-details {
-  margin-bottom: $spacing-unit / 2;
-}
-
+/*******************
+* Class page
+*******************/
 .classtile {
   width: 27%;
   height: $base-line-height * 2em;
@@ -164,6 +179,16 @@ details {
   z-index: 1;
 }
 
+/*******************
+* Headers and Titles
+*******************/
+.center-title {
+  text-align: center;
+}
+.post-title {
+  font-size: 28px;
+  line-height: $base-line-height;
+}
 h1, h2:not(.post-list-heading), h3:not(.post-title), h4, h5 {
   //font-family: 'Syne Tactile', cursive;
   font-family: 'Averia Libre', cursive;
@@ -184,22 +209,49 @@ h5 {
   margin-bottom: 0em;
   font-size: 14px;
 }
+h5 {
+  margin-bottom: 0em;
+  font-size: 16px;
 
+  // underline
+  // TODO where is this used? table headers shouldn't have underlines
+  // maybe on Earthbender or Fighter pages
+  margin-bottom: .5em;
+  border-bottom-width: 1px;
+  border-color: $grey-color;
+  border-bottom-style: solid;
+}
+.subtitle { 
+  font-size: 20px;
+} 
+// blockquote headers
+blockquote h5 {
+  font-size: 16px;
+  text-transform: uppercase;
+  font-family: 'Averia Libre', cursive;
+}
+blockquote h5, .formCard h5 {
+  margin-bottom: initial; // remove underline
+  border-bottom-width: 0px;
+  border-bottom-style: initial;
+}
+// table headers
 .tableHeader {
   font-size: 16px;
   text-transform: uppercase;
   font-family: 'Averia Libre', cursive;
   text-align: center;
 }
+// TODO what is this?
 .default-header {
   font-family: $base-font-family !important;
   text-transform: initial !important;
   border: 0px !important;
 }
 
-span.ital {
-  font-style: italic;
-}
+/*******************
+* Blockquotes
+*******************/
 blockquote {
   font-style: normal;
   font-size: 16px;
@@ -213,19 +265,10 @@ blockquote {
 blockquote.example {
   background-color: $grey-color-medium;
 }
-blockquote h5 {
-  font-size: 16px;
-  text-transform: uppercase;
-  font-family: 'Averia Libre', cursive;
-  //text-align: center;
-}
-blockquote h5, .formCard h5 {
-  // remove underline
-  margin-bottom: initial;
-  border-bottom-width: 0px;
-  border-bottom-style: initial;
-}
 
+/*******************
+* Form Cards
+*******************/
 .formCard p, .formCard h4 {
   margin-bottom: 5px;
 }
@@ -252,10 +295,9 @@ blockquote h5, .formCard h5 {
   background-color: transparent;
 }
 
-.subtitle { 
-  font-size: 20px;
-} 
- 
+/*******************
+* Homepage banner
+*******************/
 .banner {
   text-align: center;
   padding-top: 3em;
@@ -317,10 +359,11 @@ blockquote h5, .formCard h5 {
   font-size: 16px;
   border-radius: .5em;
 }
-nav {
-  z-index: 3;
-}
 
+/************************
+* Homebrew content tags
+* (new/change)
+*************************/
 .new::after {
   content: "new";
   color: white;
@@ -352,22 +395,9 @@ nav {
   background-color: orange;
 }
 
-img {
-  display: block;
-  margin: auto auto;
-}
-
-h5 {
-  margin-bottom: 0em;
-  font-size: 16px;
-
-  // underline
-  margin-bottom: .5em;
-  border-bottom-width: 1px;
-  border-color: $grey-color;
-  border-bottom-style: solid;
-}
-
+/*******************
+* Footer
+*******************/
 footer {
   z-index: 10;
   background-color: white;
@@ -383,45 +413,4 @@ footer i, footer .username {
 }
 footer i {
   padding-right: 5px;
-}
-/* .social-media-list li {
-  display: inline;
-  text-align: right;
-  padding-left: 7.5px;
-}
-*/
-
-/*** pro bending tracker ***/
-th {
-  text-align: center;
-}
-#player-table {
-  table-layout: fixed;
-  width: 100%;
-  min-width: 650px;
-}
-.name-col {
-  width: 30%;
-}
-.ac-col, .hp-col {
-  width: 10%;
-}
-.hpFull-col, .hp2-col, .hp1-col {
-  width: 10%;
-  text-align: center;
-}
-.zone-col, .dist-col {
-  width: 10%;
-}
-#player-table input {
-  width: 100%;
-}
-#add {
-  width: 50px !important;
-}
-.reset-btn {
-  width: 50px !important;
-  padding: 0 0;
-  text-align: center;
-  float: right;
 }

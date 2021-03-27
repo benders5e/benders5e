@@ -1,11 +1,11 @@
 ---
 layout: scrollspy
-title: Rogue
-permalink: /phb/classes/rogue/
+title: Barbarian
+permalink: /rules/phb/classes/barbarian/
 nav-hide: true
 ---
 
 <h1 id="classes">
-    Rogue
+    Barbarian
 </h1>
 *Source: Player's Handbook*

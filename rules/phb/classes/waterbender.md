@@ -1,7 +1,7 @@
 ---
 layout: scrollspy
 title: Waterbender
-permalink: /phb/classes/waterbender/
+permalink: /rules/phb/classes/waterbender/
 nav-hide: true
 ---
 
