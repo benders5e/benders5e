@@ -1,6 +1,5 @@
 ---
 parent: Rules
-# nav-hide: true
 layout: pagenav
 title: All
 order: 10
@@ -15,7 +14,7 @@ permalink: /rules/
 [Game Master's Guide](/rules/gmg)
 
 ### Additional
-<a target="_blank" href="/rules/bestiary">Bestiary</a>  
+[Bestiary](/rules/bestiary)  
 [Pro Bending](/rules/pro-bending)
 
 ### Credits
