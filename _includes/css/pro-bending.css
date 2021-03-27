@@ -1,0 +1,36 @@
+/**********************
+* Pro Bending Tracker
+***********************/
+th {
+  text-align: center;
+}
+#player-table {
+  table-layout: fixed;
+  width: 100%;
+  min-width: 650px;
+}
+.name-col {
+  width: 30%;
+}
+.ac-col, .hp-col {
+  width: 10%;
+}
+.hpFull-col, .hp2-col, .hp1-col {
+  width: 10%;
+  text-align: center;
+}
+.zone-col, .dist-col {
+  width: 10%;
+}
+#player-table input {
+  width: 100%;
+}
+#add {
+  width: 50px !important;
+}
+.reset-btn {
+  width: 50px !important;
+  padding: 0 0;
+  text-align: center;
+  float: right;
+}

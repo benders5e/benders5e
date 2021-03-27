@@ -50,4 +50,5 @@ Enter a character's name, AC, and max HP, then click "add". The widget will auto
 
 If a character takes damage, update its HP by entering `-` followed by the damage it takes. When you hit enter, the table will automatically update the character's zone and its position within that zone.
 
-<script src="../pro-bending-tracker.js"></script>
+<script>{%- include js/pro-bending-tracker.js -%}</script>
+<style>{%- include css/pro-bending.css -%}</style>
