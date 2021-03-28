@@ -22,10 +22,44 @@ Equipment
 
 <h5 class="HBonly">Armor</h5>
 
-| Name               | Cost | Armor Class (AC) | Strength | Stealth | Weight |
+<!-- https://markdowntohtml.com/ -->
+<!-- | Name               | Cost | Armor Class (AC) | Strength | Stealth | Weight |
 |:-------------------|-----:|:-----------------|:---------|:--------|--------|
 | *Shield* ||||||
-| &emsp;Guanmao      |10 gp | +1               | --       | --      | 2 lb.  |
+| &emsp;Guanmao      |10 gp | +1               | --       | --      | 2 lb.  | -->
+
+<div class="scrollTable">
+<table>
+<thead>
+<tr>
+<th style="text-align:left">Name</th>
+<th style="text-align:right">Cost</th>
+<th style="text-align:left">Armor Class (AC)</th>
+<th style="text-align:left">Strength</th>
+<th style="text-align:left">Stealth</th>
+<th>Weight</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left"><em>Shield</em></td>
+<td style="text-align:right"></td>
+<td style="text-align:left"></td>
+<td style="text-align:left"></td>
+<td style="text-align:left"></td>
+<td></td>
+</tr>
+<tr>
+<td style="text-align:left">&emsp;Guanmao</td>
+<td style="text-align:right">10 gp</td>
+<td style="text-align:left">+1</td>
+<td style="text-align:left">--</td>
+<td style="text-align:left">--</td>
+<td>2 lb.</td>
+</tr>
+</tbody>
+</table>
+</div>
 
 <span class="new">**_Guanmao._**</span>
 This large-brimmed hat from the earth nation is flat and shield-like, allowing the wearer to defuse various attacks by lowering their head. You can benefit from only one guanmao at a time.
@@ -35,7 +69,7 @@ This large-brimmed hat from the earth nation is flat and shield-like, allowing t
 
 <h5 class="HBonly">Weapons</h5>
 
-| Name               | Cost | Damage        | Weight   |Properties             |
+<!-- | Name               | Cost | Damage        | Weight   |Properties             |
 |:-------------------|-----:|:--------------|:---------|:----------------------|
 | *Simple Melee Weapons*|||||
 | &emsp;Glider       | 5 gp |1d4 bludgeoning|2 lb.     |Versatile, special
@@ -49,9 +83,114 @@ This large-brimmed hat from the earth nation is flat and shield-like, allowing t
 | &emsp;Scimitar     |25 gp |1d6 slashing   |3 lb.     |Finesse, light
 | &emsp;Shortsword   |10 gp |1d6 piercing   |2 lb.     |Finesse, light
 | *Martial Ranged Weapons*|||||
-| &emsp;Boomerang    | 1sp |1d6 bludgeoning |1/2 lb    |Finesse, special, thrown (range30/120)
+| &emsp;Boomerang    | 1sp |1d6 bludgeoning |1/2 lb    |Finesse, special, thrown (range30/120) -->
 
-<!--/div-->
+<div class="scrollTable">
+<table>
+<thead>
+<tr>
+<th style="text-align:left">Name</th>
+<th style="text-align:right">Cost</th>
+<th style="text-align:left">Damage</th>
+<th style="text-align:left">Weight</th>
+<th style="text-align:left">Properties</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left"><em>Simple Melee Weapons</em></td>
+<td style="text-align:right"></td>
+<td style="text-align:left"></td>
+<td style="text-align:left"></td>
+<td style="text-align:left"></td>
+</tr>
+<tr>
+<td style="text-align:left">&emsp;Glider</td>
+<td style="text-align:right">5 gp</td>
+<td style="text-align:left">1d4 bludgeoning</td>
+<td style="text-align:left">2 lb.</td>
+<td style="text-align:left">Versatile, special</td>
+</tr>
+<tr>
+<td style="text-align:left"><em>Simple Ranged Weapons</em></td>
+<td style="text-align:right"></td>
+<td style="text-align:left"></td>
+<td style="text-align:left"></td>
+<td style="text-align:left"></td>
+</tr>
+<tr>
+<td style="text-align:left">&emsp;Dart</td>
+<td style="text-align:right">5 cp</td>
+<td style="text-align:left">1d4 piercing</td>
+<td style="text-align:left">1/4 lb</td>
+<td style="text-align:left">Finesse, thrown (range 20/60)</td>
+</tr>
+<tr>
+<td style="text-align:left"><em>Martial Melee Weapons</em></td>
+<td style="text-align:right"></td>
+<td style="text-align:left"></td>
+<td style="text-align:left"></td>
+<td style="text-align:left"></td>
+</tr>
+<tr>
+<td style="text-align:left">&emsp;Fan (closed)</td>
+<td style="text-align:right">5 gp</td>
+<td style="text-align:left">1d6 bludgeoning</td>
+<td style="text-align:left">1 lb.</td>
+<td style="text-align:left">Finesse, light</td>
+</tr>
+<tr>
+<td style="text-align:left">&emsp;Fan (open)</td>
+<td style="text-align:right">5 gp</td>
+<td style="text-align:left">1d6 slashing</td>
+<td style="text-align:left">1 lb.</td>
+<td style="text-align:left">Finesse, light, special</td>
+</tr>
+<tr>
+<td style="text-align:left">&emsp;Hooked Swords</td>
+<td style="text-align:right"></td>
+<td style="text-align:left"></td>
+<td style="text-align:left"></td>
+<td style="text-align:left">Special</td>
+</tr>
+<tr>
+<td style="text-align:left">&emsp;Longsword</td>
+<td style="text-align:right">15 gp</td>
+<td style="text-align:left">1d8 slashing</td>
+<td style="text-align:left">3 lb.</td>
+<td style="text-align:left">Versatile (1d10)</td>
+</tr>
+<tr>
+<td style="text-align:left">&emsp;Scimitar</td>
+<td style="text-align:right">25 gp</td>
+<td style="text-align:left">1d6 slashing</td>
+<td style="text-align:left">3 lb.</td>
+<td style="text-align:left">Finesse, light</td>
+</tr>
+<tr>
+<td style="text-align:left">&emsp;Shortsword</td>
+<td style="text-align:right">10 gp</td>
+<td style="text-align:left">1d6 piercing</td>
+<td style="text-align:left">2 lb.</td>
+<td style="text-align:left">Finesse, light</td>
+</tr>
+<tr>
+<td style="text-align:left"><em>Martial Ranged Weapons</em></td>
+<td style="text-align:right"></td>
+<td style="text-align:left"></td>
+<td style="text-align:left"></td>
+<td style="text-align:left"></td>
+</tr>
+<tr>
+<td style="text-align:left">&emsp;Boomerang</td>
+<td style="text-align:right">1sp</td>
+<td style="text-align:left">1d6 bludgeoning</td>
+<td style="text-align:left">1/2 lb</td>
+<td style="text-align:left">Finesse, special, thrown (range30/120)</td>
+</tr>
+</tbody>
+</table>
+</div>
 
 #### Special Weapons
 Weapons with special rules are described here.

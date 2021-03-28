@@ -82,7 +82,7 @@ Your range increases with your level according to the "Range" column of the Airb
 
 <h5 class="tableHeader"> The Airbender</h5>
   
-|Level| Proficiency Bonus | Bending | Range | Forms Known | Chi per Attack |Unarmored Movement| Features |
+<!-- |Level| Proficiency Bonus | Bending | Range | Forms Known | Chi per Attack |Unarmored Movement| Features |
 |:---:|:--:|:--------:|:----:|:-----:|:-:|:-:|:-----------|
 | 1st | +2 | 1d6  | 30/60 | – | 1 | -        | Unarmored Defense, Airbending, Air Punch
 | 2nd | +2 | 1d6  | 30/60 | 1 | 1 | +10 ft.  | Unarmored Movement, Airbending Forms
@@ -103,9 +103,226 @@ Your range increases with your level according to the "Range" column of the Airb
 |17th | +6 | 1d10 |150/300| 9 | 5 | +25 ft.  | Specialization feature
 |18th | +5 | 1d10 |200/400| 9 | 5 | +30 ft.  | –
 |19th | +5 | 1d10 |200/400| 10| 5 | +30 ft.  | Ability Score Improvement
-|20th | +5 | 1d10 |200/400| 10| 6 | +30 ft.  | Element of Freedom
+|20th | +5 | 1d10 |200/400| 10| 6 | +30 ft.  | Element of Freedom -->
 
-<!--/div-->
+<div class="scrollTable">
+<table>
+<thead>
+<tr>
+<th style="text-align:center">Level</th>
+<th style="text-align:center">Proficiency Bonus</th>
+<th style="text-align:center">Bending</th>
+<th style="text-align:center">Range</th>
+<th style="text-align:center">Forms Known</th>
+<th style="text-align:center">Chi per Attack</th>
+<th style="text-align:center">Unarmored Movement</th>
+<th style="text-align:left">Features</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">1st</td>
+<td style="text-align:center">+2</td>
+<td style="text-align:center">1d6</td>
+<td style="text-align:center">30/60</td>
+<td style="text-align:center">–</td>
+<td style="text-align:center">1</td>
+<td style="text-align:center">-</td>
+<td style="text-align:left">Unarmored Defense, Airbending, Air Punch</td>
+</tr>
+<tr>
+<td style="text-align:center">2nd</td>
+<td style="text-align:center">+2</td>
+<td style="text-align:center">1d6</td>
+<td style="text-align:center">30/60</td>
+<td style="text-align:center">1</td>
+<td style="text-align:center">1</td>
+<td style="text-align:center">+10 ft.</td>
+<td style="text-align:left">Unarmored Movement, Airbending Forms</td>
+</tr>
+<tr>
+<td style="text-align:center">3rd</td>
+<td style="text-align:center">+2</td>
+<td style="text-align:center">1d6</td>
+<td style="text-align:center">30/60</td>
+<td style="text-align:center">2</td>
+<td style="text-align:center">2</td>
+<td style="text-align:center">+10 ft.</td>
+<td style="text-align:left">Be the Leaf</td>
+</tr>
+<tr>
+<td style="text-align:center">4th</td>
+<td style="text-align:center">+2</td>
+<td style="text-align:center">1d6</td>
+<td style="text-align:center">30/60</td>
+<td style="text-align:center">2</td>
+<td style="text-align:center">2</td>
+<td style="text-align:center">+10 ft.</td>
+<td style="text-align:left">Ability Score Improvement, Air Cushion</td>
+</tr>
+<tr>
+<td style="text-align:center">5th</td>
+<td style="text-align:center">+3</td>
+<td style="text-align:center">1d6</td>
+<td style="text-align:center">60/120</td>
+<td style="text-align:center">3</td>
+<td style="text-align:center">2</td>
+<td style="text-align:center">+15 ft.</td>
+<td style="text-align:left">Airbending specialization</td>
+</tr>
+<tr>
+<td style="text-align:center">6th</td>
+<td style="text-align:center">+3</td>
+<td style="text-align:center">1d6</td>
+<td style="text-align:center">60/120</td>
+<td style="text-align:center">3</td>
+<td style="text-align:center">2</td>
+<td style="text-align:center">+15 ft.</td>
+<td style="text-align:left">Unarmored Movement Improvement, Cloudbending</td>
+</tr>
+<tr>
+<td style="text-align:center">7th</td>
+<td style="text-align:center">+3</td>
+<td style="text-align:center">1d8</td>
+<td style="text-align:center">60/120</td>
+<td style="text-align:center">4</td>
+<td style="text-align:center">3</td>
+<td style="text-align:center">+15 ft.</td>
+<td style="text-align:left">Specialization feature</td>
+</tr>
+<tr>
+<td style="text-align:center">8th</td>
+<td style="text-align:center">+3</td>
+<td style="text-align:center">1d8</td>
+<td style="text-align:center">60/120</td>
+<td style="text-align:center">4</td>
+<td style="text-align:center">3</td>
+<td style="text-align:center">+15 ft.</td>
+<td style="text-align:left">Ability Score Improvement</td>
+</tr>
+<tr>
+<td style="text-align:center">9th</td>
+<td style="text-align:center">+4</td>
+<td style="text-align:center">1d8</td>
+<td style="text-align:center">60/120</td>
+<td style="text-align:center">5</td>
+<td style="text-align:center">3</td>
+<td style="text-align:center">+15 ft.</td>
+<td style="text-align:left">Shunt</td>
+</tr>
+<tr>
+<td style="text-align:center">10th</td>
+<td style="text-align:center">+4</td>
+<td style="text-align:center">1d8</td>
+<td style="text-align:center">100/200</td>
+<td style="text-align:center">5</td>
+<td style="text-align:center">3</td>
+<td style="text-align:center">+20 ft.</td>
+<td style="text-align:left">Breath of Wind</td>
+</tr>
+<tr>
+<td style="text-align:center">11th</td>
+<td style="text-align:center">+4</td>
+<td style="text-align:center">1d8</td>
+<td style="text-align:center">100/200</td>
+<td style="text-align:center">6</td>
+<td style="text-align:center">4</td>
+<td style="text-align:center">+20 ft.</td>
+<td style="text-align:left">Specialization feature</td>
+</tr>
+<tr>
+<td style="text-align:center">12th</td>
+<td style="text-align:center">+4</td>
+<td style="text-align:center">1d8</td>
+<td style="text-align:center">100/200</td>
+<td style="text-align:center">6</td>
+<td style="text-align:center">4</td>
+<td style="text-align:center">+20 ft.</td>
+<td style="text-align:left">Ability Score Improvement</td>
+</tr>
+<tr>
+<td style="text-align:center">13th</td>
+<td style="text-align:center">+5</td>
+<td style="text-align:center">1d10</td>
+<td style="text-align:center">100/200</td>
+<td style="text-align:center">7</td>
+<td style="text-align:center">4</td>
+<td style="text-align:center">+20 ft.</td>
+<td style="text-align:left">Wind Reader</td>
+</tr>
+<tr>
+<td style="text-align:center">14th</td>
+<td style="text-align:center">+5</td>
+<td style="text-align:center">1d10</td>
+<td style="text-align:center">150/300</td>
+<td style="text-align:center">7</td>
+<td style="text-align:center">4</td>
+<td style="text-align:center">+25 ft.</td>
+<td style="text-align:left">Psychic Bending</td>
+</tr>
+<tr>
+<td style="text-align:center">15th</td>
+<td style="text-align:center">+5</td>
+<td style="text-align:center">1d10</td>
+<td style="text-align:center">150/300</td>
+<td style="text-align:center">8</td>
+<td style="text-align:center">5</td>
+<td style="text-align:center">+25 ft.</td>
+<td style="text-align:left">?</td>
+</tr>
+<tr>
+<td style="text-align:center">16th</td>
+<td style="text-align:center">+5</td>
+<td style="text-align:center">1d10</td>
+<td style="text-align:center">150/300</td>
+<td style="text-align:center">8</td>
+<td style="text-align:center">5</td>
+<td style="text-align:center">+25 ft.</td>
+<td style="text-align:left">Ability Score Improvement</td>
+</tr>
+<tr>
+<td style="text-align:center">17th</td>
+<td style="text-align:center">+6</td>
+<td style="text-align:center">1d10</td>
+<td style="text-align:center">150/300</td>
+<td style="text-align:center">9</td>
+<td style="text-align:center">5</td>
+<td style="text-align:center">+25 ft.</td>
+<td style="text-align:left">Specialization feature</td>
+</tr>
+<tr>
+<td style="text-align:center">18th</td>
+<td style="text-align:center">+5</td>
+<td style="text-align:center">1d10</td>
+<td style="text-align:center">200/400</td>
+<td style="text-align:center">9</td>
+<td style="text-align:center">5</td>
+<td style="text-align:center">+30 ft.</td>
+<td style="text-align:left">–</td>
+</tr>
+<tr>
+<td style="text-align:center">19th</td>
+<td style="text-align:center">+5</td>
+<td style="text-align:center">1d10</td>
+<td style="text-align:center">200/400</td>
+<td style="text-align:center">10</td>
+<td style="text-align:center">5</td>
+<td style="text-align:center">+30 ft.</td>
+<td style="text-align:left">Ability Score Improvement</td>
+</tr>
+<tr>
+<td style="text-align:center">20th</td>
+<td style="text-align:center">+5</td>
+<td style="text-align:center">1d10</td>
+<td style="text-align:center">200/400</td>
+<td style="text-align:center">10</td>
+<td style="text-align:center">6</td>
+<td style="text-align:center">+30 ft.</td>
+<td style="text-align:left">Element of Freedom</td>
+</tr>
+</tbody>
+</table>
+</div>
 
 <div class="formCard air">
     <h4>Gust</h4>

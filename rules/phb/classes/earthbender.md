@@ -109,7 +109,7 @@ At 1st level, you realize that you have an innate ability to control earth. You 
 
 <h5 class="tableHeader">The Earthbender</h5>
   
-|Level| Proficiency Bonus | Bending | Capacity | Range | Forms Known | Chi per Attack | Features |
+<!-- |Level| Proficiency Bonus | Bending | Capacity | Range | Forms Known | Chi per Attack | Features |
 |:---:|:--:|:-----:|:----:|:-----:|:--:|:--:|:---------------------------------------|
 | 1st | +2 | 1d6   | 1  | 30/60 | –  | 1 | Earthbending, Bending Attack
 | 2nd | +2 | 1d6   | 1  | 30/60 | 1  | 1 | Stance, Earthbending Forms
@@ -130,7 +130,226 @@ At 1st level, you realize that you have an innate ability to control earth. You 
 |17th | +6 | 1d12  | 8  |150/300| 9  | 5 | Specialization feature
 |18th | +6 | 1d12  | 8  |200/400| 9  | 5 | –
 |19th | +6 | 1d12  | 8  |200/400| 10 | 6 | Ability Score Improvement
-|20th | +6 | 1d12  | 8  |200/400| 10 | 6 | Element of Substance
+|20th | +6 | 1d12  | 8  |200/400| 10 | 6 | Element of Substance -->
+
+<div class="scrollTable">
+<table>
+<thead>
+<tr>
+<th style="text-align:center">Level</th>
+<th style="text-align:center">Proficiency Bonus</th>
+<th style="text-align:center">Bending</th>
+<th style="text-align:center">Capacity</th>
+<th style="text-align:center">Range</th>
+<th style="text-align:center">Forms Known</th>
+<th style="text-align:center">Chi per Attack</th>
+<th style="text-align:left">Features</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">1st</td>
+<td style="text-align:center">+2</td>
+<td style="text-align:center">1d6</td>
+<td style="text-align:center">1</td>
+<td style="text-align:center">30/60</td>
+<td style="text-align:center">–</td>
+<td style="text-align:center">1</td>
+<td style="text-align:left">Earthbending, Bending Attack</td>
+</tr>
+<tr>
+<td style="text-align:center">2nd</td>
+<td style="text-align:center">+2</td>
+<td style="text-align:center">1d6</td>
+<td style="text-align:center">1</td>
+<td style="text-align:center">30/60</td>
+<td style="text-align:center">1</td>
+<td style="text-align:center">1</td>
+<td style="text-align:left">Stance, Earthbending Forms</td>
+</tr>
+<tr>
+<td style="text-align:center">3rd</td>
+<td style="text-align:center">+2</td>
+<td style="text-align:center">1d6</td>
+<td style="text-align:center">1</td>
+<td style="text-align:center">30/60</td>
+<td style="text-align:center">2</td>
+<td style="text-align:center">2</td>
+<td style="text-align:left">Earthwall</td>
+</tr>
+<tr>
+<td style="text-align:center">4th</td>
+<td style="text-align:center">+2</td>
+<td style="text-align:center">1d6</td>
+<td style="text-align:center">2</td>
+<td style="text-align:center">30/60</td>
+<td style="text-align:center">2</td>
+<td style="text-align:center">2</td>
+<td style="text-align:left">Ability Score Improvement, Burrow</td>
+</tr>
+<tr>
+<td style="text-align:center">5th</td>
+<td style="text-align:center">+3</td>
+<td style="text-align:center">1d8</td>
+<td style="text-align:center">2</td>
+<td style="text-align:center">60/120</td>
+<td style="text-align:center">3</td>
+<td style="text-align:center">2</td>
+<td style="text-align:left">Earthbending specialization</td>
+</tr>
+<tr>
+<td style="text-align:center">6th</td>
+<td style="text-align:center">+3</td>
+<td style="text-align:center">1d8</td>
+<td style="text-align:center">2</td>
+<td style="text-align:center">60/120</td>
+<td style="text-align:center">3</td>
+<td style="text-align:center">2</td>
+<td style="text-align:left">Rolling Earth, Expansion and Compaction</td>
+</tr>
+<tr>
+<td style="text-align:center">7th</td>
+<td style="text-align:center">+3</td>
+<td style="text-align:center">1d8</td>
+<td style="text-align:center">2</td>
+<td style="text-align:center">60/120</td>
+<td style="text-align:center">4</td>
+<td style="text-align:center">3</td>
+<td style="text-align:left">Specialization feature</td>
+</tr>
+<tr>
+<td style="text-align:center">8th</td>
+<td style="text-align:center">+3</td>
+<td style="text-align:center">1d8</td>
+<td style="text-align:center">4</td>
+<td style="text-align:center">60/120</td>
+<td style="text-align:center">4</td>
+<td style="text-align:center">3</td>
+<td style="text-align:left">Ability Score Improvement</td>
+</tr>
+<tr>
+<td style="text-align:center">9th</td>
+<td style="text-align:center">+4</td>
+<td style="text-align:center">1d8</td>
+<td style="text-align:center">4</td>
+<td style="text-align:center">60/120</td>
+<td style="text-align:center">5</td>
+<td style="text-align:center">3</td>
+<td style="text-align:left">Chi-Empowered Reflex</td>
+</tr>
+<tr>
+<td style="text-align:center">10th</td>
+<td style="text-align:center">+4</td>
+<td style="text-align:center">1d8</td>
+<td style="text-align:center">4</td>
+<td style="text-align:center">100/200</td>
+<td style="text-align:center">5</td>
+<td style="text-align:center">3</td>
+<td style="text-align:left">?</td>
+</tr>
+<tr>
+<td style="text-align:center">11th</td>
+<td style="text-align:center">+4</td>
+<td style="text-align:center">1d10</td>
+<td style="text-align:center">4</td>
+<td style="text-align:center">100/200</td>
+<td style="text-align:center">6</td>
+<td style="text-align:center">4</td>
+<td style="text-align:left">Specialization feature</td>
+</tr>
+<tr>
+<td style="text-align:center">12th</td>
+<td style="text-align:center">+4</td>
+<td style="text-align:center">1d10</td>
+<td style="text-align:center">4</td>
+<td style="text-align:center">100/200</td>
+<td style="text-align:center">6</td>
+<td style="text-align:center">4</td>
+<td style="text-align:left">Ability Score Improvement</td>
+</tr>
+<tr>
+<td style="text-align:center">13th</td>
+<td style="text-align:center">+5</td>
+<td style="text-align:center">1d10</td>
+<td style="text-align:center">4</td>
+<td style="text-align:center">100/200</td>
+<td style="text-align:center">7</td>
+<td style="text-align:center">4</td>
+<td style="text-align:left">Dust Step</td>
+</tr>
+<tr>
+<td style="text-align:center">14th</td>
+<td style="text-align:center">+5</td>
+<td style="text-align:center">1d10</td>
+<td style="text-align:center">4</td>
+<td style="text-align:center">150/300</td>
+<td style="text-align:center">7</td>
+<td style="text-align:center">4</td>
+<td style="text-align:left">Psychic Bending</td>
+</tr>
+<tr>
+<td style="text-align:center">15th</td>
+<td style="text-align:center">+5</td>
+<td style="text-align:center">1d10</td>
+<td style="text-align:center">8</td>
+<td style="text-align:center">150/300</td>
+<td style="text-align:center">8</td>
+<td style="text-align:center">5</td>
+<td style="text-align:left">?</td>
+</tr>
+<tr>
+<td style="text-align:center">16th</td>
+<td style="text-align:center">+5</td>
+<td style="text-align:center">1d10</td>
+<td style="text-align:center">8</td>
+<td style="text-align:center">150/300</td>
+<td style="text-align:center">8</td>
+<td style="text-align:center">5</td>
+<td style="text-align:left">Ability Score Improvement</td>
+</tr>
+<tr>
+<td style="text-align:center">17th</td>
+<td style="text-align:center">+6</td>
+<td style="text-align:center">1d12</td>
+<td style="text-align:center">8</td>
+<td style="text-align:center">150/300</td>
+<td style="text-align:center">9</td>
+<td style="text-align:center">5</td>
+<td style="text-align:left">Specialization feature</td>
+</tr>
+<tr>
+<td style="text-align:center">18th</td>
+<td style="text-align:center">+6</td>
+<td style="text-align:center">1d12</td>
+<td style="text-align:center">8</td>
+<td style="text-align:center">200/400</td>
+<td style="text-align:center">9</td>
+<td style="text-align:center">5</td>
+<td style="text-align:left">–</td>
+</tr>
+<tr>
+<td style="text-align:center">19th</td>
+<td style="text-align:center">+6</td>
+<td style="text-align:center">1d12</td>
+<td style="text-align:center">8</td>
+<td style="text-align:center">200/400</td>
+<td style="text-align:center">10</td>
+<td style="text-align:center">6</td>
+<td style="text-align:left">Ability Score Improvement</td>
+</tr>
+<tr>
+<td style="text-align:center">20th</td>
+<td style="text-align:center">+6</td>
+<td style="text-align:center">1d12</td>
+<td style="text-align:center">8</td>
+<td style="text-align:center">200/400</td>
+<td style="text-align:center">10</td>
+<td style="text-align:center">6</td>
+<td style="text-align:left">Element of Substance</td>
+</tr>
+</tbody>
+</table>
+</div>
 
 <!--/div-->
 

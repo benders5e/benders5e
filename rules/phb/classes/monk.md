@@ -81,7 +81,7 @@ At 1st level, your practice of martial arts gives you mastery of combat styles t
 
 <h5 class="tableHeader">The Monk</h5>
   
-|Level|Proficiency Bonus|Martial Arts|Chi Points|Unarmored Movement| Features |
+<!-- |Level|Proficiency Bonus|Martial Arts|Chi Points|Unarmored Movement| Features |
 |:---:|:---------------:|:----------:|:--------:|:----------------:|:---------|
 | 1st |+2  | 1d4  | – | –        | Unarmored Defense, Martial Arts
 | 2nd | +2 | 1d4  | 1 | +10 ft.  | Chi, Unarmored Movement
@@ -102,7 +102,184 @@ At 1st level, your practice of martial arts gives you mastery of combat styles t
 |17th | +6 | 1d10 | 5 | +25 ft.  | Monastic Tradition Feature
 |18th | +5 | 1d10 | 5 | +30 ft.  | ?
 |19th | +5 | 1d10 | 5 | +30 ft.  | Ability Score Improvement
-|20th | +5 | 1d10 | 6 | +30 ft.  | Perfect Self
+|20th | +5 | 1d10 | 6 | +30 ft.  | Perfect Self -->
+
+<div class="scrollTable">
+<table>
+<thead>
+<tr>
+<th style="text-align:center">Level</th>
+<th style="text-align:center">Proficiency Bonus</th>
+<th style="text-align:center">Martial Arts</th>
+<th style="text-align:center">Chi Points</th>
+<th style="text-align:center">Unarmored Movement</th>
+<th style="text-align:left">Features</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">1st</td>
+<td style="text-align:center">+2</td>
+<td style="text-align:center">1d4</td>
+<td style="text-align:center">–</td>
+<td style="text-align:center">–</td>
+<td style="text-align:left">Unarmored Defense, Martial Arts</td>
+</tr>
+<tr>
+<td style="text-align:center">2nd</td>
+<td style="text-align:center">+2</td>
+<td style="text-align:center">1d4</td>
+<td style="text-align:center">1</td>
+<td style="text-align:center">+10 ft.</td>
+<td style="text-align:left">Chi, Unarmored Movement</td>
+</tr>
+<tr>
+<td style="text-align:center">3rd</td>
+<td style="text-align:center">+2</td>
+<td style="text-align:center">1d4</td>
+<td style="text-align:center">2</td>
+<td style="text-align:center">+10 ft.</td>
+<td style="text-align:left">Monastic Tradition, Deflect Missiles</td>
+</tr>
+<tr>
+<td style="text-align:center">4th</td>
+<td style="text-align:center">+2</td>
+<td style="text-align:center">1d4</td>
+<td style="text-align:center">2</td>
+<td style="text-align:center">+10 ft.</td>
+<td style="text-align:left">Ability Score Improvement, Slow Fall</td>
+</tr>
+<tr>
+<td style="text-align:center">5th</td>
+<td style="text-align:center">+3</td>
+<td style="text-align:center">1d6</td>
+<td style="text-align:center">2</td>
+<td style="text-align:center">+15 ft.</td>
+<td style="text-align:left">Extra Attack, Stunning Strike</td>
+</tr>
+<tr>
+<td style="text-align:center">6th</td>
+<td style="text-align:center">+3</td>
+<td style="text-align:center">1d6</td>
+<td style="text-align:center">2</td>
+<td style="text-align:center">+15 ft.</td>
+<td style="text-align:left">Chi-Empowered Strikes, Monastic Tradition Feature</td>
+</tr>
+<tr>
+<td style="text-align:center">7th</td>
+<td style="text-align:center">+3</td>
+<td style="text-align:center">1d6</td>
+<td style="text-align:center">3</td>
+<td style="text-align:center">+15 ft.</td>
+<td style="text-align:left">Evasion, Stillness of Mind</td>
+</tr>
+<tr>
+<td style="text-align:center">8th</td>
+<td style="text-align:center">+3</td>
+<td style="text-align:center">1d6</td>
+<td style="text-align:center">3</td>
+<td style="text-align:center">+15 ft.</td>
+<td style="text-align:left">Ability Score Improvement</td>
+</tr>
+<tr>
+<td style="text-align:center">9th</td>
+<td style="text-align:center">+4</td>
+<td style="text-align:center">1d6</td>
+<td style="text-align:center">3</td>
+<td style="text-align:center">+15 ft.</td>
+<td style="text-align:left">Unarmored Movement Improvement</td>
+</tr>
+<tr>
+<td style="text-align:center">10th</td>
+<td style="text-align:center">+4</td>
+<td style="text-align:center">1d6</td>
+<td style="text-align:center">3</td>
+<td style="text-align:center">+20 ft.</td>
+<td style="text-align:left">Purity of Body</td>
+</tr>
+<tr>
+<td style="text-align:center">11th</td>
+<td style="text-align:center">+4</td>
+<td style="text-align:center">1d8</td>
+<td style="text-align:center">4</td>
+<td style="text-align:center">+20 ft.</td>
+<td style="text-align:left">Monastic Tradition Feature</td>
+</tr>
+<tr>
+<td style="text-align:center">12th</td>
+<td style="text-align:center">+4</td>
+<td style="text-align:center">1d8</td>
+<td style="text-align:center">4</td>
+<td style="text-align:center">+20 ft.</td>
+<td style="text-align:left">Ability Score Improvement</td>
+</tr>
+<tr>
+<td style="text-align:center">13th</td>
+<td style="text-align:center">+5</td>
+<td style="text-align:center">1d8</td>
+<td style="text-align:center">4</td>
+<td style="text-align:center">+20 ft.</td>
+<td style="text-align:left">?</td>
+</tr>
+<tr>
+<td style="text-align:center">14th</td>
+<td style="text-align:center">+5</td>
+<td style="text-align:center">1d8</td>
+<td style="text-align:center">4</td>
+<td style="text-align:center">+25 ft.</td>
+<td style="text-align:left">Diamond Soul</td>
+</tr>
+<tr>
+<td style="text-align:center">15th</td>
+<td style="text-align:center">+5</td>
+<td style="text-align:center">1d8</td>
+<td style="text-align:center">5</td>
+<td style="text-align:center">+25 ft.</td>
+<td style="text-align:left">Timeless Body</td>
+</tr>
+<tr>
+<td style="text-align:center">16th</td>
+<td style="text-align:center">+5</td>
+<td style="text-align:center">1d8</td>
+<td style="text-align:center">5</td>
+<td style="text-align:center">+25 ft.</td>
+<td style="text-align:left">Ability Score Improvement</td>
+</tr>
+<tr>
+<td style="text-align:center">17th</td>
+<td style="text-align:center">+6</td>
+<td style="text-align:center">1d10</td>
+<td style="text-align:center">5</td>
+<td style="text-align:center">+25 ft.</td>
+<td style="text-align:left">Monastic Tradition Feature</td>
+</tr>
+<tr>
+<td style="text-align:center">18th</td>
+<td style="text-align:center">+5</td>
+<td style="text-align:center">1d10</td>
+<td style="text-align:center">5</td>
+<td style="text-align:center">+30 ft.</td>
+<td style="text-align:left">?</td>
+</tr>
+<tr>
+<td style="text-align:center">19th</td>
+<td style="text-align:center">+5</td>
+<td style="text-align:center">1d10</td>
+<td style="text-align:center">5</td>
+<td style="text-align:center">+30 ft.</td>
+<td style="text-align:left">Ability Score Improvement</td>
+</tr>
+<tr>
+<td style="text-align:center">20th</td>
+<td style="text-align:center">+5</td>
+<td style="text-align:center">1d10</td>
+<td style="text-align:center">6</td>
+<td style="text-align:center">+30 ft.</td>
+<td style="text-align:left">Perfect Self</td>
+</tr>
+</tbody>
+</table>
+</div>
 
 <!--/div-->
 

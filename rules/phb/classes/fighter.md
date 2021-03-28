@@ -290,7 +290,7 @@ Upon choosing this archetype at 3rd level, you gain proficiency with Tinker’s 
 
 <h5 class="tableHeader">Firearms</h5>
 
-| Name        | Cost    | Ammo     | Damage       |Weight | Range  | Properties
+<!-- | Name        | Cost    | Ammo     | Damage       |Weight | Range  | Properties
 |:------------|--------:|:--------:|:-------------|------:|:------:|:------------
 | Palm Pistol | 50gp    | 2gp (20) | 1d8 piercing | 1 lb. | 40/160 | Light, reload 1, misfire 1
 | Pistol      | 150gp   | 4gp (20) | 1d10 piercing| 3 lb. | 60/240 | Reload 4, misfire 1
@@ -298,7 +298,88 @@ Upon choosing this archetype at 3rd level, you gain proficiency with Tinker’s 
 | Pepperbox   | 250gp   | 4gp (20) | 1d10 piercing| 5 lb. | 80/320 | Reload 6, misfire 2
 | Blunderbuss | 300gp   | 5gp (5)  | 2d8 piercing | 10 lb.| 15/60  | Reload 1, misfire 2
 | Bad News    | Crafted | 10gp (5) | 2d12 piercing| 25 lb.| 200/800| Two-handed, reload 1, misfire 3
-| Hand Mortar | Crafted | 10gp (1) | 2d8 fire     | 10 lb.| 30/60  | Reload 1, misfire 3, explosive
+| Hand Mortar | Crafted | 10gp (1) | 2d8 fire     | 10 lb.| 30/60  | Reload 1, misfire 3, explosive -->
+
+<div class="scrollTable">
+<table>
+<thead>
+<tr>
+<th style="text-align:left">Name</th>
+<th style="text-align:right">Cost</th>
+<th style="text-align:center">Ammo</th>
+<th style="text-align:left">Damage</th>
+<th style="text-align:right">Weight</th>
+<th style="text-align:center">Range</th>
+<th style="text-align:left">Properties</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left">Palm Pistol</td>
+<td style="text-align:right">50gp</td>
+<td style="text-align:center">2gp (20)</td>
+<td style="text-align:left">1d8 piercing</td>
+<td style="text-align:right">1 lb.</td>
+<td style="text-align:center">40/160</td>
+<td style="text-align:left">Light, reload 1, misfire 1</td>
+</tr>
+<tr>
+<td style="text-align:left">Pistol</td>
+<td style="text-align:right">150gp</td>
+<td style="text-align:center">4gp (20)</td>
+<td style="text-align:left">1d10 piercing</td>
+<td style="text-align:right">3 lb.</td>
+<td style="text-align:center">60/240</td>
+<td style="text-align:left">Reload 4, misfire 1</td>
+</tr>
+<tr>
+<td style="text-align:left">Musket</td>
+<td style="text-align:right">300gp</td>
+<td style="text-align:center">5gp (20)</td>
+<td style="text-align:left">1d12 piercing</td>
+<td style="text-align:right">10 lb.</td>
+<td style="text-align:center">120/480</td>
+<td style="text-align:left">Two-handed, reload 1, misfire 2</td>
+</tr>
+<tr>
+<td style="text-align:left">Pepperbox</td>
+<td style="text-align:right">250gp</td>
+<td style="text-align:center">4gp (20)</td>
+<td style="text-align:left">1d10 piercing</td>
+<td style="text-align:right">5 lb.</td>
+<td style="text-align:center">80/320</td>
+<td style="text-align:left">Reload 6, misfire 2</td>
+</tr>
+<tr>
+<td style="text-align:left">Blunderbuss</td>
+<td style="text-align:right">300gp</td>
+<td style="text-align:center">5gp (5)</td>
+<td style="text-align:left">2d8 piercing</td>
+<td style="text-align:right">10 lb.</td>
+<td style="text-align:center">15/60</td>
+<td style="text-align:left">Reload 1, misfire 2</td>
+</tr>
+<tr>
+<td style="text-align:left">Bad News</td>
+<td style="text-align:right">Crafted</td>
+<td style="text-align:center">10gp (5)</td>
+<td style="text-align:left">2d12 piercing</td>
+<td style="text-align:right">25 lb.</td>
+<td style="text-align:center">200/800</td>
+<td style="text-align:left">Two-handed, reload 1, misfire 3</td>
+</tr>
+<tr>
+<td style="text-align:left">Hand Mortar</td>
+<td style="text-align:right">Crafted</td>
+<td style="text-align:center">10gp (1)</td>
+<td style="text-align:left">2d8 fire</td>
+<td style="text-align:right">10 lb.</td>
+<td style="text-align:center">30/60</td>
+<td style="text-align:left">Reload 1, misfire 3, explosive</td>
+</tr>
+</tbody>
+</table>
+</div>
 
 <!--/div-->
 

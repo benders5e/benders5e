@@ -7,6 +7,7 @@ parent: Tools
 
 This is a tool to help GMs keep track of players in a pro bending match. See the pro bending rules [here](/rules/pro-bending).
 
+<div class="scrollTable">
 <table id="player-table">
     <col class="name-col">
     <col class="ac-col">
@@ -42,6 +43,7 @@ This is a tool to help GMs keep track of players in a pro bending match. See the
     </tr>
     </tbody>
 </table>
+</div>
 
 <p id="result" style="color: red;"></p>
 
