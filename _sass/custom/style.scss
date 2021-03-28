@@ -31,6 +31,60 @@ img {
 /*******************
 * Sidebar navigation
 *******************/
+.mobile-nav {
+  position: relative;
+  background-color: #fdfdfd;
+  // border: 1px solid #e8e8e8;
+  // border-radius: 5px;
+  text-align: left;
+  float: left;
+  margin-top: 10px;
+}
+.mobile-nav label[for="nav-triggerSection"] {
+  display: block;
+  float: left;
+  z-index: 2;
+  cursor: pointer;
+}
+label .navbar-brand {
+  vertical-align: text-top;
+}
+.mobile-nav .menu-icon {
+  display: block;
+  float: left;
+  width: 36px;
+  height: 26px;
+  line-height: 0;
+  padding-top: 10px;
+  text-align: center;
+}
+.mobile-nav .menu-icon > svg {
+  // fill: #424242;
+}
+.triggerSection {
+  display: block;
+}
+.mobile-nav .nav-triggerSection {
+  display: none;
+}
+.mobile-nav input ~ .triggerSection {
+  clear: both;
+  display: none;
+}
+.mobile-nav input:checked ~ .triggerSection {
+  display: block;
+  padding-bottom: 5px;
+}
+.mobile-nav .page-link {
+  display: block;
+  padding: 5px 10px;
+  margin-right: 20px;
+  margin-left: 0;
+  color: #111;
+  line-height: 1.5;
+}
+
+// old -----
 .pagenav {
   width: 100%;
   padding-top: 75px;
@@ -84,6 +138,15 @@ img {
   background-color: white;
   z-index: 1;
   width: 100%;
+  border-bottom: 1px solid #e8e8e8;
+}
+.background.mobile.bottom {
+  position: sticky;
+  bottom: 0;
+  width: 100%;
+  background-color: white;
+  z-index: 1;
+  border-top: 1px solid #e8e8e8;
 }
 .wrapper.mobile {
   width: initial;
@@ -98,7 +161,14 @@ img {
   visibility: hidden;
   height: 0;
 }
+.mobile #nav-subsections .nav-link {
+  padding: 0.5rem;
+}
 @media only screen and (min-width : 320px) and (max-width : 1260px) {
+  .wrapper {
+    width: 100%;
+    min-width: initial;
+  }
   .nav-area {
     height: 75vh;
   }
