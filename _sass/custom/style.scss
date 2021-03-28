@@ -105,7 +105,7 @@ label .navbar-brand {
 }
 .wrapper {
   position: relative;
-  width: 50%;
+  width: 85%;
   min-width: 500px;
 }
 .nav-area {
@@ -321,7 +321,10 @@ blockquote h5, .formCard h5 {
 }
 .scrollTable {
   overflow-x: scroll;
-  width: 95vw;
+  width: 100%;
+}
+.scrollTable table th, .scrollTable table td{
+  padding: 10px 10px;
 }
 
 /*******************
