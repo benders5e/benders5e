@@ -7,7 +7,7 @@ nav-hide: true
 
 <!-- Homebrewery Link: https://homebrewery.naturalcrit.com/edit/PZMEFOb7Xg -->
 
-<div class="class-pdf">
+<div class="pdf-link">
 <a href="/assets/pdf/monk.pdf"><i class="far fa-file-pdf"></i>
 PDF version</a> 
 <br/>(out-of-date)

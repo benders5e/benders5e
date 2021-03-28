@@ -7,7 +7,7 @@ nav-hide: true
 
 <!-- Homebrewery Link: https://homebrewery.naturalcrit.com/edit/JxnmsfRamH -->
 
-<div class="class-pdf">
+<div class="pdf-link">
 <a href="/assets/pdf/fighter.pdf"><i class="far fa-file-pdf"></i>
 PDF version</a> 
 <br/>(out-of-date)

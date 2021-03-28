@@ -7,7 +7,7 @@ nav-hide: true
 
 <!-- Homebrewery Link: https://homebrewery.naturalcrit.com/edit/nv_PIRHWxL -->
 
-<div class="class-pdf">
+<div class="pdf-link">
 <a href="/assets/pdf/water.pdf"><i class="far fa-file-pdf"></i>
 PDF version</a> 
 <br/>(out-of-date)

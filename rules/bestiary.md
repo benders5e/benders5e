@@ -9,9 +9,10 @@ order: 4
 
 <style>{%- include css/bestiary.css -%}</style>
 
+<div class="pdf-link">
 <a target="_blank" href="https://homebrewery.naturalcrit.com/share/ksPLgQJdQSvo">
 <i class="far fa-file-pdf"></i>
-PDF version</a> 
+PDF version</a></div>
 
 <h1 id="bestiary" class="center-title">
 Bestiary

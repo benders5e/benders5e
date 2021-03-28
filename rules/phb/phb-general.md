@@ -6,7 +6,7 @@ permalink: /rules/phb/general
 order: 2
 ---
 
-<div class="class-pdf">
+<div class="pdf-link">
 <a href="/assets/pdf/FULL.pdf"><i class="far fa-file-pdf"></i>
 Full rules PDF</a> 
 <br/>(out-of-date)
