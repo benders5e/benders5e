@@ -9,6 +9,9 @@ var appendRowPos = 2;
 
 var rows = [];
 
+/*****
+ * update HP based on user input
+ */
 function updateHP(event, inputField, myRow) {
     var oldHP = myRow.currHP;
     var index = myRow.id;
@@ -59,6 +62,7 @@ function updateHP(event, inputField, myRow) {
             if(numHPBoundaryCrossings == 0) {
                 newDist = oldDist - dmg;
             }
+            // if newDist is negative, you crossed a zone
             let numDmgCrossings = 0;
             while(newDist <= 0) {
                 numDmgCrossings = numDmgCrossings+1;
@@ -104,6 +108,9 @@ function updateHP(event, inputField, myRow) {
     }
 }
 
+/*****
+ * add a new character to the tracker
+ */
 function addChar() {
     /*** create new row ***/
     let newRow = myTable.insertRow(appendRowPos);
@@ -179,6 +186,10 @@ function addChar() {
     // update position for next append
     appendRowPos++;
 }
+/*****
+ * reset a character to starting values
+ * (HP and zone)
+ */
 function resetChar(myRow) {
     myRow.currHP = myRow.hp3.textContent;
     myRow.hpField.value = myRow.currHP;
