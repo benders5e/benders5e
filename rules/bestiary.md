@@ -1,5 +1,5 @@
 ---
-layout: pagenav
+layout: scrollspy
 title: Bestiary
 parent: Rules
 permalink: /rules/bestiary/
@@ -13,7 +13,9 @@ order: 4
 <i class="far fa-file-pdf"></i>
 PDF version</a> 
 
-# Bestiary
+<h1 id="bestiary" class="center-title">
+Bestiary
+</h1>
 
 <!-- 
 <style>
@@ -21,14 +23,23 @@ PDF version</a>
     visibility: hidden;
     height: 0em !important;
   }
+  img {
+    width: 325px;
+  }
+  .subsection {
+    visibility: hidden;
+    height: 0px;
+  }
 </style>
 -->
+
+<div class="subsection siteOnly"><a id="b">B</a></div>
 
 <!--
 Based on Badger: https://www.dndbeyond.com/monsters/badger
 and Dogmole: https://www.5esrd.com/gamemastering/monsters-foes/monsters-by-type/beasts/dogmole-3pp/
 -->
-<img class="siteOnly" src='https://static.wikia.nocookie.net/avatar/images/0/0c/Badgermoles.png' style='width:325px;'/>
+<img class="siteOnly" src='https://static.wikia.nocookie.net/avatar/images/0/0c/Badgermoles.png'/>
 
 <hr class="HBonly">
 
@@ -42,11 +53,11 @@ and Dogmole: https://www.5esrd.com/gamemastering/monsters-foes/monsters-by-type/
 > - **Speed** 30 ft., burrow 10 ft.
 >
 >___
+> <div class="scrollTable"><table><thead><tr><th style="text-align:center">STR</th><th style="text-align:center">DEX</th><th style="text-align:center">CON</th><th style="text-align:center">INT</th><th style="text-align:center">WIS</th><th style="text-align:center">CHA</th></tr></thead><tbody><tr><td style="text-align:center">14 (+2)</td><td style="text-align:center">11 (+0)</td><td style="text-align:center">17 (+3)</td><td style="text-align:center">9 (-1)</td><td style="text-align:center">12 (+1)</td><td style="text-align:center">10 (+0)</td></tr></tbody></table></div>
 >
->|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+> <!-- |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 >|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
->|14 (+2)|11 (+0)|17 (+3)| 9 (-1)|12 (+1)|10 (+0)|
->
+>|14 (+2)|11 (+0)|17 (+3)| 9 (-1)|12 (+1)|10 (+0)| -->
 >___
 >
 > - **Condition Immunities** blinded
@@ -69,10 +80,10 @@ and Dogmole: https://www.5esrd.com/gamemastering/monsters-foes/monsters-by-type/
 >
 > ***Claw.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. *Hit:* 12 (3d6 +2) slashing damage.
 
-<img class="HBonly" src='https://static.wikia.nocookie.net/avatar/images/0/0c/Badgermoles.png' style='width:325px;'/>
+<img class="HBonly" src='https://static.wikia.nocookie.net/avatar/images/0/0c/Badgermoles.png'/>
 
 <!------------------------------------- -------------------------------------------->
-<img src='https://static.wikia.nocookie.net/avatar/images/5/55/Buzzard_wasps.png' style='width:325px;'/>
+<img src='https://static.wikia.nocookie.net/avatar/images/5/55/Buzzard_wasps.png'/>
 
 <hr class="HBonly">
 
@@ -86,10 +97,10 @@ and Dogmole: https://www.5esrd.com/gamemastering/monsters-foes/monsters-by-type/
 >- **Speed** 10 ft., fly 50 ft.
 >
 > ___  
->
->|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+> <div class="scrollTable"><table><thead><tr><th style="text-align:center">STR</th><th style="text-align:center">DEX</th><th style="text-align:center">CON</th><th style="text-align:center">INT</th><th style="text-align:center">WIS</th><th style="text-align:center">CHA</th></tr></thead><tbody><tr><td style="text-align:center">15 (+2)</td><td style="text-align:center">12 (+1)</td><td style="text-align:center">15 (+2)</td><td style="text-align:center">1 (-5)</td><td style="text-align:center">10 (+0)</td><td style="text-align:center">3 (-4)</td></tr></tbody></table></div>
+> <!-- |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 >|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
->|15 (+2)|12 (+1)|15 (+2)| 1 (-5)|10 (+0)| 3 (-4)|  
+>|15 (+2)|12 (+1)|15 (+2)| 1 (-5)|10 (+0)| 3 (-4)|   -->
 >
 > ___
 >
@@ -114,7 +125,9 @@ and Dogmole: https://www.5esrd.com/gamemastering/monsters-foes/monsters-by-type/
 
 <div class="HBonly">\page</div>
 
-<img src='https://static.wikia.nocookie.net/avatar/images/9/90/Canyon_crawler.png' style='width:325px'/>
+<div class="subsection siteOnly"><a id="c">C</a></div>
+
+<img src='https://static.wikia.nocookie.net/avatar/images/9/90/Canyon_crawler.png'/>
 
 <hr class="HBonly">
 
@@ -128,10 +141,10 @@ and Dogmole: https://www.5esrd.com/gamemastering/monsters-foes/monsters-by-type/
 > - **Speed** 40 ft.
 >
 >___
->
->|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+> <div class="scrollTable"><table><thead><tr><th style="text-align:center">STR</th><th style="text-align:center">DEX</th><th style="text-align:center">CON</th><th style="text-align:center">INT</th><th style="text-align:center">WIS</th><th style="text-align:center">CHA</th></tr></thead><tbody><tr><td style="text-align:center">15 (+2)</td><td style="text-align:center">13 (+1)</td><td style="text-align:center">13 (+1)</td><td style="text-align:center">1 (-5)</td><td style="text-align:center">9 (-1)</td><td style="text-align:center">3 (-4)</td></tr></tbody></table></div>
+><!-- |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 >|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
->|15 (+2)|13 (+1)|13 (+1)| 1 (-5)| 9 (-1)| 3 (-4)|
+>|15 (+2)|13 (+1)|13 (+1)| 1 (-5)| 9 (-1)| 3 (-4)| -->
 >
 >___
 >
@@ -155,7 +168,7 @@ and Dogmole: https://www.5esrd.com/gamemastering/monsters-foes/monsters-by-type/
 <!-- based on Crocodile -->
 <!-- Catgators are the bottom-feeders of the swamp. Although they appear to be ferocious animals, they are actually docile toward humans. -->
 
-<img class="siteOnly" src='https://static.wikia.nocookie.net/avatar/images/6/6c/Slim.png' style='width: 325px'/>
+<img class="siteOnly" src='https://static.wikia.nocookie.net/avatar/images/6/6c/Slim.png'/>
 
 <hr class="HBonly">
 
@@ -169,10 +182,10 @@ and Dogmole: https://www.5esrd.com/gamemastering/monsters-foes/monsters-by-type/
 > - **Speed** 20 ft., swim 30 ft.
 >
 >___
->
->|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+> <div class="scrollTable"><table><thead><tr><th style="text-align:center">STR</th><th style="text-align:center">DEX</th><th style="text-align:center">CON</th><th style="text-align:center">INT</th><th style="text-align:center">WIS</th><th style="text-align:center">CHA</th></tr></thead><tbody><tr><td style="text-align:center">15 (+2)</td><td style="text-align:center">10 (+0)</td><td style="text-align:center">13 (+1)</td><td style="text-align:center">2 (-4)</td><td style="text-align:center">10 (+0)</td><td style="text-align:center">5 (-3)</td></tr></tbody></table></div>
+><!-- |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 >|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
->|15 (+2)|10 (+0)|13 (+1)| 2 (-4)|10 (+0)| 5 (-3)|
+>|15 (+2)|10 (+0)|13 (+1)| 2 (-4)|10 (+0)| 5 (-3)| -->
 >
 >___
 >
@@ -186,7 +199,7 @@ and Dogmole: https://www.5esrd.com/gamemastering/monsters-foes/monsters-by-type/
 > ### Actions
 > ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 7 (1d10 + 2) piercing damage, and the target is grappled. Until this grapple ends, the target is restrained, and the crocodile can't bite another target.
 
-<img class="HBonly" src='https://static.wikia.nocookie.net/avatar/images/6/6c/Slim.png' style='width: 325px'/>
+<img class="HBonly" src='https://static.wikia.nocookie.net/avatar/images/6/6c/Slim.png'/>
 
 <div class='pageNumber auto'></div>
 <div class='footnote'>Benders 5e | BESTIARY</div>
@@ -199,6 +212,8 @@ and Dogmole: https://www.5esrd.com/gamemastering/monsters-foes/monsters-by-type/
 
 <span style="display: inline-block;">Credits: Avatar Wiki (Lady Lostris)</span>
 -->
+
+<div class="subsection siteOnly"><a id="e">E</a></div>
 
 <!-- https://www.dandwiki.com/wiki/Leech_(5e_Creature) -->
 <img class="siteOnly" src='https://static.wikia.nocookie.net/avatar/images/6/6b/Elbow_leech.png'/>
@@ -215,10 +230,10 @@ and Dogmole: https://www.5esrd.com/gamemastering/monsters-foes/monsters-by-type/
 > - **Speed** 5 ft., climb 5 ft., swim 20 ft.
 >
 >___
->
->|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+> <div class="scrollTable"><table><thead><tr><th style="text-align:center">STR</th><th style="text-align:center">DEX</th><th style="text-align:center">CON</th><th style="text-align:center">INT</th><th style="text-align:center">WIS</th><th style="text-align:center">CHA</th></tr></thead><tbody><tr><td style="text-align:center">5 (-3)</td><td style="text-align:center">10 (+0)</td><td style="text-align:center">10 (+0)</td><td style="text-align:center">1 (-5)</td><td style="text-align:center">5 (-3)</td><td style="text-align:center">1 (-5)</td></tr></tbody></table></div>
+><!-- |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 >|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
->| 5 (-3)|10 (+0)|10 (+0)| 1 (-5)| 5 (-3)| 1 (-5)|
+>| 5 (-3)|10 (+0)|10 (+0)| 1 (-5)| 5 (-3)| 1 (-5)| -->
 >
 >___
 >
@@ -243,7 +258,9 @@ and Dogmole: https://www.5esrd.com/gamemastering/monsters-foes/monsters-by-type/
 
 <div class="HBonly" style="height: 200px;"></div>
 
-<img src='https://static.wikia.nocookie.net/avatar/images/3/37/Flying_bison_family.png' style='width:325px;'/>
+<div class="subsection siteOnly"><a id="f">F</a></div>
+
+<img src='https://static.wikia.nocookie.net/avatar/images/3/37/Flying_bison_family.png'/>
 
 <p class="description">Also known as sky bison or air bison, flying bison are the original airbenders.</p>
 
@@ -259,10 +276,10 @@ and Dogmole: https://www.5esrd.com/gamemastering/monsters-foes/monsters-by-type/
 > - **Speed** 30 ft., fly 60 ft.
 >
 >___
->
->|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+> <div class="scrollTable"><table><thead><tr><th style="text-align:center">STR</th><th style="text-align:center">DEX</th><th style="text-align:center">CON</th><th style="text-align:center">INT</th><th style="text-align:center">WIS</th><th style="text-align:center">CHA</th></tr></thead><tbody><tr><td style="text-align:center">22 (+6)</td><td style="text-align:center">12 (+1)</td><td style="text-align:center">17 (+3)</td><td style="text-align:center">9 (-1)</td><td style="text-align:center">12 (+1)</td><td style="text-align:center">10 (+0)</td></tr></tbody></table></div>
+><!-- |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 >|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
->|22 (+6)|12 (+1)|17 (+3)| 9 (-1)|12 (+1)|10 (+0)|
+>|22 (+6)|12 (+1)|17 (+3)| 9 (-1)|12 (+1)|10 (+0)| -->
 >
 >___
 >
@@ -278,6 +295,8 @@ and Dogmole: https://www.5esrd.com/gamemastering/monsters-foes/monsters-by-type/
 > ***Stomp.*** *Melee Weapon Attack:* +8 to hit, reach 5 ft., one creature. Hit: 22 (3d10 + 6) bludgeoning damage.
 
 <!-- elephant -->
+
+<div class="subsection siteOnly"><a id="g">G</a></div>
 
 <img class="siteOnly" src='https://static.wikia.nocookie.net/avatar/images/f/f2/Giant_rhinoceros_beetle.png'/>
 
@@ -295,10 +314,10 @@ and Dogmole: https://www.5esrd.com/gamemastering/monsters-foes/monsters-by-type/
 > - **Speed** 30 ft.
 >
 >___
->
->|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+> <div class="scrollTable"><table><thead><tr><th style="text-align:center">STR</th><th style="text-align:center">DEX</th><th style="text-align:center">CON</th><th style="text-align:center">INT</th><th style="text-align:center">WIS</th><th style="text-align:center">CHA</th></tr></thead><tbody><tr><td style="text-align:center">18 (+4)</td><td style="text-align:center">9 (-1)</td><td style="text-align:center">15 (+2)</td><td style="text-align:center">2 (-4)</td><td style="text-align:center">11 (+0)</td><td style="text-align:center">3 (-4)</td></tr></tbody></table></div>
+><!-- |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 >|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
->|18 (+4)| 9 (-1)|15 (+2)| 2 (-4)|11 (+0)| 3 (-4)|
+>|18 (+4)| 9 (-1)|15 (+2)| 2 (-4)|11 (+0)| 3 (-4)| -->
 >
 >___
 >
@@ -317,7 +336,7 @@ and Dogmole: https://www.5esrd.com/gamemastering/monsters-foes/monsters-by-type/
 
 <div class="HBonly">\page</div>
 
-<img src='https://static.wikia.nocookie.net/avatar/images/4/4a/Gilacorn.png' style='width:325px'/>
+<img src='https://static.wikia.nocookie.net/avatar/images/4/4a/Gilacorn.png'/>
 
 <hr class="HBonly">
 
@@ -331,10 +350,10 @@ and Dogmole: https://www.5esrd.com/gamemastering/monsters-foes/monsters-by-type/
 > - **Speed** 20 ft., climb 20 ft.
 >
 >___
->
->|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+> <div class="scrollTable"><table><thead><tr><th style="text-align:center">STR</th><th style="text-align:center">DEX</th><th style="text-align:center">CON</th><th style="text-align:center">INT</th><th style="text-align:center">WIS</th><th style="text-align:center">CHA</th></tr></thead><tbody><tr><td style="text-align:center">2 (-4)</td><td style="text-align:center">11 (+0)</td><td style="text-align:center">10 (+0)</td><td style="text-align:center">1 (-5)</td><td style="text-align:center">8 (-1)</td><td style="text-align:center">3 (-4)</td></tr></tbody></table></div>
+><!-- |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 >|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
->| 2 (-4)|11 (+0)|10 (+0)| 1 (-5)| 8 (-1)| 3 (-4)|
+>| 2 (-4)|11 (+0)|10 (+0)| 1 (-5)| 8 (-1)| 3 (-4)| -->
 >
 >___
 >
@@ -346,7 +365,9 @@ and Dogmole: https://www.5esrd.com/gamemastering/monsters-foes/monsters-by-type/
 > ### Actions
 > ***Bite.*** *Melee Weapon Attack:* +0 to hit, reach 5ft., one target. *Hit* 1 percing damage + 1 poison damage.
 
-<img class="siteOnly" src='https://static.wikia.nocookie.net/avatar/images/2/2f/Hawky.png'/>
+<div class="subsection siteOnly"><a id="h">H</a></div>
+
+<img class="siteOnly" src='https://static.wikia.nocookie.net/avatar/images/2/2f/Hawky.png' style="max-width:250px;"/>
 
 <hr class="HBonly">
 
@@ -360,10 +381,10 @@ and Dogmole: https://www.5esrd.com/gamemastering/monsters-foes/monsters-by-type/
 > - **Speed** 10 ft., fly 60 ft.
 >
 >___
->
->|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+> <div class="scrollTable"><table><thead><tr><th style="text-align:center">STR</th><th style="text-align:center">DEX</th><th style="text-align:center">CON</th><th style="text-align:center">INT</th><th style="text-align:center">WIS</th><th style="text-align:center">CHA</th></tr></thead><tbody><tr><td style="text-align:center">5 (-3)</td><td style="text-align:center">16 (+3)</td><td style="text-align:center">8 (-1)</td><td style="text-align:center">6 (-2)</td><td style="text-align:center">14 (+2)</td><td style="text-align:center">6 (-2)</td></tr></tbody></table></div>
+><!-- |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 >|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
->| 5 (-3)|16 (+3)| 8 (-1)| 6 (-2)|14 (+2)| 6 (-2)|
+>| 5 (-3)|16 (+3)| 8 (-1)| 6 (-2)|14 (+2)| 6 (-2)| -->
 >
 >___
 >
@@ -388,9 +409,13 @@ and Dogmole: https://www.5esrd.com/gamemastering/monsters-foes/monsters-by-type/
 
 <div class="HBonly">\page</div>
 
-<div style="text-align: center; height: 400px;" class="wide">
+<div class="subsection siteOnly"><a id="l">L</a></div>
+
+<div style="text-align: center; height: 400px;" class="wide HBonly">
   <img src='https://static.wikia.nocookie.net/avatar/images/6/60/Lion_turtle_drawing.png' style='width:500px;'/>
 </div>
+
+<img class="siteOnly" src='https://static.wikia.nocookie.net/avatar/images/6/60/Lion_turtle_drawing.png' style="max-width: 500px; width: 75%;"/>
 
 <!--
 Based on Dragon Turtle: https://www.dndbeyond.com/monsters/dragon-turtle
@@ -410,10 +435,10 @@ Consulted Lion stat block but didn't use it: https://www.dndbeyond.com/monsters/
 > - **Speed** 20 ft., swim 40 ft. 
 >
 >___
->
->|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+> <div class="scrollTable"><table><thead><tr><th style="text-align:center">STR</th><th style="text-align:center">DEX</th><th style="text-align:center">CON</th><th style="text-align:center">INT</th><th style="text-align:center">WIS</th><th style="text-align:center">CHA</th></tr></thead><tbody><tr><td style="text-align:center">25 (+7)</td><td style="text-align:center">8 (-1)</td><td style="text-align:center">20 (+5)</td><td style="text-align:center">12 (+1)</td><td style="text-align:center">14 (+2)</td><td style="text-align:center">10 (+0)</td></tr></tbody></table></div>
+><!-- |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 >|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
->|25 (+7)| 8 (-1)|20 (+5)|12 (+1)|14 (+2)|10 (+0)|
+>|25 (+7)| 8 (-1)|20 (+5)|12 (+1)|14 (+2)|10 (+0)| -->
 >
 >___
 >
@@ -450,7 +475,10 @@ Consulted Lion stat block but didn't use it: https://www.dndbeyond.com/monsters/
 
 <div class="HBonly">\page</div>
 
-<img src='https://static.wikia.nocookie.net/avatar/images/d/db/Otter_penguin_colony.png' style='width:300px'/>
+<div class="subsection siteOnly"><a id="o">O</a></div>
+
+<img class="HBonly" src='https://static.wikia.nocookie.net/avatar/images/d/db/Otter_penguin_colony.png' style='width:300px'/>
+<img class="siteOnly" src='https://static.wikia.nocookie.net/avatar/images/d/db/Otter_penguin_colony.png'/>
 
 <hr class="HBonly">
 
@@ -464,10 +492,10 @@ Consulted Lion stat block but didn't use it: https://www.dndbeyond.com/monsters/
 > - **Speed** 5 ft., climb 5 ft., swim 20 ft.
 >
 >___
->
->|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+> <div class="scrollTable"><table><thead><tr><th style="text-align:center">STR</th><th style="text-align:center">DEX</th><th style="text-align:center">CON</th><th style="text-align:center">INT</th><th style="text-align:center">WIS</th><th style="text-align:center">CHA</th></tr></thead><tbody><tr><td style="text-align:center">5 (-3)</td><td style="text-align:center">15 (+2)</td><td style="text-align:center">14 (+2)</td><td style="text-align:center">1 (-5)</td><td style="text-align:center">3 (-4)</td><td style="text-align:center">6 (-2)</td></tr></tbody></table></div>
+><!-- |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 >|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
->| 5 (-3)|15 (+2)|14 (+2)| 1 (-5)| 3 (-4)| 6 (-2)|
+>| 5 (-3)|15 (+2)|14 (+2)| 1 (-5)| 3 (-4)| 6 (-2)| -->
 >
 >___
 >
@@ -479,7 +507,9 @@ Consulted Lion stat block but didn't use it: https://www.dndbeyond.com/monsters/
 > ___
 > ***Graceful.*** Otter penguins are extremely agile swimmers, and this agility can also be seen when an otter penguin slides down the icy slopes. Although shy and easily frightened, a penguin can easily be lured with some fish and will allow a human to ride it like a sled.
 
-<img class="siteOnly" src='https://static.wikia.nocookie.net/avatar/images/f/f7/Platypus_bear_egg.png' style='width:325px'/>
+<div class="subsection siteOnly"><a id="p">P</a></div>
+
+<img class="siteOnly" src='https://static.wikia.nocookie.net/avatar/images/f/f7/Platypus_bear_egg.png'/>
 
 <hr class="HBonly">
 
@@ -493,10 +523,10 @@ Consulted Lion stat block but didn't use it: https://www.dndbeyond.com/monsters/
 > - **Speed** 40 ft., climb 30 ft.
 >
 >___
->
->|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+> <div class="scrollTable"><table><thead><tr><th style="text-align:center">STR</th><th style="text-align:center">DEX</th><th style="text-align:center">CON</th><th style="text-align:center">INT</th><th style="text-align:center">WIS</th><th style="text-align:center">CHA</th></tr></thead><tbody><tr><td style="text-align:center">19 (+4)</td><td style="text-align:center">10 (+0)</td><td style="text-align:center">16 (+3)</td><td style="text-align:center">2 (-4)</td><td style="text-align:center">13 (+1)</td><td style="text-align:center">7 (-2)</td></tr></tbody></table></div>
+><!-- |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 >|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
->|19 (+4)|10 (+0)|16 (+3)| 2 (-4)|13 (+1)| 7 (-2)|
+>|19 (+4)|10 (+0)|16 (+3)| 2 (-4)|13 (+1)| 7 (-2)| -->
 >
 >___
 >
@@ -518,13 +548,13 @@ Consulted Lion stat block but didn't use it: https://www.dndbeyond.com/monsters/
 >
 > ***Tail.*** The target must make a DC 12 Dexterity (Acrobatics) saving throw. On a failure, it takes 5 (1d6 + 2) bludgeoning damage and is knocked prone.
 
-<img class="HBonly" src='https://static.wikia.nocookie.net/avatar/images/f/f7/Platypus_bear_egg.png' style='width:325px'/>
+<img class="HBonly" src='https://static.wikia.nocookie.net/avatar/images/f/f7/Platypus_bear_egg.png'/>
 <div class='pageNumber auto'></div>
 <div class='footnote'>Benders 5e | BESTIARY</div>
 
 <div class="HBonly">\page</div>
 
-<img class="siteOnly" src='https://static.wikia.nocookie.net/avatar/images/4/4e/Polar_bear_dog.png' style='width:325px'/>
+<img class="siteOnly" src='https://static.wikia.nocookie.net/avatar/images/4/4e/Polar_bear_dog.png'/>
 
 <hr class="HBonly">
 
@@ -538,10 +568,10 @@ Consulted Lion stat block but didn't use it: https://www.dndbeyond.com/monsters/
 > - **Speed** 40 ft., swim 30 ft.
 >
 >___
->
->|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+> <div class="scrollTable"><table><thead><tr><th style="text-align:center">STR</th><th style="text-align:center">DEX</th><th style="text-align:center">CON</th><th style="text-align:center">INT</th><th style="text-align:center">WIS</th><th style="text-align:center">CHA</th></tr></thead><tbody><tr><td style="text-align:center">20 (+5)</td><td style="text-align:center">12 (+1)</td><td style="text-align:center">16 (+3)</td><td style="text-align:center">3 (-4)</td><td style="text-align:center">12 (+1)</td><td style="text-align:center">6 (-2)</td></tr></tbody></table></div>
+><!-- |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 >|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
->|20 (+5)|12 (+1)|16 (+3)| 3 (-4)|12 (+1)| 6 (-2)|
+>|20 (+5)|12 (+1)|16 (+3)| 3 (-4)|12 (+1)| 6 (-2)| -->
 >
 >___
 >
@@ -563,9 +593,9 @@ Consulted Lion stat block but didn't use it: https://www.dndbeyond.com/monsters/
 
 <!-- maybe nerf to CR 1 -->
 
-<img class="HBonly" src='https://static.wikia.nocookie.net/avatar/images/4/4e/Polar_bear_dog.png' style='width:325px'/>
+<img class="HBonly" src='https://static.wikia.nocookie.net/avatar/images/4/4e/Polar_bear_dog.png'/>
 
-<img src='https://nglaeser.keybase.pub/Other/Bestiary/Purple_Pentapus_(cropped).png' style='width: 325px;'/>
+<img src='https://nglaeser.keybase.pub/Other/Bestiary/Purple_Pentapus_(cropped).png'/>
 
 <hr class="HBonly">
 
@@ -579,10 +609,10 @@ Consulted Lion stat block but didn't use it: https://www.dndbeyond.com/monsters/
 > - **Speed** 5 ft., swim 30 ft.
 >
 >___
->
->|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+> <div class="scrollTable"><table><thead><tr><th style="text-align:center">STR</th><th style="text-align:center">DEX</th><th style="text-align:center">CON</th><th style="text-align:center">INT</th><th style="text-align:center">WIS</th><th style="text-align:center">CHA</th></tr></thead><tbody><tr><td style="text-align:center">4 (-3)</td><td style="text-align:center">13 (+1)</td><td style="text-align:center">11 (+0)</td><td style="text-align:center">3 (-4)</td><td style="text-align:center">10 (+0)</td><td style="text-align:center">6 (-2)</td></tr></tbody></table></div>
+><!-- |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 >|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
->| 4 (-3)|13 (+1)|11 (+0)| 3 (-4)|10 (+0)| 6 (-2)|
+>| 4 (-3)|13 (+1)|11 (+0)| 3 (-4)|10 (+0)| 6 (-2)| -->
 >
 >___
 >
@@ -605,7 +635,9 @@ Consulted Lion stat block but didn't use it: https://www.dndbeyond.com/monsters/
 
 <div class="HBonly">\page</div>
 
-<img src='https://static.wikia.nocookie.net/avatar/images/8/89/Serpent.png' style='width:325px;'/>
+<div class="subsection siteOnly"><a id="s">S</a></div>
+
+<img src='https://static.wikia.nocookie.net/avatar/images/8/89/Serpent.png'/>
 
 <!-- https://www.dandwiki.com/wiki/Young_Sea_Serpent_(5e_Creature) -->
 
@@ -627,10 +659,10 @@ The serpent inhavits the lakes surrounding the Serpent's Pass in the Earth Natio
 > - **Speed** swim 60 ft.
 >
 >___
->
->|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+> <div class="scrollTable"><table><thead><tr><th style="text-align:center">STR</th><th style="text-align:center">DEX</th><th style="text-align:center">CON</th><th style="text-align:center">INT</th><th style="text-align:center">WIS</th><th style="text-align:center">CHA</th></tr></thead><tbody><tr><td style="text-align:center">22 (+6)</td><td style="text-align:center">13 (+1)</td><td style="text-align:center">17 (+3)</td><td style="text-align:center">9 (-1)</td><td style="text-align:center">13 (+1)</td><td style="text-align:center">9 (-1)</td></tr></tbody></table></div>
+><!-- |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 >|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
->|22 (+6)|13 (+1)|17 (+3)| 9 (-1)|13 (+1)| 9 (-1)|
+>|22 (+6)|13 (+1)|17 (+3)| 9 (-1)|13 (+1)| 9 (-1)| -->
 >
 >___
 >
@@ -647,8 +679,10 @@ The serpent inhavits the lakes surrounding the Serpent's Pass in the Earth Natio
 >
 > ***Constrict.*** *Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit* 15 (2d8 + 6) bludgeoning damage, and the target is grappled (escape DC 16). Until this grapple ends, the creature is restrained, and the serpent can't constrict another target.
 
+<div class="subsection siteOnly"><a id="t">T</a></div>
+
 <div class="siteOnly" style="text-align: center;">
-<img src='https://nglaeser.keybase.pub/Other/Bestiary/Tiger_Seal.png' style="width: 400px;"/>
+<img src='https://nglaeser.keybase.pub/Other/Bestiary/Tiger_Seal.png' style="max-width: 400px;"/>
 </div>
 
 <hr class="HBonly">
@@ -665,10 +699,10 @@ The serpent inhavits the lakes surrounding the Serpent's Pass in the Earth Natio
 > - **Speed** 20 ft., swim 40 ft.
 >
 >___
->
->|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+> <div class="scrollTable"><table><thead><tr><th style="text-align:center">STR</th><th style="text-align:center">DEX</th><th style="text-align:center">CON</th><th style="text-align:center">INT</th><th style="text-align:center">WIS</th><th style="text-align:center">CHA</th></tr></thead><tbody><tr><td style="text-align:center">15 (+2)</td><td style="text-align:center">14 (+2)</td><td style="text-align:center">13 (+1)</td><td style="text-align:center">3 (-4)</td><td style="text-align:center">12 (+1)</td><td style="text-align:center">5 (-3)</td></tr></tbody></table></div>
+><!-- |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 >|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
->|15 (+2)|14 (+2)|13 (+1)| 3 (-4)|12 (+1)| 5 (-3)|
+>|15 (+2)|14 (+2)|13 (+1)| 3 (-4)|12 (+1)| 5 (-3)| -->
 >
 >___
 >
@@ -693,7 +727,7 @@ The serpent inhavits the lakes surrounding the Serpent's Pass in the Earth Natio
 
 <div class="HBonly">\page</div>
 
-<img class="siteOnly" src='https://static.wikia.nocookie.net/avatar/images/8/87/Turtle_ducks.png' style='width:325px;'/>
+<img class="siteOnly" src='https://static.wikia.nocookie.net/avatar/images/8/87/Turtle_ducks.png'/>
 
 <hr class="HBonly">
 
@@ -707,10 +741,10 @@ The serpent inhavits the lakes surrounding the Serpent's Pass in the Earth Natio
 > - **Speed** 20 ft., swim 20 ft.
 >
 >___
->
->|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+> <div class="scrollTable"><table><thead><tr><th style="text-align:center">STR</th><th style="text-align:center">DEX</th><th style="text-align:center">CON</th><th style="text-align:center">INT</th><th style="text-align:center">WIS</th><th style="text-align:center">CHA</th></tr></thead><tbody><tr><td style="text-align:center">3 (-4)</td><td style="text-align:center">10 (+0)</td><td style="text-align:center">8 (-1)</td><td style="text-align:center">2 (-4)</td><td style="text-align:center">12 (+1)</td><td style="text-align:center">12 (+1)</td></tr></tbody></table></div>
+><!-- |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 >|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
->| 3 (-4)|10 (+0)| 8 (-1)| 2 (-4)|12 (+1)|12 (+1)|
+>| 3 (-4)|10 (+0)| 8 (-1)| 2 (-4)|12 (+1)|12 (+1)| -->
 >
 >___
 >
@@ -723,11 +757,13 @@ The serpent inhavits the lakes surrounding the Serpent's Pass in the Earth Natio
 > ### Actions
 > ***Bite.*** *Melee Weapon Attack:* +2 to hit, one target. *Hit:* 1 piercing damage.
 
-<img class="HBonly" src='https://static.wikia.nocookie.net/avatar/images/8/87/Turtle_ducks.png' style='width:325px;'/>
+<img class="HBonly" src='https://static.wikia.nocookie.net/avatar/images/8/87/Turtle_ducks.png'/>
 
 <div class="HBonly" style="height: 2em;"></div>
 
-<img src='https://static.wikia.nocookie.net/avatar/images/6/67/Winged_lemur.png' style='width:325px;'/>
+<div class="subsection siteOnly"><a id="w">W</a></div>
+
+<img src='https://static.wikia.nocookie.net/avatar/images/6/67/Winged_lemur.png'/>
 
 <hr class="HBonly">
 
@@ -741,10 +777,10 @@ The serpent inhavits the lakes surrounding the Serpent's Pass in the Earth Natio
 > - **Speed** 30 ft., climb 20 ft., fly 30 ft.
 >
 >___
->
->|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+> <div class="scrollTable"><table><thead><tr><th style="text-align:center">STR</th><th style="text-align:center">DEX</th><th style="text-align:center">CON</th><th style="text-align:center">INT</th><th style="text-align:center">WIS</th><th style="text-align:center">CHA</th></tr></thead><tbody><tr><td style="text-align:center">8 (-1)</td><td style="text-align:center">14 (+2)</td><td style="text-align:center">11 (+0)</td><td style="text-align:center">8 (-1)</td><td style="text-align:center">12 (+1)</td><td style="text-align:center">6 (-2)</td></tr></tbody></table></div>
+><!-- |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 >|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
->| 8 (-1)|14 (+2)|11 (+0)| 8 (-1)|12 (+1)| 6 (-2)|
+>| 8 (-1)|14 (+2)|11 (+0)| 8 (-1)|12 (+1)| 6 (-2)| -->
 >
 >___
 >

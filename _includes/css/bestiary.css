@@ -31,7 +31,7 @@ blockquote {
     margin-left: 30px !important;
     margin-bottom: 15px !important;
 }
-/* (sort of) fix image spacing */
+/* image spacing and size */
 img:not(.HBonly) {
     padding-top: 15px;
     margin-bottom: 0px;
@@ -39,6 +39,11 @@ img:not(.HBonly) {
 p img:not(.HBonly) {
     padding-top: 30px;
 }
+img {
+    max-width: 325px;
+    width: 75%;
+}
+/* credits */
 .credits {
     font-family: 'Averia Libre', cursive;
     text-transform: uppercase;

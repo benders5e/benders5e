@@ -59,7 +59,7 @@ let navSubsectionTitles;
 if(currSection.id == "classes") {
     // navSubsectionTitles = classes;
     navSubsectionTitles = [];
-} else if(currSection.id == "feats") {
+} else if(currSection.id == "feats" || currSection.id == "bestiary") {
     navSubsectionTitles = document.querySelectorAll(".subsection a");
 } else if(currSection.id == "backgrounds" || currSection.id == "equipment") {
     navSubsectionTitles = document.querySelectorAll("main h2");
@@ -96,7 +96,7 @@ for(let i = 0; i < navSubsectionTitles.length; i++) {
 subsectionNavbar.appendChild(subsectionSublist);
 if(currSection.id == "classes")
     subsectionNavbar.style.cssText = "padding:0;"
-if(currSection.id == "feats") {
+if(currSection.id == "feats" || currSection.id == "bestiary") {
     const navRight = document.querySelector(".widescreen #navbar-right");
     navRight.appendChild(subsectionNavbar);
     console.log(subsectionNavbar);
