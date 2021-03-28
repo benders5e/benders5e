@@ -5,13 +5,11 @@ permalink: /rules/phb/feats/
 nav-hide: true
 ---
 
-<!-- <div class="subsection"><a id="top">Top</a></div> -->
-
 <!-- Homebrewery Link: https://homebrewery.naturalcrit.com/edit/vP9MXg6ODF -->
 
 <h1 id="feats" class="center-title change">Feats</h1>
 
-<div class="subsection"><a id="a">A</a></div>
+<div class="anchor"><a id="a">A</a></div>
 
 ### Actor
 Skilled at mimicry and dramatics, you gain the following benefits:
@@ -32,7 +30,7 @@ You have undergone extensive physical training to gain the following benefits:
 - Climbing doesn’t halve your speed.
 - You can make a running long jump or a running high jump after moving only 5 feet on foot, rather than 10 feet. 
 
-<div class="subsection"><a id="c">C</a></div>
+<div class="anchor"><a id="c">C</a></div>
 
 ### Charger
 When you use your action to Dash, you can use a bonus action to make one melee weapon attack or to shove a creature.
@@ -44,7 +42,7 @@ Thanks to extensive practice with the crossbow, you gain the following benefits:
 - Being within 5 feet of a hostile creature doesn’t impose disadvantage on your ranged attack rolls.
 - When you use the Attack action and attack with a one-handed weapon, you can use a bonus action to attack with a loaded hand crossbow you are holding.
 
-<div class="subsection"><a id="d">D</a></div>
+<div class="anchor"><a id="d">D</a></div>
 
 ### Defensive Duelist
 *Prerequisite: Dexterity 13 or higher*  
@@ -69,7 +67,7 @@ Hardy and resilient, you gain the following benefits:
 - Increase your Constitution score by 1, to a maximum of 20.
 - When you roll a Hit Die to regain hit points, the minimum number of hit points you regain from the roll equals twice your Constitution modifier (minimum of 2). 
 
-<div class="subsection"><a id="e">E</a></div>
+<div class="anchor"><a id="e">E</a></div>
 
 <h3 class="new">Elemental Parry</h3>
 You've become adept at fighting benders of a particular element of your choice. You gain the following benefits:
@@ -88,13 +86,13 @@ You've become adept at fighting benders of a particular element of your choice. 
 
 - If you already have superiority dice, you gain one more; otherwise, you have one superiority die, which is a d6. This die is used to fuel your maneuvers. A superiority die is expended when you use it. You regain your expended superiority dice when you finish a short or long rest.
 
-<div class="subsection"><a id="f">F</a></div>
+<div class="anchor"><a id="f">F</a></div>
 
 <h3 class="new">Fortuneteller</h3>
 - Increase your Intelligence or Wisdom score by 1, to a maximum of 20.
 - You can cast the spell *Augury* at will (you must have the necessary material components). 
 
-<div class="subsection"><a id="g">G</a></div>
+<div class="anchor"><a id="g">G</a></div>
 
 ### Grappler
 *Prerequisite: Strength 13 or higher*  
@@ -108,7 +106,7 @@ You’ve learned to put the weight of a weapon to your advantage, letting its mo
 - On your turn, when you score a critical hit with a melee weapon or reduce a creature to 0 hit points with one, you can make one melee weapon attack as a bonus action.
 - Before you make a melee attack with a heavy weapon that you are proficient with, you can choose to take a - 5 penalty to the attack roll. If the attack hits, you add +10 to the attack’s damage. 
 
-<div class="subsection"><a id="h">H</a></div>
+<div class="anchor"><a id="h">H</a></div>
 
 ### Healer
 You are an able physician, allowing you to mend wounds quickly and get your allies back in the fight. You gain the following benefits:
@@ -127,7 +125,7 @@ You can use your armor to deflect strikes that would kill others. You gain the f
 - Increase your Strength score by 1, to a maximum of 20.
 - While you are wearing heavy armor, bludgeoning, piercing, and slashing damage that you take from non magical weapons is reduced by 3. 
 
-<div class="subsection"><a id="i">I</a></div>
+<div class="anchor"><a id="i">I</a></div>
 
 ### Inspiring Leader
 *Prerequisite: Charisma 13 or higher*  
@@ -135,7 +133,7 @@ You can spend 10 minutes inspiring your companions, shoring up their resolve to 
 
 A creature can’t gain temporary hit points from this feat again until it has finished a short or long rest. 
 
-<div class="subsection"><a id="k">J</a></div>
+<div class="anchor"><a id="k">J</a></div>
 
 ### Keen Mind
 You have a mind that can track time, direction, and detail with uncanny precision. You gain the following benefits:
@@ -144,7 +142,7 @@ You have a mind that can track time, direction, and detail with uncanny precisio
 - You always know the number of hours left before the next sunrise or sunset.
 - You can accurately recall anything you have seen or heard within the past month. 
 
-<div class="subsection"><a id="l">L</a></div>
+<div class="anchor"><a id="l">L</a></div>
 
 ### Lightly Armored
 You have trained to master the use of light armor, gaining the following benefits:
@@ -162,7 +160,7 @@ If more than one creature spends a luck point to influence the outcome of a roll
 
 You regain your expended luck points when you finish a long rest. 
 
-<div class="subsection"><a id="m">M</a></div>
+<div class="anchor"><a id="m">M</a></div>
 
 ### Martial Adept
 You have martial training that allows you to perform special combat maneuvers. You gain the following benefits:
@@ -202,7 +200,7 @@ You are a dangerous foe to face while mounted. While you are mounted and aren’
 - You can force an attack targeted at your mount to target you instead.
 - If your mount is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, it instead takes no damage if it succeeds on the saving throw, and only half damage if it fails. 
 
-<div class="subsection"><a id="o">O</a></div>
+<div class="anchor"><a id="o">O</a></div>
 
 ### Observant
 Quick to notice details of your environment, you gain the following benefits:
@@ -210,14 +208,14 @@ Quick to notice details of your environment, you gain the following benefits:
 - If you can see a creature’s mouth while it is speaking a language you understand, you can interpret what it’s saying by reading its lips.
 - You have a +5 bonus to your passive Wisdom (Perception) and passive Intelligence (Investigation) scores. 
 
-<div class="subsection"><a id="p">P</a></div>
+<div class="anchor"><a id="p">P</a></div>
 
 ### Polearm Master
 You can keep your enemies at bay with reach weapons. You gain the following benefits:
 - When you take the Attack action and attack with only a glaive, halberd, or quarterstaff, you can use a bonus action to make a melee attack with the opposite end of the weapon. The weapon’s damage die for this attack is a d4, and the attack deals bludgeoning damage.
 - While you are wielding a glaive, halberd, pike, or quarterstaff, other creatures provoke an opportunity attack from you when they enter your reach. 
 
-<div class="subsection"><a id="r">R</a></div>
+<div class="anchor"><a id="r">R</a></div>
 
 ### Resilient
 Choose one ability score. You gain the following benefits:
@@ -233,7 +231,7 @@ Your ingenuity and experience with a variety of adversaries have allowed you to 
 
 When you use this form, you adapt it to use your element instead of the original element, causing it to deal your element's damage type instead of the original damage type. You also use your bending modifiers and DCs.
 
-<div class="subsection"><a id="s">S</a></div>
+<div class="anchor"><a id="s">S</a></div>
 
 ### Savage Attacker
 Once per turn when you roll damage for a melee weapon attack, you can reroll the weapon’s damage dice and use either total. 
@@ -266,7 +264,7 @@ You are expert at slinking through shadows. You gain the following benefits:
 - When you are hidden from a creature and miss it with a ranged weapon attack, making the attack doesn't reveal your position.
 - Dim light doesn’t impose disadvantage on your Wisdom (Perception) checks relying on sight. 
 
-<div class="subsection"><a id="t">T</a></div>
+<div class="anchor"><a id="t">T</a></div>
 
 ### Tavern Brawler
 Accustomed to rough-and-tumble fighting using whatever weapons happen to be at hand, you gain the following benefits:
@@ -284,7 +282,7 @@ Accustomed to rough-and-tumble fighting using whatever weapons happen to be at h
 ### Tough
 Your hit point maximum increases by an amount equal to twice your level when you gain this feat. Whenever you gain a level thereafter, your hit point maximum increases by an additional 2 hit points. 
 
-<div class="subsection"><a id="w">W</a></div>
+<div class="anchor"><a id="w">W</a></div>
 
 ### Weapon Master
 You have practiced extensively with a variety of weapons, gaining the following benefits:

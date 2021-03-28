@@ -36,71 +36,7 @@ img {
 /*******************
 * Sidebar navigation
 *******************/
-.mobile-nav {
-  position: relative;
-  background-color: #fdfdfd;
-  // border: 1px solid #e8e8e8;
-  // border-radius: 5px;
-  text-align: left;
-  float: left;
-  margin-top: 10px;
-}
-.mobile-nav label[for="nav-triggerSection"] {
-  display: block;
-  float: left;
-  z-index: 2;
-  cursor: pointer;
-}
-label .navbar-brand {
-  vertical-align: text-top;
-}
-.mobile-nav .menu-icon {
-  display: block;
-  float: left;
-  width: 36px;
-  height: 26px;
-  line-height: 0;
-  padding-top: 10px;
-  text-align: center;
-}
-.mobile-nav .menu-icon > svg {
-  // fill: #424242;
-}
-.triggerSection {
-  display: block;
-}
-.mobile-nav .nav-triggerSection {
-  display: none;
-}
-.mobile-nav input ~ .triggerSection {
-  clear: both;
-  display: none;
-}
-.mobile-nav input:checked ~ .triggerSection {
-  display: block;
-  padding-bottom: 5px;
-}
-.mobile-nav .page-link {
-  display: block;
-  padding: 5px 10px;
-  margin-right: 20px;
-  margin-left: 0;
-  color: #111;
-  line-height: 1.5;
-}
-
-// old -----
-.pagenav {
-  width: 100%;
-  padding-top: 75px;
-}
-.pagenav.right {
-  margin-right: $spacing-unit * 3;
-}
-.pagenav nav {
-  flex-direction: column;
-}
-.subsection {
+.anchor {
   visibility: hidden;
   height: 0px;
 }
@@ -122,8 +58,12 @@ label .navbar-brand {
 }
 .nav-area.right {
   overflow-y: initial;
+  margin-right: $spacing-unit * 3;
+  right: 0;
 }
-
+.nav-area.widescreen nav.right {
+  margin-right: $spacing-unit * 3;
+}
 .nav-area.section {
   margin-left: $spacing-unit * 2;
   min-width: 220px;
@@ -132,27 +72,14 @@ label .navbar-brand {
 .right .nav-link {
   padding: 0.5rem;
 }
-.nav-area.right {
-  margin-right: $spacing-unit * 3;
-  right: 0;
+.navbar-brand {
+  font-family: 'Averia Libre', cursive;
+  text-transform: uppercase;
 }
-// mobile version
-.background.mobile {
-  position: sticky;
-  top: 0;
-  background-color: white;
-  z-index: 1;
-  width: 100%;
-  border-bottom: 1px solid #e8e8e8;
+#nav-subsections {
+  max-height: 65vh;
 }
-.background.mobile.bottom {
-  position: sticky;
-  bottom: 0;
-  width: 100%;
-  background-color: white;
-  z-index: 1;
-  border-top: 1px solid #e8e8e8;
-}
+/*** mobile version ***/
 .wrapper.mobile {
   width: initial;
 }
@@ -166,8 +93,74 @@ label .navbar-brand {
   visibility: hidden;
   height: 0;
 }
+.background.mobile {
+  position: sticky;
+  top: 0;
+  background-color: white;
+  z-index: 1;
+  width: 100%;
+  border-bottom: 1px solid #e8e8e8;
+}
+.background.mobile.bottom {
+  bottom: 0;
+  z-index: 1;
+  border-top: 1px solid #e8e8e8;
+  border-bottom: 0px;
+}
 .mobile #nav-subsections .nav-link {
   padding: 0.5rem;
+}
+// top
+.mobile-nav {
+  position: relative;
+  background-color: #fdfdfd;
+  text-align: left;
+  float: left;
+  margin-top: 10px;
+}
+.mobile-nav .page-link {
+  display: block;
+  padding: 5px 10px;
+  margin-right: 20px;
+  margin-left: 0;
+  color: #111;
+  line-height: 1.5;
+}
+// hamburger icon stuff
+.mobile-nav label[for="nav-triggerSection"] {
+  display: block;
+  float: left;
+  z-index: 2;
+  cursor: pointer;
+}
+label .navbar-brand {
+  vertical-align: text-top;
+}
+.mobile-nav .menu-icon {
+  display: block;
+  float: left;
+  width: 36px;
+  height: 26px;
+  line-height: 0;
+  padding-top: 10px;
+  text-align: center;
+}
+// .mobile-nav .menu-icon > svg {
+//   fill: $grey-color-dark;
+// }
+.triggerSection {
+  display: block;
+}
+.mobile-nav .nav-triggerSection {
+  display: none;
+}
+.mobile-nav input ~ .triggerSection {
+  clear: both;
+  display: none;
+}
+.mobile-nav input:checked ~ .triggerSection {
+  display: block;
+  padding-bottom: 5px;
 }
 @media only screen and (min-width : 320px) and (max-width : 1280px) {
   .wrapper {
@@ -185,9 +178,6 @@ label .navbar-brand {
     visibility: hidden;
     height: 0;
   }
-  .pagenav.right nav {
-    flex-direction: row;
-  }
   .nav-area.section.mobile {
     visibility: initial;
     height: initial;
@@ -196,22 +186,12 @@ label .navbar-brand {
     visibility: hidden;
     height: 0;
   }
-  .pagenav.section nav {
-    flex-direction: row;
-  }
 }
-.navbar-brand {
-  font-family: 'Averia Libre', cursive;
-  text-transform: uppercase;
-}
-#nav-subsections {
-  max-height: 65vh;
-}
+
 // TODO not sure if belongs here or with site menu
 nav {
   z-index: 3;
 }
-
 // TODO not sure where this is used
 .linkToTop {
   margin-top: 50px;

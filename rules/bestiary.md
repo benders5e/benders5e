@@ -27,14 +27,14 @@ Bestiary
   img {
     width: 325px;
   }
-  .subsection {
+  .anchor {
     visibility: hidden;
     height: 0px;
   }
 </style>
 -->
 
-<div class="subsection siteOnly"><a id="b">B</a></div>
+<div class="anchor siteOnly"><a id="b">B</a></div>
 
 <!--
 Based on Badger: https://www.dndbeyond.com/monsters/badger
@@ -126,7 +126,7 @@ and Dogmole: https://www.5esrd.com/gamemastering/monsters-foes/monsters-by-type/
 
 <div class="HBonly">\page</div>
 
-<div class="subsection siteOnly"><a id="c">C</a></div>
+<div class="anchor siteOnly"><a id="c">C</a></div>
 
 <img src='https://static.wikia.nocookie.net/avatar/images/9/90/Canyon_crawler.png'/>
 
@@ -214,7 +214,7 @@ and Dogmole: https://www.5esrd.com/gamemastering/monsters-foes/monsters-by-type/
 <span style="display: inline-block;">Credits: Avatar Wiki (Lady Lostris)</span>
 -->
 
-<div class="subsection siteOnly"><a id="e">E</a></div>
+<div class="anchor siteOnly"><a id="e">E</a></div>
 
 <!-- https://www.dandwiki.com/wiki/Leech_(5e_Creature) -->
 <img class="siteOnly" src='https://static.wikia.nocookie.net/avatar/images/6/6b/Elbow_leech.png'/>
@@ -259,7 +259,7 @@ and Dogmole: https://www.5esrd.com/gamemastering/monsters-foes/monsters-by-type/
 
 <div class="HBonly" style="height: 200px;"></div>
 
-<div class="subsection siteOnly"><a id="f">F</a></div>
+<div class="anchor siteOnly"><a id="f">F</a></div>
 
 <img src='https://static.wikia.nocookie.net/avatar/images/3/37/Flying_bison_family.png'/>
 
@@ -297,7 +297,7 @@ and Dogmole: https://www.5esrd.com/gamemastering/monsters-foes/monsters-by-type/
 
 <!-- elephant -->
 
-<div class="subsection siteOnly"><a id="g">G</a></div>
+<div class="anchor siteOnly"><a id="g">G</a></div>
 
 <img class="siteOnly" src='https://static.wikia.nocookie.net/avatar/images/f/f2/Giant_rhinoceros_beetle.png'/>
 
@@ -366,7 +366,7 @@ and Dogmole: https://www.5esrd.com/gamemastering/monsters-foes/monsters-by-type/
 > ### Actions
 > ***Bite.*** *Melee Weapon Attack:* +0 to hit, reach 5ft., one target. *Hit* 1 percing damage + 1 poison damage.
 
-<div class="subsection siteOnly"><a id="h">H</a></div>
+<div class="anchor siteOnly"><a id="h">H</a></div>
 
 <img class="siteOnly" src='https://static.wikia.nocookie.net/avatar/images/2/2f/Hawky.png' style="max-width:250px;"/>
 
@@ -410,7 +410,7 @@ and Dogmole: https://www.5esrd.com/gamemastering/monsters-foes/monsters-by-type/
 
 <div class="HBonly">\page</div>
 
-<div class="subsection siteOnly"><a id="l">L</a></div>
+<div class="anchor siteOnly"><a id="l">L</a></div>
 
 <div style="text-align: center; height: 400px;" class="wide HBonly">
   <img src='https://static.wikia.nocookie.net/avatar/images/6/60/Lion_turtle_drawing.png' style='width:500px;'/>
@@ -476,7 +476,7 @@ Consulted Lion stat block but didn't use it: https://www.dndbeyond.com/monsters/
 
 <div class="HBonly">\page</div>
 
-<div class="subsection siteOnly"><a id="o">O</a></div>
+<div class="anchor siteOnly"><a id="o">O</a></div>
 
 <img class="HBonly" src='https://static.wikia.nocookie.net/avatar/images/d/db/Otter_penguin_colony.png' style='width:300px'/>
 <img class="siteOnly" src='https://static.wikia.nocookie.net/avatar/images/d/db/Otter_penguin_colony.png'/>
@@ -508,7 +508,7 @@ Consulted Lion stat block but didn't use it: https://www.dndbeyond.com/monsters/
 > ___
 > ***Graceful.*** Otter penguins are extremely agile swimmers, and this agility can also be seen when an otter penguin slides down the icy slopes. Although shy and easily frightened, a penguin can easily be lured with some fish and will allow a human to ride it like a sled.
 
-<div class="subsection siteOnly"><a id="p">P</a></div>
+<div class="anchor siteOnly"><a id="p">P</a></div>
 
 <img class="siteOnly" src='https://static.wikia.nocookie.net/avatar/images/f/f7/Platypus_bear_egg.png'/>
 
@@ -636,7 +636,7 @@ Consulted Lion stat block but didn't use it: https://www.dndbeyond.com/monsters/
 
 <div class="HBonly">\page</div>
 
-<div class="subsection siteOnly"><a id="s">S</a></div>
+<div class="anchor siteOnly"><a id="s">S</a></div>
 
 <img src='https://static.wikia.nocookie.net/avatar/images/8/89/Serpent.png'/>
 
@@ -680,7 +680,7 @@ The serpent inhavits the lakes surrounding the Serpent's Pass in the Earth Natio
 >
 > ***Constrict.*** *Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit* 15 (2d8 + 6) bludgeoning damage, and the target is grappled (escape DC 16). Until this grapple ends, the creature is restrained, and the serpent can't constrict another target.
 
-<div class="subsection siteOnly"><a id="t">T</a></div>
+<div class="anchor siteOnly"><a id="t">T</a></div>
 
 <div class="siteOnly" style="text-align: center;">
 <img src='https://nglaeser.keybase.pub/Other/Bestiary/Tiger_Seal.png' style="max-width: 400px;"/>
@@ -762,7 +762,7 @@ The serpent inhavits the lakes surrounding the Serpent's Pass in the Earth Natio
 
 <div class="HBonly" style="height: 2em;"></div>
 
-<div class="subsection siteOnly"><a id="w">W</a></div>
+<div class="anchor siteOnly"><a id="w">W</a></div>
 
 <img src='https://static.wikia.nocookie.net/avatar/images/6/67/Winged_lemur.png'/>
 

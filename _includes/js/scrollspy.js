@@ -83,7 +83,7 @@ if(currSection.id == "classes") {
     navSubsectionTitles = [];
     removeMobileSubsectionNav();
 } else if(currSection.id == "feats" || currSection.id == "bestiary") {
-    navSubsectionTitles = document.querySelectorAll(".subsection a");
+    navSubsectionTitles = document.querySelectorAll(".anchor a");
 } else if(currSection.id == "backgrounds" || currSection.id == "equipment") {
     navSubsectionTitles = document.querySelectorAll("main h2");
     removeMobileSubsectionNav();
