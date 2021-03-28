@@ -120,8 +120,8 @@ label .navbar-brand {
 }
 
 .nav-area.section {
-  margin-left: $spacing-unit * 3;
-  min-width: 200px;
+  margin-left: $spacing-unit * 2;
+  min-width: 220px;
   max-width: 340px;
 }
 .right .nav-link {
@@ -165,7 +165,7 @@ label .navbar-brand {
 .mobile #nav-subsections .nav-link {
   padding: 0.5rem;
 }
-@media only screen and (min-width : 320px) and (max-width : 1260px) {
+@media only screen and (min-width : 320px) and (max-width : 1280px) {
   .wrapper {
     width: 90%;
     min-width: initial;
@@ -201,7 +201,7 @@ label .navbar-brand {
   text-transform: uppercase;
 }
 #nav-subsections {
-  max-height: 75vh;
+  max-height: 65vh;
 }
 // TODO not sure if belongs here or with site menu
 nav {

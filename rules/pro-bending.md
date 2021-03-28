@@ -1,12 +1,10 @@
 ---
 parent: Rules
-layout: pagenav
+layout: default
 title: PRO BENDING
 order: 5
 permalink: /rules/pro-bending
 ---
-
-# Pro Bending
 
 The rules of pro bending are pretty simple: take control over the area in a specified amount of time until you either defeat your opponents or win. 
 

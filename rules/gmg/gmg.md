@@ -1,6 +1,6 @@
 ---
 parent: Rules
-layout: pagenav
+layout: scrollspy
 title: GM's Guide
 permalink: /rules/gmg
 order: 3

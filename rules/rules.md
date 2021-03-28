@@ -1,6 +1,6 @@
 ---
 parent: Rules
-layout: pagenav
+layout: notitle
 title: All
 order: 10
 permalink: /rules/

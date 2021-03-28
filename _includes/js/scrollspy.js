@@ -26,8 +26,13 @@ let currSection = document.querySelector("h1");
 let currSectionNav, currSectionNav_mobile, navSectionTitles;
 if(window.location.pathname.includes("phb")) {
     navSectionTitles = navSectionTitlesPHB;
+    let phbTitle = document.createElement("a");
+    phbTitle.innerHTML = '<a class="navbar-brand" href="#">Player\'s Handbook</a>';
+    navSections.before(phbTitle);
 } else if(window.location.pathname.includes("dmg")) {
     navSectionTitles = navSectionTitlesDMG;
+} else {
+    navSectionTitles = [];
 }
 for(let i = 0; i < navSectionTitles.length; i++) {
     let sectionLink = document.createElement("a");
@@ -48,11 +53,8 @@ for(let i = 0; i < navSectionTitles.length; i++) {
     navSectionsMobile.appendChild(mobileSectionLink);
     console.log(navSectionsMobile);
 }
-// let navSectionsMobile = document.querySelector(".mobile .navbar"); // .mobile-nav
-// let sectionsClone = navSections.cloneNode(true);
-// sectionsClone.className = "nav nav-pills";
-// navSectionsMobile.appendChild(sectionsClone);
 
+// subsections
 let navSubsectionTitles;
 if(currSection.id == "classes") {
     // navSubsectionTitles = classes;

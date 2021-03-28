@@ -1,7 +1,7 @@
 ---
 parent: Rules
 # nav-hide: true
-layout: pagenav
+layout: notitle
 title: About
 permalink: /rules/about
 order: 1
