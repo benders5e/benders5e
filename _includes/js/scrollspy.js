@@ -19,6 +19,17 @@ const classes = [
     {textContent: "Waterbender", id: "waterbender", class: "new"},
 ]
 
+function removeMobileSectionNav() {
+    document.querySelector(".background.mobile").style.visibility = "hidden";
+    document.querySelector(".nav-area.section.mobile").style.visibility = "hidden";
+    document.querySelector(".nav-area.section.mobile").style.height = "0";
+}
+function removeMobileSubsectionNav() {
+    document.querySelector(".background.mobile.bottom").style.visibility = "hidden";
+    document.querySelector(".nav-area.subsection.mobile").style.visibility = "hidden";
+    document.querySelector(".nav-area.subsection.mobile").style.height = "0";
+}
+
 // add section titles (left side)
 const navSections = document.querySelector(".widescreen #nav-sections");
 const navSectionsMobile = document.querySelector(".mobile-nav .triggerSection"); 
@@ -26,13 +37,24 @@ let currSection = document.querySelector("h1");
 let currSectionNav, currSectionNav_mobile, navSectionTitles;
 if(window.location.pathname.includes("phb")) {
     navSectionTitles = navSectionTitlesPHB;
+
+    //// add phb title to section menu
+    // desktop
     let phbTitle = document.createElement("a");
     phbTitle.innerHTML = '<a class="navbar-brand" href="#">Player\'s Handbook</a>';
     navSections.before(phbTitle);
-} else if(window.location.pathname.includes("dmg")) {
+    // mobile
+    let phbTitleMobile = document.createElement("span");
+    phbTitleMobile.innerHTML = '<span class="navbar-brand" href="#">Player\'s Handbook</span>';
+    document.querySelector(".mobile-nav label").appendChild(phbTitleMobile);
+} 
+else if(window.location.pathname.includes("gmg")) {
     navSectionTitles = navSectionTitlesDMG;
+    removeMobileSectionNav();
+    removeMobileSubsectionNav();
 } else {
     navSectionTitles = [];
+    removeMobileSectionNav();
 }
 for(let i = 0; i < navSectionTitles.length; i++) {
     let sectionLink = document.createElement("a");
@@ -59,13 +81,17 @@ let navSubsectionTitles;
 if(currSection.id == "classes") {
     // navSubsectionTitles = classes;
     navSubsectionTitles = [];
+    removeMobileSubsectionNav();
 } else if(currSection.id == "feats" || currSection.id == "bestiary") {
     navSubsectionTitles = document.querySelectorAll(".subsection a");
 } else if(currSection.id == "backgrounds" || currSection.id == "equipment") {
     navSubsectionTitles = document.querySelectorAll("main h2");
+    removeMobileSubsectionNav();
     // TODO include sub-lists of h3's in the right navbar
+    // TODO add alphabet scrollspy within background sections
 } else {
     navSubsectionTitles = document.querySelectorAll("h3");
+    removeMobileSubsectionNav();
 }
 
 // add current subsection titles
@@ -101,7 +127,7 @@ if(currSection.id == "feats" || currSection.id == "bestiary") {
     navRight.appendChild(subsectionNavbar);
     console.log(subsectionNavbar);
     console.log(navRight);
-} else {
+} else if (currSectionNav != null) {
     currSectionNav.after(subsectionNavbar);
 }
 
