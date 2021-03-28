@@ -13,8 +13,8 @@ img {
 }
 .pdf-link {
   width: 100%;
-  height: 2em;
   text-align: right;
+  display: inline-block;
 }
 
 /*******************
@@ -145,7 +145,6 @@ label .navbar-brand {
   width: 100%;
   border-bottom: 1px solid #e8e8e8;
 }
-// TODO need to remove this for sites that don't have subsection headers
 .background.mobile.bottom {
   position: sticky;
   bottom: 0;
