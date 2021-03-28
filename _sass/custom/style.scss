@@ -20,6 +20,9 @@ img {
 /*******************
 * Site Menu
 *******************/
+.site-nav, .trigger {
+  z-index: 5;
+}
 .site-nav #dropdownMenuButton:hover {
   text-decoration: none;
   cursor: pointer;
@@ -101,6 +104,9 @@ img {
   width: 100%;
   border-bottom: 1px solid #e8e8e8;
 }
+// .background.mobile, .wrapper.mobile, .nav-area.mobile {
+//   z-index: 1;
+// } // trying to fix iOS bug
 .background.mobile.bottom {
   bottom: 0;
   z-index: 1;
@@ -113,7 +119,6 @@ img {
 // top
 .mobile-nav {
   position: relative;
-  background-color: #fdfdfd;
   text-align: left;
   float: left;
   margin-top: 10px;
@@ -188,10 +193,6 @@ label .navbar-brand {
   }
 }
 
-// TODO not sure if belongs here or with site menu
-nav {
-  z-index: 3;
-}
 // TODO not sure where this is used
 .linkToTop {
   margin-top: 50px;
