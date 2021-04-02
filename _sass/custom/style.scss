@@ -53,11 +53,11 @@ img {
   min-width: 500px;
 }
 .nav-area {
-  margin-top: 100px;
+  margin-top: 90px;
   width: 15%;
   position: fixed;
   overflow-y: scroll;
-  height: 510px;
+  height: 520px;
 }
 .nav-area.right {
   overflow-y: initial;
@@ -81,6 +81,11 @@ img {
 }
 #nav-subsections {
   max-height: 65vh;
+}
+#nav-subsections .class-link {
+  padding-top: 2px;
+  padding-bottom: 2px;
+  margin-bottom: 2px !important;
 }
 /*** mobile version ***/
 .wrapper.mobile {
@@ -123,6 +128,22 @@ img {
   float: left;
   margin-top: 10px;
 }
+.mobile-nav .classes-div {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 5px 30px;
+  margin-right: 20px;
+  margin-left: 0;
+  line-height: 1.5;
+}
+.mobile-nav .classes-div .class-link {
+  display: initial !important;
+  padding: 0px 10px 0px 0px !important;
+  margin: initial !important;
+}
+.mobile-nav .classes-div .page-link.active {
+  padding: 0px 10px 0px 0px !important;
+}
 .mobile-nav .page-link {
   display: block;
   padding: 5px 10px;
@@ -130,6 +151,11 @@ img {
   margin-left: 0;
   color: #111;
   line-height: 1.5;
+}
+.mobile-nav .page-link.active {
+  color: $grey-color-medium !important;
+  text-decoration: none;
+  pointer-events: none;
 }
 // hamburger icon stuff
 .mobile-nav label[for="nav-triggerSection"] {
@@ -167,7 +193,7 @@ label .navbar-brand {
   display: block;
   padding-bottom: 5px;
 }
-@media only screen and (min-width : 320px) and (max-width : 1280px) {
+@media only screen and (max-width : 1280px) {
   .wrapper {
     width: 90%;
     min-width: initial;
@@ -201,14 +227,26 @@ label .navbar-brand {
 /*******************
 * Class page
 *******************/
+.class-flex {
+  display: flex;
+  flex-wrap: wrap;
+}
+// tiles
+.classtile p {
+  line-height: 1em;
+  margin-top: -.5em;
+}
+.classtile h2 {
+  margin-bottom: 0;
+  font-size: 1em;
+}
 .classtile {
-  width: 27%;
+  width: 21.5%;
   height: $base-line-height * 2em;
   border-radius: .5em;
 
-  margin-left: $spacing-unit / 2;
-  margin-bottom: $spacing-unit / 2;
-  padding: $spacing-unit / 2;
+  margin: $spacing-unit / 4;
+  padding: 7% 5px;
 
   // to center align text vertically...
   line-height: $base-line-height * 2em;
@@ -217,12 +255,65 @@ label .navbar-brand {
 
   background-color: $grey-color-light;
   position: relative;
-  float: left;
 
   cursor: pointer;
 }
+// tile hovering
+.classtile.air:hover, .classtile.earth:hover, .classtile.fire:hover, .classtile.water:hover {
+  background-size: cover;
+  background-position: center;
+  background-blend-mode: lighten;
+}
+.classtile.air:hover {
+  background-image: url("elements/air.png");
+  background-color: rgba(255,196,89, 0.6); // air-orange
+}
+.classtile.earth:hover {
+  background-image: url("elements/earth.png");
+  background-color: rgba(197,222,173, 0.6); // earth-green
+}
+.classtile.fire:hover {
+  background-image: url("elements/fire.png");
+  background-color: rgba(234,169,171, 0.6); // fire-red
+}
+.classtile.water:hover {
+  background-image: url("elements/water.png");
+  background-color: rgba(149,186,210, 0.6); // water-blue
+}
 .classtile:hover {
-  background-color: $grey-color-hover;
+  background-color: $info-yellow;
+}
+// mobile version
+@media only screen and (max-width : 800px) {
+  .classtile h2 {
+    font-size: 3vw;
+  }
+  .classtile {
+    background-color: $info-yellow;
+    width: 25%;
+  }
+  // backgrounds
+  .classtile.air, .classtile.earth, .classtile.fire, .classtile.water {
+    background-size: cover;
+    background-position: center;
+    background-blend-mode: lighten;
+  }
+  .classtile.air {
+    background-image: url("elements/air.png");
+    background-color: rgba(255,196,89, 0.6); // air-orange
+  }
+  .classtile.earth {
+    background-image: url("elements/earth.png");
+    background-color: rgba(197,222,173, 0.6); // earth-green
+  }
+  .classtile.fire {
+    background-image: url("elements/fire.png");
+    background-color: rgba(234,169,171, 0.6); // fire-red
+  }
+  .classtile.water {
+    background-image: url("elements/water.png");
+    background-color: rgba(149,186,210, 0.6); // water-blue
+  }
 }
 // make the tile a link
 .classLink {

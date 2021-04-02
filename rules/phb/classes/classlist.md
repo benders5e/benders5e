@@ -9,58 +9,66 @@ nav-hide: true
 Classes
 </h1>
 
-<div class="classtile">
-    Airbender
+<div class="class-flex">
+<div class="classtile air">
+    <h2>Airbender</h2>
+    <p class="new"></p>
     <a href="./airbender">
         <span class="classLink"></span>
     </a>
 </div>
 
+<div class="classtile earth">
+    <h2>Earthbender</h2>
+    <p class="new"></p>
+    <a href="./earthbender">
+        <span class="classLink"></span>
+    </a>
+</div>
+
+<div class="classtile fire">
+    <h2>Firebender</h2>
+    <p class="new"></p>
+    <a href="./firebender">
+        <span class="classLink"></span>
+    </a>
+</div>
+
+<div class="classtile water">
+    <h2>Waterbender</h2>
+    <p class="new"></p>
+    <a href="./waterbender">
+        <span class="classLink"></span>
+    </a>
+</div>
+
 <div class="classtile">
-    Barbarian
+    <h2>Barbarian</h2>
     <a href="./barbarian">
         <span class="classLink"></span>
     </a>
 </div>
 
 <div class="classtile">
-    Earthbender
-    <a href="./earthbender">
-        <span class="classLink"></span>
-    </a>
-</div>
-
-<div class="classtile">
-    Fighter
+    <h2>Fighter</h2>
     <a href="./fighter">
         <span class="classLink"></span>
     </a>
 </div>
 
 <div class="classtile">
-    Firebender
-    <a href="./firebender">
-        <span class="classLink"></span>
-    </a>
-</div>
-
-<div class="classtile">
-    Monk
+    <h2>Monk</h2>
+    <p class="change"></p>
     <a href="./monk">
         <span class="classLink"></span>
     </a>
 </div>
 
 <div class="classtile">
-    Rogue
+    <h2>Rogue</h2>
     <a href="./rogue">
         <span class="classLink"></span>
     </a>
 </div>
 
-<div class="classtile">
-    Waterbender
-    <a href="./waterbender">
-        <span class="classLink"></span>
-    </a>
 </div>
