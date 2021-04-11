@@ -22,9 +22,8 @@ title: Benders 5e
 author: 
   twitter: benders5e
 email: benders5e@gmail.com
-#tagline: # short description (resolves to description if none given)
-description: >- # this means to ignore newlines until "baseurl:"
-  Elemental benders in D&D 5e
+tagline: Elemental benders in D&D 5e # short description (resolves to description if none given)
+description: Elemental benders in 5th edition Dungeons & Dragons.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "benders5e.com" # the base hostname & protocol for your site, e.g. http://example.com
 logo: /assets/b5e_logo.png
