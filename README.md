@@ -46,6 +46,7 @@ These rules and the site are completely open-source, and we hope they’ll be a 
 `master`: site  
 `class-drafts`: incremental homebrew updates  
 `bootstrap`: work in progress adding bootstrap to the project
+`wip`: general work in progress, in particular ideas/rough drafts for future features
 
 ## License
 
