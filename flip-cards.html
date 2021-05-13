@@ -1,0 +1,94 @@
+<!-- copy into homebrewery to see in its intended setting -->
+
+<html><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8"></head><body><code><pre style="white-space: pre-wrap;">&lt;!-- The base mechanic for cards that flip between front and backs.  By John Jones, /u/gazook89, 2/7/2021  --&gt;
+
+<style>
+  
+  .phb {
+  	visibility:hidden;
+  }
+  
+  .phb p:empty {
+  	display:none;
+  }
+  
+  .card {
+  	position:relative;
+  	visibility:visible;
+    width:2.75in;
+    height:4.75in;
+  	background:lightblue;
+  	perspective: 800px;
+  	transform-style:preserve3d;
+  }
+  
+  .front {
+  	position:absolute;
+  	visibility:visible;
+    border-radius:10px;
+    width:2.75in;
+    height:4.75in;
+    padding:.125in;
+  	background:red;
+  	-webkit-backface-visibility:hidden;
+  	backface-visibility:hidden;
+  	transition:transform 1s ease;
+  }
+  
+  .back {
+  	position:absolute;
+  	visibility:visible;
+    border-radius:10px;
+    width:2.75in;
+    height:4.75in;
+    padding:.125in;
+  	background:green;
+  	transform:rotateY(180deg);
+  	transition:transform 1s ease;
+  }
+  
+  .card:hover .front {
+  	transform:rotateY(180deg);
+  	-webkit-backface-visibility:hidden;
+  	backface-visibility:hidden;
+  	transition:transform 1s ease;
+  }
+  
+  .card:hover .back {
+  	transform:rotateY(360deg);
+  	transition:transform 1s ease;
+  }
+  
+</style>
+
+<div class='card'>
+  
+<div class='back'>
+  
+##### Cookie Tastiness
+| Tastiness | Cookie Type |
+|:----:|:-------------|
+| -5  | Raisin |
+| 8th  | Chocolate Chip |
+| 11th | 2 or lower |
+| 14th | 3 or lower |
+| 17th | 4 or lower |  
+
+</div>
+  
+<div class='front'>
+  
+##### Cookie Tastiness
+| Tastiness | Cookie Type |
+|:----:|:-------------|
+| -5  | Raisin |
+| 8th  | Chocolate Chip |
+| 11th | 2 or lower |
+| 14th | 3 or lower |
+| 17th | 4 or lower |
+
+</div>
+  
+
+</div></pre></code></body></html>
