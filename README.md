@@ -1,10 +1,12 @@
 # Benders 5e
 
-A homebrew _Avatar: The Last Airbender_-inspired D&D 5e campaign setting. 
+A homebrew _Avatar: The Last Airbender_-inspired campaign setting for 5th edition Dungeons & Dragons (D&D 5e). 
 
-Visit [the old repo's wiki](https://github.com/nglaeser/benders/wiki) (private repo) for a comparison of this setting to other ATLA-inspired settings and other notes. This repo's wiki has the [changelog](https://github.com/benders5e/benders5e/wiki/rules-changelog) and a [class progression table](https://github.com/benders5e/benders5e/wiki/class-progression-table) that gives an overview of the abilities gained by each bending class for each level.
+Visit [the old repo's wiki](https://github.com/nglaeser/benders/wiki) (private repo) for a comparison of this setting to other ATLA-inspired settings and other notes.
 
-[Visit the site!](https://benders5e.com)
+This repo's wiki has the [changelog](https://github.com/benders5e/benders5e/wiki/rules-changelog) and a [class progression table](https://github.com/benders5e/benders5e/wiki/class-progression-table) that gives an overview of the abilities gained by each bending class for each level.
+
+[Visit the site! &rarr;](https://benders5e.com)
 
 ## Analytics
 
@@ -45,7 +47,7 @@ These rules and the site are completely open-source, and we hope they’ll be a 
 ### Branches
 `master`: site  
 `class-drafts`: incremental homebrew updates  
-`bootstrap`: work in progress adding bootstrap to the project
+`bootstrap`: work in progress adding bootstrap to the project  
 `wip`: general work in progress, in particular ideas/rough drafts for future features
 
 ## License
