@@ -4,9 +4,12 @@ A homebrew _Avatar: The Last Airbender_-inspired campaign setting for 5th editio
 
 Visit [the old repo's wiki](https://github.com/nglaeser/benders/wiki) (private repo) for a comparison of this setting to other ATLA-inspired settings and other notes.
 
-This repo's wiki has the [changelog](https://github.com/benders5e/benders5e/wiki/rules-changelog) and a [class progression table](https://github.com/benders5e/benders5e/wiki/class-progression-table) that gives an overview of the abilities gained by each bending class for each level.
+[Visit the site! &rarr;](https://benders5e.com)  
+[Repo wiki](https://github.com/benders5e/benders5e/wiki)
 
-[Visit the site! &rarr;](https://benders5e.com)
+## Changelog
+
+The changelog for the homebrew is available on the repo's wiki [here](https://github.com/benders5e/benders5e/wiki/rules-changelog).
 
 ## Analytics
 
@@ -53,7 +56,3 @@ These rules and the site are completely open-source, and we hope they’ll be a 
 ## License
 
 This project is licensed under the [GNU General Public Licence v3.0](./LICENSE) (GPLv3). This means you can do almost anything you want with this code except close-source it.
-
-## Changelog
-
-The changelog for the homebrew is available on the repo's wiki [here](https://github.com/nglaeser/benders5e/wiki/rules-changelog).
