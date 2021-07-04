@@ -1,0 +1,62 @@
+# Script from Joshua Nelson (Github: jyn514)
+# Script to deal with metadata of a new post
+# Modified by nglaeser 4-Jul-2021
+
+#!/bin/sh
+
+if [ $# -eq 0 ]; then
+	echo "Usage: $(basename "$0") title"
+	exit 1
+fi
+
+set -u  # undefined variables are an error
+
+#cd "$(dirname "$(readlink "$0")")/../_posts"
+cd "_posts"
+
+TITLE="$(echo $@ | tr '\t \r' '---' | tr -d '\n')"
+DATE="$(date "+%Y-%m-%d")"
+
+echo "filename:"
+read filename
+echo "date yyyy-mm-dd (leave blank for today):"
+read date
+echo "categories (space separated):"
+read categories
+
+if [ -z "$date" -o "$date" == " " ]; then
+	echo "date is blank"
+	echo $date
+	echo $DATE
+	date=$DATE
+fi
+
+FILE="$date-$filename.md"
+
+FORMAT="---
+layout:	post
+title:	\"$@\"
+date:	$date
+categories: $categories
+excerpt:
+---
+"
+
+#ls --quoting-style=shell-escape | grep -- "-$TITLE$" > /dev/null
+ls | grep -- "-$TITLE$" > /dev/null
+GREPSTATUS=$?
+
+touch $FILE || { echo "$FILE is not writable"; exit 1; }
+
+if [ "$GREPSTATUS" -eq 0 ]; then
+	printf "file titled $TITLE exists, updating date... "
+	if ! [ -e "$FILE" ]; then mv -f *"-$TITLE" "$FILE"; fi
+	sed -i "s/date:	.*/date:	$date/" $FILE
+	echo Success
+else
+	echo Creating new post at $FILE
+	echo "$FORMAT" >> "$FILE"
+fi
+
+exit 0
+
